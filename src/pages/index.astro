@@ -1,48 +1,148 @@
 ---
+import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
+import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="ja">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.hero {
+				background: linear-gradient(135deg, #1E3A5F 0%, #2A4A75 100%);
+				color: #fff;
+				padding: 3em 1em;
+				text-align: center;
+			}
+			.hero h1 {
+				margin: 0 0 0.4em 0;
+				font-size: 1.8em;
+				color: #fff;
+				line-height: 1.5;
+			}
+			.hero p {
+				margin: 0 auto;
+				max-width: 600px;
+				color: #DDE5ED;
+				font-size: 1em;
+				line-height: 1.8;
+			}
+			.hero .author-meta {
+				display: inline-block;
+				margin-top: 1em;
+				padding: 0.4em 1.2em;
+				background: rgba(200, 146, 58, 0.2);
+				border: 1px solid #C8923A;
+				border-radius: 20px;
+				color: #E8B658;
+				font-size: 0.85em;
+			}
+			.section-title {
+				max-width: 960px;
+				margin: 2.5em auto 1em auto;
+				padding: 0 1em;
+				color: #1E3A5F;
+				font-size: 1.4em;
+				border-left: 5px solid #C8923A;
+				padding-left: 0.8em;
+			}
+			.posts-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+				gap: 1.5em;
+				max-width: 960px;
+				margin: 1em auto 3em auto;
+				padding: 0 1em;
+			}
+			.post-card {
+				background: #fff;
+				border-radius: 10px;
+				overflow: hidden;
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+				transition: transform 0.2s, box-shadow 0.2s;
+			}
+			.post-card:hover {
+				transform: translateY(-3px);
+				box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+			}
+			.post-card a {
+				text-decoration: none;
+				color: inherit;
+				display: block;
+			}
+			.post-card .post-image {
+				width: 100%;
+				height: 180px;
+				object-fit: cover;
+			}
+			.post-card-body {
+				padding: 1em 1.2em 1.4em;
+			}
+			.post-card-date {
+				font-size: 0.78em;
+				color: #888;
+				margin: 0 0 0.4em 0;
+			}
+			.post-card-title {
+				font-size: 1em;
+				color: #1E3A5F;
+				margin: 0;
+				line-height: 1.5;
+				font-weight: 700;
+			}
+			@media (max-width: 720px) {
+				.hero h1 {
+					font-size: 1.35em;
+				}
+			}
+		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
+			<section class="hero">
+				<h1>不用品を後悔せず売る、業界の本音</h1>
+				<p>
+					元買取営業8年・累計査定3万点超の筆者ハルが、着物・骨董・ブランド・遺品整理まで、損しないための実践情報を業界の裏側から解説します。
+				</p>
+				<div class="author-meta">📚 業界14品目を完全網羅</div>
+			</section>
+
+			<h2 class="section-title">📰 最新記事</h2>
+			<div class="posts-grid">
+				{
+					posts.map((post) => (
+						<article class="post-card">
+							<a href={`/blog/${post.id}/`}>
+								{post.data.heroImage && (
+									<Image
+										class="post-image"
+										src={post.data.heroImage}
+										alt={post.data.title}
+										width={600}
+										height={300}
+									/>
+								)}
+								<div class="post-card-body">
+									<p class="post-card-date">
+										<FormattedDate date={post.data.pubDate} />
+									</p>
+									<h3 class="post-card-title">{post.data.title}</h3>
+								</div>
+							</a>
+						</article>
+					))
+				}
+			</div>
 		</main>
 		<Footer />
 	</body>

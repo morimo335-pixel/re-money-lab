@@ -1,0 +1,132 @@
+/* re-money-lab 記事用グローバルスタイル */
+
+/* ========================================
+   ゴールドCTAボタンの shine sweepアニメーション
+   ======================================== */
+.gold-cta-shine {
+	position: relative;
+	overflow: hidden;
+}
+
+.gold-cta-shine::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: -100%;
+	width: 60%;
+	height: 100%;
+	background: linear-gradient(
+		120deg,
+		transparent,
+		rgba(255, 255, 255, 0.55),
+		transparent
+	);
+	animation: goldShine 5s infinite;
+	pointer-events: none;
+}
+
+@keyframes goldShine {
+	0% {
+		left: -100%;
+	}
+	60% {
+		left: 130%;
+	}
+	100% {
+		left: 130%;
+	}
+}
+
+.gold-cta-shine:hover {
+	transform: translateY(-1px);
+	transition: transform 0.2s;
+}
+
+/* ========================================
+   A8計測ピクセル非表示
+   ======================================== */
+.a8-pixel {
+	position: absolute !important;
+	left: -9999px !important;
+	top: -9999px !important;
+	width: 1px !important;
+	height: 1px !important;
+}
+
+/* ========================================
+   記事本文の基本スタイル調整
+   ======================================== */
+.article-content h2 {
+	font-size: 1.6em;
+	margin: 2.2em 0 1em 0;
+	padding: 0.6em 0.8em;
+	border-left: 6px solid #1E3A5F;
+	background: linear-gradient(90deg, #F5F5F5 0%, transparent 100%);
+	color: #1E3A5F;
+	font-weight: 700;
+}
+
+.article-content h3 {
+	font-size: 1.25em;
+	margin: 1.8em 0 0.8em 0;
+	padding-bottom: 0.4em;
+	border-bottom: 2px solid #C8923A;
+	color: #2A4A75;
+	font-weight: 700;
+}
+
+.article-content p {
+	line-height: 1.95;
+	margin: 1em 0;
+	color: #333;
+}
+
+.article-content ul,
+.article-content ol {
+	line-height: 2;
+	padding-left: 1.4em;
+}
+
+.article-content li {
+	margin: 0.4em 0;
+}
+
+.article-content strong {
+	color: #1E3A5F;
+	font-weight: 700;
+}
+
+.article-content a {
+	color: #1565C0;
+	text-decoration: underline;
+}
+
+.article-content a:hover {
+	color: #0D47A1;
+}
+
+.article-content table {
+	margin: 1.5em 0;
+}
+
+.article-content img {
+	max-width: 100%;
+	height: auto;
+}
+
+/* スマホ対応 */
+@media (max-width: 720px) {
+	.article-content h2 {
+		font-size: 1.35em;
+	}
+	.article-content h3 {
+		font-size: 1.1em;
+	}
+	.article-content table {
+		font-size: 0.85em !important;
+	}
+	.article-content table td,
+	.article-content table th {
+		padding: 6px !important;
+	}
+}
