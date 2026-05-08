@@ -155,7 +155,7 @@
 </style>
 
 <script is:inline>
-	(function () {
+	function buildTOC() {
 		// 記事本文内の H2/H3 を抽出
 		var article = document.querySelector('.article-content');
 		var tocList = document.getElementById('toc-list');
@@ -216,5 +216,12 @@
 			tocToggle.textContent = isCollapsed ? '[開く]' : '[閉じる]';
 			tocToggle.setAttribute('aria-expanded', String(!isCollapsed));
 		});
-	})();
+	}
+
+	// DOMContentLoaded 後（または既に loaded なら即実行）で TOC 構築
+	if (document.readyState === 'loading') {
+		document.addEventListener('DOMContentLoaded', buildTOC);
+	} else {
+		buildTOC();
+	}
 </script>
