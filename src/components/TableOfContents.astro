@@ -1,0 +1,220 @@
+---
+// クライアントサイドで記事内の H2/H3 を抽出して目次を生成
+// Cocoonの目次UIを再現（赤バッジ＋インデント＋開閉ボタン）
+---
+
+<aside class="toc-container" id="toc-container" aria-label="目次">
+	<div class="toc-header">
+		<span class="toc-icon">📋</span>
+		<span class="toc-title">目次</span>
+		<button type="button" class="toc-toggle" id="toc-toggle" aria-expanded="true">
+			[閉じる]
+		</button>
+	</div>
+	<ol class="toc-list" id="toc-list"></ol>
+</aside>
+
+<style>
+	.toc-container {
+		background: #fff;
+		border: 1px solid #E0E0E0;
+		border-top: 4px solid #E57373;
+		border-radius: 6px;
+		padding: 1.4em 1.6em 1.2em 1.6em;
+		margin: 1.6em 0 2em 0;
+		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+	}
+
+	.toc-header {
+		display: flex;
+		align-items: center;
+		gap: 8px;
+		padding-bottom: 0.7em;
+		border-bottom: 1px solid #EEE;
+		margin-bottom: 0.9em;
+	}
+
+	.toc-icon {
+		font-size: 1.1em;
+	}
+
+	.toc-title {
+		font-weight: 700;
+		font-size: 1.05em;
+		color: #333;
+	}
+
+	.toc-toggle {
+		background: none;
+		border: none;
+		color: #888;
+		cursor: pointer;
+		font-size: 0.85em;
+		padding: 2px 6px;
+		font-family: inherit;
+	}
+
+	.toc-toggle:hover {
+		color: #1565C0;
+	}
+
+	.toc-list {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		counter-reset: toc-h2;
+		max-height: 1500px;
+		overflow: hidden;
+		transition: max-height 0.3s ease, opacity 0.3s ease;
+		opacity: 1;
+	}
+
+	.toc-list.collapsed {
+		max-height: 0;
+		opacity: 0;
+		margin: 0;
+	}
+
+	.toc-list .toc-h2 {
+		counter-increment: toc-h2;
+		counter-reset: toc-h3;
+		padding: 0.5em 0;
+		font-size: 0.95em;
+		line-height: 1.55;
+	}
+
+	.toc-list .toc-h2::before {
+		content: counter(toc-h2);
+		display: inline-block;
+		min-width: 24px;
+		padding: 1px 7px;
+		margin-right: 10px;
+		background: #E57373;
+		color: #fff;
+		font-size: 0.82em;
+		font-weight: 700;
+		text-align: center;
+		border-radius: 3px;
+		vertical-align: 1px;
+	}
+
+	.toc-list .toc-h2 a {
+		color: #333;
+		text-decoration: none;
+		font-weight: 500;
+	}
+
+	.toc-list .toc-h2 a:hover {
+		color: #1565C0;
+		text-decoration: underline;
+	}
+
+	.toc-list ol {
+		list-style: none;
+		margin: 0.3em 0 0 0;
+		padding-left: 2.4em;
+		counter-reset: toc-h3-inner;
+	}
+
+	.toc-list ol .toc-h3 {
+		counter-increment: toc-h3;
+		padding: 0.35em 0;
+		font-size: 0.9em;
+		color: #555;
+		line-height: 1.5;
+	}
+
+	.toc-list ol .toc-h3::before {
+		content: counter(toc-h2) "." counter(toc-h3);
+		color: #999;
+		margin-right: 0.6em;
+		font-weight: 500;
+	}
+
+	.toc-list ol .toc-h3 a {
+		color: #555;
+		text-decoration: none;
+	}
+
+	.toc-list ol .toc-h3 a:hover {
+		color: #1565C0;
+		text-decoration: underline;
+	}
+
+	@media (max-width: 720px) {
+		.toc-container {
+			padding: 1em 1.1em 0.9em 1.1em;
+		}
+		.toc-list .toc-h2 {
+			font-size: 0.9em;
+		}
+		.toc-list ol .toc-h3 {
+			font-size: 0.85em;
+		}
+	}
+</style>
+
+<script is:inline>
+	(function () {
+		// 記事本文内の H2/H3 を抽出
+		var article = document.querySelector('.article-content');
+		var tocList = document.getElementById('toc-list');
+		var tocContainer = document.getElementById('toc-container');
+		var tocToggle = document.getElementById('toc-toggle');
+
+		if (!article || !tocList || !tocContainer) return;
+
+		var headings = article.querySelectorAll('h2, h3');
+		if (headings.length === 0) {
+			tocContainer.style.display = 'none';
+			return;
+		}
+
+		var idCounter = 0;
+		var currentH2 = null;
+		var currentH2List = null;
+
+		Array.prototype.forEach.call(headings, function (heading) {
+			// IDを付与（既存のIDがなければ生成）
+			if (!heading.id) {
+				idCounter++;
+				heading.id = 'heading-' + idCounter;
+			}
+			var text = heading.textContent.trim();
+
+			if (heading.tagName === 'H2') {
+				currentH2 = document.createElement('li');
+				currentH2.className = 'toc-h2';
+
+				var a = document.createElement('a');
+				a.href = '#' + heading.id;
+				a.textContent = text;
+				currentH2.appendChild(a);
+
+				tocList.appendChild(currentH2);
+				currentH2List = null;
+			} else if (heading.tagName === 'H3' && currentH2) {
+				if (!currentH2List) {
+					currentH2List = document.createElement('ol');
+					currentH2.appendChild(currentH2List);
+				}
+				var li = document.createElement('li');
+				li.className = 'toc-h3';
+
+				var a3 = document.createElement('a');
+				a3.href = '#' + heading.id;
+				a3.textContent = text;
+				li.appendChild(a3);
+
+				currentH2List.appendChild(li);
+			}
+		});
+
+		// 開閉ボタン
+		tocToggle.addEventListener('click', function () {
+			var isCollapsed = tocList.classList.toggle('collapsed');
+			tocToggle.textContent = isCollapsed ? '[開く]' : '[閉じる]';
+			tocToggle.setAttribute('aria-expanded', String(!isCollapsed));
+		});
+	})();
+</script>
