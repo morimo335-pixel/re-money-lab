@@ -142,6 +142,20 @@ heroImage: '../../assets/blog/laquda-evaluation.jpg'
 <p>ラクーダ公式が打ち出している「<strong>他店より1円でも安い場合は即返却</strong>」というポリシーは、業界では珍しい強気の保証です。</p>
 <p>これは裏を返せば、ラクーダ提携業者の査定額に強い自信があるということ。仮に他で査定して「ラクーダより1円でも高い」結果が出たら返却するわけですから、ラクーダ側としても提携業者を厳選する動機が働きます。</p>
 <p>業界の感覚として、こういう保証を打ち出せる業者は提携先のレベルが高い証拠です。</p>
+
+<!-- A8ミニカード（強み3つ末尾→弱みH2への橋渡し） -->
+<div style="border:1px solid #E0E0E0;border-radius:12px;margin:22px 0 28px 0;box-shadow:0 4px 12px rgba(0,0,0,0.06);overflow:hidden;background:#fff;">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:12px 22px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;">
+<span style="font-weight:bold;font-size:0.95em;">📊 業界人イチオシのラクーダで無料査定</span>
+<span style="background:transparent;color:rgba(255,255,255,0.7);border:1px solid rgba(255,255,255,0.4);padding:3px 10px;border-radius:12px;font-size:0.8em;">PR</span>
+</div>
+<div style="padding:18px 22px;">
+<p style="margin:0 0 14px 0;line-height:1.7;color:#333;">最大88社一括査定で、宅配・返送料すべて無料。<strong>「他店より1円でも安ければ即返却」</strong>の公式保証付き。ハイブランド36種類対応。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9UUE3E+2OUY+HVFKY" rel="sponsored nofollow noopener" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#E8B658,#C8923A);color:#fff;text-align:center;padding:14px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;box-shadow:0 4px 10px rgba(200,146,58,0.35);">▶ ラクーダで無料査定を申し込む</a>
+<img class="a8-pixel" border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9UUE3E+2OUY+HVFKY" alt="">
+</div>
+</div>
+
 <hr />
 <h2>業界人が見たラクーダの弱み3つ</h2>
 <p>「強みばっかり書いて怪しい」と思われたくないので、弱みも正直にお話しします。</p>
