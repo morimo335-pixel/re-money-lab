@@ -164,6 +164,29 @@
 
 		if (!article || !tocList || !tocContainer) return;
 
+		// 「📖 この記事で分かる事」ボックスの直後に目次を移動
+		// 見出しの文字列を含む要素を探す
+		var allDivs = article.querySelectorAll('div');
+		var gainBox = null;
+		for (var d = 0; d < allDivs.length; d++) {
+			if (allDivs[d].textContent.indexOf('📖 この記事で分かる事') !== -1) {
+				// 「分かる事」のヘッダー要素（gradient部分）が見つかった → 親の最外殻divを取得
+				var node = allDivs[d];
+				while (node.parentElement && node.parentElement !== article) {
+					if (node.parentElement.tagName === 'DIV') {
+						node = node.parentElement;
+						break;
+					}
+					node = node.parentElement;
+				}
+				gainBox = node;
+				break;
+			}
+		}
+		if (gainBox && gainBox.parentNode) {
+			gainBox.parentNode.insertBefore(tocContainer, gainBox.nextSibling);
+		}
+
 		var headings = article.querySelectorAll('h2, h3');
 		if (headings.length === 0) {
 			tocContainer.style.display = 'none';
