@@ -2,7 +2,7 @@
 title: '山崎18年が9万円！？家の古いお酒は売れる？元業界人8年の7コツ'
 description: '2026年4月のサントリー価格改定で家の古いお酒は過去最高水準で売れる時代に。山崎18年¥90,000・響30年¥460,000等の最新相場と元業界人8年が教える高く売る7つのコツ・銘柄別の本音相場を解説します。'
 pubDate: '2026-05-08'
-heroImage: '../../assets/blog/article-24-eyecatch.jpg'
+heroImage: '../../assets/blog/furui-osake-ureru.jpg'
 ---
 
 <div class="article-content">
