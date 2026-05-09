@@ -429,6 +429,12 @@ heroImage: '../../assets/blog/kin-kaitori-chuiten.jpg'
   <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜元買取営業8年の自衛術</a></p>
 </div>
 
+<!-- 内部リンク水色カード（記事25・古銭処分・5/9追加） -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
+  <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/kosen-shobun/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">古銭の処分は捨てる前に！元業界人8年が教える売れる5つの選択肢</a></p>
+</div>
+
 
 
 </div>

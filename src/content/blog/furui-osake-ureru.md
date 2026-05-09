@@ -457,6 +457,12 @@ H2-9：業界人コラム：2026年酒税法改正と古酒市場の未来
 <a href="https://re-money-lab.com/furui-record-shobun/">【完全保存版】古いレコードの処分で損しない7つの鉄則</a>
 </div>
 
+<!-- 内部リンク水色カード（記事25・古銭処分・5/9追加） -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
+▶ <strong>あわせて読みたい</strong><br>
+<a href="https://re-money-lab.com/kosen-shobun/">古銭の処分は捨てる前に！元業界人8年が教える売れる5つの選択肢</a>
+</div>
+
 <!-- 筆者プロフィール②（記事末・130px横並び・公式テンプレ） -->
 <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;background:#F8F4E6;border-left:5px solid #D4A574;padding:20px;margin:32px 0;border-radius:4px;">
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:130px;height:130px;flex-shrink:0;border-radius:50%;object-fit:cover;" />

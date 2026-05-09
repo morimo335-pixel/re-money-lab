@@ -497,5 +497,11 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 <a href="https://re-money-lab.com/furui-osake-ureru/">山崎18年が9万円！？家の古いお酒は売れる？元業界人8年の7コツ</a>
 </div>
 
+<!-- 内部リンク水色カード（記事25・古銭処分・5/9追加） -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
+▶ <strong>あわせて読みたい</strong><br>
+<a href="https://re-money-lab.com/kosen-shobun/">古銭の処分は捨てる前に！元業界人8年が教える売れる5つの選択肢</a>
+</div>
+
 
 </div>
