@@ -37,53 +37,54 @@ const restPosts = allPosts.slice(9);
 				-webkit-font-smoothing: antialiased;
 			}
 
-			/* ===== Heroセクション（Apple実物に近い・タイト/モノトーン） ===== */
+			/* ===== Hero - 横並び型(画像+テキスト) ===== */
 			.hero {
-				background: #fff;
-				padding: 5em 1.5em 3em;
-				text-align: center;
-				position: relative;
+				max-width: 1320px;
+				margin: 0 auto;
+				padding: 3em 1.2em 2em;
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 3em;
+				align-items: center;
 			}
-			.hero-eyebrow {
-				display: inline-block;
-				font-size: 0.78em;
-				color: var(--apple-secondary);
-				letter-spacing: 0.18em;
-				font-weight: 600;
-				margin-bottom: 1em;
-				text-transform: uppercase;
-			}
-			.hero h1 {
-				margin: 0 0 0.5em;
-				font-size: clamp(2.2em, 6.5vw, 4.5em);
+			.hero-content h1 {
+				margin: 0 0 0.6em;
+				font-size: clamp(1.7em, 2.6vw, 2.4em);
 				font-weight: 800;
-				line-height: 1.05;
-				letter-spacing: -0.04em;
+				line-height: 1.3;
+				letter-spacing: -0.02em;
 				color: #000;
 			}
-			.hero p {
-				margin: 1em auto 0;
-				max-width: 520px;
-				font-size: clamp(1em, 1.2vw, 1.15em);
-				line-height: 1.55;
+			.hero-content p {
+				margin: 0 0 1.4em;
+				font-size: 1em;
+				line-height: 1.7;
 				color: var(--apple-secondary);
-				font-weight: 400;
 			}
-			.hero .hero-meta {
-				display: inline-flex;
+			.hero-meta {
+				display: flex;
 				gap: 0.5em;
-				margin-top: 2em;
 				flex-wrap: wrap;
-				justify-content: center;
 			}
 			.hero-meta span {
-				padding: 0.4em 1em;
-				background: #000;
+				padding: 0.35em 0.9em;
+				background: #f5f5f7;
 				border-radius: 50px;
-				font-size: 0.75em;
-				color: #fff;
+				font-size: 0.78em;
+				color: #1d1d1f;
 				font-weight: 500;
-				letter-spacing: 0.02em;
+			}
+			.hero-image {
+				border-radius: 22px;
+				overflow: hidden;
+				aspect-ratio: 1376 / 768;
+				background: #f5f5f7;
+			}
+			.hero-image img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				display: block;
 			}
 
 			/* ===== トップ記事（Apple風 16:9 大型） ===== */
@@ -400,6 +401,11 @@ const restPosts = allPosts.slice(9);
 
 			/* ===== レスポンシブ ===== */
 			@media (max-width: 900px) {
+				.hero {
+					grid-template-columns: 1fr;
+					gap: 1.5em;
+					padding: 2em 1.2em 1.5em;
+				}
 				.duo-grid {
 					grid-template-columns: 1fr;
 				}
@@ -420,11 +426,8 @@ const restPosts = allPosts.slice(9);
 				}
 			}
 			@media (max-width: 560px) {
-				.hero {
-					padding: 4em 1em 3em;
-				}
-				.top-article .body {
-					padding: 1.6em 1.2em;
+				.hero-content h1 {
+					font-size: 1.5em;
 				}
 				.duo-card .body {
 					padding: 1.4em 1.2em;
@@ -442,49 +445,33 @@ const restPosts = allPosts.slice(9);
 	<body>
 		<Header />
 		<main>
-			<!-- ===== Hero（Apple実物に近いモノトーン） ===== -->
+			<!-- ===== Hero（横並び：左テキスト + 右画像） ===== -->
 			<section class="hero">
-				<span class="hero-eyebrow">re-money-lab</span>
-				<h1>業界の本音、<br />ぜんぶ。</h1>
-				<p>
-					元買取業界8年、累計査定3万点超のハルが、
-					不用品を後悔せず売るための実践情報を本音で解説。
-				</p>
-				<div class="hero-meta">
-					<span>業界8年</span>
-					<span>3万点超</span>
-					<span>古物商許可</span>
-					<span>14品目網羅</span>
+				<div class="hero-content">
+					<h1>不用品を、後悔せず売る。<br />業界の本音メディア。</h1>
+					<p>
+						元買取業界8年・累計査定3万点超のハルが、着物・骨董・ブランド・遺品整理まで、損しないための実践情報を本音で解説します。
+					</p>
+					<div class="hero-meta">
+						<span>業界8年</span>
+						<span>累計査定3万点超</span>
+						<span>古物商許可保有</span>
+						<span>14品目網羅</span>
+					</div>
 				</div>
-			</section>
-
-			<!-- ===== トップ記事（巨大ヒーロー型） ===== -->
-			{
-				top && (
-					<section class="top-article">
-						<a href={`/${top.id}/`}>
-							<div class="img-wrap">
-								{top.data.heroImage && (
-									<Image
-										src={top.data.heroImage}
-										alt={top.data.title}
-										width={1376}
-										height={768}
-									/>
-								)}
-							</div>
-							<div class="body">
-								<span class="badge">最新記事</span>
-								<h2>{top.data.title}</h2>
-								<div class="date">
-									<FormattedDate date={top.data.pubDate} />
-								</div>
-								<span class="read-more">続きを読む</span>
-							</div>
+				{
+					top && top.data.heroImage && (
+						<a href={`/${top.id}/`} class="hero-image">
+							<Image
+								src={top.data.heroImage}
+								alt={top.data.title}
+								width={688}
+								height={384}
+							/>
 						</a>
-					</section>
-				)
-			}
+					)
+				}
+			</section>
 
 			<!-- ===== 2カード ===== -->
 			<section class="duo-grid">
