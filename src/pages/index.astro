@@ -35,6 +35,13 @@ const archive = allPosts.slice(6); // 残り
 				font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', sans-serif;
 				-webkit-font-smoothing: antialiased;
 			}
+			/* グローバルmainの720px固定を上書き */
+			main {
+				width: 100% !important;
+				max-width: 100% !important;
+				margin: 0 !important;
+				padding: 0 !important;
+			}
 			a {
 				color: var(--link);
 				text-decoration: none;
