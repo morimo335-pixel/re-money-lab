@@ -7,9 +7,13 @@ import Header from '../components/Header.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
-const posts = (await getCollection('blog')).sort(
+const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+
+// ピックアップ：最新3記事をフィーチャー
+const featured = allPosts.slice(0, 3);
+const restPosts = allPosts.slice(3);
 ---
 
 <!doctype html>
@@ -17,91 +21,362 @@ const posts = (await getCollection('blog')).sort(
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
+			body {
+				background: #FAF9F7;
+			}
+
+			/* ===== ヒーロー ===== */
 			.hero {
-				background: linear-gradient(135deg, #1E3A5F 0%, #2A4A75 100%);
+				position: relative;
+				background:
+					linear-gradient(135deg, rgba(30, 58, 95, 0.95) 0%, rgba(42, 74, 117, 0.95) 100%),
+					radial-gradient(circle at 20% 30%, rgba(200, 146, 58, 0.15) 0%, transparent 40%);
 				color: #fff;
-				padding: 3em 1em;
+				padding: 5em 1em 4em;
 				text-align: center;
+				overflow: hidden;
 			}
-			.hero h1 {
-				margin: 0 0 0.4em 0;
-				font-size: 1.8em;
-				color: #fff;
-				line-height: 1.5;
+			.hero::before {
+				content: '';
+				position: absolute;
+				top: -50%;
+				right: -20%;
+				width: 60%;
+				height: 200%;
+				background: radial-gradient(ellipse, rgba(200, 146, 58, 0.18) 0%, transparent 60%);
+				pointer-events: none;
 			}
-			.hero p {
-				margin: 0 auto;
-				max-width: 600px;
-				color: #DDE5ED;
-				font-size: 1em;
-				line-height: 1.8;
-			}
-			.hero .author-meta {
+			.hero-tag {
 				display: inline-block;
-				margin-top: 1em;
+				margin-bottom: 1.2em;
 				padding: 0.4em 1.2em;
-				background: rgba(200, 146, 58, 0.2);
+				background: rgba(232, 182, 88, 0.15);
 				border: 1px solid #C8923A;
 				border-radius: 20px;
 				color: #E8B658;
-				font-size: 0.85em;
+				font-size: 0.78em;
+				letter-spacing: 0.1em;
+				font-weight: 500;
+			}
+			.hero h1 {
+				margin: 0 0 0.6em 0;
+				font-size: 2.2em;
+				color: #fff;
+				line-height: 1.5;
+				font-weight: 800;
+				letter-spacing: 0.02em;
+			}
+			.hero h1 .accent {
+				color: #E8B658;
+			}
+			.hero-lead {
+				margin: 0 auto 2em auto;
+				max-width: 620px;
+				color: #C7D3E0;
+				font-size: 1em;
+				line-height: 1.95;
+			}
+			.hero-stats {
+				display: flex;
+				justify-content: center;
+				gap: 2.5em;
+				flex-wrap: wrap;
+				margin-top: 2.2em;
+			}
+			.hero-stat {
+				text-align: center;
+			}
+			.hero-stat-num {
+				font-size: 2.2em;
+				font-weight: 800;
+				color: #E8B658;
+				line-height: 1;
+				font-variant-numeric: tabular-nums;
+			}
+			.hero-stat-num small {
+				font-size: 0.55em;
+				font-weight: 600;
+				margin-left: 0.15em;
+				color: #C8923A;
+			}
+			.hero-stat-label {
+				font-size: 0.78em;
+				color: #B5C2D0;
+				margin-top: 0.4em;
+				letter-spacing: 0.05em;
+			}
+
+			/* ===== セクション共通 ===== */
+			.section {
+				max-width: 1080px;
+				margin: 0 auto;
+				padding: 3em 1em;
+			}
+			.section-head {
+				display: flex;
+				align-items: baseline;
+				justify-content: space-between;
+				gap: 1em;
+				margin-bottom: 1.6em;
+				padding-bottom: 0.8em;
+				border-bottom: 1px solid #E5E0D5;
 			}
 			.section-title {
-				max-width: 960px;
-				margin: 2.5em auto 1em auto;
-				padding: 0 1em;
+				margin: 0;
 				color: #1E3A5F;
-				font-size: 1.4em;
-				border-left: 5px solid #C8923A;
-				padding-left: 0.8em;
+				font-size: 1.45em;
+				font-weight: 800;
+				letter-spacing: 0.02em;
+				display: flex;
+				align-items: center;
+				gap: 0.5em;
 			}
+			.section-title::before {
+				content: '';
+				width: 4px;
+				height: 1.1em;
+				background: linear-gradient(180deg, #C8923A, #E0AC4D);
+				border-radius: 2px;
+			}
+			.section-sub {
+				font-size: 0.85em;
+				color: #888;
+			}
+
+			/* ===== 注目記事（大きめカード3つ） ===== */
+			.featured-grid {
+				display: grid;
+				grid-template-columns: 2fr 1fr 1fr;
+				gap: 1.4em;
+			}
+			.featured-card {
+				background: #fff;
+				border-radius: 12px;
+				overflow: hidden;
+				box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+				transition: transform 0.25s, box-shadow 0.25s;
+				position: relative;
+			}
+			.featured-card:hover {
+				transform: translateY(-4px);
+				box-shadow: 0 10px 28px rgba(0, 0, 0, 0.12);
+			}
+			.featured-card a {
+				text-decoration: none;
+				color: inherit;
+				display: block;
+				height: 100%;
+			}
+			.featured-card.main {
+				grid-row: span 2;
+			}
+			.featured-card .img-wrap {
+				position: relative;
+				overflow: hidden;
+				background: #F0EDE5;
+			}
+			.featured-card .img-wrap img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				display: block;
+				transition: transform 0.4s;
+			}
+			.featured-card:hover .img-wrap img {
+				transform: scale(1.04);
+			}
+			.featured-card.main .img-wrap {
+				aspect-ratio: 16 / 10;
+			}
+			.featured-card:not(.main) .img-wrap {
+				aspect-ratio: 16 / 9;
+			}
+			.featured-card .body {
+				padding: 1.1em 1.3em 1.3em;
+			}
+			.featured-card .pickup-badge {
+				display: inline-block;
+				padding: 2px 10px;
+				background: linear-gradient(135deg, #C8923A, #E0AC4D);
+				color: #fff;
+				font-size: 0.68em;
+				font-weight: 700;
+				border-radius: 3px;
+				letter-spacing: 0.08em;
+				margin-bottom: 0.6em;
+			}
+			.featured-card .date {
+				display: block;
+				font-size: 0.76em;
+				color: #999;
+				margin-bottom: 0.5em;
+			}
+			.featured-card.main h3 {
+				font-size: 1.22em;
+				color: #1E3A5F;
+				margin: 0;
+				line-height: 1.55;
+				font-weight: 800;
+			}
+			.featured-card:not(.main) h3 {
+				font-size: 0.95em;
+				color: #1E3A5F;
+				margin: 0;
+				line-height: 1.5;
+				font-weight: 700;
+			}
+
+			/* ===== 著者紹介帯 ===== */
+			.author-band {
+				background: linear-gradient(135deg, #FFF8E7 0%, #F8F4E6 100%);
+				border-top: 1px solid #E5DBC2;
+				border-bottom: 1px solid #E5DBC2;
+				padding: 2.5em 1em;
+			}
+			.author-inner {
+				max-width: 800px;
+				margin: 0 auto;
+				display: flex;
+				align-items: center;
+				gap: 1.8em;
+			}
+			.author-photo {
+				flex-shrink: 0;
+				width: 120px;
+				height: 120px;
+				border-radius: 50%;
+				border: 4px solid #C8923A;
+				object-fit: cover;
+				box-shadow: 0 4px 14px rgba(200, 146, 58, 0.3);
+			}
+			.author-text h3 {
+				margin: 0 0 0.5em 0;
+				color: #1E3A5F;
+				font-size: 1.15em;
+				font-weight: 800;
+			}
+			.author-text h3 .author-mini-tag {
+				font-size: 0.7em;
+				color: #C8923A;
+				margin-left: 0.6em;
+				font-weight: 600;
+			}
+			.author-text p {
+				margin: 0;
+				color: #555;
+				line-height: 1.85;
+				font-size: 0.92em;
+			}
+			.author-credentials {
+				display: flex;
+				gap: 0.5em;
+				flex-wrap: wrap;
+				margin-top: 0.8em;
+			}
+			.author-credentials span {
+				background: #fff;
+				border: 1px solid #C8923A;
+				color: #C8923A;
+				padding: 0.2em 0.7em;
+				border-radius: 12px;
+				font-size: 0.75em;
+				font-weight: 600;
+			}
+
+			/* ===== 全記事グリッド ===== */
 			.posts-grid {
 				display: grid;
-				grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-				gap: 1.5em;
-				max-width: 960px;
-				margin: 1em auto 3em auto;
-				padding: 0 1em;
+				grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+				gap: 1.4em;
 			}
 			.post-card {
 				background: #fff;
 				border-radius: 10px;
 				overflow: hidden;
-				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+				box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
 				transition: transform 0.2s, box-shadow 0.2s;
 			}
 			.post-card:hover {
 				transform: translateY(-3px);
-				box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+				box-shadow: 0 8px 22px rgba(0, 0, 0, 0.1);
 			}
 			.post-card a {
 				text-decoration: none;
 				color: inherit;
 				display: block;
 			}
-			.post-card .post-image {
+			.post-card .img-wrap {
+				aspect-ratio: 16 / 9;
+				overflow: hidden;
+				background: #F0EDE5;
+			}
+			.post-card .img-wrap img {
 				width: 100%;
-				height: 180px;
+				height: 100%;
 				object-fit: cover;
+				transition: transform 0.4s;
+				display: block;
+			}
+			.post-card:hover .img-wrap img {
+				transform: scale(1.05);
 			}
 			.post-card-body {
-				padding: 1em 1.2em 1.4em;
+				padding: 1em 1.1em 1.3em;
 			}
 			.post-card-date {
-				font-size: 0.78em;
-				color: #888;
+				font-size: 0.75em;
+				color: #999;
 				margin: 0 0 0.4em 0;
 			}
 			.post-card-title {
-				font-size: 1em;
+				font-size: 0.95em;
 				color: #1E3A5F;
 				margin: 0;
-				line-height: 1.5;
+				line-height: 1.55;
 				font-weight: 700;
 			}
+
+			/* ===== レスポンシブ ===== */
+			@media (max-width: 900px) {
+				.featured-grid {
+					grid-template-columns: 1fr 1fr;
+				}
+				.featured-card.main {
+					grid-row: auto;
+					grid-column: span 2;
+				}
+			}
 			@media (max-width: 720px) {
+				.hero {
+					padding: 3.5em 1em 2.8em;
+				}
 				.hero h1 {
-					font-size: 1.35em;
+					font-size: 1.55em;
+				}
+				.hero-stats {
+					gap: 1.4em;
+				}
+				.hero-stat-num {
+					font-size: 1.6em;
+				}
+				.featured-grid {
+					grid-template-columns: 1fr;
+				}
+				.featured-card.main {
+					grid-column: span 1;
+				}
+				.featured-card.main h3 {
+					font-size: 1.05em;
+				}
+				.author-inner {
+					flex-direction: column;
+					text-align: center;
+				}
+				.author-credentials {
+					justify-content: center;
+				}
+				.section-title {
+					font-size: 1.2em;
 				}
 			}
 		</style>
@@ -109,40 +384,125 @@ const posts = (await getCollection('blog')).sort(
 	<body>
 		<Header />
 		<main>
+			<!-- ===== ヒーロー ===== -->
 			<section class="hero">
-				<h1>不用品を後悔せず売る、業界の本音</h1>
-				<p>
-					元買取営業8年・累計査定3万点超の筆者ハルが、着物・骨董・ブランド・遺品整理まで、損しないための実践情報を業界の裏側から解説します。
+				<span class="hero-tag">📚 元業界人による本音メディア</span>
+				<h1>
+					不用品を<span class="accent">後悔せず</span>売る、<br />
+					業界の<span class="accent">本音</span>。
+				</h1>
+				<p class="hero-lead">
+					着物・骨董・ブランド・遺品整理まで。<br />
+					元買取営業8年・累計査定3万点超のハルが、損しないための実践情報を業界の裏側から本音で解説します。
 				</p>
-				<div class="author-meta">📚 業界14品目を完全網羅</div>
+				<div class="hero-stats">
+					<div class="hero-stat">
+						<div class="hero-stat-num">8<small>年</small></div>
+						<div class="hero-stat-label">買取業界経験</div>
+					</div>
+					<div class="hero-stat">
+						<div class="hero-stat-num">3<small>万点超</small></div>
+						<div class="hero-stat-label">累計査定実績</div>
+					</div>
+					<div class="hero-stat">
+						<div class="hero-stat-num">14<small>品目</small></div>
+						<div class="hero-stat-label">完全網羅</div>
+					</div>
+				</div>
 			</section>
 
-			<h2 class="section-title">📰 最新記事</h2>
-			<div class="posts-grid">
-				{
-					posts.map((post) => (
-						<article class="post-card">
-							<a href={`/${post.id}/`}>
-								{post.data.heroImage && (
-									<Image
-										class="post-image"
-										src={post.data.heroImage}
-										alt={post.data.title}
-										width={688}
-										height={384}
-									/>
-								)}
-								<div class="post-card-body">
-									<p class="post-card-date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
-									<h3 class="post-card-title">{post.data.title}</h3>
-								</div>
-							</a>
-						</article>
-					))
-				}
-			</div>
+			<!-- ===== 注目記事 ===== -->
+			<section class="section">
+				<div class="section-head">
+					<h2 class="section-title">注目記事</h2>
+					<span class="section-sub">編集部が今読んでほしい3本</span>
+				</div>
+				<div class="featured-grid">
+					{
+						featured.map((post, i) => (
+							<article class={`featured-card ${i === 0 ? 'main' : ''}`}>
+								<a href={`/${post.id}/`}>
+									<div class="img-wrap">
+										{post.data.heroImage && (
+											<Image
+												src={post.data.heroImage}
+												alt={post.data.title}
+												width={i === 0 ? 720 : 360}
+												height={i === 0 ? 450 : 203}
+											/>
+										)}
+									</div>
+									<div class="body">
+										<span class="pickup-badge">PICKUP</span>
+										<span class="date">
+											<FormattedDate date={post.data.pubDate} />
+										</span>
+										<h3>{post.data.title}</h3>
+									</div>
+								</a>
+							</article>
+						))
+					}
+				</div>
+			</section>
+
+			<!-- ===== 著者紹介 ===== -->
+			<section class="author-band">
+				<div class="author-inner">
+					<img
+						class="author-photo"
+						src="/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg"
+						alt="筆者ハル"
+						width="120"
+						height="120"
+					/>
+					<div class="author-text">
+						<h3>筆者　ハル<span class="author-mini-tag">元買取業界8年</span></h3>
+						<p>
+							買取業界の営業として複数社で計8年勤務。お酒・骨董品・ブランド品・貴金属・着物等を中心に累計査定3万点超。廃品回収業界での実務経験もあり、業界の内側を知る目線で読者の損を防ぐことを軸に執筆しています。
+						</p>
+						<div class="author-credentials">
+							<span>✓ 古物商許可保有</span>
+							<span>✓ 累計査定3万点超</span>
+							<span>✓ 業界8年</span>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- ===== 全記事 ===== -->
+			<section class="section">
+				<div class="section-head">
+					<h2 class="section-title">記事一覧</h2>
+					<span class="section-sub">全 {allPosts.length} 記事</span>
+				</div>
+				<div class="posts-grid">
+					{
+						restPosts.map((post) => (
+							<article class="post-card">
+								<a href={`/${post.id}/`}>
+									<div class="img-wrap">
+										{post.data.heroImage && (
+											<Image
+												src={post.data.heroImage}
+												alt={post.data.title}
+												width={500}
+												height={281}
+											/>
+										)}
+									</div>
+									<div class="post-card-body">
+										<p class="post-card-date">
+											<FormattedDate date={post.data.pubDate} />
+										</p>
+										<h3 class="post-card-title">{post.data.title}</h3>
+									</div>
+								</a>
+							</article>
+						))
+					}
+				</div>
+			</section>
 		</main>
 		<Footer />
 	</body>
