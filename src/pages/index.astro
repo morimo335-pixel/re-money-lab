@@ -170,10 +170,21 @@ const archive = allPosts.slice(6); // 残り
 				font-weight: 800;
 				letter-spacing: 0.02em;
 				line-height: 1.2;
-				background: linear-gradient(120deg, #C8923A 0%, #E8B658 50%, #1E3A5F 100%);
+				background: linear-gradient(
+					120deg,
+					#E74C3C 0%,
+					#F39C12 16%,
+					#F1C40F 33%,
+					#27AE60 50%,
+					#3498DB 67%,
+					#5B6EE8 83%,
+					#9B59B6 100%
+				);
+				background-size: 200% 100%;
 				-webkit-background-clip: text;
 				-webkit-text-fill-color: transparent;
 				background-clip: text;
+				animation: shimmer 7s ease-in-out infinite;
 			}
 			.showcase-head .more {
 				font-size: 1em;
