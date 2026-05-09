@@ -83,13 +83,9 @@ heroImage: '../../assets/blog/raise-appraisal.png'
 <p>査定員の思考回路は「<strong>加点方式</strong>」ではなく、<strong>「基準査定額 × (付属品・状態の係数)」</strong> で判断するのが一般的。</p>
 <p>つまり <strong>「基準金額 10万円 × 付属品係数 0.7 × 状態係数 0.8 = 5.6万円」</strong> のように、<strong>揃っていない要素があるほど掛け算で減額</strong> されていく構造なんです。</p>
 <p>逆に言えば、<strong>「揃えればよかっただけの要素」を事前に整えるだけで、査定額が1.3倍・1.5倍と上がっていく</strong> ということ。これが「事前準備で査定額が数倍変わる」のカラクリです。</p>
-<h3>業界人ワンポイント</h3>
-<blockquote>
-<p>💡 <strong>業界の査定マニュアルには「減額基準」は細かく載っていても、「加点基準」はほとんど載っていません</strong></p>
-<p>これは査定員の裁量で「マイナスを積み上げていく」方式が業界標準のため。つまり、<strong>消費者側で「マイナスされる要素を先に潰しておく」だけで、そのまま査定額が上がる</strong> のです。「加点してもらう」のではなく「減点を回避する」が正しい戦略です。</p>
-<p>📖 <strong>関連記事：業者ごとの違い・ジャンル別の売り方を詳しく知りたい方へ</strong></p>
-<p>業者のビジネス構造・得意ジャンルの違いについては、<strong><a href="/sell-unwanted-items/">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a></strong> で詳しく解説しています。<strong>H2-2「ジャンル別の最適な売り方」</strong> の箇所が特に役立ちます。</p>
-</blockquote>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong><strong>業界の査定マニュアルには「減額基準」は細かく載っていても、「加点基準」はほとんど載っていません</strong><br><br>これは査定員の裁量で「マイナスを積み上げていく」方式が業界標準のため。つまり、<strong>消費者側で「マイナスされる要素を先に潰しておく」だけで、そのまま査定額が上がる</strong> のです。「加点してもらう」のではなく「減点を回避する」が正しい戦略です。<br><br>📖 <strong>関連記事：業者ごとの違い・ジャンル別の売り方を詳しく知りたい方へ</strong><br><br>業者のビジネス構造・得意ジャンルの違いについては、<strong><a href="/sell-unwanted-items/">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a></strong> で詳しく解説しています。<strong>H2-2「ジャンル別の最適な売り方」</strong> の箇所が特に役立ちます。
+</div>
 <hr />
 <h2>H2-2：【準備①】状態を整える — 査定額+10〜20%アップ</h2>
 <p>査定額アップの第一歩は <strong>「商品の状態を整える」</strong> こと。効果の目安は <strong>査定額+10〜20%</strong> で、<strong>たった30分の清掃で数千円変わる</strong> のが業界の常識です。</p>
@@ -183,11 +179,9 @@ heroImage: '../../assets/blog/raise-appraisal.png'
 <p>革・布・電子機器の表面に <strong>アルコールや溶剤</strong> を使うと、<strong>変色・シミ・素材劣化</strong> を起こします。「綺麗にしたつもりが素材を傷めていた」ケースが業界では頻繁に報告されます。</p>
 <h4>NG③：自己判断での修理・分解</h4>
 <p><strong>壊れた部分を自分で直そうとする</strong> のは最悪のパターン。<strong>「改造品」扱いで査定額が半額以下</strong> になることもあります。壊れていても <strong>そのままの状態で査定に出す</strong> のが正解です。</p>
-<h3>業界人ワンポイント</h3>
-<blockquote>
-<p>💡 <strong>「清掃しすぎ」は「清掃しなすぎ」より減額リスクが高い</strong></p>
-<p>これは業界の経験則。<strong>「素人が頑張って綺麗にした跡」は査定員に見抜かれ、改造・加工疑惑で減額されます</strong>。清掃は <strong>「軽く拭いて埃を取る」程度で十分</strong>。プロのメンテナンスが必要な高級品は、<strong>自分で触らずそのまま出す</strong> のが業界人の常識です。</p>
-</blockquote>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong><strong>「清掃しすぎ」は「清掃しなすぎ」より減額リスクが高い</strong><br><br>これは業界の経験則。<strong>「素人が頑張って綺麗にした跡」は査定員に見抜かれ、改造・加工疑惑で減額されます</strong>。清掃は <strong>「軽く拭いて埃を取る」程度で十分</strong>。プロのメンテナンスが必要な高級品は、<strong>自分で触らずそのまま出す</strong> のが業界人の常識です。
+</div>
 <hr />
 <h2>H2-3：【準備②】付属品を揃える — 査定額+20〜50%アップ</h2>
 <p>事前準備の中で <strong>もっとも効果が大きい</strong> のが付属品の用意です。効果の目安は <strong>査定額+20〜50%</strong>、ブランド品なら <strong>付属品ありとなしで査定額が2倍違う</strong> ことも珍しくありません。</p>
@@ -264,11 +258,9 @@ heroImage: '../../assets/blog/raise-appraisal.png'
 <p><strong>クレジットカード明細・メール領収書</strong> でも、<strong>購入証明</strong> として機能します。特にブランド品では有効。</p>
 <h4>③ 保証書の代替として「店舗印付きの領収書」を提示</h4>
 <p>時計など <strong>並行輸入と正規品の差</strong> が大きい商品は、<strong>正規店の領収書</strong> があるだけで「正規品証明」となり、査定額が上がります。</p>
-<h3>業界人ワンポイント</h3>
-<blockquote>
-<p>💡 <strong>「フルセット」という言葉の業界定義</strong></p>
-<p>業界では「フルセット」＝ <strong>購入時の状態のまま、一切の欠品なし</strong>。箱・袋・説明書・保証書・カード・付属小物まで揃っている状態を指します。<strong>「フルセット」と業者に言える状態まで整えた人だけが、査定額上限を引き出せる</strong> のが現実です。</p>
-</blockquote>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong><strong>「フルセット」という言葉の業界定義</strong><br><br>業界では「フルセット」＝ <strong>購入時の状態のまま、一切の欠品なし</strong>。箱・袋・説明書・保証書・カード・付属小物まで揃っている状態を指します。<strong>「フルセット」と業者に言える状態まで整えた人だけが、査定額上限を引き出せる</strong> のが現実です。
+</div>
 <hr />
 <h2>H2-4：【準備③】必ず3社以上で相見積もり — 2倍差を防ぐ</h2>
 <figure class="wp-block-image size-large aligncenter"><a href="https://re-money-lab.com/wp-content/uploads/2026/04/b3-estimates-3methods.png"><img src="https://re-money-lab.com/wp-content/uploads/2026/04/b3-estimates-3methods.png" alt="相見積もり3つの方法" class="wp-image-73"/></a></figure>
@@ -315,13 +307,9 @@ heroImage: '../../assets/blog/raise-appraisal.png'
 <p>キャンセル時に <strong>返送料が買主負担</strong> の業者だと、「安い査定に納得できずキャンセル → 返送料で手数料赤字」になります。<strong>返送料無料の業者だけで相見積もり</strong> するのが鉄則。</p>
 <h4>注意③：<strong>訪問買取での強引営業に注意</strong></h4>
 <p>出張買取・訪問買取では <strong>「相見積もり中」と伝えただけで強引に値上げして即決を迫る</strong> ケースも。<strong>「必ず他社との比較後に決める」</strong> とはっきり伝えましょう。</p>
-<h3>業界人ワンポイント</h3>
-<blockquote>
-<p>💡 <strong>「業者の立場」で考えると相見積もりの強さがわかる</strong></p>
-<p>査定員側も「他社より高い査定を出さないと逃げられる」と思えば、<strong>自分の裁量枠を使って頑張ってくれます</strong>。逆に「この客は1社でしか査定していない」と判断されたら、<strong>通常査定（最低ライン）で済ませるのが業者の合理性</strong>。相見積もりは、<strong>査定員に「本気を出させるスイッチ」</strong> なのです。</p>
-<p>📖 <strong>「どの売り方がそもそも合うのか」迷う方へ</strong></p>
-<p>相見積もりは基本的に <strong>買取業者同士を比較</strong> する手法ですが、「買取業者 vs フリマ vs ヤフオク」のどの土俵で戦うかによって、最適な準備も変わります。迷う方は <strong><a href="/sell-unwanted-items/">不用品を売るならどこ？5つの方法比較</a></strong> のH2-3「ペルソナ別診断」で、<strong>自分に合う売り方を先に決める</strong> のがおすすめです。</p>
-</blockquote>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong><strong>「業者の立場」で考えると相見積もりの強さがわかる</strong><br><br>査定員側も「他社より高い査定を出さないと逃げられる」と思えば、<strong>自分の裁量枠を使って頑張ってくれます</strong>。逆に「この客は1社でしか査定していない」と判断されたら、<strong>通常査定（最低ライン）で済ませるのが業者の合理性</strong>。相見積もりは、<strong>査定員に「本気を出させるスイッチ」</strong> なのです。<br><br>📖 <strong>「どの売り方がそもそも合うのか」迷う方へ</strong><br><br>相見積もりは基本的に <strong>買取業者同士を比較</strong> する手法ですが、「買取業者 vs フリマ vs ヤフオク」のどの土俵で戦うかによって、最適な準備も変わります。迷う方は <strong><a href="/sell-unwanted-items/">不用品を売るならどこ？5つの方法比較</a></strong> のH2-3「ペルソナ別診断」で、<strong>自分に合う売り方を先に決める</strong> のがおすすめです。
+</div>
 <hr />
 <h2>H2-5：【応用編】業界人だけが知る査定アップ交渉術3選</h2>
 <p>ここまでの3つの準備（清掃・付属品・相見積もり）で <strong>査定額は30〜70%上がります</strong>。さらに <strong>査定員との交渉</strong> を加えることで、最後の数千円〜数万円を引き出せるのが業界人のやり方。</p>
@@ -361,11 +349,9 @@ heroImage: '../../assets/blog/raise-appraisal.png'
 <p>査定員は <strong>攻撃的な客に対しては譲歩しません</strong>（上司に説明がつかないため）。冷静に論理で交渉するのが効果的。</p>
 <h4>NG③：<strong>「SNSで晒す」等の脅し文句</strong></h4>
 <p>これは <strong>業務妨害罪・名誉毀損罪・信用毀損罪に該当する可能性</strong> もある重大なNGです。その場で取引中止になるだけでなく、法的トラブルに発展する恐れもあります。<strong>冷静に論理で交渉</strong> するのが、結果的に一番査定額が上がる方法です。</p>
-<h3>業界人ワンポイント</h3>
-<blockquote>
-<p>💡 <strong>査定員も「人間」であることを忘れない</strong></p>
-<p>査定員の1日のノルマ・案件処理数・評価制度の中で、<strong>「気持ちよく決まった案件」は優先して上限まで譲歩</strong> されることが多いです。逆に <strong>「雰囲気が悪い客」は最低ラインで即決</strong> されるのが合理的判断。<strong>丁寧な言葉遣い・笑顔・感謝の言葉</strong> が、実は最強の交渉術なのです。</p>
-</blockquote>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong><strong>査定員も「人間」であることを忘れない</strong><br><br>査定員の1日のノルマ・案件処理数・評価制度の中で、<strong>「気持ちよく決まった案件」は優先して上限まで譲歩</strong> されることが多いです。逆に <strong>「雰囲気が悪い客」は最低ラインで即決</strong> されるのが合理的判断。<strong>丁寧な言葉遣い・笑顔・感謝の言葉</strong> が、実は最強の交渉術なのです。
+</div>
 <hr />
 <h2>H2-6：【NG編】査定額を下げる事前準備の落とし穴5選</h2>
 <p>ここまで「やるべきこと」を解説してきましたが、実は <strong>「良かれと思ってやったこと」が査定額を下げるケース</strong> も多数あります。業界人が実際に現場で見てきた <strong>「もったいないNG行動」</strong> を5つ紹介します。</p>
@@ -405,13 +391,9 @@ heroImage: '../../assets/blog/raise-appraisal.png'
 - メーカー保証の確認ができない</p>
 <p>型番・シリアルナンバーは <strong>「正規品である証明」「製造年月の特定」「真贋判定」</strong> の3つを兼ねる、査定の最重要情報。これが剥がれていると、業者側で査定そのものができない（＝買取不能）ケースも発生します。<strong>減額どころか取引拒否のリスク</strong> があるため、他のNGより影響度が大きい点に注意してください。</p>
 <p><strong>正解</strong>：<strong>絶対に剥がさない</strong>。汚れが気になっても、軽く拭く程度に留める。</p>
-<h3>業界人ワンポイント</h3>
-<blockquote>
-<p>💡 <strong>「素人が善意でやった事」が一番危ない</strong></p>
-<p>業界で見る「もったいない減額ケース」の大半は、<strong>「消費者が良かれと思ってやった事」</strong> が原因。<strong>「何もしないで出す」が正解だった</strong> というパターンが実に多いのです。迷ったら <strong>「触らない」が鉄則</strong>。</p>
-<p>📖 <strong>査定時・契約時の「業者側のNG行動」もチェック</strong></p>
-<p>この記事では <strong>「消費者側の事前準備NG」</strong> を解説しましたが、実際の取引では <strong>「業者側のNG行動（押し買い・内訳を隠す・クーリングオフ未説明等）」</strong> にも注意が必要です。<strong><a href="/sell-unwanted-items/">ハブ記事のH2-5「契約編」</a></strong> で業者と取引する時の絶対NG行動5選を詳しく解説しています。</p>
-</blockquote>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong><strong>「素人が善意でやった事」が一番危ない</strong><br><br>業界で見る「もったいない減額ケース」の大半は、<strong>「消費者が良かれと思ってやった事」</strong> が原因。<strong>「何もしないで出す」が正解だった</strong> というパターンが実に多いのです。迷ったら <strong>「触らない」が鉄則</strong>。<br><br>📖 <strong>査定時・契約時の「業者側のNG行動」もチェック</strong><br><br>この記事では <strong>「消費者側の事前準備NG」</strong> を解説しましたが、実際の取引では <strong>「業者側のNG行動（押し買い・内訳を隠す・クーリングオフ未説明等）」</strong> にも注意が必要です。<strong><a href="/sell-unwanted-items/">ハブ記事のH2-5「契約編」</a></strong> で業者と取引する時の絶対NG行動5選を詳しく解説しています。
+</div>
 <hr />
 <h2>H2-7：まとめ｜査定前チェックリスト＋次のステップ</h2>
 <p>ここまでの内容を <strong>「査定前にやることチェックリスト」</strong> としてまとめます。コピペして保存し、売る前に必ず確認してください。</p>
