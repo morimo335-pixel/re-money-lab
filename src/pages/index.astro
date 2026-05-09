@@ -81,7 +81,10 @@ const archive = allPosts.slice(6); // 残り
 				font-weight: 800;
 				letter-spacing: 0.02em;
 				line-height: 1.25;
-				color: var(--text);
+				background: linear-gradient(120deg, #1E3A5F 0%, #2A4A75 30%, #C8923A 70%, #E8B658 100%);
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+				background-clip: text;
 			}
 			.title-section .tagline {
 				margin: 0;
@@ -149,7 +152,10 @@ const archive = allPosts.slice(6); // 残り
 				font-weight: 800;
 				letter-spacing: 0.02em;
 				line-height: 1.2;
-				color: var(--text);
+				background: linear-gradient(120deg, #C8923A 0%, #E8B658 50%, #1E3A5F 100%);
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+				background-clip: text;
 			}
 			.showcase-head .more {
 				font-size: 1em;
@@ -222,13 +228,13 @@ const archive = allPosts.slice(6); // 残り
 			.showcase-card:hover .image img {
 				transform: scale(1.04);
 			}
-			/* 明るい色6種類ローテ（黒なし） */
-			.showcase-card:nth-child(1) { background: #f5f5f7; }
-			.showcase-card:nth-child(2) { background: #fff5e6; }
-			.showcase-card:nth-child(3) { background: #eef4f8; }
-			.showcase-card:nth-child(4) { background: #f7f0e8; }
-			.showcase-card:nth-child(5) { background: #f0f5ee; }
-			.showcase-card:nth-child(6) { background: #faf3f0; }
+			/* 明るく鮮やか6色ローテ（彩度UP） */
+			.showcase-card:nth-child(1) { background: linear-gradient(135deg, #FFE5B4 0%, #FFC988 100%); }
+			.showcase-card:nth-child(2) { background: linear-gradient(135deg, #B4DEFF 0%, #88B8FF 100%); }
+			.showcase-card:nth-child(3) { background: linear-gradient(135deg, #FFD3E0 0%, #FFA8C8 100%); }
+			.showcase-card:nth-child(4) { background: linear-gradient(135deg, #C8F0D4 0%, #95E6B8 100%); }
+			.showcase-card:nth-child(5) { background: linear-gradient(135deg, #F0D8FF 0%, #D0A8FF 100%); }
+			.showcase-card:nth-child(6) { background: linear-gradient(135deg, #FFEAA8 0%, #FFD478 100%); }
 
 			/* ===== 著者プロフィール ===== */
 			.author-section {
@@ -297,9 +303,14 @@ const archive = allPosts.slice(6); // 残り
 			}
 			.archive h2 {
 				margin: 0 0 1.5em;
+				font-family: 'Shippori Mincho', 'Noto Serif JP', serif;
 				font-size: clamp(1.5em, 2.4vw, 2em);
-				font-weight: 700;
-				letter-spacing: -0.02em;
+				font-weight: 800;
+				letter-spacing: 0.02em;
+				background: linear-gradient(120deg, #1E3A5F 0%, #C8923A 100%);
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+				background-clip: text;
 			}
 			.archive-grid {
 				display: grid;
