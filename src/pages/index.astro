@@ -47,10 +47,12 @@ const archive = allPosts.slice(6); // 残り
 				text-decoration: none;
 			}
 
-			/* 共通：完全フルワイド(画面端まで使う) */
+			/* 共通：フルワイド(画面端まで使う・最大1400pxで中央寄せ) */
 			.wrap {
 				width: 100%;
-				padding: 0 12px;
+				max-width: 1400px;
+				margin: 0 auto;
+				padding: 0 24px;
 				box-sizing: border-box;
 			}
 
