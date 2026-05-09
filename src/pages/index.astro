@@ -286,6 +286,8 @@ const archive = allPosts.slice(6); // 残り
 						#5B6EE8 83%,
 						#9B59B6 100%
 					) border-box;
+				background-size: auto, 200% 100%;
+				animation: shimmerBorder 7s ease-in-out infinite;
 				border: 3px solid transparent;
 				border-radius: 22px;
 				padding: 2.5em 3em;
@@ -294,6 +296,10 @@ const archive = allPosts.slice(6); // 残り
 				gap: 2.5em;
 				align-items: center;
 				box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
+			}
+			@keyframes shimmerBorder {
+				0%, 100% { background-position: 0 0, 0% 50%; }
+				50%      { background-position: 0 0, 100% 50%; }
 			}
 			.author-photo-wrap {
 				position: relative;
