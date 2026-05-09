@@ -610,7 +610,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 <!-- 内部リンク水色カード（記事24・古いお酒・5/8追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/furui-osake-ureru/">山崎18年が9万円！？家の古いお酒は売れる？元業界人8年の7コツ</a>
+<a href="https://re-money-lab.com/furui-osake-ureru/">山崎18年が9万円！？家の古いお酒は売れる？元業界人8年の7つのコツ</a>
 </div>
 
 <!-- ===== 筆者プロフィール②：記事末（小130px・横並び）===== -->
