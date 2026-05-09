@@ -81,9 +81,9 @@ const restPosts = allPosts.slice(9);
 
 			/* ===== トップ記事（Apple風 16:9 大型） ===== */
 			.top-article {
-				max-width: 1080px;
-				margin: 1em auto 4em;
-				padding: 0 1em;
+				max-width: 1320px;
+				margin: 1em auto 3em;
+				padding: 0 1.2em;
 			}
 			.top-article a {
 				display: block;
@@ -99,7 +99,7 @@ const restPosts = allPosts.slice(9);
 				transform: translateY(-3px);
 			}
 			.top-article .img-wrap {
-				aspect-ratio: 16 / 9;
+				aspect-ratio: 1376 / 768;
 				overflow: hidden;
 				background: #ddd;
 			}
@@ -155,12 +155,12 @@ const restPosts = allPosts.slice(9);
 
 			/* ===== 2カード（中型） ===== */
 			.duo-grid {
-				max-width: 1180px;
-				margin: 0 auto 5em;
-				padding: 0 1em;
+				max-width: 1320px;
+				margin: 0 auto 4em;
+				padding: 0 1.2em;
 				display: grid;
 				grid-template-columns: 1fr 1fr;
-				gap: 1.4em;
+				gap: 1.6em;
 			}
 			.duo-card a {
 				display: block;
@@ -175,7 +175,7 @@ const restPosts = allPosts.slice(9);
 				transform: translateY(-3px);
 			}
 			.duo-card .img-wrap {
-				aspect-ratio: 16 / 9;
+				aspect-ratio: 1376 / 768;
 				overflow: hidden;
 				background: #ddd;
 			}
@@ -210,11 +210,11 @@ const restPosts = allPosts.slice(9);
 				padding: 5em 1em;
 			}
 			.author-card {
-				max-width: 920px;
+				max-width: 1080px;
 				margin: 0 auto;
 				background: #fff;
 				border-radius: 28px;
-				padding: 3em;
+				padding: 2.8em 3em;
 				box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
 				display: grid;
 				grid-template-columns: auto 1fr;
@@ -271,9 +271,9 @@ const restPosts = allPosts.slice(9);
 
 			/* ===== 6記事カード（中) ===== */
 			.six-grid {
-				max-width: 1180px;
-				margin: 5em auto;
-				padding: 0 1em;
+				max-width: 1320px;
+				margin: 4em auto;
+				padding: 0 1.2em;
 			}
 			.section-title {
 				margin: 0 0 1.5em;
@@ -308,7 +308,7 @@ const restPosts = allPosts.slice(9);
 				transform: translateY(-3px);
 			}
 			.mid-card .img-wrap {
-				aspect-ratio: 16 / 9;
+				aspect-ratio: 1376 / 768;
 				overflow: hidden;
 				background: #ddd;
 			}
@@ -343,8 +343,9 @@ const restPosts = allPosts.slice(9);
 				padding: 5em 1em 6em;
 			}
 			.archive-inner {
-				max-width: 1180px;
+				max-width: 1320px;
 				margin: 0 auto;
+				padding: 0 1.2em;
 			}
 			.archive-grid {
 				display: grid;
@@ -365,7 +366,7 @@ const restPosts = allPosts.slice(9);
 				box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
 			}
 			.small-card .img-wrap {
-				aspect-ratio: 16 / 9;
+				aspect-ratio: 1376 / 768;
 				overflow: hidden;
 				background: #ddd;
 			}
@@ -460,7 +461,7 @@ const restPosts = allPosts.slice(9);
 										src={top.data.heroImage}
 										alt={top.data.title}
 										width={1376}
-										height={590}
+										height={768}
 									/>
 								)}
 							</div>
@@ -489,7 +490,7 @@ const restPosts = allPosts.slice(9);
 											src={post.data.heroImage}
 											alt={post.data.title}
 											width={688}
-											height={387}
+											height={384}
 										/>
 									)}
 								</div>
