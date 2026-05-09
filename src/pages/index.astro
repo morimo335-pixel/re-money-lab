@@ -37,46 +37,53 @@ const restPosts = allPosts.slice(9);
 				-webkit-font-smoothing: antialiased;
 			}
 
-			/* ===== Heroセクション（Apple風 タイト&洗練） ===== */
+			/* ===== Heroセクション（Apple実物に近い・タイト/モノトーン） ===== */
 			.hero {
-				background: linear-gradient(180deg, #fbfbfd 0%, #fff 100%);
-				padding: 4.5em 1em 3em;
+				background: #fff;
+				padding: 5em 1.5em 3em;
 				text-align: center;
+				position: relative;
+			}
+			.hero-eyebrow {
+				display: inline-block;
+				font-size: 0.78em;
+				color: var(--apple-secondary);
+				letter-spacing: 0.18em;
+				font-weight: 600;
+				margin-bottom: 1em;
+				text-transform: uppercase;
 			}
 			.hero h1 {
 				margin: 0 0 0.5em;
-				font-size: clamp(2em, 4.5vw, 3.2em);
-				font-weight: 700;
-				line-height: 1.15;
-				letter-spacing: -0.022em;
-				color: var(--apple-text);
-			}
-			.hero h1 .accent {
-				color: var(--gold);
+				font-size: clamp(2.2em, 6.5vw, 4.5em);
+				font-weight: 800;
+				line-height: 1.05;
+				letter-spacing: -0.04em;
+				color: #000;
 			}
 			.hero p {
-				margin: 0 auto;
-				max-width: 620px;
-				font-size: clamp(0.98em, 1.2vw, 1.15em);
+				margin: 1em auto 0;
+				max-width: 520px;
+				font-size: clamp(1em, 1.2vw, 1.15em);
 				line-height: 1.55;
 				color: var(--apple-secondary);
 				font-weight: 400;
 			}
 			.hero .hero-meta {
 				display: inline-flex;
-				gap: 0.7em;
-				margin-top: 1.8em;
+				gap: 0.5em;
+				margin-top: 2em;
 				flex-wrap: wrap;
 				justify-content: center;
 			}
 			.hero-meta span {
-				padding: 0.35em 0.9em;
-				background: #f5f5f7;
+				padding: 0.4em 1em;
+				background: #000;
 				border-radius: 50px;
-				font-size: 0.78em;
-				color: var(--apple-text);
+				font-size: 0.75em;
+				color: #fff;
 				font-weight: 500;
-				letter-spacing: 0.01em;
+				letter-spacing: 0.02em;
 			}
 
 			/* ===== トップ記事（Apple風 16:9 大型） ===== */
@@ -435,17 +442,18 @@ const restPosts = allPosts.slice(9);
 	<body>
 		<Header />
 		<main>
-			<!-- ===== Hero（Apple風コンパクト） ===== -->
+			<!-- ===== Hero（Apple実物に近いモノトーン） ===== -->
 			<section class="hero">
-				<h1>不用品を、<span class="accent">後悔せず売る。</span></h1>
+				<span class="hero-eyebrow">re-money-lab</span>
+				<h1>業界の本音、<br />ぜんぶ。</h1>
 				<p>
-					元買取業界8年・累計査定3万点超。業界の裏側から本音で解説する、
-					着物・骨董・ブランド・遺品整理の実践メディア。
+					元買取業界8年、累計査定3万点超のハルが、
+					不用品を後悔せず売るための実践情報を本音で解説。
 				</p>
 				<div class="hero-meta">
 					<span>業界8年</span>
-					<span>累計査定3万点超</span>
-					<span>古物商許可保有</span>
+					<span>3万点超</span>
+					<span>古物商許可</span>
 					<span>14品目網羅</span>
 				</div>
 			</section>
