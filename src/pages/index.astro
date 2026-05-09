@@ -12,9 +12,8 @@ const allPosts = (await getCollection('blog')).sort(
 );
 
 const top = allPosts[0];
-const next2 = allPosts.slice(1, 3);
-const next6 = allPosts.slice(3, 9);
-const restPosts = allPosts.slice(9);
+const iconRow = allPosts.slice(0, 7); // 上部アイコン行：最新7
+const showcase = allPosts.slice(0, 8); // ショウケース：最新8（2列×4行）
 ---
 
 <!doctype html>
@@ -27,8 +26,7 @@ const restPosts = allPosts.slice(9);
 				--apple-secondary: #6e6e73;
 				--apple-bg: #fbfbfd;
 				--apple-card: #f5f5f7;
-				--accent: #1E3A5F;
-				--gold: #C8923A;
+				--apple-link: #0066cc;
 			}
 			body {
 				background: #fff;
@@ -36,219 +34,238 @@ const restPosts = allPosts.slice(9);
 				font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'ヒラギノ角ゴ ProN W3', sans-serif;
 				-webkit-font-smoothing: antialiased;
 			}
-
-			/* ===== Hero - 横並び型(画像+テキスト) ===== */
-			.hero {
-				max-width: 1320px;
-				margin: 0 auto;
-				padding: 3em 1.2em 2em;
-				display: grid;
-				grid-template-columns: 1fr 1fr;
-				gap: 3em;
-				align-items: center;
-			}
-			.hero-content h1 {
-				margin: 0 0 0.6em;
-				font-size: clamp(1.7em, 2.6vw, 2.4em);
-				font-weight: 800;
-				line-height: 1.3;
-				letter-spacing: -0.02em;
-				color: #000;
-			}
-			.hero-content p {
-				margin: 0 0 1.4em;
-				font-size: 1em;
-				line-height: 1.7;
-				color: var(--apple-secondary);
-			}
-			.hero-meta {
-				display: flex;
-				gap: 0.5em;
-				flex-wrap: wrap;
-			}
-			.hero-meta span {
-				padding: 0.35em 0.9em;
-				background: #f5f5f7;
-				border-radius: 50px;
-				font-size: 0.78em;
-				color: #1d1d1f;
-				font-weight: 500;
-			}
-			.hero-image {
-				border-radius: 22px;
-				overflow: hidden;
-				aspect-ratio: 1376 / 768;
-				background: #f5f5f7;
-			}
-			.hero-image img {
-				width: 100%;
-				height: 100%;
-				object-fit: cover;
-				display: block;
-			}
-
-			/* ===== トップ記事（Apple風 16:9 大型） ===== */
-			.top-article {
-				max-width: 1320px;
-				margin: 1em auto 3em;
-				padding: 0 1.2em;
-			}
-			.top-article a {
-				display: block;
+			a {
+				color: var(--apple-link);
 				text-decoration: none;
-				color: inherit;
-				border-radius: 22px;
-				overflow: hidden;
-				background: var(--apple-card);
-				transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-				position: relative;
 			}
-			.top-article a:hover {
-				transform: translateY(-3px);
-			}
-			.top-article .img-wrap {
-				aspect-ratio: 1376 / 768;
-				overflow: hidden;
-				background: #ddd;
-			}
-			.top-article .img-wrap img {
-				width: 100%;
-				height: 100%;
-				object-fit: cover;
-				transition: transform 0.6s;
-			}
-			.top-article a:hover .img-wrap img {
-				transform: scale(1.04);
-			}
-			.top-article .body {
-				padding: 2em 1.8em;
+
+			/* ===== トップ プロモバンド（最新記事告知） ===== */
+			.promo-band {
+				background: var(--apple-bg);
+				padding: 0.95em 1em;
 				text-align: center;
-			}
-			.top-article .badge {
-				display: inline-block;
-				padding: 3px 12px;
-				background: var(--accent);
-				color: #fff;
-				font-size: 0.66em;
-				font-weight: 700;
-				letter-spacing: 0.12em;
-				border-radius: 50px;
-				margin-bottom: 0.8em;
-			}
-			.top-article h2 {
-				margin: 0 0 0.5em;
-				font-size: clamp(1.3em, 2.4vw, 1.85em);
-				font-weight: 700;
+				font-size: 0.93em;
 				color: var(--apple-text);
-				line-height: 1.35;
-				letter-spacing: -0.012em;
-				max-width: 720px;
-				margin-left: auto;
-				margin-right: auto;
+				border-bottom: 1px solid #e5e5e7;
 			}
-			.top-article .date {
-				font-size: 0.82em;
-				color: var(--apple-secondary);
+			.promo-band a {
+				color: var(--apple-link);
 			}
-			.top-article .read-more {
-				display: inline-block;
-				margin-top: 1em;
-				color: #0066cc;
-				font-size: 0.92em;
-				font-weight: 500;
-			}
-			.top-article .read-more::after {
+			.promo-band a::after {
 				content: ' ›';
 			}
 
-			/* ===== 2カード（中型） ===== */
-			.duo-grid {
+			/* ===== タイトルセクション（巨大） ===== */
+			.title-section {
 				max-width: 1320px;
-				margin: 0 auto 4em;
+				margin: 0 auto;
+				padding: 4em 1.2em 0;
+			}
+			.title-section h1 {
+				margin: 0;
+				font-size: clamp(2.4em, 5vw, 4em);
+				font-weight: 600;
+				letter-spacing: -0.02em;
+				line-height: 1.05;
+				color: var(--apple-text);
+			}
+
+			/* ===== アイコン行（最新記事サムネ） ===== */
+			.icon-row {
+				max-width: 1320px;
+				margin: 2.5em auto 4em;
 				padding: 0 1.2em;
 				display: grid;
-				grid-template-columns: 1fr 1fr;
-				gap: 1.6em;
+				grid-template-columns: repeat(7, 1fr);
+				gap: 1em;
 			}
-			.duo-card a {
-				display: block;
+			.icon-item a {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
 				text-decoration: none;
-				color: inherit;
-				border-radius: 22px;
+				color: var(--apple-text);
+				transition: transform 0.2s;
+			}
+			.icon-item a:hover {
+				transform: translateY(-2px);
+			}
+			.icon-item .thumb {
+				width: 100%;
+				aspect-ratio: 1 / 1;
+				border-radius: 50%;
 				overflow: hidden;
 				background: var(--apple-card);
+				margin-bottom: 0.8em;
+			}
+			.icon-item .thumb img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				display: block;
+			}
+			.icon-item .label {
+				font-size: 0.78em;
+				font-weight: 500;
+				text-align: center;
+				line-height: 1.4;
+				color: var(--apple-text);
+				display: -webkit-box;
+				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+				overflow: hidden;
+				max-width: 100%;
+			}
+
+			/* ===== ショウケースタイトル ===== */
+			.showcase-head {
+				max-width: 1320px;
+				margin: 5em auto 1.5em;
+				padding: 0 1.2em;
+				display: flex;
+				justify-content: space-between;
+				align-items: baseline;
+				flex-wrap: wrap;
+				gap: 0.5em;
+			}
+			.showcase-head h2 {
+				margin: 0;
+				font-size: clamp(1.8em, 3vw, 2.6em);
+				font-weight: 600;
+				letter-spacing: -0.02em;
+				line-height: 1.1;
+				color: var(--apple-text);
+			}
+			.showcase-head .more {
+				font-size: 1.05em;
+				color: var(--apple-link);
+			}
+			.showcase-head .more::after {
+				content: ' ›';
+			}
+
+			/* ===== ショウケースカード（Apple実物の色付きカード風） ===== */
+			.showcase-grid {
+				max-width: 1320px;
+				margin: 0 auto 5em;
+				padding: 0 1.2em;
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 1.4em;
+			}
+			.showcase-card {
+				border-radius: 22px;
+				overflow: hidden;
+				position: relative;
 				transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+				min-height: 460px;
 			}
-			.duo-card a:hover {
-				transform: translateY(-3px);
+			.showcase-card:hover {
+				transform: translateY(-4px);
 			}
-			.duo-card .img-wrap {
+			.showcase-card a {
+				display: flex;
+				flex-direction: column;
+				height: 100%;
+				text-decoration: none;
+				color: inherit;
+			}
+			.showcase-card .body {
+				padding: 2em 2em 1.5em;
+				text-align: center;
+				z-index: 2;
+				position: relative;
+			}
+			.showcase-card .date {
+				font-size: 0.78em;
+				font-weight: 500;
+				color: rgba(0, 0, 0, 0.5);
+				margin-bottom: 0.6em;
+				letter-spacing: 0.05em;
+			}
+			.showcase-card h3 {
+				margin: 0 0 0.6em;
+				font-size: clamp(1.2em, 1.7vw, 1.5em);
+				font-weight: 600;
+				letter-spacing: -0.01em;
+				line-height: 1.35;
+				color: var(--apple-text);
+			}
+			.showcase-card .read {
+				color: var(--apple-link);
+				font-size: 0.95em;
+				font-weight: 500;
+			}
+			.showcase-card .read::after {
+				content: ' ›';
+			}
+			.showcase-card .image {
+				margin-top: auto;
+				width: 100%;
 				aspect-ratio: 1376 / 768;
 				overflow: hidden;
-				background: #ddd;
 			}
-			.duo-card .img-wrap img {
+			.showcase-card .image img {
 				width: 100%;
 				height: 100%;
 				object-fit: cover;
 				transition: transform 0.6s;
+				display: block;
 			}
-			.duo-card a:hover .img-wrap img {
-				transform: scale(1.05);
-			}
-			.duo-card .body {
-				padding: 1.8em 1.6em;
-			}
-			.duo-card h3 {
-				margin: 0.5em 0 0.4em;
-				font-size: 1.3em;
-				font-weight: 700;
-				color: var(--apple-text);
-				line-height: 1.45;
-				letter-spacing: -0.005em;
-			}
-			.duo-card .date {
-				font-size: 0.78em;
-				color: var(--apple-secondary);
+			.showcase-card:hover .image img {
+				transform: scale(1.04);
 			}
 
-			/* ===== 著者プロフィール（Apple風カード） ===== */
+			/* 色のバリエーション（Apple実物のように品ごとに） */
+			.showcase-card:nth-child(1) { background: linear-gradient(180deg, #1a1a1a 0%, #2c2c2e 100%); }
+			.showcase-card:nth-child(1) h3 { color: #fff; }
+			.showcase-card:nth-child(1) .date { color: rgba(255, 255, 255, 0.6); }
+			.showcase-card:nth-child(2) { background: linear-gradient(180deg, #f5f5f7 0%, #e8e8ed 100%); }
+			.showcase-card:nth-child(3) { background: linear-gradient(180deg, #f0eee6 0%, #e2dccd 100%); }
+			.showcase-card:nth-child(4) { background: linear-gradient(180deg, #1E3A5F 0%, #2A4A75 100%); }
+			.showcase-card:nth-child(4) h3 { color: #fff; }
+			.showcase-card:nth-child(4) .date { color: rgba(255, 255, 255, 0.6); }
+			.showcase-card:nth-child(5) { background: linear-gradient(180deg, #fff5e6 0%, #f0e6d2 100%); }
+			.showcase-card:nth-child(6) { background: linear-gradient(180deg, #ede9e3 0%, #d8d0c5 100%); }
+			.showcase-card:nth-child(7) { background: linear-gradient(180deg, #1a1a1a 0%, #2c2c2e 100%); }
+			.showcase-card:nth-child(7) h3 { color: #fff; }
+			.showcase-card:nth-child(7) .date { color: rgba(255, 255, 255, 0.6); }
+			.showcase-card:nth-child(8) { background: linear-gradient(180deg, #f5f5f7 0%, #e8e8ed 100%); }
+
+			/* ===== 著者プロフィール ===== */
 			.author-section {
 				background: var(--apple-bg);
-				padding: 5em 1em;
+				padding: 5em 1.2em;
+				margin-top: 4em;
 			}
 			.author-card {
 				max-width: 1080px;
 				margin: 0 auto;
 				background: #fff;
-				border-radius: 28px;
-				padding: 2.8em 3em;
-				box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+				border-radius: 22px;
+				padding: 2.5em 3em;
 				display: grid;
 				grid-template-columns: auto 1fr;
 				gap: 2.5em;
 				align-items: center;
 			}
 			.author-photo {
-				width: 160px;
-				height: 160px;
+				width: 140px;
+				height: 140px;
 				border-radius: 50%;
 				object-fit: cover;
-				border: 4px solid #f0e6d2;
+				border: 4px solid #f5f5f7;
 			}
 			.author-card h2 {
 				margin: 0 0 0.2em;
-				font-size: 1.6em;
-				font-weight: 700;
-				color: var(--apple-text);
+				font-size: 1.5em;
+				font-weight: 600;
 				letter-spacing: -0.01em;
 			}
-			.author-card .author-tagline {
-				margin: 0 0 1.2em;
-				color: var(--gold);
+			.author-card .tagline {
+				margin: 0 0 1em;
+				color: var(--apple-secondary);
 				font-size: 0.95em;
-				font-weight: 600;
-				letter-spacing: 0.02em;
 			}
 			.author-card ul {
 				margin: 0;
@@ -256,109 +273,43 @@ const restPosts = allPosts.slice(9);
 				list-style: none;
 			}
 			.author-card li {
-				padding: 0.5em 0 0.5em 1.5em;
+				padding: 0.4em 0 0.4em 1.3em;
 				position: relative;
 				color: var(--apple-text);
-				line-height: 1.65;
-				font-size: 0.95em;
+				line-height: 1.6;
+				font-size: 0.93em;
 			}
 			.author-card li::before {
 				content: '';
 				position: absolute;
 				left: 0;
-				top: 1em;
-				width: 6px;
-				height: 6px;
-				background: var(--gold);
+				top: 0.95em;
+				width: 5px;
+				height: 5px;
+				background: var(--apple-text);
 				border-radius: 50%;
 			}
 			.author-card li strong {
-				color: var(--accent);
 				font-weight: 700;
 			}
 
-			/* ===== 6記事カード（中) ===== */
-			.six-grid {
+			/* ===== アーカイブ ===== */
+			.archive {
 				max-width: 1320px;
-				margin: 4em auto;
+				margin: 5em auto 6em;
 				padding: 0 1.2em;
 			}
-			.section-title {
+			.archive h2 {
 				margin: 0 0 1.5em;
 				font-size: clamp(1.6em, 2.5vw, 2.2em);
-				font-weight: 700;
-				letter-spacing: -0.01em;
-				color: var(--apple-text);
-				text-align: center;
-			}
-			.section-sub {
-				margin: 0 auto 2.5em;
-				text-align: center;
-				font-size: 1em;
-				color: var(--apple-secondary);
-				max-width: 540px;
-			}
-			.six-cards {
-				display: grid;
-				grid-template-columns: repeat(3, 1fr);
-				gap: 1.4em;
-			}
-			.mid-card a {
-				display: block;
-				text-decoration: none;
-				color: inherit;
-				border-radius: 18px;
-				overflow: hidden;
-				background: var(--apple-card);
-				transition: transform 0.4s;
-			}
-			.mid-card a:hover {
-				transform: translateY(-3px);
-			}
-			.mid-card .img-wrap {
-				aspect-ratio: 1376 / 768;
-				overflow: hidden;
-				background: #ddd;
-			}
-			.mid-card .img-wrap img {
-				width: 100%;
-				height: 100%;
-				object-fit: cover;
-				transition: transform 0.5s;
-			}
-			.mid-card a:hover .img-wrap img {
-				transform: scale(1.05);
-			}
-			.mid-card .body {
-				padding: 1.3em 1.4em 1.6em;
-			}
-			.mid-card .date {
-				font-size: 0.75em;
-				color: var(--apple-secondary);
-				margin-bottom: 0.4em;
-			}
-			.mid-card h3 {
-				margin: 0;
-				font-size: 1em;
 				font-weight: 600;
-				line-height: 1.5;
+				letter-spacing: -0.02em;
 				color: var(--apple-text);
-			}
-
-			/* ===== アーカイブ（小さめ） ===== */
-			.archive {
-				background: var(--apple-bg);
-				padding: 5em 1em 6em;
-			}
-			.archive-inner {
-				max-width: 1320px;
-				margin: 0 auto;
-				padding: 0 1.2em;
 			}
 			.archive-grid {
 				display: grid;
 				grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-				gap: 1.2em;
+				gap: 1em;
 			}
 			.small-card a {
 				display: block;
@@ -366,17 +317,15 @@ const restPosts = allPosts.slice(9);
 				color: inherit;
 				border-radius: 14px;
 				overflow: hidden;
-				background: #fff;
-				transition: transform 0.3s, box-shadow 0.3s;
+				background: var(--apple-card);
+				transition: transform 0.3s;
 			}
 			.small-card a:hover {
 				transform: translateY(-2px);
-				box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
 			}
 			.small-card .img-wrap {
 				aspect-ratio: 1376 / 768;
 				overflow: hidden;
-				background: #ddd;
 			}
 			.small-card .img-wrap img {
 				width: 100%;
@@ -400,17 +349,34 @@ const restPosts = allPosts.slice(9);
 			}
 
 			/* ===== レスポンシブ ===== */
-			@media (max-width: 900px) {
-				.hero {
-					grid-template-columns: 1fr;
-					gap: 1.5em;
-					padding: 2em 1.2em 1.5em;
+			@media (max-width: 1100px) {
+				.icon-row {
+					grid-template-columns: repeat(7, 1fr);
+					gap: 0.7em;
 				}
-				.duo-grid {
+				.icon-item .label {
+					font-size: 0.7em;
+				}
+			}
+			@media (max-width: 768px) {
+				.title-section {
+					padding-top: 2.5em;
+				}
+				.icon-row {
+					grid-template-columns: repeat(4, 1fr);
+					margin-bottom: 3em;
+				}
+				.icon-item:nth-child(n+5) {
+					display: none;
+				}
+				.showcase-head {
+					margin-top: 3em;
+				}
+				.showcase-grid {
 					grid-template-columns: 1fr;
 				}
-				.six-cards {
-					grid-template-columns: repeat(2, 1fr);
+				.showcase-card {
+					min-height: 360px;
 				}
 				.author-card {
 					grid-template-columns: 1fr;
@@ -422,22 +388,6 @@ const restPosts = allPosts.slice(9);
 				}
 				.author-card ul {
 					text-align: left;
-					margin-top: 0.5em;
-				}
-			}
-			@media (max-width: 560px) {
-				.hero-content h1 {
-					font-size: 1.5em;
-				}
-				.duo-card .body {
-					padding: 1.4em 1.2em;
-				}
-				.six-cards {
-					grid-template-columns: 1fr;
-				}
-				.archive-grid {
-					grid-template-columns: 1fr 1fr;
-					gap: 0.9em;
 				}
 			}
 		</style>
@@ -445,56 +395,72 @@ const restPosts = allPosts.slice(9);
 	<body>
 		<Header />
 		<main>
-			<!-- ===== Hero（横並び：左テキスト + 右画像） ===== -->
-			<section class="hero">
-				<div class="hero-content">
-					<h1>不用品を、後悔せず売る。<br />業界の本音メディア。</h1>
-					<p>
-						元買取業界8年・累計査定3万点超のハルが、着物・骨董・ブランド・遺品整理まで、損しないための実践情報を本音で解説します。
-					</p>
-					<div class="hero-meta">
-						<span>業界8年</span>
-						<span>累計査定3万点超</span>
-						<span>古物商許可保有</span>
-						<span>14品目網羅</span>
+			<!-- ===== プロモバンド ===== -->
+			{
+				top && (
+					<div class="promo-band">
+						最新記事「{top.data.title.length > 28 ? top.data.title.slice(0, 28) + '…' : top.data.title}」<a href={`/${top.id}/`}>今すぐ読む</a>
 					</div>
-				</div>
+				)
+			}
+
+			<!-- ===== 巨大タイトル ===== -->
+			<section class="title-section">
+				<h1>re-money-lab</h1>
+			</section>
+
+			<!-- ===== アイコン行 ===== -->
+			<section class="icon-row">
 				{
-					top && top.data.heroImage && (
-						<a href={`/${top.id}/`} class="hero-image">
-							<Image
-								src={top.data.heroImage}
-								alt={top.data.title}
-								width={688}
-								height={384}
-							/>
-						</a>
-					)
+					iconRow.map((post) => (
+						<div class="icon-item">
+							<a href={`/${post.id}/`}>
+								<div class="thumb">
+									{post.data.heroImage && (
+										<Image
+											src={post.data.heroImage}
+											alt={post.data.title}
+											width={200}
+											height={200}
+										/>
+									)}
+								</div>
+								<span class="label">{post.data.title.length > 18 ? post.data.title.slice(0, 18) + '…' : post.data.title}</span>
+							</a>
+						</div>
+					))
 				}
 			</section>
 
-			<!-- ===== 2カード ===== -->
-			<section class="duo-grid">
+			<!-- ===== ショウケース見出し ===== -->
+			<div class="showcase-head">
+				<h2>ラインナップはこちら。</h2>
+				<a href="/blog" class="more">全記事を見る</a>
+			</div>
+
+			<!-- ===== ショウケースカード ===== -->
+			<section class="showcase-grid">
 				{
-					next2.map((post) => (
-						<article class="duo-card">
+					showcase.map((post) => (
+						<article class="showcase-card">
 							<a href={`/${post.id}/`}>
-								<div class="img-wrap">
-									{post.data.heroImage && (
+								<div class="body">
+									<div class="date">
+										<FormattedDate date={post.data.pubDate} />
+									</div>
+									<h3>{post.data.title}</h3>
+									<span class="read">続きを読む</span>
+								</div>
+								{post.data.heroImage && (
+									<div class="image">
 										<Image
 											src={post.data.heroImage}
 											alt={post.data.title}
 											width={688}
 											height={384}
 										/>
-									)}
-								</div>
-								<div class="body">
-									<div class="date">
-										<FormattedDate date={post.data.pubDate} />
 									</div>
-									<h3>{post.data.title}</h3>
-								</div>
+								)}
 							</a>
 						</article>
 					))
@@ -508,12 +474,12 @@ const restPosts = allPosts.slice(9);
 						class="author-photo"
 						src="/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg"
 						alt="筆者ハル"
-						width="160"
-						height="160"
+						width="140"
+						height="140"
 					/>
 					<div>
 						<h2>筆者　ハル</h2>
-						<p class="author-tagline">元買取業界8年・累計査定3万点超</p>
+						<p class="tagline">元買取業界8年・累計査定3万点超</p>
 						<ul>
 							<li>買取業界の営業として複数社で<strong>計8年勤務</strong>（お酒・骨董品・ブランド品・貴金属・着物等）</li>
 							<li><strong>累計査定3万点超</strong>の現場経験</li>
@@ -525,22 +491,21 @@ const restPosts = allPosts.slice(9);
 				</div>
 			</section>
 
-			<!-- ===== 6記事 ===== -->
-			<section class="six-grid">
-				<h2 class="section-title">人気の記事</h2>
-				<p class="section-sub">業界人ならではの視点で、損しない売り方を本音で。</p>
-				<div class="six-cards">
+			<!-- ===== アーカイブ ===== -->
+			<section class="archive">
+				<h2>すべての記事</h2>
+				<div class="archive-grid">
 					{
-						next6.map((post) => (
-							<article class="mid-card">
+						allPosts.map((post) => (
+							<article class="small-card">
 								<a href={`/${post.id}/`}>
 									<div class="img-wrap">
 										{post.data.heroImage && (
 											<Image
 												src={post.data.heroImage}
 												alt={post.data.title}
-												width={500}
-												height={281}
+												width={400}
+												height={223}
 											/>
 										)}
 									</div>
@@ -554,40 +519,6 @@ const restPosts = allPosts.slice(9);
 							</article>
 						))
 					}
-				</div>
-			</section>
-
-			<!-- ===== アーカイブ ===== -->
-			<section class="archive">
-				<div class="archive-inner">
-					<h2 class="section-title">すべての記事</h2>
-					<p class="section-sub">全 {allPosts.length} 記事</p>
-					<div class="archive-grid">
-						{
-							restPosts.map((post) => (
-								<article class="small-card">
-									<a href={`/${post.id}/`}>
-										<div class="img-wrap">
-											{post.data.heroImage && (
-												<Image
-													src={post.data.heroImage}
-													alt={post.data.title}
-													width={400}
-													height={225}
-												/>
-											)}
-										</div>
-										<div class="body">
-											<div class="date">
-												<FormattedDate date={post.data.pubDate} />
-											</div>
-											<h3>{post.data.title}</h3>
-										</div>
-									</a>
-								</article>
-							))
-						}
-					</div>
 				</div>
 			</section>
 		</main>
