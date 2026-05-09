@@ -34,6 +34,14 @@ const { title, description, image = FallbackImage } = Astro.props;
 
 <Font cssVariable="--font-atkinson" preload />
 
+<!-- Noto Serif JP / Shippori Mincho（タイトル用の上品な和文セリフ） -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+	href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500;700;900&family=Shippori+Mincho:wght@600;800&display=swap"
+	rel="stylesheet"
+/>
+
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
 
