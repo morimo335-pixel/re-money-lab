@@ -79,12 +79,28 @@ const archive = allPosts.slice(6); // 残り
 				font-family: 'Shippori Mincho', 'Noto Serif JP', serif;
 				font-size: clamp(2em, 4.5vw, 3.6em);
 				font-weight: 800;
-				letter-spacing: 0.02em;
+				letter-spacing: 0.04em;
 				line-height: 1.25;
-				background: linear-gradient(120deg, #1E3A5F 0%, #2A4A75 30%, #C8923A 70%, #E8B658 100%);
+				background: linear-gradient(
+					135deg,
+					#1a1a1a 0%,
+					#3d2e1c 15%,
+					#7a5a30 35%,
+					#C8923A 55%,
+					#E8B658 70%,
+					#F5D88E 85%,
+					#C8923A 100%
+				);
+				background-size: 200% 100%;
 				-webkit-background-clip: text;
 				-webkit-text-fill-color: transparent;
 				background-clip: text;
+				filter: drop-shadow(0 2px 4px rgba(200, 146, 58, 0.2));
+				animation: shimmer 8s ease-in-out infinite;
+			}
+			@keyframes shimmer {
+				0%, 100% { background-position: 0% 50%; }
+				50% { background-position: 100% 50%; }
 			}
 			.title-section .tagline {
 				margin: 0;
