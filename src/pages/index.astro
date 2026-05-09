@@ -11,9 +11,10 @@ const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 
-// ピックアップ：最新3記事をフィーチャー
-const featured = allPosts.slice(0, 3);
-const restPosts = allPosts.slice(3);
+const top = allPosts[0];
+const next2 = allPosts.slice(1, 3);
+const next6 = allPosts.slice(3, 9);
+const restPosts = allPosts.slice(9);
 ---
 
 <!doctype html>
@@ -21,362 +22,404 @@ const restPosts = allPosts.slice(3);
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
+			:root {
+				--apple-text: #1d1d1f;
+				--apple-secondary: #6e6e73;
+				--apple-bg: #fbfbfd;
+				--apple-card: #f5f5f7;
+				--accent: #1E3A5F;
+				--gold: #C8923A;
+			}
 			body {
-				background: #FAF9F7;
+				background: #fff;
+				color: var(--apple-text);
+				font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'ヒラギノ角ゴ ProN W3', sans-serif;
+				-webkit-font-smoothing: antialiased;
 			}
 
-			/* ===== ヒーロー ===== */
+			/* ===== Heroセクション（巨大タイポ） ===== */
 			.hero {
-				position: relative;
-				background:
-					linear-gradient(135deg, rgba(30, 58, 95, 0.95) 0%, rgba(42, 74, 117, 0.95) 100%),
-					radial-gradient(circle at 20% 30%, rgba(200, 146, 58, 0.15) 0%, transparent 40%);
-				color: #fff;
-				padding: 5em 1em 4em;
+				background: linear-gradient(180deg, #fbfbfd 0%, #fff 100%);
+				padding: 6.5em 1em 5em;
 				text-align: center;
-				overflow: hidden;
-			}
-			.hero::before {
-				content: '';
-				position: absolute;
-				top: -50%;
-				right: -20%;
-				width: 60%;
-				height: 200%;
-				background: radial-gradient(ellipse, rgba(200, 146, 58, 0.18) 0%, transparent 60%);
-				pointer-events: none;
-			}
-			.hero-tag {
-				display: inline-block;
-				margin-bottom: 1.2em;
-				padding: 0.4em 1.2em;
-				background: rgba(232, 182, 88, 0.15);
-				border: 1px solid #C8923A;
-				border-radius: 20px;
-				color: #E8B658;
-				font-size: 0.78em;
-				letter-spacing: 0.1em;
-				font-weight: 500;
 			}
 			.hero h1 {
-				margin: 0 0 0.6em 0;
-				font-size: 2.2em;
-				color: #fff;
-				line-height: 1.5;
-				font-weight: 800;
-				letter-spacing: 0.02em;
+				margin: 0 0 0.4em;
+				font-size: clamp(2.3em, 6vw, 4em);
+				font-weight: 700;
+				line-height: 1.15;
+				letter-spacing: -0.02em;
+				color: var(--apple-text);
 			}
 			.hero h1 .accent {
-				color: #E8B658;
+				background: linear-gradient(135deg, #C8923A 0%, #E8B658 100%);
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+				background-clip: text;
 			}
-			.hero-lead {
-				margin: 0 auto 2em auto;
-				max-width: 620px;
-				color: #C7D3E0;
-				font-size: 1em;
-				line-height: 1.95;
-			}
-			.hero-stats {
-				display: flex;
-				justify-content: center;
-				gap: 2.5em;
-				flex-wrap: wrap;
-				margin-top: 2.2em;
-			}
-			.hero-stat {
-				text-align: center;
-			}
-			.hero-stat-num {
-				font-size: 2.2em;
-				font-weight: 800;
-				color: #E8B658;
-				line-height: 1;
-				font-variant-numeric: tabular-nums;
-			}
-			.hero-stat-num small {
-				font-size: 0.55em;
-				font-weight: 600;
-				margin-left: 0.15em;
-				color: #C8923A;
-			}
-			.hero-stat-label {
-				font-size: 0.78em;
-				color: #B5C2D0;
-				margin-top: 0.4em;
-				letter-spacing: 0.05em;
-			}
-
-			/* ===== セクション共通 ===== */
-			.section {
-				max-width: 1080px;
+			.hero p {
 				margin: 0 auto;
-				padding: 3em 1em;
+				max-width: 640px;
+				font-size: clamp(1.05em, 1.4vw, 1.25em);
+				line-height: 1.6;
+				color: var(--apple-secondary);
+				font-weight: 400;
 			}
-			.section-head {
-				display: flex;
-				align-items: baseline;
-				justify-content: space-between;
-				gap: 1em;
-				margin-bottom: 1.6em;
-				padding-bottom: 0.8em;
-				border-bottom: 1px solid #E5E0D5;
+			.hero .hero-meta {
+				display: inline-flex;
+				gap: 1.5em;
+				margin-top: 2.5em;
+				flex-wrap: wrap;
+				justify-content: center;
 			}
-			.section-title {
-				margin: 0;
-				color: #1E3A5F;
-				font-size: 1.45em;
-				font-weight: 800;
-				letter-spacing: 0.02em;
-				display: flex;
+			.hero-meta span {
+				display: inline-flex;
 				align-items: center;
-				gap: 0.5em;
-			}
-			.section-title::before {
-				content: '';
-				width: 4px;
-				height: 1.1em;
-				background: linear-gradient(180deg, #C8923A, #E0AC4D);
-				border-radius: 2px;
-			}
-			.section-sub {
+				gap: 0.4em;
 				font-size: 0.85em;
-				color: #888;
+				color: var(--apple-secondary);
+			}
+			.hero-meta span::before {
+				content: '✓';
+				color: var(--gold);
+				font-weight: 700;
 			}
 
-			/* ===== 注目記事（大きめカード3つ） ===== */
-			.featured-grid {
-				display: grid;
-				grid-template-columns: 2fr 1fr 1fr;
-				gap: 1.4em;
+			/* ===== トップ記事（巨大ヒーロー型） ===== */
+			.top-article {
+				max-width: 1180px;
+				margin: 2em auto 5em;
+				padding: 0 1em;
 			}
-			.featured-card {
-				background: #fff;
-				border-radius: 12px;
-				overflow: hidden;
-				box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
-				transition: transform 0.25s, box-shadow 0.25s;
-				position: relative;
-			}
-			.featured-card:hover {
-				transform: translateY(-4px);
-				box-shadow: 0 10px 28px rgba(0, 0, 0, 0.12);
-			}
-			.featured-card a {
+			.top-article a {
+				display: block;
 				text-decoration: none;
 				color: inherit;
-				display: block;
-				height: 100%;
-			}
-			.featured-card.main {
-				grid-row: span 2;
-			}
-			.featured-card .img-wrap {
-				position: relative;
+				border-radius: 28px;
 				overflow: hidden;
-				background: #F0EDE5;
+				background: var(--apple-card);
+				transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+				position: relative;
 			}
-			.featured-card .img-wrap img {
+			.top-article a:hover {
+				transform: translateY(-4px);
+			}
+			.top-article .img-wrap {
+				aspect-ratio: 21 / 9;
+				overflow: hidden;
+				background: #ddd;
+			}
+			.top-article .img-wrap img {
 				width: 100%;
 				height: 100%;
 				object-fit: cover;
-				display: block;
-				transition: transform 0.4s;
+				transition: transform 0.6s;
 			}
-			.featured-card:hover .img-wrap img {
+			.top-article a:hover .img-wrap img {
 				transform: scale(1.04);
 			}
-			.featured-card.main .img-wrap {
-				aspect-ratio: 16 / 10;
+			.top-article .body {
+				padding: 2.5em 2em;
+				text-align: center;
 			}
-			.featured-card:not(.main) .img-wrap {
-				aspect-ratio: 16 / 9;
-			}
-			.featured-card .body {
-				padding: 1.1em 1.3em 1.3em;
-			}
-			.featured-card .pickup-badge {
+			.top-article .badge {
 				display: inline-block;
-				padding: 2px 10px;
-				background: linear-gradient(135deg, #C8923A, #E0AC4D);
+				padding: 4px 14px;
+				background: var(--accent);
 				color: #fff;
-				font-size: 0.68em;
-				font-weight: 700;
-				border-radius: 3px;
-				letter-spacing: 0.08em;
-				margin-bottom: 0.6em;
-			}
-			.featured-card .date {
-				display: block;
-				font-size: 0.76em;
-				color: #999;
-				margin-bottom: 0.5em;
-			}
-			.featured-card.main h3 {
-				font-size: 1.22em;
-				color: #1E3A5F;
-				margin: 0;
-				line-height: 1.55;
-				font-weight: 800;
-			}
-			.featured-card:not(.main) h3 {
-				font-size: 0.95em;
-				color: #1E3A5F;
-				margin: 0;
-				line-height: 1.5;
-				font-weight: 700;
-			}
-
-			/* ===== 著者紹介帯 ===== */
-			.author-band {
-				background: linear-gradient(135deg, #FFF8E7 0%, #F8F4E6 100%);
-				border-top: 1px solid #E5DBC2;
-				border-bottom: 1px solid #E5DBC2;
-				padding: 2.5em 1em;
-			}
-			.author-inner {
-				max-width: 800px;
-				margin: 0 auto;
-				display: flex;
-				align-items: center;
-				gap: 1.8em;
-			}
-			.author-photo {
-				flex-shrink: 0;
-				width: 120px;
-				height: 120px;
-				border-radius: 50%;
-				border: 4px solid #C8923A;
-				object-fit: cover;
-				box-shadow: 0 4px 14px rgba(200, 146, 58, 0.3);
-			}
-			.author-text h3 {
-				margin: 0 0 0.5em 0;
-				color: #1E3A5F;
-				font-size: 1.15em;
-				font-weight: 800;
-			}
-			.author-text h3 .author-mini-tag {
 				font-size: 0.7em;
-				color: #C8923A;
-				margin-left: 0.6em;
-				font-weight: 600;
+				font-weight: 700;
+				letter-spacing: 0.15em;
+				border-radius: 50px;
+				margin-bottom: 1em;
 			}
-			.author-text p {
-				margin: 0;
-				color: #555;
-				line-height: 1.85;
-				font-size: 0.92em;
+			.top-article h2 {
+				margin: 0 0 0.4em;
+				font-size: clamp(1.5em, 3vw, 2.2em);
+				font-weight: 700;
+				color: var(--apple-text);
+				line-height: 1.35;
+				letter-spacing: -0.01em;
 			}
-			.author-credentials {
-				display: flex;
-				gap: 0.5em;
-				flex-wrap: wrap;
-				margin-top: 0.8em;
-			}
-			.author-credentials span {
-				background: #fff;
-				border: 1px solid #C8923A;
-				color: #C8923A;
-				padding: 0.2em 0.7em;
-				border-radius: 12px;
-				font-size: 0.75em;
-				font-weight: 600;
+			.top-article .date {
+				font-size: 0.85em;
+				color: var(--apple-secondary);
 			}
 
-			/* ===== 全記事グリッド ===== */
-			.posts-grid {
+			/* ===== 2カード（中型） ===== */
+			.duo-grid {
+				max-width: 1180px;
+				margin: 0 auto 5em;
+				padding: 0 1em;
 				display: grid;
-				grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+				grid-template-columns: 1fr 1fr;
 				gap: 1.4em;
 			}
-			.post-card {
-				background: #fff;
-				border-radius: 10px;
-				overflow: hidden;
-				box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
-				transition: transform 0.2s, box-shadow 0.2s;
-			}
-			.post-card:hover {
-				transform: translateY(-3px);
-				box-shadow: 0 8px 22px rgba(0, 0, 0, 0.1);
-			}
-			.post-card a {
+			.duo-card a {
+				display: block;
 				text-decoration: none;
 				color: inherit;
-				display: block;
+				border-radius: 22px;
+				overflow: hidden;
+				background: var(--apple-card);
+				transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 			}
-			.post-card .img-wrap {
+			.duo-card a:hover {
+				transform: translateY(-3px);
+			}
+			.duo-card .img-wrap {
 				aspect-ratio: 16 / 9;
 				overflow: hidden;
-				background: #F0EDE5;
+				background: #ddd;
 			}
-			.post-card .img-wrap img {
+			.duo-card .img-wrap img {
 				width: 100%;
 				height: 100%;
 				object-fit: cover;
-				transition: transform 0.4s;
-				display: block;
+				transition: transform 0.6s;
 			}
-			.post-card:hover .img-wrap img {
+			.duo-card a:hover .img-wrap img {
 				transform: scale(1.05);
 			}
-			.post-card-body {
-				padding: 1em 1.1em 1.3em;
+			.duo-card .body {
+				padding: 1.8em 1.6em;
 			}
-			.post-card-date {
-				font-size: 0.75em;
-				color: #999;
-				margin: 0 0 0.4em 0;
-			}
-			.post-card-title {
-				font-size: 0.95em;
-				color: #1E3A5F;
-				margin: 0;
-				line-height: 1.55;
+			.duo-card h3 {
+				margin: 0.5em 0 0.4em;
+				font-size: 1.3em;
 				font-weight: 700;
+				color: var(--apple-text);
+				line-height: 1.45;
+				letter-spacing: -0.005em;
+			}
+			.duo-card .date {
+				font-size: 0.78em;
+				color: var(--apple-secondary);
+			}
+
+			/* ===== 著者プロフィール（Apple風カード） ===== */
+			.author-section {
+				background: var(--apple-bg);
+				padding: 5em 1em;
+			}
+			.author-card {
+				max-width: 920px;
+				margin: 0 auto;
+				background: #fff;
+				border-radius: 28px;
+				padding: 3em;
+				box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+				display: grid;
+				grid-template-columns: auto 1fr;
+				gap: 2.5em;
+				align-items: center;
+			}
+			.author-photo {
+				width: 160px;
+				height: 160px;
+				border-radius: 50%;
+				object-fit: cover;
+				border: 4px solid #f0e6d2;
+			}
+			.author-card h2 {
+				margin: 0 0 0.2em;
+				font-size: 1.6em;
+				font-weight: 700;
+				color: var(--apple-text);
+				letter-spacing: -0.01em;
+			}
+			.author-card .author-tagline {
+				margin: 0 0 1.2em;
+				color: var(--gold);
+				font-size: 0.95em;
+				font-weight: 600;
+				letter-spacing: 0.02em;
+			}
+			.author-card ul {
+				margin: 0;
+				padding: 0;
+				list-style: none;
+			}
+			.author-card li {
+				padding: 0.5em 0 0.5em 1.5em;
+				position: relative;
+				color: var(--apple-text);
+				line-height: 1.65;
+				font-size: 0.95em;
+			}
+			.author-card li::before {
+				content: '';
+				position: absolute;
+				left: 0;
+				top: 1em;
+				width: 6px;
+				height: 6px;
+				background: var(--gold);
+				border-radius: 50%;
+			}
+			.author-card li strong {
+				color: var(--accent);
+				font-weight: 700;
+			}
+
+			/* ===== 6記事カード（中) ===== */
+			.six-grid {
+				max-width: 1180px;
+				margin: 5em auto;
+				padding: 0 1em;
+			}
+			.section-title {
+				margin: 0 0 1.5em;
+				font-size: clamp(1.6em, 2.5vw, 2.2em);
+				font-weight: 700;
+				letter-spacing: -0.01em;
+				color: var(--apple-text);
+				text-align: center;
+			}
+			.section-sub {
+				margin: 0 auto 2.5em;
+				text-align: center;
+				font-size: 1em;
+				color: var(--apple-secondary);
+				max-width: 540px;
+			}
+			.six-cards {
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				gap: 1.4em;
+			}
+			.mid-card a {
+				display: block;
+				text-decoration: none;
+				color: inherit;
+				border-radius: 18px;
+				overflow: hidden;
+				background: var(--apple-card);
+				transition: transform 0.4s;
+			}
+			.mid-card a:hover {
+				transform: translateY(-3px);
+			}
+			.mid-card .img-wrap {
+				aspect-ratio: 16 / 9;
+				overflow: hidden;
+				background: #ddd;
+			}
+			.mid-card .img-wrap img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				transition: transform 0.5s;
+			}
+			.mid-card a:hover .img-wrap img {
+				transform: scale(1.05);
+			}
+			.mid-card .body {
+				padding: 1.3em 1.4em 1.6em;
+			}
+			.mid-card .date {
+				font-size: 0.75em;
+				color: var(--apple-secondary);
+				margin-bottom: 0.4em;
+			}
+			.mid-card h3 {
+				margin: 0;
+				font-size: 1em;
+				font-weight: 600;
+				line-height: 1.5;
+				color: var(--apple-text);
+			}
+
+			/* ===== アーカイブ（小さめ） ===== */
+			.archive {
+				background: var(--apple-bg);
+				padding: 5em 1em 6em;
+			}
+			.archive-inner {
+				max-width: 1180px;
+				margin: 0 auto;
+			}
+			.archive-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+				gap: 1.2em;
+			}
+			.small-card a {
+				display: block;
+				text-decoration: none;
+				color: inherit;
+				border-radius: 14px;
+				overflow: hidden;
+				background: #fff;
+				transition: transform 0.3s, box-shadow 0.3s;
+			}
+			.small-card a:hover {
+				transform: translateY(-2px);
+				box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+			}
+			.small-card .img-wrap {
+				aspect-ratio: 16 / 9;
+				overflow: hidden;
+				background: #ddd;
+			}
+			.small-card .img-wrap img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+			}
+			.small-card .body {
+				padding: 0.9em 1em 1.1em;
+			}
+			.small-card .date {
+				font-size: 0.7em;
+				color: var(--apple-secondary);
+				margin-bottom: 0.3em;
+			}
+			.small-card h3 {
+				margin: 0;
+				font-size: 0.85em;
+				font-weight: 600;
+				line-height: 1.5;
+				color: var(--apple-text);
 			}
 
 			/* ===== レスポンシブ ===== */
 			@media (max-width: 900px) {
-				.featured-grid {
-					grid-template-columns: 1fr 1fr;
-				}
-				.featured-card.main {
-					grid-row: auto;
-					grid-column: span 2;
-				}
-			}
-			@media (max-width: 720px) {
-				.hero {
-					padding: 3.5em 1em 2.8em;
-				}
-				.hero h1 {
-					font-size: 1.55em;
-				}
-				.hero-stats {
-					gap: 1.4em;
-				}
-				.hero-stat-num {
-					font-size: 1.6em;
-				}
-				.featured-grid {
+				.duo-grid {
 					grid-template-columns: 1fr;
 				}
-				.featured-card.main {
-					grid-column: span 1;
+				.six-cards {
+					grid-template-columns: repeat(2, 1fr);
 				}
-				.featured-card.main h3 {
-					font-size: 1.05em;
-				}
-				.author-inner {
-					flex-direction: column;
+				.author-card {
+					grid-template-columns: 1fr;
+					padding: 2em 1.5em;
 					text-align: center;
 				}
-				.author-credentials {
-					justify-content: center;
+				.author-photo {
+					margin: 0 auto;
 				}
-				.section-title {
-					font-size: 1.2em;
+				.author-card ul {
+					text-align: left;
+					margin-top: 0.5em;
+				}
+			}
+			@media (max-width: 560px) {
+				.hero {
+					padding: 4em 1em 3em;
+				}
+				.top-article .body {
+					padding: 1.6em 1.2em;
+				}
+				.duo-card .body {
+					padding: 1.4em 1.2em;
+				}
+				.six-cards {
+					grid-template-columns: 1fr;
+				}
+				.archive-grid {
+					grid-template-columns: 1fr 1fr;
+					gap: 0.9em;
 				}
 			}
 		</style>
@@ -384,102 +427,111 @@ const restPosts = allPosts.slice(3);
 	<body>
 		<Header />
 		<main>
-			<!-- ===== ヒーロー ===== -->
+			<!-- ===== Hero（巨大タイポ・余白多め） ===== -->
 			<section class="hero">
-				<span class="hero-tag">📚 元業界人による本音メディア</span>
 				<h1>
-					不用品を<span class="accent">後悔せず</span>売る、<br />
-					業界の<span class="accent">本音</span>。
+					不用品を、<br />
+					<span class="accent">後悔せず売る。</span>
 				</h1>
-				<p class="hero-lead">
-					着物・骨董・ブランド・遺品整理まで。<br />
-					元買取営業8年・累計査定3万点超のハルが、損しないための実践情報を業界の裏側から本音で解説します。
+				<p>
+					元買取業界8年・累計査定3万点超のハルが、業界の裏側から本音で解説。<br />
+					着物・骨董・ブランド・遺品整理まで、損しないための実践情報を。
 				</p>
-				<div class="hero-stats">
-					<div class="hero-stat">
-						<div class="hero-stat-num">8<small>年</small></div>
-						<div class="hero-stat-label">買取業界経験</div>
-					</div>
-					<div class="hero-stat">
-						<div class="hero-stat-num">3<small>万点超</small></div>
-						<div class="hero-stat-label">累計査定実績</div>
-					</div>
-					<div class="hero-stat">
-						<div class="hero-stat-num">14<small>品目</small></div>
-						<div class="hero-stat-label">完全網羅</div>
-					</div>
+				<div class="hero-meta">
+					<span>業界8年</span>
+					<span>累計査定3万点超</span>
+					<span>古物商許可保有</span>
+					<span>14品目を完全網羅</span>
 				</div>
 			</section>
 
-			<!-- ===== 注目記事 ===== -->
-			<section class="section">
-				<div class="section-head">
-					<h2 class="section-title">注目記事</h2>
-					<span class="section-sub">編集部が今読んでほしい3本</span>
-				</div>
-				<div class="featured-grid">
-					{
-						featured.map((post, i) => (
-							<article class={`featured-card ${i === 0 ? 'main' : ''}`}>
-								<a href={`/${post.id}/`}>
-									<div class="img-wrap">
-										{post.data.heroImage && (
-											<Image
-												src={post.data.heroImage}
-												alt={post.data.title}
-												width={i === 0 ? 720 : 360}
-												height={i === 0 ? 450 : 203}
-											/>
-										)}
+			<!-- ===== トップ記事（巨大ヒーロー型） ===== -->
+			{
+				top && (
+					<section class="top-article">
+						<a href={`/${top.id}/`}>
+							<div class="img-wrap">
+								{top.data.heroImage && (
+									<Image
+										src={top.data.heroImage}
+										alt={top.data.title}
+										width={1376}
+										height={590}
+									/>
+								)}
+							</div>
+							<div class="body">
+								<span class="badge">最新記事</span>
+								<h2>{top.data.title}</h2>
+								<div class="date">
+									<FormattedDate date={top.data.pubDate} />
+								</div>
+							</div>
+						</a>
+					</section>
+				)
+			}
+
+			<!-- ===== 2カード ===== -->
+			<section class="duo-grid">
+				{
+					next2.map((post) => (
+						<article class="duo-card">
+							<a href={`/${post.id}/`}>
+								<div class="img-wrap">
+									{post.data.heroImage && (
+										<Image
+											src={post.data.heroImage}
+											alt={post.data.title}
+											width={688}
+											height={387}
+										/>
+									)}
+								</div>
+								<div class="body">
+									<div class="date">
+										<FormattedDate date={post.data.pubDate} />
 									</div>
-									<div class="body">
-										<span class="pickup-badge">PICKUP</span>
-										<span class="date">
-											<FormattedDate date={post.data.pubDate} />
-										</span>
-										<h3>{post.data.title}</h3>
-									</div>
-								</a>
-							</article>
-						))
-					}
-				</div>
+									<h3>{post.data.title}</h3>
+								</div>
+							</a>
+						</article>
+					))
+				}
 			</section>
 
-			<!-- ===== 著者紹介 ===== -->
-			<section class="author-band">
-				<div class="author-inner">
+			<!-- ===== 著者プロフィール ===== -->
+			<section class="author-section">
+				<div class="author-card">
 					<img
 						class="author-photo"
 						src="/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg"
 						alt="筆者ハル"
-						width="120"
-						height="120"
+						width="160"
+						height="160"
 					/>
-					<div class="author-text">
-						<h3>筆者　ハル<span class="author-mini-tag">元買取業界8年</span></h3>
-						<p>
-							買取業界の営業として複数社で計8年勤務。お酒・骨董品・ブランド品・貴金属・着物等を中心に累計査定3万点超。廃品回収業界での実務経験もあり、業界の内側を知る目線で読者の損を防ぐことを軸に執筆しています。
-						</p>
-						<div class="author-credentials">
-							<span>✓ 古物商許可保有</span>
-							<span>✓ 累計査定3万点超</span>
-							<span>✓ 業界8年</span>
-						</div>
+					<div>
+						<h2>筆者　ハル</h2>
+						<p class="author-tagline">元買取業界8年・累計査定3万点超</p>
+						<ul>
+							<li>買取業界の営業として複数社で<strong>計8年勤務</strong>（お酒・骨董品・ブランド品・貴金属・着物等）</li>
+							<li><strong>累計査定3万点超</strong>の現場経験</li>
+							<li>廃品回収業界での実務経験もあり</li>
+							<li><strong>古物商許可保有</strong></li>
+							<li>業界の内側を知る目線で、読者の損を防ぐことを軸に執筆</li>
+						</ul>
 					</div>
 				</div>
 			</section>
 
-			<!-- ===== 全記事 ===== -->
-			<section class="section">
-				<div class="section-head">
-					<h2 class="section-title">記事一覧</h2>
-					<span class="section-sub">全 {allPosts.length} 記事</span>
-				</div>
-				<div class="posts-grid">
+			<!-- ===== 6記事 ===== -->
+			<section class="six-grid">
+				<h2 class="section-title">人気の記事</h2>
+				<p class="section-sub">業界人ならではの視点で、損しない売り方を本音で。</p>
+				<div class="six-cards">
 					{
-						restPosts.map((post) => (
-							<article class="post-card">
+						next6.map((post) => (
+							<article class="mid-card">
 								<a href={`/${post.id}/`}>
 									<div class="img-wrap">
 										{post.data.heroImage && (
@@ -491,16 +543,50 @@ const restPosts = allPosts.slice(3);
 											/>
 										)}
 									</div>
-									<div class="post-card-body">
-										<p class="post-card-date">
+									<div class="body">
+										<div class="date">
 											<FormattedDate date={post.data.pubDate} />
-										</p>
-										<h3 class="post-card-title">{post.data.title}</h3>
+										</div>
+										<h3>{post.data.title}</h3>
 									</div>
 								</a>
 							</article>
 						))
 					}
+				</div>
+			</section>
+
+			<!-- ===== アーカイブ ===== -->
+			<section class="archive">
+				<div class="archive-inner">
+					<h2 class="section-title">すべての記事</h2>
+					<p class="section-sub">全 {allPosts.length} 記事</p>
+					<div class="archive-grid">
+						{
+							restPosts.map((post) => (
+								<article class="small-card">
+									<a href={`/${post.id}/`}>
+										<div class="img-wrap">
+											{post.data.heroImage && (
+												<Image
+													src={post.data.heroImage}
+													alt={post.data.title}
+													width={400}
+													height={225}
+												/>
+											)}
+										</div>
+										<div class="body">
+											<div class="date">
+												<FormattedDate date={post.data.pubDate} />
+											</div>
+											<h3>{post.data.title}</h3>
+										</div>
+									</a>
+								</article>
+							))
+						}
+					</div>
 				</div>
 			</section>
 		</main>
