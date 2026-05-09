@@ -37,75 +37,69 @@ const restPosts = allPosts.slice(9);
 				-webkit-font-smoothing: antialiased;
 			}
 
-			/* ===== Heroセクション（巨大タイポ） ===== */
+			/* ===== Heroセクション（Apple風 タイト&洗練） ===== */
 			.hero {
 				background: linear-gradient(180deg, #fbfbfd 0%, #fff 100%);
-				padding: 6.5em 1em 5em;
+				padding: 4.5em 1em 3em;
 				text-align: center;
 			}
 			.hero h1 {
-				margin: 0 0 0.4em;
-				font-size: clamp(2.3em, 6vw, 4em);
+				margin: 0 0 0.5em;
+				font-size: clamp(2em, 4.5vw, 3.2em);
 				font-weight: 700;
 				line-height: 1.15;
-				letter-spacing: -0.02em;
+				letter-spacing: -0.022em;
 				color: var(--apple-text);
 			}
 			.hero h1 .accent {
-				background: linear-gradient(135deg, #C8923A 0%, #E8B658 100%);
-				-webkit-background-clip: text;
-				-webkit-text-fill-color: transparent;
-				background-clip: text;
+				color: var(--gold);
 			}
 			.hero p {
 				margin: 0 auto;
-				max-width: 640px;
-				font-size: clamp(1.05em, 1.4vw, 1.25em);
-				line-height: 1.6;
+				max-width: 620px;
+				font-size: clamp(0.98em, 1.2vw, 1.15em);
+				line-height: 1.55;
 				color: var(--apple-secondary);
 				font-weight: 400;
 			}
 			.hero .hero-meta {
 				display: inline-flex;
-				gap: 1.5em;
-				margin-top: 2.5em;
+				gap: 0.7em;
+				margin-top: 1.8em;
 				flex-wrap: wrap;
 				justify-content: center;
 			}
 			.hero-meta span {
-				display: inline-flex;
-				align-items: center;
-				gap: 0.4em;
-				font-size: 0.85em;
-				color: var(--apple-secondary);
-			}
-			.hero-meta span::before {
-				content: '✓';
-				color: var(--gold);
-				font-weight: 700;
+				padding: 0.35em 0.9em;
+				background: #f5f5f7;
+				border-radius: 50px;
+				font-size: 0.78em;
+				color: var(--apple-text);
+				font-weight: 500;
+				letter-spacing: 0.01em;
 			}
 
-			/* ===== トップ記事（巨大ヒーロー型） ===== */
+			/* ===== トップ記事（Apple風 16:9 大型） ===== */
 			.top-article {
-				max-width: 1180px;
-				margin: 2em auto 5em;
+				max-width: 1080px;
+				margin: 1em auto 4em;
 				padding: 0 1em;
 			}
 			.top-article a {
 				display: block;
 				text-decoration: none;
 				color: inherit;
-				border-radius: 28px;
+				border-radius: 22px;
 				overflow: hidden;
 				background: var(--apple-card);
 				transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 				position: relative;
 			}
 			.top-article a:hover {
-				transform: translateY(-4px);
+				transform: translateY(-3px);
 			}
 			.top-article .img-wrap {
-				aspect-ratio: 21 / 9;
+				aspect-ratio: 16 / 9;
 				overflow: hidden;
 				background: #ddd;
 			}
@@ -119,31 +113,44 @@ const restPosts = allPosts.slice(9);
 				transform: scale(1.04);
 			}
 			.top-article .body {
-				padding: 2.5em 2em;
+				padding: 2em 1.8em;
 				text-align: center;
 			}
 			.top-article .badge {
 				display: inline-block;
-				padding: 4px 14px;
+				padding: 3px 12px;
 				background: var(--accent);
 				color: #fff;
-				font-size: 0.7em;
+				font-size: 0.66em;
 				font-weight: 700;
-				letter-spacing: 0.15em;
+				letter-spacing: 0.12em;
 				border-radius: 50px;
-				margin-bottom: 1em;
+				margin-bottom: 0.8em;
 			}
 			.top-article h2 {
-				margin: 0 0 0.4em;
-				font-size: clamp(1.5em, 3vw, 2.2em);
+				margin: 0 0 0.5em;
+				font-size: clamp(1.3em, 2.4vw, 1.85em);
 				font-weight: 700;
 				color: var(--apple-text);
 				line-height: 1.35;
-				letter-spacing: -0.01em;
+				letter-spacing: -0.012em;
+				max-width: 720px;
+				margin-left: auto;
+				margin-right: auto;
 			}
 			.top-article .date {
-				font-size: 0.85em;
+				font-size: 0.82em;
 				color: var(--apple-secondary);
+			}
+			.top-article .read-more {
+				display: inline-block;
+				margin-top: 1em;
+				color: #0066cc;
+				font-size: 0.92em;
+				font-weight: 500;
+			}
+			.top-article .read-more::after {
+				content: ' ›';
 			}
 
 			/* ===== 2カード（中型） ===== */
@@ -427,21 +434,18 @@ const restPosts = allPosts.slice(9);
 	<body>
 		<Header />
 		<main>
-			<!-- ===== Hero（巨大タイポ・余白多め） ===== -->
+			<!-- ===== Hero（Apple風コンパクト） ===== -->
 			<section class="hero">
-				<h1>
-					不用品を、<br />
-					<span class="accent">後悔せず売る。</span>
-				</h1>
+				<h1>不用品を、<span class="accent">後悔せず売る。</span></h1>
 				<p>
-					元買取業界8年・累計査定3万点超のハルが、業界の裏側から本音で解説。<br />
-					着物・骨董・ブランド・遺品整理まで、損しないための実践情報を。
+					元買取業界8年・累計査定3万点超。業界の裏側から本音で解説する、
+					着物・骨董・ブランド・遺品整理の実践メディア。
 				</p>
 				<div class="hero-meta">
 					<span>業界8年</span>
 					<span>累計査定3万点超</span>
 					<span>古物商許可保有</span>
-					<span>14品目を完全網羅</span>
+					<span>14品目網羅</span>
 				</div>
 			</section>
 
@@ -466,6 +470,7 @@ const restPosts = allPosts.slice(9);
 								<div class="date">
 									<FormattedDate date={top.data.pubDate} />
 								</div>
+								<span class="read-more">続きを読む</span>
 							</div>
 						</a>
 					</section>
