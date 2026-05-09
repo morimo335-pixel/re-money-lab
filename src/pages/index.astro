@@ -82,21 +82,20 @@ const archive = allPosts.slice(6); // 残り
 				letter-spacing: 0.04em;
 				line-height: 1.25;
 				background: linear-gradient(
-					135deg,
-					#1a1a1a 0%,
-					#3d2e1c 15%,
-					#7a5a30 35%,
-					#C8923A 55%,
-					#E8B658 70%,
-					#F5D88E 85%,
-					#C8923A 100%
+					120deg,
+					#FF6B9D 0%,
+					#FF8C42 25%,
+					#FFB347 45%,
+					#FFD700 65%,
+					#FFC1B6 85%,
+					#FF8FA8 100%
 				);
 				background-size: 200% 100%;
 				-webkit-background-clip: text;
 				-webkit-text-fill-color: transparent;
 				background-clip: text;
-				filter: drop-shadow(0 2px 4px rgba(200, 146, 58, 0.2));
-				animation: shimmer 8s ease-in-out infinite;
+				filter: drop-shadow(0 2px 8px rgba(255, 140, 66, 0.25));
+				animation: shimmer 7s ease-in-out infinite;
 			}
 			@keyframes shimmer {
 				0%, 100% { background-position: 0% 50%; }
@@ -269,12 +268,51 @@ const archive = allPosts.slice(6); // 残り
 				gap: 2.5em;
 				align-items: center;
 			}
+			.author-photo-wrap {
+				position: relative;
+				width: 220px;
+				height: 220px;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+			.author-photo-wrap::before {
+				content: '';
+				position: absolute;
+				inset: -8px;
+				border-radius: 50%;
+				background: conic-gradient(
+					from 0deg,
+					#FF6B9D,
+					#FF8C42,
+					#FFB347,
+					#FFD700,
+					#C8923A,
+					#E8B658,
+					#FF6B9D
+				);
+				z-index: 0;
+				animation: rotate-frame 12s linear infinite;
+			}
+			.author-photo-wrap::after {
+				content: '';
+				position: absolute;
+				inset: -2px;
+				border-radius: 50%;
+				background: #fff;
+				z-index: 1;
+			}
+			@keyframes rotate-frame {
+				to { transform: rotate(360deg); }
+			}
 			.author-photo {
-				width: 140px;
-				height: 140px;
+				position: relative;
+				width: 220px;
+				height: 220px;
 				border-radius: 50%;
 				object-fit: cover;
-				border: 4px solid #f5f5f7;
+				z-index: 2;
+				box-shadow: 0 8px 24px rgba(200, 146, 58, 0.18);
 			}
 			.author-card h2 {
 				margin: 0 0 0.2em;
@@ -485,13 +523,15 @@ const archive = allPosts.slice(6); // 残り
 			<!-- ===== 著者プロフィール ===== -->
 			<section class="author-section">
 				<div class="author-card">
-					<img
-						class="author-photo"
-						src="/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg"
-						alt="筆者ハル"
-						width="140"
-						height="140"
-					/>
+					<div class="author-photo-wrap">
+						<img
+							class="author-photo"
+							src="/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg"
+							alt="筆者ハル"
+							width="220"
+							height="220"
+						/>
+					</div>
 					<div>
 						<h2>筆者　ハル</h2>
 						<p class="tagline-author">元買取業界8年・累計査定3万点超</p>
