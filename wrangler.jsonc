@@ -2,10 +2,16 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "re-money-lab",
   "compatibility_date": "2025-12-01",
+  "workers_dev": true,
+  "preview_urls": true,
   "assets": {
     "directory": "./dist",
     "not_found_handling": "404-page"
   },
+  "routes": [
+    { "pattern": "re-money-lab.com", "custom_domain": true },
+    { "pattern": "www.re-money-lab.com", "custom_domain": true }
+  ],
   "observability": {
     "enabled": true
   }

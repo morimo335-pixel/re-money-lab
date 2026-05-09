@@ -1,0 +1,8 @@
+# re-money-lab.com robots.txt
+User-agent: *
+Allow: /
+
+# 検索エンジン全部歓迎
+# AIスクレイパーは Cloudflare AI Crawl Control 側で制御
+
+Sitemap: https://re-money-lab.com/sitemap-index.xml
