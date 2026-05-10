@@ -107,6 +107,57 @@ heroImage: '../../assets/blog/rikon-kekkonyubiwa.jpg'
 <div>離婚後の結婚指輪売却は「もう一度自分らしく生きるための合理的な選択」。約4割の女性が同じ判断をしている。</div>
 </div>
 
+<h2>婚約指輪は離婚で売る？返す？元業界人の結論</h2>
+
+<p>「離婚で結婚指輪は売る人が4割」とお伝えしましたが、<strong>婚約指輪はどうすればいいの？</strong>と迷われる方が非常に多いポイントです。「婚約指輪 売る 離婚」というキーワードは検索でもよく見られる頻出問題。結論からお伝えします。</p>
+
+<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
+<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
+<div>婚約指輪は法的には<strong>「妻への贈与」扱いが原則</strong>で、婚姻が成立した後の離婚なら<strong>返還義務はなし・売却OK</strong>。現場感覚では離婚時の婚約指輪の<strong>9割以上が売却</strong>を選択。ただし、揉めそうな場合は弁護士に相談するのが安全。</div>
+</div>
+
+<h3>法律上：婚約指輪は「贈与」扱いが原則</h3>
+
+<p>民法上、婚約指輪は「<strong>将来の婚姻成立を条件とした贈与</strong>」とされてきました。婚姻が成立した（一度でも入籍した）後の離婚なら、<strong>返還義務は原則ありません</strong>。例外として、結婚式前の婚約破棄（婚姻不成立）の場合のみ返還義務が生じます。</p>
+
+<p>※民法解釈は一般的な見解です。具体的なケースで揉めそうな場合は弁護士に相談してください。</p>
+
+<h3>業界人の現場感覚：離婚時の婚約指輪は9割以上が売却</h3>
+
+<p>私が現場で見てきた離婚に伴う指輪売却の現場感覚として、「婚約指輪を元配偶者に返した」というケースはほぼゼロです。理由はシンプルで、<strong>高価な物（30〜100万円が多い）を返すより、自分の再出発資金に充てたい心理が圧倒的</strong>だからです。</p>
+
+<p>元配偶者側も「返してほしい」と言うケースは稀。こだわって揉めるより穏便に手放す方が多い、というのが正直なところです。</p>
+
+<h3>「売る」「返す」「保管」「譲る」4つの選択肢</h3>
+
+<table style="width:100%;border-collapse:collapse;margin:18px 0;font-size:0.95em;">
+<thead>
+<tr style="background:#1E3A5F;color:#fff;">
+<th style="padding:10px;border:1px solid #ddd;text-align:left;">選択肢</th>
+<th style="padding:10px;border:1px solid #ddd;text-align:left;">推奨度</th>
+<th style="padding:10px;border:1px solid #ddd;text-align:left;">向いている人</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px;border:1px solid #ddd;"><strong>売る</strong></td><td style="padding:10px;border:1px solid #ddd;">⭐⭐⭐⭐⭐</td><td style="padding:10px;border:1px solid #ddd;">再出発資金を作りたい・物理的に手放したい</td></tr>
+<tr style="background:#F5F5F5;"><td style="padding:10px;border:1px solid #ddd;">返す</td><td style="padding:10px;border:1px solid #ddd;">⭐</td><td style="padding:10px;border:1px solid #ddd;">元配偶者と良好な関係・気持ちの整理を優先</td></tr>
+<tr><td style="padding:10px;border:1px solid #ddd;">保管</td><td style="padding:10px;border:1px solid #ddd;">⭐⭐</td><td style="padding:10px;border:1px solid #ddd;">娘に将来譲る予定がある</td></tr>
+<tr style="background:#F5F5F5;"><td style="padding:10px;border:1px solid #ddd;">寄付・譲渡</td><td style="padding:10px;border:1px solid #ddd;">⭐⭐⭐</td><td style="padding:10px;border:1px solid #ddd;">お金より気持ちの清算を優先</td></tr>
+</tbody>
+</table>
+
+<h3>売る場合に押さえておきたい3つのポイント</h3>
+
+<ul>
+<li>婚約指輪は<strong>購入時の保証書・鑑定書</strong>があると査定額が1.5倍に</li>
+<li>ダイヤモンドの<strong>カラット数・グレード・カット情報</strong>をスマホで撮影</li>
+<li>査定額に不満なら無理に売らずキャンセル可能（<strong>複数業者で相見積もり</strong>が鉄則）</li>
+</ul>
+
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<strong>💡 業界人ワンポイント：</strong>婚約指輪の返還義務について揉めそうな場合は、弁護士に相談するのが安全です。ただ、私の現場感覚では「返してほしい」と元配偶者から言われるケースは1割未満。ほとんどは穏便に売却で清算されています。
+</div>
+
 <h2>2026年の結婚指輪・婚約指輪 最新買取相場</h2>
 
 <p>「実際にいくらで売れるの？」が一番気になるところですよね。2026年は<strong>金・プラチナの価格が歴史的な高値圏</strong>にあり、5年前と比べて買取額が大幅にアップしています。</p>
@@ -290,6 +341,46 @@ heroImage: '../../assets/blog/rikon-kekkonyubiwa.jpg'
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <a href="https://re-money-lab.com/brandoff-evaluation/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 ブランドオフ宅配買取の評判は？元買取営業8年が業界人の視点で本音レビュー →</a>
+</div>
+
+<h2>よくある質問FAQ</h2>
+
+<p>離婚時の結婚指輪・婚約指輪売却で、お客様から実際によく聞かれる質問7つにお答えします。</p>
+
+<h3>Q1. 結婚指輪を離婚で売るのは元配偶者に伝える必要がある？</h3>
+
+<p>法的義務はありません。離婚成立後の指輪は妻の所有物として扱われるのが一般的です。<strong>離婚協議中</strong>の場合は財産分与の対象になる可能性があるため、協議が終わってから売却するのが無難です。</p>
+
+<h3>Q2. 婚約指輪は離婚時に返さないといけない？</h3>
+
+<p>民法上、<strong>婚姻が成立した後の離婚なら原則返還義務はありません</strong>。結婚式前の婚約破棄（婚姻不成立）の場合のみ返還義務が生じます。詳しくは本記事の「婚約指輪は離婚で売る？返す？元業界人の結論」セクションを参照してください。</p>
+
+<p>※民法解釈は一般的な見解です。揉めそうな場合は弁護士に相談を推奨します。</p>
+
+<h3>Q3. 刻印を消すと査定額はどれくらい下がる？</h3>
+
+<p>結論から言うと、<strong>査定額はほぼ下がりません</strong>。査定額は素材（金・プラチナ・ダイヤモンド）の市場価値で決まるからです。刻印は買取後に業者がリサイズや溶解時に消すので、消すコスト（5,000〜15,000円）をかけずに<strong>そのまま売る方がトータルで得</strong>です。</p>
+
+<h3>Q4. 相手が買った指輪を売って自分の収入にしていい？</h3>
+
+<p>離婚成立後の指輪は妻の所有物となるのが一般的です。離婚協議中の財産分与で「指輪は妻のもの」と確定していれば、<strong>売却益は妻の収入</strong>です。元配偶者の名義で買った指輪でも、贈与として渡されたものなら同じ扱いです。</p>
+
+<p>※税金や財産分与の具体的な扱いは、税理士・弁護士に相談してください。</p>
+
+<h3>Q5. 離婚協議中に指輪を売却していい？</h3>
+
+<p><strong>推奨しません</strong>。離婚協議中は財産分与の対象になる可能性があり、無断売却が後々のトラブルの原因になります。<strong>離婚成立まで保管→成立後に売却</strong>が最も安全です。</p>
+
+<h3>Q6. ノーブランドの結婚指輪でも買取してもらえる？</h3>
+
+<p>買取してもらえます。素材（金・プラチナ）の純度と重量で価値が決まるので、ノーブランドでも<strong>素材代として買取</strong>されます。プラチナ900の3gなら2〜3万円が目安。ブランド指輪（カルティエ・ティファニー等）はさらにブランド価値が乗ります。</p>
+
+<h3>Q7. 旧姓に戻ったが、刻印に新姓が入っている指輪も売れる？</h3>
+
+<p>売れます。<strong>買取業者は刻印を理由に拒否することはありません</strong>。査定後にリサイズや溶解で刻印は消えるので、新姓・旧姓どちらでも問題なし。「刻印があるから売れないかも」と心配する必要はゼロです。</p>
+
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<strong>💡 業界人ワンポイント：</strong>FAQの中で一番多いのが「Q3. 刻印を消すべき？」と「Q6. ノーブランドでも売れる？」の2問です。<strong>どちらも答えは「そのままで大丈夫」</strong>。査定前に余計な手間や費用をかけず、まず無料査定に出すのが時間効率的にも金額的にも一番得です。
 </div>
 
 <h2>まとめ｜売却で「過去の清算」と「再出発の資金」を同時に手に入れる</h2>
