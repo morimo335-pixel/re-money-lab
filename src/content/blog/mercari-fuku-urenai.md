@@ -46,9 +46,9 @@ heroImage: '../../assets/blog/mercari-fuku-urenai.jpg'
 <li><strong>状態説明がテンプレ任せ</strong>：「目立った傷や汚れなし」だけでは信用されません</li>
 <li><strong>再出品せず放置している</strong>：2〜3日伸びない商品は埋もれていく一方です</li>
 </ol>
-<blockquote>
-<p><strong>業界人として正直に言うと</strong>：私が現場で見てきた限り、売れない理由の7割は「写真とタイトル」です。商品の質より、<strong>見せ方で勝負がつく</strong>んですよ。</p>
-</blockquote>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<strong>💡 業界人ワンポイント：</strong>私が現場で見てきた限り、売れない理由の7割は「写真とタイトル」です。商品の質より、<strong>見せ方で勝負がつく</strong>んですよ。
+</div>
 <hr />
 <h2>【業界人視点】売れる服 vs 売れない服の見極め方</h2>
 <p>コツを実践すれば全部売れる、というわけでもありません。<strong>そもそもメルカリで値段がつく服と、つかない服がある</strong>んです。</p>
@@ -167,9 +167,9 @@ heroImage: '../../assets/blog/mercari-fuku-urenai.jpg'
 <p>梱包・発送1回で済むので時間も送料も節約できます。</p>
 <h3>第7条：再出品で検索上位に復帰する</h3>
 <p>2〜3日経って伸びない商品は、削除→改善→再出品で検索結果トップに戻ります。再出品の目安は1〜2週間に1度。値下げと組み合わせると効果倍増（値下げ通知が「いいね」した人に届きます）。</p>
-<blockquote>
-<p><strong>業界人として正直に言うと</strong>：この7条、実は「査定額を上げるコツ」とほぼ同じ思考です。買取業者でもメルカリでも、<strong>情報の透明性・状態・タイミング</strong>で勝負が決まります。査定額を上げる準備術はこちらに詳しくまとめています。</p>
-</blockquote>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<strong>💡 業界人ワンポイント：</strong>この7条、実は「査定額を上げるコツ」とほぼ同じ思考です。買取業者でもメルカリでも、<strong>情報の透明性・状態・タイミング</strong>で勝負が決まります。査定額を上げる準備術はこちらに詳しくまとめています。
+</div>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <p><a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜元買取営業8年が教える準備術 →</a>
@@ -217,9 +217,9 @@ heroImage: '../../assets/blog/mercari-fuku-urenai.jpg'
 </tbody>
 </table>
 <p>梱包は<strong>OPP袋（透明ビニール）→宅配ビニール袋やショップ袋</strong>で二重に。雨天対策の最低マナーです。OPP袋は100円ショップで揃えられます。</p>
-<blockquote>
-<p>配送料を50円ケチるだけで、3か月の利益が1万円違うこと、計算したことありますか？ここは初心者ほどサボりがちですが、リターンの大きいポイントです。</p>
-</blockquote>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<strong>💡 業界人ワンポイント：</strong>配送料を50円ケチるだけで、3か月の利益が1万円違うこと、計算したことありますか？ここは初心者ほどサボりがちですが、リターンの大きいポイントです。
+</div>
 <hr />
 <h2>それでも売れない服の出口戦略</h2>
 <p>ここまでの7条を実践しても、正直「売れない服」は存在します。買取現場で年間3,000着見てきた立場から、シビアな話をさせてください。</p>
