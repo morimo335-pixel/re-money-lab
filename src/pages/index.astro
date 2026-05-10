@@ -57,6 +57,24 @@ const archive = allPosts.slice(6); // 残り
 			}
 
 			/* ===== プロモバンド（最新記事告知） ===== */
+			.promo-highlight {
+				font-weight: 800;
+				background: linear-gradient(
+					120deg,
+					#E74C3C 0%,
+					#F39C12 16%,
+					#F1C40F 33%,
+					#27AE60 50%,
+					#3498DB 67%,
+					#5B6EE8 83%,
+					#9B59B6 100%
+				);
+				background-size: 200% 100%;
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+				background-clip: text;
+				animation: shimmer 7s ease-in-out infinite;
+			}
 			.promo-band {
 				background: var(--bg);
 				padding: 0.85em 1em;
@@ -493,7 +511,7 @@ const archive = allPosts.slice(6); // 残り
 			{
 				top && (
 					<div class="promo-band">
-						最新記事「{top.data.title.length > 28 ? top.data.title.slice(0, 28) + '…' : top.data.title}」<a href={`/${top.id}/`}>今すぐ読む</a>
+						<span class="promo-highlight">最新記事</span>「{top.data.title.length > 28 ? top.data.title.slice(0, 28) + '…' : top.data.title}」<a href={`/${top.id}/`}>今すぐ読む</a>
 					</div>
 				)
 			}
