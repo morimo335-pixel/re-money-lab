@@ -92,8 +92,8 @@ heroImage: '../../assets/blog/mercari-fuku-urenai.jpg'
 <h3>ノーブランドのリアル</h3>
 <p>買取店の現場では、ノーブランドのシャツは<strong>1点10円〜数百円</strong>。同じシャツがメルカリでは数千円つくこともあるので差は大きい。ただし<strong>買取店ですら値段がつかない服は、メルカリでも売れません</strong>。状態の悪い服や流行から外れた服は、出品しても時間だけ消費して終わるケースが多いです。</p>
 <p>そんな「単品で売れない服」をどうするかは、こちらの記事で5パターンを比較しています。</p>
-<div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#A87A3A;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <p><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法 →</a>
 </div>
 <hr />
@@ -170,8 +170,8 @@ heroImage: '../../assets/blog/mercari-fuku-urenai.jpg'
 <blockquote>
 <p><strong>業界人として正直に言うと</strong>：この7条、実は「査定額を上げるコツ」とほぼ同じ思考です。買取業者でもメルカリでも、<strong>情報の透明性・状態・タイミング</strong>で勝負が決まります。査定額を上げる準備術はこちらに詳しくまとめています。</p>
 </blockquote>
-<div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#A87A3A;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <p><a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜元買取営業8年が教える準備術 →</a>
 </div>
 <hr />
@@ -234,8 +234,8 @@ heroImage: '../../assets/blog/mercari-fuku-urenai.jpg'
 <h3>服のジャンル別「賢い売り方」</h3>
 <p>そこで、ジャンル別に売り方を変えるのが業界人の発想です。</p>
 <p>特にノースフェイス・ヴィトンなどの高単価ブランドは、メルカリで数万〜数十万円つく一方、撮影・質問対応・梱包の手間も比例して増えます。<strong>時間を時給換算すると、専門買取業者の方が結果的にお得</strong>というケースは買取現場でも多く見てきました。</p>
-<div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#A87A3A;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <p><a href="https://re-money-lab.com/brandoff-evaluation/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 ブランドオフ宅配買取の評判は？元買取営業8年が業界人の視点で本音レビュー →</a>
 </div>
 <table>
@@ -261,8 +261,8 @@ heroImage: '../../assets/blog/mercari-fuku-urenai.jpg'
 </tbody>
 </table>
 <p>着物のような専門アイテムは、メルカリより専門業者の方が圧倒的に高値がつきます。</p>
-<div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#A87A3A;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <p><a href="https://re-money-lab.com/kimono-uru-osusume/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 着物を売るならどこ？元買取営業8年が本気でおすすめする業者の選び方 →</a>
 </div>
 
@@ -284,8 +284,8 @@ heroImage: '../../assets/blog/mercari-fuku-urenai.jpg'
 <p><strong>メルカリは万能じゃありません</strong>。1着300円の服を撮影・梱包・発送に1時間かけるなら、その時間でパートに出た方が稼げます。「割に合わない」と感じたら、出口戦略を変えるのが賢明です。</p>
 <p>買取業者を使えば写真撮影・梱包・発送の手間はゼロ。出張買取なら家から一歩も出ずに完了します。</p>
 <p>メルカリ以外の売り方も含めた5パターン比較は、こちらでまとめています。</p>
-<div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#A87A3A;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <p><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法 →</a>
 </div>
 
@@ -326,12 +326,12 @@ heroImage: '../../assets/blog/mercari-fuku-urenai.jpg'
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
 </div>
 </div>
-<div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#A87A3A;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <p><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法 →</a>
 </div>
-<div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#A87A3A;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <p><a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜元買取営業8年が教える準備術 →</a>
 </div>
 <hr />
