@@ -613,6 +613,13 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 <a href="https://re-money-lab.com/furui-osake-ureru/">山崎18年が9万円！？家の古いお酒は売れる？元業界人8年の7つのコツ</a>
 </div>
 
+
+<!-- 内部リンク水色カード（記事26・おもちゃ買取本音相場・2026-05-10追加） -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
+▶ <strong>あわせて読みたい</strong><br>
+<a href="https://re-money-lab.com/omocha-kaitori-souba/">おもちゃ買取の本音相場5選｜元買取8年がトミカ・LEGO解説</a>
+</div>
+
 <!-- ===== 筆者プロフィール②：記事末（小130px・横並び）===== -->
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:6px;padding:20px;margin:30px 0;display:flex;align-items:center;gap:18px;">
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;" />
