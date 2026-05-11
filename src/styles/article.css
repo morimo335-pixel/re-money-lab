@@ -13,15 +13,15 @@
 	position: absolute;
 	top: 0;
 	left: -100%;
-	width: 80%;
+	width: 45%;
 	height: 100%;
 	background: linear-gradient(
-		120deg,
-		transparent,
-		rgba(255, 255, 255, 0.85),
-		transparent
+		110deg,
+		transparent 25%,
+		rgba(255, 255, 255, 0.45) 50%,
+		transparent 75%
 	);
-	animation: goldShine 3s infinite;
+	animation: goldShine 6s infinite;
 	pointer-events: none;
 }
 
@@ -29,11 +29,11 @@
 	0% {
 		left: -100%;
 	}
-	60% {
-		left: 130%;
+	55% {
+		left: 150%;
 	}
 	100% {
-		left: 130%;
+		left: 150%;
 	}
 }
 
