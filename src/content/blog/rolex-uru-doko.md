@@ -299,8 +299,8 @@ H2-5：4社比較（mybest風カード）
 <li>質屋の目利きで細やかな査定対応</li>
 <li>大手と相見積もりで第4の選択肢として有効</li>
 </ul>
-<a href="https://af.moshimo.com/af/c/click?a_id=5533262&p_id=2506&pc_id=7793&pl_id=47033" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">公式サイトで詳細を見る　▶</a>
-<img class="a8-pixel" border="0" width="1" height="1" src="https://i.moshimo.com/af/i/impression?a_id=5533262&p_id=2506&pc_id=7793&pl_id=47033" alt="">
+<a href="https://af.moshimo.com/af/c/click?a_id=5533269&p_id=2506&pc_id=5530&pl_id=32392" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">公式サイトで詳細を見る　▶</a>
+<img class="a8-pixel" border="0" width="1" height="1" src="https://i.moshimo.com/af/i/impression?a_id=5533269&p_id=2506&pc_id=5530&pl_id=32392" alt="">
 </div>
 </div>
 
@@ -374,12 +374,12 @@ H2-7：まとめ＋shineバナー4社横並び＋🎯チェックリスト
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">⌚ ブランドオフ宅配<br><span style="font-size:0.82em;font-weight:normal;">海外販路・買い替え+10%</span></a>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">💎 コメ兵 店頭買取<br><span style="font-size:0.82em;font-weight:normal;">上場・AI査定5分</span></a>
   <a href="https://af.moshimo.com/af/c/click?a_id=5533260&p_id=5634&pc_id=15507&pl_id=72760" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">🔍 PREMIER VALUE<br><span style="font-size:0.82em;font-weight:normal;">最大60社一括査定</span></a>
-  <a href="https://af.moshimo.com/af/c/click?a_id=5533262&p_id=2506&pc_id=7793&pl_id=47033" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">🏛️ 米田屋WEBSHOP<br><span style="font-size:0.82em;font-weight:normal;">ロレックス専門質舗</span></a>
+  <a href="https://af.moshimo.com/af/c/click?a_id=5533269&p_id=2506&pc_id=5530&pl_id=32392" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">🏛️ 米田屋WEBSHOP<br><span style="font-size:0.82em;font-weight:normal;">ロレックス専門質舗</span></a>
 </div>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" alt="">
 <img class="a8-pixel" border="0" width="1" height="1" src="https://i.moshimo.com/af/i/impression?a_id=5533260&p_id=5634&pc_id=15507&pl_id=72760" alt="">
-<img class="a8-pixel" border="0" width="1" height="1" src="https://i.moshimo.com/af/i/impression?a_id=5533262&p_id=2506&pc_id=7793&pl_id=47033" alt="">
+<img class="a8-pixel" border="0" width="1" height="1" src="https://i.moshimo.com/af/i/impression?a_id=5533269&p_id=2506&pc_id=5530&pl_id=32392" alt="">
 
 <!-- ===== 🎯 今日からやることチェックリスト ===== -->
 <div style="margin:35px 0;filter:drop-shadow(0 4px 12px rgba(200,146,58,0.18));">
