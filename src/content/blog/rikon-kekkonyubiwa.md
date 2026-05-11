@@ -122,6 +122,11 @@ heroImage: '../../assets/blog/rikon-kekkonyubiwa.jpg'
 
 <p>※民法解釈は一般的な見解です。具体的なケースで揉めそうな場合は弁護士に相談してください。</p>
 
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<p style="margin:0;"><a href="https://re-money-lab.com/konyaku-yubiwa-uru/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 婚約指輪を売るならどこ？元買取8年が相場と判断基準5選解説（形見・婚約破棄も対応） →</a></p>
+</div>
+
 <h3>業界人の現場感覚：離婚時の婚約指輪は9割以上が売却</h3>
 
 <p>私が現場で見てきた離婚に伴う指輪売却の現場感覚として、「婚約指輪を元配偶者に返した」というケースはほぼゼロです。理由はシンプルで、<strong>高価な物（30〜100万円が多い）を返すより、自分の再出発資金に充てたい心理が圧倒的</strong>だからです。</p>
