@@ -19,7 +19,7 @@ heroImage: '../../assets/blog/kegawa-coat-jidai-okure.jpg'
 <li>「売る・捨てる・リメイク、結局どれが正解？」</li>
 </ul>
 
-<p>こんにちは、買取業界8年・累計査定3万点超の筆者ハルです。</p>
+<p>こんにちは、買取業界8年・<strong>累計査定3万点超の筆者ハル</strong>です。母の形見のミンクコートの「本当の価値」「SAGAタグやブランド別の本音相場」「売り方5選と業界人イチオシの業者選び」まで、すべて現場目線で解説します。</p>
 
 <p>結論、<strong>毛皮のコートは「時代遅れ」のイメージですが「無価値」ではありません</strong>。中古市場では素材としての価値や特定ブランドへの需要が依然として底堅く存在します。</p>
 
@@ -82,6 +82,57 @@ heroImage: '../../assets/blog/kegawa-coat-jidai-okure.jpg'
 <p>業界人として現実をお伝えすると、<strong>バブル期に100万円のミンクでも、2026年は数万円〜10万円程度</strong>が大半。これは買い叩きではなく市場の真実です。</p>
 
 <p style="font-size:0.85em;color:#666;background:#f5f5f5;padding:10px 15px;border-radius:4px;margin:15px 0;">※掲載の買取相場は2026年5月時点の参考値です。実際の価格は<strong>素材・タグ・状態・業者・市場動向</strong>により変動します。</p>
+
+<!-- ===== H2-4：ミンク独立H2（2026-05-11追加） ===== -->
+<h2>ミンクのコートはいくらで売れる？2026年最新相場</h2>
+
+<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
+  <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>SAGA MINK 上物なら8〜12万円、SOBOL最上級なら15万円超も。タグ無しや状態によっては数千円〜2万円が現実です。</p>
+</div>
+
+<p>母の形見のミンク、いくらで売れるのか——現場で査定してきた経験から、ブランドタグ別・状態別の本音相場をお伝えします。</p>
+
+<h3>SAGA MINKタグの有無で査定額が1.5〜3倍違う</h3>
+
+<p>同じミンクでも、襟元や裏地に縫い付けられた<strong>「SAGA MINK」のメタルタグ</strong>があるかどうかで査定額は大きく変わります。SAGA MINKはフィンランド・ノルウェー・スウェーデンなど北欧産の高品質ミンクに付与される認定タグで、業界では「ミンクの品質保証マーク」。タグ付きの上物は8〜12万円、タグ無しの同等品は2〜3万円——これが査定現場のリアルです。</p>
+
+<p>査定士が最初に確認するのは襟元・裏地・ポケット内側。タグの有無で査定スタートラインが変わるので、<strong>クリーニング時にタグを外してしまった方は要注意</strong>です。</p>
+
+<h3>ブランドタグ別 買取相場一覧</h3>
+
+<table style="width:100%;border-collapse:collapse;margin:20px 0;">
+  <thead>
+    <tr style="background:#1E3A5F;color:#fff;">
+      <th style="padding:10px;border:1px solid #ddd;text-align:left;">ブランドタグ</th>
+      <th style="padding:10px;border:1px solid #ddd;text-align:center;">買取相場（状態良好）</th>
+      <th style="padding:10px;border:1px solid #ddd;text-align:left;">特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding:10px;border:1px solid #ddd;"><strong>SOBOL（ロシアンセーブル混紡）</strong></td><td style="padding:10px;border:1px solid #ddd;text-align:center;">10〜15万円超</td><td style="padding:10px;border:1px solid #ddd;">最高級ミンク向け最上位タグ・希少</td></tr>
+    <tr><td style="padding:10px;border:1px solid #ddd;"><strong>SAGA MINK</strong></td><td style="padding:10px;border:1px solid #ddd;text-align:center;">8〜12万円</td><td style="padding:10px;border:1px solid #ddd;">北欧認定の高品質・業界の標準上物指標</td></tr>
+    <tr><td style="padding:10px;border:1px solid #ddd;"><strong>BLACKGLAMA</strong></td><td style="padding:10px;border:1px solid #ddd;text-align:center;">5〜10万円</td><td style="padding:10px;border:1px solid #ddd;">アメリカ産黒ミンク・90年代の人気タグ</td></tr>
+    <tr><td style="padding:10px;border:1px solid #ddd;"><strong>SAGA FURS（その他毛皮）</strong></td><td style="padding:10px;border:1px solid #ddd;text-align:center;">3〜8万円</td><td style="padding:10px;border:1px solid #ddd;">フォックス・ラックーン等を含む北欧認定</td></tr>
+    <tr><td style="padding:10px;border:1px solid #ddd;">ノーブランド／タグ無し</td><td style="padding:10px;border:1px solid #ddd;text-align:center;">3千円〜2万円</td><td style="padding:10px;border:1px solid #ddd;">品質判定が査定士頼り・相場低め</td></tr>
+  </tbody>
+</table>
+
+<h3>状態別の査定例（業界8年の現場目線）</h3>
+
+<ul>
+  <li><strong>新品同様（タグ付き・着用ほぼ無し・保管良好）：</strong>相場の上限ライン。SAGA MINK上物なら12万円付くケースも</li>
+  <li><strong>使用感あり（5〜10年使用・クリーニング済み）：</strong>相場の70〜80%。同じSAGA MINKでも8〜10万円</li>
+  <li><strong>難あり（毛抜け・破れ・カビ・型崩れ）：</strong>相場の20〜40%。ノーブランドだと値段が付かないことも</li>
+</ul>
+
+<h3>バブル期100万円のミンクが、2026年は数万円という現実</h3>
+
+<p>80〜90年代バブル期、ミンクコートは「100万円超」が当たり前でした。母世代がブランドサロンで支払った金額を聞くと「本当に？」と驚くほどです。しかし、買取相場は<strong>当時の購入価格の3〜10%</strong>まで下落しているのが2026年の現実。お母様が100万円で購入したミンクが、今は5万円前後で売れれば良い方——という温度感を、最初に正直にお伝えしておきます。</p>
+
+<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント｜過去最高査定の1着</p>
+  <p style="margin:0;">私が現場で「これは高い」と即座に査定額を上げたのは、<strong>SAGA MINKタグ付き・ロング丈・毛艶◎・1980年代後半製の1着で12万円</strong>。お客様は「祖母がハワイ旅行で買った」と仰っていて、湿度管理されたタンスに防虫剤と共に大切に眠っていたんです。<strong>ミンクは「タグ＋保管状態」で査定額が決まる</strong>——これだけは覚えてお帰りください。</p>
+</div>
 
 <!-- ===== H2-5 ===== -->
 <h2>毛皮を高く売る5つのコツ｜業界人の本音</h2>
