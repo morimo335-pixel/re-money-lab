@@ -35,7 +35,7 @@ heroImage: '../../assets/blog/kegawa-coat-jidai-okure.jpg'
 
 <ul>
 <li>買取業界の営業として複数社で計8年勤務（<strong>ブランド品</strong>・貴金属・着物・毛皮等）</li>
-<li><strong>貴金属・時計・ブランドの累計査定3万点超</strong></li>
+<li><strong>累計査定3万点超</strong></li>
 <li>廃品回収業界での実務経験もあり</li>
 <li><strong>古物商許可保有</strong></li>
 </ul>
@@ -340,12 +340,11 @@ heroImage: '../../assets/blog/kegawa-coat-jidai-okure.jpg'
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;" />
 <div>
 <p style="margin:0 0 6px 0;font-weight:bold;font-size:1.05em;">筆者　ハル</p>
-<ul style="margin:0;padding-left:1.3em;font-size:0.9em;line-height:1.7;color:#555;">
-<li>買取業界の営業として複数社で計8年勤務</li>
-<li>貴金属・時計・ブランドの累計査定3万点超</li>
-<li>古物商許可保有</li>
+<ul style="margin:0;padding-left:18px;font-size:0.92em;line-height:1.8;">
+<li>買取業界の営業として複数社で計8年勤務（<strong>ブランド品</strong>・貴金属・着物・毛皮等）</li>
+<li><strong>累計査定3万点超</strong></li>
 <li>廃品回収業界での実務経験もあり</li>
-<li>業界の裏側を知る元プロの視点で「買い叩かれない自衛術」を発信中</li>
+<li><strong>古物商許可保有</strong></li>
 </ul>
 </div>
 </div>

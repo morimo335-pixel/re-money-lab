@@ -21,9 +21,8 @@ heroImage: '../../assets/blog/takuhai-kaitori-trouble.jpg'
 <p>📌 <strong>この記事の筆者</strong></p>
 <ul>
 <li>買取業界の営業として複数社で計8年勤務（<strong>ブランド品</strong>・貴金属・着物等）</li>
+<li><strong>累計査定3万点超</strong></li>
 <li>廃品回収業界での実務経験もあり</li>
-<li>古物商許可有り</li>
-<li>貴金属・時計・ブランドの累計査定3万点超</li>
 <li><strong>古物商許可保有</strong></li>
 </ul>
 <div style="margin:36px 0 28px 0;filter:drop-shadow(0 4px 12px rgba(200,146,58,0.18));">
@@ -270,11 +269,17 @@ heroImage: '../../assets/blog/takuhai-kaitori-trouble.jpg'
 </ul>
 <p style="margin:0;">最終的なご判断はご自身でお願いいたします。</p>
 </div>
-<div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:18px 22px;margin:36px 0;display:flex;align-items:center;gap:20px;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<img loading="lazy" decoding="async" width="1024" height="1024" src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:130px;height:130px;border-radius:50%;flex-shrink:0;object-fit:cover;" srcset="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg 1024w, https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e-300x300.jpg 300w, https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e-150x150.jpg 150w, https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
-<div>
-<p style="margin:0 0 6px 0;font-weight:bold;font-size:1.05em;">筆者　ハル</p>
-<p style="margin:0;font-size:13px;line-height:1.6;color:#555;">買取業界の営業として複数社で計8年勤務（ブランド品・貴金属・着物等）。廃品回収業界での実務経験もあり。古物商許可保有。</p>
+<!-- 筆者プロフィール②（記事末・130px・横並び・上と内容統一） -->
+<div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:20px;margin:32px 0;display:flex;gap:20px;align-items:center;flex-wrap:wrap;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;">
+<div style="flex:1;min-width:200px;">
+<p style="margin:0 0 8px 0;font-weight:bold;font-size:1.1em;">筆者　ハル</p>
+<ul style="margin:0;padding-left:18px;font-size:0.92em;line-height:1.8;">
+<li>買取業界の営業として複数社で計8年勤務（<strong>ブランド品</strong>・貴金属・着物等）</li>
+<li><strong>累計査定3万点超</strong></li>
+<li>廃品回収業界での実務経験もあり</li>
+<li><strong>古物商許可保有</strong></li>
+</ul>
 </div>
 </div>
 
