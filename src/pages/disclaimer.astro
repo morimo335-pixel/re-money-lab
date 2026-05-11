@@ -1,0 +1,100 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="ja">
+	<head>
+		<BaseHead title={`免責事項 | ${SITE_TITLE}`} description="re-money-lab.com掲載情報の正確性・買取業者紹介・損害責任に関する免責事項。" />
+		<style>
+			.policy-container {
+				max-width: 720px;
+				margin: 2em auto;
+				padding: 1em;
+				color: #333;
+				line-height: 1.9;
+			}
+			.policy-container h1 {
+				color: #1E3A5F;
+				font-size: 1.6em;
+				border-left: 5px solid #C8923A;
+				padding-left: 0.7em;
+				margin-bottom: 1.2em;
+			}
+			.policy-container h2 {
+				color: #1E3A5F;
+				font-size: 1.25em;
+				margin-top: 2em;
+				border-bottom: 2px solid #C8923A;
+				padding-bottom: 0.4em;
+			}
+			.policy-container p {
+				margin: 0.8em 0;
+			}
+			.update-date {
+				text-align: right;
+				color: #888;
+				font-size: 0.9em;
+				margin-top: 3em;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="policy-container">
+				<h1>免責事項</h1>
+
+				<h2>1. 情報の正確性について</h2>
+				<p>
+					当サイトに掲載している買取相場・業者情報・サービス内容等は、執筆時点での情報に基づいています。情報は予告なく変更される場合があり、当サイトはその正確性・最新性を保証するものではありません。
+				</p>
+				<p>
+					実際にサービスを利用される際は、必ず各事業者の公式サイトで最新の情報をご確認ください。
+				</p>
+
+				<h2>2. 買取業者の紹介について</h2>
+				<p>
+					当サイトで紹介する買取業者は、執筆者（元買取業界8年・累計査定3万点超）が独自基準で「家族・友人にも紹介できるか」を軸に選定しています。ただし以下の点をご了承ください。
+				</p>
+				<p>
+					・査定額・対応品目・サービス内容は時期や品物の状態により大きく変動します<br />
+					・最終的な業者選定・利用判断はご自身の責任で行ってください<br />
+					・紹介業者とのトラブル・損害について、当サイトは一切の責任を負いません
+				</p>
+
+				<h2>3. 損害責任について</h2>
+				<p>
+					当サイトの記事・情報の利用により生じたいかなる損害（直接・間接・付随的損害を含む）について、当サイトは一切の責任を負いません。
+				</p>
+
+				<h2>4. 著作権について</h2>
+				<p>
+					当サイトに掲載されているテキスト・画像・コンテンツの著作権は、当サイト運営者または各権利者に帰属します。無断転載・複製を禁じます。
+				</p>
+				<p>
+					引用の際は、出典として当サイトURLの記載をお願いいたします。
+				</p>
+
+				<h2>5. リンクについて</h2>
+				<p>
+					当サイトへのリンクは原則自由です。リンク先での当サイトの掲載方法によりトラブルが生じた場合も、当サイトは責任を負いません。
+				</p>
+				<p>
+					また当サイトからリンクで移動した先のサイトについて、当サイトは一切の責任を負いません。
+				</p>
+
+				<h2>6. 免責事項の変更</h2>
+				<p>
+					本免責事項は、必要に応じて予告なく変更することがあります。変更後の内容は当ページにて公開した時点から効力を発するものとします。
+				</p>
+
+				<p class="update-date">最終更新日：2026年5月11日</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

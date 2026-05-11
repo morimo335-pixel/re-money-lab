@@ -1,0 +1,101 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="ja">
+	<head>
+		<BaseHead title={`お問い合わせ | ${SITE_TITLE}`} description="re-money-lab.comへの取材・執筆依頼・記事内容に関するご指摘等のお問い合わせ窓口。" />
+		<style>
+			.contact-container {
+				max-width: 720px;
+				margin: 2em auto;
+				padding: 1em;
+				color: #333;
+				line-height: 1.9;
+			}
+			.contact-container h1 {
+				color: #1E3A5F;
+				font-size: 1.6em;
+				border-left: 5px solid #C8923A;
+				padding-left: 0.7em;
+				margin-bottom: 1.2em;
+			}
+			.contact-container h2 {
+				color: #1E3A5F;
+				font-size: 1.25em;
+				margin-top: 2em;
+				border-bottom: 2px solid #C8923A;
+				padding-bottom: 0.4em;
+			}
+			.contact-box {
+				background: #F8F4E6;
+				border-left: 5px solid #D4A574;
+				border-radius: 6px;
+				padding: 1.5em;
+				margin: 1.5em 0;
+			}
+			.contact-box a {
+				color: #1E3A5F;
+				font-weight: bold;
+				text-decoration: none;
+				border-bottom: 1px solid #C8923A;
+			}
+			.note-box {
+				background: #F5F5F5;
+				border-radius: 8px;
+				padding: 1em 1.5em;
+				margin: 1em 0;
+				font-size: 0.95em;
+				color: #555;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="contact-container">
+				<h1>お問い合わせ</h1>
+
+				<p>
+					re-money-lab.com へのお問い合わせ・取材依頼・記事内容に関するご指摘等は、以下の窓口よりお願いいたします。
+				</p>
+
+				<div class="contact-box">
+					<h2 style="margin-top: 0; border: none; padding: 0;">📩 Threads DM</h2>
+					<p style="margin: 0.5em 0;">
+						窓口：<a href="https://www.threads.net/@re_money_lab" target="_blank" rel="noopener">@re_money_lab</a>
+					</p>
+					<p style="margin: 0.5em 0; font-size: 0.95em; color: #555;">
+						Threadsアカウントへ直接DMをお送りください。3営業日以内に返信いたします。
+					</p>
+				</div>
+
+				<h2>📌 お問い合わせ内容について</h2>
+				<p>以下のようなご相談を承っています。</p>
+				<ul>
+					<li>取材・執筆依頼</li>
+					<li>記事内容に関するご指摘・誤情報のご報告</li>
+					<li>買取に関する一般的なご質問</li>
+					<li>業務提携・広告掲載のご相談</li>
+				</ul>
+
+				<div class="note-box">
+					<strong>※ ご注意</strong><br />
+					・査定依頼・買取相談は受け付けておりません。記事内で紹介している各買取業者の公式窓口へ直接お問い合わせください。<br />
+					・個別の商品価格に関するご相談にはお答えしかねます。<br />
+					・営業目的のご連絡はお断りしております。
+				</div>
+
+				<h2>🕒 返信について</h2>
+				<p>
+					通常3営業日以内に返信いたしますが、内容により返信にお時間をいただく場合がございます。また、ご質問の内容によっては返信を差し控える場合があることをご了承ください。
+				</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
