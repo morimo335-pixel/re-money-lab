@@ -211,7 +211,7 @@ H2-4：3社比較｜ブランドオフ・コメ兵・福ちゃんの使い分け
 <li>キャンセル時の返送料も完全無料</li>
 <li>海外販路で円安メリットを享受</li>
 </ul>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">無料査定を申し込む　▶</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">無料査定を申し込む　▶</a>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
 </div>
 </div>
@@ -228,7 +228,7 @@ H2-4：3社比較｜ブランドオフ・コメ兵・福ちゃんの使い分け
 <li>年間140万件の成約データに基づく査定</li>
 <li>下取りで新しいジュエリーへの買い替えも可能</li>
 </ul>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">来店予約・無料査定はこちら　▶</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">来店予約・無料査定はこちら　▶</a>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" alt="">
 </div>
 </div>
@@ -245,7 +245,7 @@ H2-4：3社比較｜ブランドオフ・コメ兵・福ちゃんの使い分け
 <li>レディースプランで女性査定士を指定可能</li>
 <li>金・プラチナ・重量がある指輪に強い</li>
 </ul>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AYQFMI+35HU+HV7V6" rel="sponsored nofollow" target="_blank" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">無料査定を申し込む　▶</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AYQFMI+35HU+HV7V6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">無料査定を申し込む　▶</a>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1SPX+AYQFMI+35HU+HV7V6" alt="">
 </div>
 </div>
