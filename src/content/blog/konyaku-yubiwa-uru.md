@@ -170,7 +170,7 @@ H2-3：婚約指輪を高く売る5つのコツ
 <h2>婚約指輪を高く売る5つのコツ｜業界人の現場ノウハウ</h2>
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
-  <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>①鑑定書・保証書を必ず探す ②軽くクリーニング ③3社のLINE査定で必ず比較 ④他の貴金属とまとめ売り ⑤プラチナ買取キャンペーン時期を狙う——この5つで査定額は1〜3割変わります。</p>
+  <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>①鑑定書・保証書を必ず探す ②軽くクリーニング ③3社の公式サイトで無料一括査定 ④他の貴金属とまとめ売り ⑤プラチナ買取キャンペーン時期を狙う——この5つで査定額は1〜3割変わります。</p>
 </div>
 
 <h3>コツ①：鑑定書・保証書を必ず探す</h3>
@@ -179,8 +179,8 @@ H2-3：婚約指輪を高く売る5つのコツ
 <h3>コツ②：軽くクリーニング（自宅でできる範囲）</h3>
 <p>柔らかいブラシとぬるま湯（中性洗剤）で表面の汚れを落とすだけで、査定時の輝きが劇的に改善します。<strong>石の裏側の曇り</strong>を取り除くだけで査定士の印象が変わります。ただし無理に磨こうとして傷をつけるのはNG。</p>
 
-<h3>コツ③：3社のLINE査定で必ず比較</h3>
-<p>「1社だけで決める」のは買い叩きの罠です。ブランドオフ・コメ兵・福ちゃんの<strong>3社すべてに画像を送って概算比較</strong>を取りましょう。「他社でも査定中」と伝えると競争原理が働きます。</p>
+<h3>コツ③：3社の公式サイトで無料一括査定</h3>
+<p>「1社だけで決める」のは買い叩きの罠です。ブランドオフ・コメ兵・福ちゃんの<strong>公式サイトの無料査定フォーム</strong>から3社すべてに画像を送って概算比較を取りましょう。「他社でも査定中」と伝えると競争原理が働きます。各社とも公式サイトの申込フォームから無料で査定依頼できます。</p>
 
 <h3>コツ④：他の貴金属とまとめ売り</h3>
 <p>古いネックレス・使わないピアス・壊れたブレスレットなど、<strong>家にある貴金属を全部まとめて出す</strong>と査定額の端数切り上げやボーナス付与の対象になりやすくなります。</p>
@@ -262,7 +262,7 @@ H2-4：3社比較｜ブランドオフ・コメ兵・福ちゃんの使い分け
 <tr><td style="padding:10px;border:1px solid #ddd;">カルティエ・ティファニー等のハイブランド</td><td style="padding:10px;border:1px solid #ddd;"><strong>ブランドオフ</strong></td></tr>
 <tr><td style="padding:10px;border:1px solid #ddd;">大粒の天然ダイヤ・鑑定書あり</td><td style="padding:10px;border:1px solid #ddd;"><strong>コメ兵</strong></td></tr>
 <tr><td style="padding:10px;border:1px solid #ddd;">親の形見・ノーブランド・金重量あり</td><td style="padding:10px;border:1px solid #ddd;"><strong>福ちゃん</strong></td></tr>
-<tr><td style="padding:10px;border:1px solid #ddd;">どれが該当か分からない</td><td style="padding:10px;border:1px solid #ddd;"><strong>3社すべてLINE査定で比較</strong></td></tr>
+<tr><td style="padding:10px;border:1px solid #ddd;">どれが該当か分からない</td><td style="padding:10px;border:1px solid #ddd;"><strong>3社すべて公式サイトで無料査定</strong></td></tr>
 </tbody>
 </table>
 
@@ -309,7 +309,7 @@ H2-6：まとめ
 <li>⑤ <strong>「いつか売る」なら今が合理的</strong>（5年超保有で税制優遇あり）</li>
 </ul>
 
-<p>業者選びは<strong>ハイブランド＝ブランドオフ／ダイヤ重視＝コメ兵／形見・金重量＝福ちゃん</strong>。3社のLINE査定で必ず比較して、後悔のない売却を実現してください。</p>
+<p>業者選びは<strong>ハイブランド＝ブランドオフ／ダイヤ重視＝コメ兵／形見・金重量＝福ちゃん</strong>。3社の公式サイト無料査定で必ず比較して、後悔のない売却を実現してください。</p>
 
 <!-- ===== 🎯 今日からやることチェックリスト ===== -->
 <div style="margin:35px 0;filter:drop-shadow(0 4px 12px rgba(200,146,58,0.18));">
@@ -318,7 +318,7 @@ H2-6：まとめ
 <ul style="margin:0;padding-left:1.5em;line-height:2;list-style:none;">
 <li>☐ <strong>鑑定書・保証書</strong>を探す（タンスの奥・実家を徹底チェック）</li>
 <li>☐ <strong>3社（ブランドオフ・コメ兵・福ちゃん）</strong>に画像を送付</li>
-<li>☐ <strong>LINE査定</strong>で3社の概算を比較</li>
+<li>☐ <strong>公式サイトの無料査定</strong>で3社の概算を比較</li>
 <li>☐ <strong>プラチナ・金の買取キャンペーン</strong>情報をチェック</li>
 <li>☐ 一番高い業者で<strong>本査定→売却</strong></li>
 </ul>
