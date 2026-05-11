@@ -2,7 +2,7 @@
 title: '婚約指輪を売るならどこ？元買取8年が相場と判断基準5選解説'
 description: '婚約指輪を売るならどこ？元買取8年がブランドオフ・コメ兵・福ちゃん3社の本音比較と、離婚・形見・婚約破棄の判断基準5選を解説。2026年5月のK18 19,500円/g・プラチナ11,051円/gの最新相場、カルティエ62万円・ティファニー23万円の実勢買取例まで網羅。'
 pubDate: '2026-05-11'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog/konyaku-yubiwa-uru.jpg'
 ---
 
 <div class="article-content">
