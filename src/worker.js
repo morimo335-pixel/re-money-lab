@@ -1,6 +1,6 @@
 // WP→Astro移管後の旧URL対処Worker
-// 2026-05-11 設置（Phase D-1 未消化分の対処）
-// 2026-05-11 拡張（WP固定ページ残骸・コメントRSS残骸の追加対処）
+// 2026-05-11 設置：Phase D-1未消化分（WP postID転送）
+// 2026-05-11 拡張：WP固定ページ・サイトマップ・カテゴリ・管理画面の残骸対処
 
 // WP postID形式（?p=XXX）→ 新slugマッピング
 const WP_ID_TO_SLUG = {
@@ -20,20 +20,39 @@ const WP_ID_TO_SLUG = {
 
 // WP時代のパス → 新サイトの該当パス（301転送）
 const PATH_REDIRECTS = {
+  // 固定ページ
   '/profile/': '/about/',
   '/profile': '/about/',
-  '/sitemap.html': '/sitemap-index.xml',
   '/privacy-policy-2/': '/privacy-policy/',
   '/privacy-policy-2': '/privacy-policy/',
+  // WP自動生成サイトマップ群 → Astroサイトマップへ
+  '/sitemap.html': '/sitemap-index.xml',
+  '/sitemap.xml': '/sitemap-index.xml',
+  '/page-sitemap.xml': '/sitemap-index.xml',
+  '/post-sitemap.xml': '/sitemap-index.xml',
+  '/category-sitemap.xml': '/sitemap-index.xml',
+  '/tag-sitemap.xml': '/sitemap-index.xml',
+  // カテゴリーアーカイブ → 記事一覧へ
+  '/category/basics/': '/blog/',
+  '/category/uncategorized/': '/blog/',
 };
 
-// 完全に廃止したパス（410 Gone：「永久に消えた」をGoogleに通知）
+// 完全廃止パス（410 Gone：Googleに「永久に消えた」と通知）
 const GONE_PATHS = new Set([
   '/comments/feed/',
   '/comments/feed',
   '/feed/',
   '/feed',
 ]);
+
+// 410 Gone正規表現パターン（WP管理画面・コンテンツディレクトリ）
+const GONE_PATTERNS = [
+  /^\/wp-admin(\/|$)/,
+  /^\/wp-content(\/|$)/,
+  /^\/wp-includes(\/|$)/,
+  /^\/wp-login\.php/,
+  /^\/xmlrpc\.php/,
+];
 
 export default {
   async fetch(request, env) {
@@ -49,18 +68,23 @@ export default {
       return Response.redirect(target, 301);
     }
 
-    // 2. 410 Gone：完全廃止パス
+    // 2. 410 Gone：完全廃止パス（リスト）
     if (GONE_PATHS.has(url.pathname)) {
       return new Response('Gone', { status: 410 });
     }
 
-    // 3. パスベース301転送（profile→about等）
+    // 3. 410 Gone：WP管理画面系（正規表現）
+    if (GONE_PATTERNS.some((pattern) => pattern.test(url.pathname))) {
+      return new Response('Gone', { status: 410 });
+    }
+
+    // 4. パスベース301転送
     const pathRedirect = PATH_REDIRECTS[url.pathname];
     if (pathRedirect) {
       return Response.redirect(`${url.origin}${pathRedirect}`, 301);
     }
 
-    // 4. 通常リクエストは静的アセットへ
+    // 5. 通常リクエストは静的アセットへ
     return env.ASSETS.fetch(request);
   },
 };
