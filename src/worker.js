@@ -45,13 +45,17 @@ const GONE_PATHS = new Set([
   '/feed',
 ]);
 
-// 410 Gone正規表現パターン（WP管理画面・コンテンツディレクトリ）
+// 410 Gone正規表現パターン（WP管理画面・コード系のみ）
+// 注意：/wp-content/uploads/ は除外（移管時にdist配下へ移植済み画像があるため）
 const GONE_PATTERNS = [
   /^\/wp-admin(\/|$)/,
-  /^\/wp-content(\/|$)/,
   /^\/wp-includes(\/|$)/,
   /^\/wp-login\.php/,
   /^\/xmlrpc\.php/,
+  /^\/wp-content\/plugins(\/|$)/,
+  /^\/wp-content\/themes(\/|$)/,
+  /^\/wp-content\/cache(\/|$)/,
+  /^\/wp-content\/mu-plugins(\/|$)/,
 ];
 
 export default {
