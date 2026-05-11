@@ -311,23 +311,29 @@ H2-6：まとめ
 
 <p>業者選びは<strong>ハイブランド＝ブランドオフ／ダイヤ重視＝コメ兵／形見・金重量＝福ちゃん</strong>。3社の公式サイト無料査定で必ず比較して、後悔のない売却を実現してください。</p>
 
+<!-- ===== 3社横並びバナー（shine sweep光るアニメーション） ===== -->
+<div style="display:flex;gap:12px;flex-wrap:wrap;margin:30px 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:240px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 14px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">🌸 ブランドオフ宅配<br><span style="font-size:0.85em;font-weight:normal;">カルティエ・ティファニー対応</span></a>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:240px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 14px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">💎 コメ兵 店頭買取<br><span style="font-size:0.85em;font-weight:normal;">ダイヤ重視・上場の安心</span></a>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AYQFMI+35HU+HV7V6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:240px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 14px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">💍 福ちゃん 金・貴金属<br><span style="font-size:0.85em;font-weight:normal;">形見・女性査定士指定可</span></a>
+</div>
+<img class="a8-pixel" border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
+<img class="a8-pixel" border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" alt="">
+<img class="a8-pixel" border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1SPX+AYQFMI+35HU+HV7V6" alt="">
+
 <!-- ===== 🎯 今日からやることチェックリスト ===== -->
 <div style="margin:35px 0;filter:drop-shadow(0 4px 12px rgba(200,146,58,0.18));">
 <div style="background:linear-gradient(135deg,#E8B658 0%,#C8923A 50%,#A77620 100%);color:#fff;display:inline-block;padding:11px 24px;border-radius:8px 8px 0 0;font-weight:bold;font-size:1.08em;letter-spacing:0.04em;text-shadow:0 1px 2px rgba(0,0,0,0.15);box-shadow:inset 0 1px 0 rgba(255,255,255,0.35);">🎯 今日からやること</div>
 <div style="border:3px solid #C8923A;border-radius:0 10px 10px 10px;padding:22px 28px;background:#fff;">
 <ul style="margin:0;padding-left:1.5em;line-height:2;list-style:none;">
 <li>☐ <strong>鑑定書・保証書</strong>を探す（タンスの奥・実家を徹底チェック）</li>
-<li>☐ <strong>3社（ブランドオフ・コメ兵・福ちゃん）</strong>に画像を送付</li>
+<li>☐ <strong>3社（ブランドオフ・コメ兵・福ちゃん）</strong>の公式サイトに画像を送付</li>
 <li>☐ <strong>公式サイトの無料査定</strong>で3社の概算を比較</li>
 <li>☐ <strong>プラチナ・金の買取キャンペーン</strong>情報をチェック</li>
 <li>☐ 一番高い業者で<strong>本査定→売却</strong></li>
 </ul>
 </div>
 </div>
-
-<!-- A8リンク 下ミニ -->
-<p style="text-align:center;margin:30px 0;"><a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" style="display:inline-block;background:#1E3A5F;color:#fff;padding:14px 28px;border-radius:8px;text-decoration:none;font-weight:bold;">▶ ブランドオフで無料査定（カルティエ・ティファニー対応）</a></p>
-<img class="a8-pixel" border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
 
 <!-- ===== 筆者プロフィール②（記事末・130px・横並び・上と内容統一） ===== -->
 <div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:20px;margin:32px 0;display:flex;gap:20px;align-items:center;flex-wrap:wrap;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
