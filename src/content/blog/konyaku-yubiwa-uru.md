@@ -19,7 +19,7 @@ heroImage: '../../assets/blog-placeholder-1.jpg'
 <p>こんにちは、買取業界8年・<strong>累計査定3万点超の筆者ハル</strong>です。婚約指輪を売る3つのパターン（離婚・形見・婚約破棄）別の判断基準、2026年5月最新の本音相場、ブランドオフ・コメ兵・福ちゃん3社の使い分けまで、すべて現場目線で解説します。</p>
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
-  <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>2026年5月時点でK18金は1g約19,500円・プラチナは1g約11,051円。5年前比で金+270%・プラチナ+50%超の<strong>歴史的高水準</strong>です。どのパターンでも法的に売却OK・3社使い分けで損しない売り方が分かります。</p>
+  <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>2026年5月時点でK18金は1g約19,500円・Pt900プラチナは1g約10,000円。5年前比で金+270%・プラチナ+50%超の<strong>歴史的高水準</strong>です。どのパターンでも法的に売却OK・3社使い分けで損しない売り方が分かります。</p>
 </div>
 
 <!-- ===== 筆者プロフィール①（リード文末・280px・公式テンプレ） ===== -->
@@ -128,7 +128,7 @@ H2-2：婚約指輪を売る判断基準5選
 <li>カルティエ マイヨンパンテール K18WG＋ダイヤ：<strong>62万円</strong></li>
 <li>カルティエ タンクフランセーズLM パヴェダイヤ：<strong>54.6万円</strong></li>
 <li>カルティエ ラブリング ハーフダイヤ：<strong>15.2万円</strong></li>
-<li>ティファニー ハーフサークル ダイヤリング：<strong>23.5万円</strong></li>
+<li>ティファニー ハーフサークル ダイヤリング：<strong>23.57万円</strong></li>
 <li>ティファニー ハーモニー ハーフダイヤ：<strong>8.3万円</strong></li>
 </ul>
 
@@ -310,6 +310,20 @@ H2-6：まとめ
 </ul>
 
 <p>業者選びは<strong>ハイブランド＝ブランドオフ／ダイヤ重視＝コメ兵／形見・金重量＝福ちゃん</strong>。3社のLINE査定で必ず比較して、後悔のない売却を実現してください。</p>
+
+<!-- ===== 🎯 今日からやることチェックリスト ===== -->
+<div style="margin:35px 0;filter:drop-shadow(0 4px 12px rgba(200,146,58,0.18));">
+<div style="background:linear-gradient(135deg,#E8B658 0%,#C8923A 50%,#A77620 100%);color:#fff;display:inline-block;padding:11px 24px;border-radius:8px 8px 0 0;font-weight:bold;font-size:1.08em;letter-spacing:0.04em;text-shadow:0 1px 2px rgba(0,0,0,0.15);box-shadow:inset 0 1px 0 rgba(255,255,255,0.35);">🎯 今日からやること</div>
+<div style="border:3px solid #C8923A;border-radius:0 10px 10px 10px;padding:22px 28px;background:#fff;">
+<ul style="margin:0;padding-left:1.5em;line-height:2;list-style:none;">
+<li>☐ <strong>鑑定書・保証書</strong>を探す（タンスの奥・実家を徹底チェック）</li>
+<li>☐ <strong>3社（ブランドオフ・コメ兵・福ちゃん）</strong>に画像を送付</li>
+<li>☐ <strong>LINE査定</strong>で3社の概算を比較</li>
+<li>☐ <strong>プラチナ・金の買取キャンペーン</strong>情報をチェック</li>
+<li>☐ 一番高い業者で<strong>本査定→売却</strong></li>
+</ul>
+</div>
+</div>
 
 <!-- A8リンク 下ミニ -->
 <p style="text-align:center;margin:30px 0;"><a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" style="display:inline-block;background:#1E3A5F;color:#fff;padding:14px 28px;border-radius:8px;text-decoration:none;font-weight:bold;">▶ ブランドオフで無料査定（カルティエ・ティファニー対応）</a></p>
