@@ -233,7 +233,7 @@ H2-5：4社比較（mybest風カード）
 <h2>4社比較｜ロレックスを売るならどこ？元買取8年の本音ガイド</h2>
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
-  <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>海外販路重視なら<strong>ブランドオフ</strong>、上場の安心感とAI査定なら<strong>コメ兵</strong>、最大60社一括査定で最高値を狙うなら<strong>PREMIER VALUE</strong>、ロレックス専門の老舗目利きなら<strong>米田屋</strong>。4社使い分けで損しません。</p>
+  <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>海外販路重視なら<strong>ブランドオフ</strong>、上場の安心感とAI査定なら<strong>コメ兵</strong>、最大80社一括査定で最高値を狙うなら<strong>PREMIER VALUE</strong>、ロレックス専門の老舗目利きなら<strong>米田屋</strong>。4社使い分けで損しません。</p>
 </div>
 
 <h3>① ブランドオフ宅配買取｜海外販路で円安メリット最大化</h3>
@@ -270,16 +270,16 @@ H2-5：4社比較（mybest風カード）
 </div>
 </div>
 
-<h3>③ PREMIER VALUE｜最大60社一括査定で本日最高値を即座に発見</h3>
-<p>高級時計・ブランドバッグ・ジュエリー専門の<strong>一括査定サービス</strong>。最大60社へ一斉に査定依頼でき、<strong>本日最高値の業者を即座に提示</strong>します。「コツ④：複数社見積もりで競争原理を働かせる」を最も効率化する手段です。1社1社問い合わせる手間なくロレックスの最高査定額を発見でき、相見積もり戦略の起点としてマストの存在です。</p>
+<h3>③ PREMIER VALUE｜最大80社一括査定で本日最高値を即座に発見</h3>
+<p>高級時計・ブランドバッグ・ジュエリー専門の<strong>一括査定サービス</strong>。最大80社へ一斉に査定依頼でき、<strong>本日最高値の業者を即座に提示</strong>します。「コツ④：複数社見積もりで競争原理を働かせる」を最も効率化する手段です。1社1社問い合わせる手間なくロレックスの最高査定額を発見でき、相見積もり戦略の起点としてマストの存在です。</p>
 
 <!-- もしもカード フル：PREMIER VALUE -->
 <div style="background:#fff;border-radius:12px;overflow:hidden;margin:30px 0;box-shadow:0 4px 16px rgba(0,0,0,0.1);border:1px solid #e0e0e0;">
-<div style="background:#1E3A5F;color:#fff;padding:14px 20px;font-weight:bold;font-size:1.05em;">🔍 最大60社一括査定で最高値を即発見｜PREMIER VALUE</div>
+<div style="background:#1E3A5F;color:#fff;padding:14px 20px;font-weight:bold;font-size:1.05em;">🔍 最大80社一括査定で最高値を即発見｜PREMIER VALUE</div>
 <div style="padding:22px 24px;">
 <ul style="margin:0 0 18px 0;padding-left:1.3em;line-height:1.9;">
 <li>高級時計・ブランドバッグ・ジュエリー専門の一括査定</li>
-<li>最大60社へ一斉査定・<strong>本日最高値を即座に提示</strong></li>
+<li>最大80社へ一斉査定・<strong>本日最高値を即座に提示</strong></li>
 <li>相見積もりの手間ゼロ・ロレックス相場の最高値発見に最適</li>
 </ul>
 <a href="https://af.moshimo.com/af/c/click?a_id=5533260&p_id=5634&pc_id=15507&pl_id=72760" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">最高額査定はこちら　▶</a>
@@ -315,7 +315,7 @@ H2-5：4社比較（mybest風カード）
 <tbody>
 <tr><td style="padding:10px;border:1px solid #ddd;">現行モデル（デイトナ・GMT・サブマリーナ）の最高値を狙いたい</td><td style="padding:10px;border:1px solid #ddd;"><strong>ブランドオフ</strong>（海外販路）</td></tr>
 <tr><td style="padding:10px;border:1px solid #ddd;">即日現金化・上場企業の安心感重視</td><td style="padding:10px;border:1px solid #ddd;"><strong>コメ兵</strong>（店頭買取）</td></tr>
-<tr><td style="padding:10px;border:1px solid #ddd;">最高値を効率的に発見したい（複数社一括査定）</td><td style="padding:10px;border:1px solid #ddd;"><strong>PREMIER VALUE</strong>（最大60社）</td></tr>
+<tr><td style="padding:10px;border:1px solid #ddd;">最高値を効率的に発見したい（複数社一括査定）</td><td style="padding:10px;border:1px solid #ddd;"><strong>PREMIER VALUE</strong>（最大80社）</td></tr>
 <tr><td style="padding:10px;border:1px solid #ddd;">アンティーク・廃盤・希少モデル</td><td style="padding:10px;border:1px solid #ddd;"><strong>米田屋</strong>（専門目利き）</td></tr>
 <tr><td style="padding:10px;border:1px solid #ddd;">どれが該当か分からない</td><td style="padding:10px;border:1px solid #ddd;"><strong>4社すべて公式サイトで無料査定</strong></td></tr>
 </tbody>
@@ -367,13 +367,13 @@ H2-7：まとめ＋shineバナー4社横並び＋🎯チェックリスト
 <li>⑤ <strong>心理的整理</strong>は「3年後に買い直すか？」で判断</li>
 </ul>
 
-<p>業者選びは<strong>海外販路＝ブランドオフ／上場の安心＝コメ兵／60社一括査定＝PREMIER VALUE／専門目利き＝米田屋</strong>。4社の公式サイト無料査定で必ず相見積もりを取り、後悔のない売却を実現してください。</p>
+<p>業者選びは<strong>海外販路＝ブランドオフ／上場の安心＝コメ兵／80社一括査定＝PREMIER VALUE／専門目利き＝米田屋</strong>。4社の公式サイト無料査定で必ず相見積もりを取り、後悔のない売却を実現してください。</p>
 
 <!-- ===== 4社横並びバナー（shine sweep光るアニメーション） ===== -->
 <div style="display:flex;gap:10px;flex-wrap:wrap;margin:30px 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">⌚ ブランドオフ宅配<br><span style="font-size:0.82em;font-weight:normal;">海外販路・買い替え+10%</span></a>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">💎 コメ兵 店頭買取<br><span style="font-size:0.82em;font-weight:normal;">上場・AI査定5分</span></a>
-  <a href="https://af.moshimo.com/af/c/click?a_id=5533260&p_id=5634&pc_id=15507&pl_id=72760" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">🔍 PREMIER VALUE<br><span style="font-size:0.82em;font-weight:normal;">最大60社一括査定</span></a>
+  <a href="https://af.moshimo.com/af/c/click?a_id=5533260&p_id=5634&pc_id=15507&pl_id=72760" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">🔍 PREMIER VALUE<br><span style="font-size:0.82em;font-weight:normal;">最大80社一括査定</span></a>
   <a href="https://af.moshimo.com/af/c/click?a_id=5533269&p_id=2506&pc_id=5530&pl_id=32392" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">🏛️ 米田屋WEBSHOP<br><span style="font-size:0.82em;font-weight:normal;">ロレックス専門質舗</span></a>
 </div>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
@@ -388,7 +388,7 @@ H2-7：まとめ＋shineバナー4社横並び＋🎯チェックリスト
 <ul style="margin:0;padding-left:1.5em;line-height:2;list-style:none;">
 <li>☐ <strong>保証書・箱・コマ・タグ・取説</strong>を徹底捜索（実家・タンス奥まで）</li>
 <li>☐ <strong>4社（ブランドオフ・コメ兵・PREMIER VALUE・米田屋）</strong>の公式サイトでAI画像査定</li>
-<li>☐ <strong>PREMIER VALUEで最大60社一括査定</strong>を取り最高値業者を特定</li>
+<li>☐ <strong>PREMIER VALUEで最大80社一括査定</strong>を取り最高値業者を特定</li>
 <li>☐ <strong>動作確認</strong>（進む・遅れる・止まりがないか）</li>
 <li>☐ 最高値の業者で<strong>本査定→売却</strong>（円安局面は海外販路業者優先）</li>
 </ul>
