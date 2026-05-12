@@ -482,6 +482,12 @@ H2-11：まとめ｜眠るおもちゃは捨てる前にまず査定を
 </div>
 </div>
 
+<!-- 内部リンク水色カード（記事29・使わない楽器・2026-05-12追加） -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
+▶ <strong>あわせて読みたい</strong><br>
+<a href="https://re-money-lab.com/tsukawanai-gakki-uru/">ギターが28万円？！使わない楽器を高く売る5選｜元買取8年解説</a>
+</div>
+
 <!-- 筆者プロフィール②（記事末・130px・横並び・上と内容統一） -->
 <div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:20px;margin:32px 0;display:flex;gap:20px;align-items:center;flex-wrap:wrap;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;">
