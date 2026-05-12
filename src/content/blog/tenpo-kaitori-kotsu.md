@@ -2,7 +2,7 @@
 title: '店舗買取の注意点5選｜元買取8年が買い叩かれない持ち込みコツ解説'
 description: '店舗買取で買い叩かれない5つのコツを元買取8年が現場目線で解説。「いくらで売りたい？」「今日何店舗目？」店員のペースに飲み込まれない交渉術、店舗買取が向く人・向かない人の判断、クーリングオフの法的根拠、コメ兵店頭の本音レビュー、信頼できる店の見分け方5項目まで網羅。'
 pubDate: '2026-05-12'
-heroImage: '../../assets/blog/tsukawanai-gakki-uru.jpg'
+heroImage: '../../assets/blog/tenpo-kaitori-kotsu.jpg'
 ---
 
 <div class="article-content">
