@@ -38,9 +38,9 @@ MINCHO = "/System/Library/Fonts/ヒラギノ明朝 ProN.ttc"
 BG_PROMPT = """A photorealistic 16:9 horizontal magazine cover background image (1376x768 pixels) for a high-end Japanese women's lifestyle magazine. Editorial photography style, warm and refined.
 
 THREE-PART LAYOUT:
-- LEFT 25 percent: A Japanese housewife in her early 40s, gentle but slightly anxious face, hair in a loose bun, wearing cream-beige knit sweater. She holds a small jewelry box and a brand-style leather handbag, looking down with hesitant worried expression. Half-body composition.
+- LEFT 25 percent: A Japanese housewife in her early 40s, gentle but slightly anxious face, hair in a loose bun, wearing cream-beige knit sweater. She holds a small luxury watch case (wooden or leather, opened to show a vintage-style wristwatch with metallic bracelet inside) at chest level, looking down with hesitant worried expression. Half-body composition.
 - CENTER 50 percent: PURE CLEAN CREAM-WHITE BACKGROUND. The center 50 percent of the image MUST BE COMPLETELY EMPTY. Absolutely NO text, NO letters, NO Japanese characters, NO numbers, NO codes, NO hashtags, NO symbols, NO objects, NO logos, NO decorations in this central area. Just empty smooth cream background.
-- RIGHT 25 percent: A confident smiling Japanese woman in her 30s with neat half-up dark hair, wearing navy blouse. She holds a wooden clipboard with warm welcoming gesture. Half-body composition.
+- RIGHT 25 percent: A confident smiling Japanese woman in her 30s with neat half-up dark hair, wearing navy blouse. She holds a wooden clipboard close to her chest with both hands. CRITICAL: her arms and hands stay strictly within the right 25 percent zone, not extending toward the center. No outstretched hands or pointing gestures. Half-body composition.
 
 STYLE:
 - Background: clean white to cream gradient, soft warm tone
@@ -82,6 +82,8 @@ def compose_text(
     subtitle: str,
     subtitle_color: str,
     gold_line_color: str = "#D4A574",
+    subtitle2: str = "",
+    subtitle2_color: str = "#1E3A5F",
 ):
     """背景画像にタイトル＋サブ＋ゴールド水平線を合成"""
     print("✏️ テキスト合成中...")
@@ -95,10 +97,10 @@ def compose_text(
 
     # サブタイトルは中央エリア（中央50%幅）に収まるよう自動調整
     center_area_width = int(W * 0.52)  # 人物に被らない中央エリア
-    sub_size_initial = max(24, int(H * 0.034))
+    sub_size_initial = max(32, int(H * 0.048))  # 2026-05-14 サイズ拡大（スマホ視認性UP）
     font_sub = ImageFont.truetype(MINCHO, sub_size_initial)
-    # 幅オーバーするなら段階的に縮小
-    while draw.textlength("元業界人8年が暴く 持ち込みで損しない本音", font=font_sub) > center_area_width and sub_size_initial > 18:
+    # 幅オーバーするなら段階的に縮小（実際のsubtitle文字列で判定）
+    while draw.textlength(subtitle, font=font_sub) > center_area_width and sub_size_initial > 22:
         sub_size_initial -= 1
         font_sub = ImageFont.truetype(MINCHO, sub_size_initial)
     sub_size = sub_size_initial
@@ -144,6 +146,18 @@ def compose_text(
     y_sub = y_line + 24
     sub_w = draw.textlength(subtitle, font=font_sub)
     draw.text((cx - sub_w / 2, y_sub), subtitle, font=font_sub, fill=subtitle_color)
+
+    # 第2サブタイトル（スマホで下空白を埋めるための価格フック等）
+    if subtitle2:
+        sub2_size = max(34, int(H * 0.055))
+        font_sub2 = ImageFont.truetype(MINCHO, sub2_size)
+        # 幅オーバー時は段階縮小（中央52%幅以内に収める）
+        while draw.textlength(subtitle2, font=font_sub2) > center_area_width and sub2_size > 22:
+            sub2_size -= 1
+            font_sub2 = ImageFont.truetype(MINCHO, sub2_size)
+        y_sub2 = y_sub + sub_size + 28
+        sub2_w = draw.textlength(subtitle2, font=font_sub2)
+        draw.text((cx - sub2_w / 2, y_sub2), subtitle2, font=font_sub2, fill=subtitle2_color)
 
     output.parent.mkdir(parents=True, exist_ok=True)
     img.save(output, "JPEG", quality=92)
