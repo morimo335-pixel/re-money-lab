@@ -517,4 +517,10 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 <a href="https://re-money-lab.com/tsukawanai-gakki-uru/">ギターが28万円？！使わない楽器を高く売る5選｜元買取8年解説</a>
 </div>
 
+<!-- 内部リンク水色カード（記事32・パテックフィリップ・2026-05-14追加） -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
+▶ <strong>あわせて読みたい</strong><br>
+<a href="https://re-money-lab.com/patek-philippe-uru-doko/">【2026】パテックフィリップ売るならどこ？元買取8年のコツ5選</a>
+</div>
+
 </div>
