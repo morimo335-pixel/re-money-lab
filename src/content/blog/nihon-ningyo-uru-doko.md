@@ -149,8 +149,8 @@ H2-2：2026年最新の本音買取相場
 
 <p style="font-size:0.85em;color:#666;margin-top:8px;">※ 上記は最高級品・最高状態の参考値。状態・付属品・市場動向により大きく変動します。一般的なご家庭の人形は数千円〜数万円が中心帯です。実際の査定は無料サービスで確認を。</p>
 
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:16px 20px;margin:25px 0;border-radius:4px;">
-<p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>共箱に「作者名」「印章」が記されているかで査定額が大きく変わります。プロの査定士は人形の造り、衣装の質、目の素材、仕込みの技法から年代・作家を判断できるので、判断難しい品ほど専門業者に相談すべきです。</p>
+<div style="background:#FFF3E0;border-left:5px solid #E65100;padding:16px 20px;margin:25px 0;border-radius:4px;">
+<p style="margin:0;"><strong style="color:#E65100;">💡 業界人ワンポイント：</strong>共箱に「作者名」「印章」が記されているかで査定額が大きく変わります。プロの査定士は人形の造り、衣装の質、目の素材、仕込みの技法から年代・作家を判断できるので、判断難しい品ほど専門業者に相談すべきです。</p>
 </div>
 
 <hr />
@@ -176,8 +176,8 @@ H2-3：高く売る5つのコツ
 
 <p>事前査定（オンライン査定）では写真品質が査定額を左右します。正面・背面・横（左右）・上面の5方向に加えて、<strong>共箱の蓋裏の文字・人形の背中や足の裏の作家署名（銘・落款）を大きく撮影</strong>してください。</p>
 
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:16px 20px;margin:20px 0;border-radius:4px;">
-<p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>プロは顔より先に、箱の裏の「文字」を見ます。共箱の蓋裏に作家名・印章が記されていれば、それだけで真贋判定の証拠になり、査定額が数万円〜数十万円跳ね上がります。</p>
+<div style="background:#FFF3E0;border-left:5px solid #E65100;padding:16px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;"><strong style="color:#E65100;">💡 業界人ワンポイント：</strong>プロは顔より先に、箱の裏の「文字」を見ます。共箱の蓋裏に作家名・印章が記されていれば、それだけで真贋判定の証拠になり、査定額が数万円〜数十万円跳ね上がります。</p>
 </div>
 
 <h3>④ 「価値が分からない」を口に出さない</h3>
@@ -281,8 +281,8 @@ H2-5：おすすめ買取業者 COYASH＋遺品整理110番
 
 <p>遺品整理の文脈で人形以外もまとめて処理したい場合は、遺品整理110番の併用が便利。「人形はCOYASH、その他の不用品は110番」と役割分担すれば、それぞれが得意領域で適正価格になります。</p>
 
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:16px 20px;margin:20px 0;border-radius:4px;">
-<p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人の本音：</strong>人形を売る人は、高確率で「その人形が入っていた大きな箪笥」「実家の和室まるごと」の処分にも困っています。<strong>人形の査定中に、ついでに重い箪笥や他の遺品もまとめて相談できるのが110番の強み</strong>。COYASHの査定と並行で見積もり取れば、実家整理が一気に片付きます。</p>
+<div style="background:#FFF3E0;border-left:5px solid #E65100;padding:16px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;"><strong style="color:#E65100;">💡 業界人の本音：</strong>人形を売る人は、高確率で「その人形が入っていた大きな箪笥」「実家の和室まるごと」の処分にも困っています。<strong>人形の査定中に、ついでに重い箪笥や他の遺品もまとめて相談できるのが110番の強み</strong>。COYASHの査定と並行で見積もり取れば、実家整理が一気に片付きます。</p>
 </div>
 
 <!-- 内部リンク水色カード（スニーカー記事準拠・正規装飾） -->
@@ -325,8 +325,8 @@ H2-7：業界人ワンポイントコラム
 <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>2026年は円安＋海外コレクター需要で人形市場は過去最高水準。日本人形は今売り時です。</p>
 </div>
 
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:20px;margin:25px 0;border-radius:4px;">
-<p style="margin:0 0 12px 0;"><strong style="color:#1E3A5F;">💡 業界の裏側：</strong>2026年は<strong>円安と海外コレクター需要の追い風</strong>で、日本人形市場は「越境EC化」が加速。状態の良い有名作家作品は海外富裕層の投資対象になり、過去最高水準の買取価格が出るケースもあります。</p>
+<div style="background:#FFF3E0;border-left:5px solid #E65100;padding:20px;margin:25px 0;border-radius:4px;">
+<p style="margin:0 0 12px 0;"><strong style="color:#E65100;">💡 業界の裏側：</strong>2026年は<strong>円安と海外コレクター需要の追い風</strong>で、日本人形市場は「越境EC化」が加速。状態の良い有名作家作品は海外富裕層の投資対象になり、過去最高水準の買取価格が出るケースもあります。</p>
 <p style="margin:0;">特に欧米のコレクターは「ジャパニーズ・トラディショナル・ドール」として日本人形を芸術品評価。藤村光環や小出松寿の名前は欧米のオークションでもブランド力を持つようになりました。</p>
 </div>
 
