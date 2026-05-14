@@ -241,26 +241,41 @@ H2-5：おすすめ買取業者 COYASH＋遺品整理110番
 <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>人形だけならCOYASH一択、遺品整理ついでなら110番との併用が最強です。</p>
 </div>
 
-<h3>🌟 COYASH（コヤッシュ）｜人形特化買取の決定版</h3>
-
-<!-- COYASH A8カード -->
-<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:25px 0;box-shadow:0 4px 12px rgba(0,0,0,0.08);">
-<div style="background:#1E3A5F;color:#fff;padding:14px 20px;display:flex;justify-content:space-between;align-items:center;">
-<div><strong style="font-size:1.15em;">日本人形・西洋人形買取専門【COYASH】</strong></div>
-<div style="background:#D4A574;color:#1E3A5F;padding:4px 12px;border-radius:14px;font-size:0.85em;font-weight:bold;">人形専門No.1</div>
+<!-- 🌟 COYASH mybest風カード（feedback_affiliate_card_style.md 正規テンプレ準拠） -->
+<div style="border:1px solid #E0E0E0;border-radius:12px;margin:40px 0;box-shadow:0 4px 16px rgba(0,0,0,0.08);overflow:hidden;background:#fff;">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 24px;display:flex;justify-content:space-between;align-items:center;">
+<span style="font-weight:bold;font-size:0.95em;">🎎 祖母の遺品の人形を価値そのまま手放したい人へ</span>
+<span style="font-size:0.75em;background:rgba(255,255,255,0.2);padding:3px 10px;border-radius:12px;">PR</span>
 </div>
-<div style="padding:20px;background:#fff;">
-<table style="width:100%;border-collapse:collapse;margin-bottom:18px;">
-<tr><td style="padding:8px;border-bottom:1px solid #EEE;"><strong>運営</strong></td><td style="padding:8px;border-bottom:1px solid #EEE;">株式会社トリアイナ</td></tr>
-<tr><td style="padding:8px;border-bottom:1px solid #EEE;"><strong>累計買取実績</strong></td><td style="padding:8px;border-bottom:1px solid #EEE;">320,000点超</td></tr>
-<tr><td style="padding:8px;border-bottom:1px solid #EEE;"><strong>査定料</strong></td><td style="padding:8px;border-bottom:1px solid #EEE;">完全無料</td></tr>
-<tr><td style="padding:8px;border-bottom:1px solid #EEE;"><strong>対応地域</strong></td><td style="padding:8px;border-bottom:1px solid #EEE;">全国（LP記載エリア確認必須）</td></tr>
-<tr><td style="padding:8px;"><strong>対象品</strong></td><td style="padding:8px;">日本人形・西洋人形・骨董人形・現代創作人形</td></tr>
-</table>
-<p style="margin:0 0 14px 0;font-size:0.95em;">人形に特化した買取業者。日本人形の知識が豊富なスタッフが対応し、有名作家作品から状態の悪い品まで価値判断が的確。<strong>「祖母の市松人形の価値が分からない50代女性」「実家の遺品整理に途方に暮れる主婦」の第一選択肢</strong>です。</p>
-<div style="text-align:center;">
-<a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" style="display:inline-block;background:linear-gradient(135deg,#D4A574 0%,#B8860B 100%);color:#fff;padding:14px 40px;border-radius:30px;text-decoration:none;font-weight:bold;font-size:1.05em;box-shadow:0 4px 8px rgba(0,0,0,0.15);">無料査定を申し込む 〉</a>
-<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" alt="" style="display:none;">
+<div style="padding:24px 28px 0 28px;text-align:center;">
+<h3 style="font-size:1.7em;margin:0;color:#1E3A5F;border:none;padding:0;">COYASH（コヤッシュ）</h3>
+<p style="margin:8px 0 0 0;color:#666;font-size:0.95em;">人形特化32万点超の買取実績・査定料／出張料／キャンセル料すべて完全無料</p>
+</div>
+<div style="padding:20px 28px;">
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">無料査定を申し込む　▶</a>
+<img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" alt="">
+</div>
+<div style="padding:0 28px 24px 28px;">
+<p style="margin-top:0;"><strong>こんな人におすすめ</strong></p>
+<ul>
+<li>祖母・母の遺品から市松人形・雛人形・西洋人形が出てきた50代女性</li>
+<li>実家の整理で「価値が分からない人形」をどう処分するか悩んでる方</li>
+<li>有名作家作品か量産品かをプロに見極めてほしい方</li>
+</ul>
+<p><strong>✅ メリット</strong></p>
+<ul>
+<li>人形特化32万点超の実績・専門査定士が作家・年代を的確判定</li>
+<li>査定料・出張料・キャンセル料すべて完全無料</li>
+<li>買取不可品も提携先で人形供養可（「捨てるに忍びない」を解決）</li>
+</ul>
+<p><strong>⚠️ デメリット</strong></p>
+<ul>
+<li>地域によりLP記載対応エリア外の可能性あり（事前確認推奨）</li>
+<li>ニトリ／IKEA等の現代量産家具系は買取対象外</li>
+</ul>
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin-top:18px;border-radius:4px;">
+▶ <strong>あわせて読みたい</strong><br>
+<a href="/ihinseiri-trouble/">遺品整理110番のトラブル事例｜元業界人が暴く失敗回避ガイド</a>
 </div>
 </div>
 </div>
