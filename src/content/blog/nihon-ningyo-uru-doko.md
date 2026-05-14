@@ -241,7 +241,7 @@ H2-5：おすすめ買取業者 COYASH＋遺品整理110番
 <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>人形だけならCOYASH一択、遺品整理ついでなら110番との併用が最強です。</p>
 </div>
 
-<h3>🌟 主軸：COYASH（コヤッシュ）</h3>
+<h3>🌟 COYASH（コヤッシュ）｜人形特化買取の決定版</h3>
 
 <!-- COYASH A8カード -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:25px 0;box-shadow:0 4px 12px rgba(0,0,0,0.08);">
@@ -257,7 +257,7 @@ H2-5：おすすめ買取業者 COYASH＋遺品整理110番
 <tr><td style="padding:8px;border-bottom:1px solid #EEE;"><strong>対応地域</strong></td><td style="padding:8px;border-bottom:1px solid #EEE;">全国（LP記載エリア確認必須）</td></tr>
 <tr><td style="padding:8px;"><strong>対象品</strong></td><td style="padding:8px;">日本人形・西洋人形・骨董人形・現代創作人形</td></tr>
 </table>
-<p style="margin:0 0 14px 0;font-size:0.95em;">人形に特化した買取業者。日本人形の知識が豊富なスタッフが対応し、有名作家作品から状態の悪い品まで価値判断が的確。**「祖母の市松人形の価値が分からない50代女性」「実家の遺品整理に途方に暮れる主婦」の第一選択肢**です。</p>
+<p style="margin:0 0 14px 0;font-size:0.95em;">人形に特化した買取業者。日本人形の知識が豊富なスタッフが対応し、有名作家作品から状態の悪い品まで価値判断が的確。<strong>「祖母の市松人形の価値が分からない50代女性」「実家の遺品整理に途方に暮れる主婦」の第一選択肢</strong>です。</p>
 <div style="text-align:center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" style="display:inline-block;background:linear-gradient(135deg,#D4A574 0%,#B8860B 100%);color:#fff;padding:14px 40px;border-radius:30px;text-decoration:none;font-weight:bold;font-size:1.05em;box-shadow:0 4px 8px rgba(0,0,0,0.15);">無料査定を申し込む 〉</a>
 <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" alt="" style="display:none;">
@@ -265,11 +265,13 @@ H2-5：おすすめ買取業者 COYASH＋遺品整理110番
 </div>
 </div>
 
-<h3>🔧 サブ：遺品整理110番</h3>
+<h3>🏠 遺品整理110番｜実家まるごと整理の強い味方</h3>
 
 <p>遺品整理の文脈で人形以外もまとめて処理したい場合は、遺品整理110番の併用が便利。「人形はCOYASH、その他の不用品は110番」と役割分担すれば、それぞれが得意領域で適正価格になります。</p>
 
-<p><strong>業界人の本音：</strong>人形を売る人は、高確率で「その人形が入っていた大きな箪笥」「実家の和室まるごと」の処分にも困っています。<strong>人形の査定中に、ついでに重い箪笥や他の遺品もまとめて相談できるのが110番の強み</strong>。COYASHの査定と並行で見積もり取れば、実家整理が一気に片付きます。</p>
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:16px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人の本音：</strong>人形を売る人は、高確率で「その人形が入っていた大きな箪笥」「実家の和室まるごと」の処分にも困っています。<strong>人形の査定中に、ついでに重い箪笥や他の遺品もまとめて相談できるのが110番の強み</strong>。COYASHの査定と並行で見積もり取れば、実家整理が一気に片付きます。</p>
+</div>
 
 <!-- 内部リンク水色カード（遺品整理110番トラブル記事） -->
 <a href="/ihinseiri-trouble/" style="text-decoration:none;color:inherit;">
