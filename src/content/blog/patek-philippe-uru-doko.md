@@ -117,8 +117,8 @@ H2-2：2026年最新 パテックフィリップ買取相場
 <h3>2026年の市場動向：スポーツモデル再加速</h3>
 <p>2020〜2022年の異常高騰が2024年に沈静化したものの、2026年に入って<strong>ステンレス製スポーツモデルへの需要が再加速</strong>しています。背景は世界的インフレと円安継続による「実物資産」需要の再評価。ノーチラスとアクアノートの現行モデルは、2026年4〜5月にかけて買取上限価格が数百万単位で変動する局面を迎えています。</p>
 
-<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
   <p style="margin:0;">パテックの査定現場では<strong>「ノンポリッシュ（未研磨）」が最強のステータス</strong>。研磨で失われたケースのエッジは二度と戻らないため、微細な傷がある未研磨品の方が、研磨で鏡面仕上げになった傷なし品より<strong>数百万円高く評価される逆転現象</strong>が起きています。査定依頼時は必ず「ノンポリッシュ」と明確に伝えてください。</p>
 </div>
 
@@ -162,8 +162,8 @@ H2-3：高く売る5つのコツ
 </ul>
 <p>また価格高騰に伴い精巧な偽造品（スーパーコピー）が市場に流入中。<strong>個人間売買は真贋トラブル・支払遅延リスクが高く</strong>パテック級では非推奨。プロ鑑定が介在する一括査定か上場大手の宅配買取が安全です。</p>
 
-<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
   <p style="margin:0;">現場で「あと一歩で高く売れたのに」とよく見るのが<strong>「コマ（駒）の紛失」</strong>。サイズ調整で外したコマを実家に置いたまま売却すると、査定額が10〜30万円下がるケースが珍しくありません。サイズ調整に出した時に外したコマがどこにあるか、売却前に必ず確認を。</p>
 </div>
 
@@ -300,8 +300,8 @@ H2-5：税金の話（ライト版）
 <h3>5年超保有で課税対象が1/2に</h3>
 <p>さらに<strong>保有期間が5年を超える場合、長期譲渡所得として課税対象がさらに1/2</strong>に圧縮されます。上記の例だと、5年超保有なら課税対象は<strong>202.5万円</strong>。給与所得との合算でも、実際の追加納税額が大きく抑えられます。</p>
 
-<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
   <p style="margin:0;">パテックの売却で最も重要なのは<strong>「購入時の領収書を保管すること」</strong>。これがないと「取得費」を証明できず、税務上不利になります。相続したパテックの場合は、被相続人の購入時期と価格が分かる書類を探してください。<strong>個別の税務判断は税理士または最寄りの税務署にご相談</strong>を。本記事は一般情報の提供にとどまります。</p>
 </div>
 

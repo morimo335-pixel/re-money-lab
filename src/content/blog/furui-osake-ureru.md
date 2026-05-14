@@ -97,7 +97,7 @@ H2-1：古いお酒の価値を見極める5つのチェックポイント
 <p>直射日光が当たる窓際・ガス台の近く・横倒しでの長期保管は、液体の酸化やラベル劣化を招きます。査定士は保管環境も写真や説明から判断します。心配な場合は「冷暗所で立てて保管していた」と伝えるだけでも印象が違います。</p>
 
 <!-- 業界人BOX① -->
-<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>査定前に「ラベルをきれいにしよう」と水拭きする方がいますが、<strong>絶対にNG</strong>です。ラベルが剥がれたりカビが発生する原因No.1。やるなら<strong>乾いた柔らかい布で全体の埃を払う程度</strong>に留めてください。ボトルの「ベタつき」も無理に擦らず、そのままで査定に出すのが正解です。
 </div>
 
@@ -167,7 +167,7 @@ H2-2：銘柄別の2026年最新買取相場（早見表）
 </table>
 
 <!-- 業界人BOX② -->
-<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>日本酒は<strong>鮮度が命</strong>です。ウイスキーやブランデーが「古ければ古いほど良い」のに対し、日本酒は製造年月から半年〜1年が買取のデッドライン。十四代のような超人気銘柄でも、1〜2年経つと買取不可になることがあります。「飲む予定がない」と分かった瞬間が、最高値で売れるタイミングです。
 </div>
 
@@ -215,7 +215,7 @@ H2-3：古いお酒を高く売る7つのコツ
 <p>多くの買取業者が期間限定の上乗せキャンペーンを実施しています。<strong>福ちゃんは2026年5月、抽選で最大¥100,000上乗せ</strong>のキャンペーンを実施中。こうしたタイミングを逃さず使うと、市場相場以上のリターンが狙えます。</p>
 
 <!-- 業界人BOX③ -->
-<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>「複数業者で見積もり比較」は基本中の基本ですが、日本酒だけは例外。鮮度が落ちる前にスピード勝負なので、<strong>専門業者1社に絞って即決</strong>するのが正解。ウイスキーやブランデーは2〜3社の相見積もりで全然OKです。
 </div>
 
@@ -347,7 +347,7 @@ H2-6：危ない業者の手口と自衛術
 </ul>
 
 <!-- 業界人BOX④ -->
-<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>大手業者（福ちゃん・バイセル・買取王子等）はコンプライアンス研修を徹底しているので押し買いリスクは低いです。逆に「チラシだけポストに入っていた個人業者」は要警戒。会社住所・固定電話の有無・公式サイトの実在をスマホで5分チェックするだけで、9割の悪質業者は見抜けます。
 </div>
 
@@ -410,7 +410,7 @@ H2-9：業界人コラム：2026年酒税法改正と古酒市場の未来
 <p>家庭に眠っている古いお酒は、今や単なる嗜好品ではなく「<strong>実物資産</strong>」としての性格を強めています。「いつか飲もう」と思って結局飲まないボトルなら、市場が高い今のうちに価値の分かる業者に査定してもらう方が、はるかに合理的です。</p>
 
 <!-- 業界人BOX⑤ -->
-<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>「父が大切にしていたお酒だから売るのは忍びない」という気持ち、痛いほど分かります。でも私が現場で何度も見てきたのは、<strong>20年放置で液面低下→査定¥0</strong>という残念な結末です。「価値を知った上で残す」「価値の分かる人に渡す」のも、故人を大切にする一つの形だと思います。
 </div>
 

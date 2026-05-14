@@ -97,8 +97,8 @@ H2-2：婚約指輪を売る判断基準5選
 <li><strong>形見パターン</strong>：相続手続き完了後は完全に自分の所有物。自由処分OK。</li>
 </ul>
 
-<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
+<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
   <p style="margin:0;">揉めそうな時は弁護士相談が安全です。ただ私の現場感覚では、離婚時の婚約指輪を「返してほしい」と言われるケースは<strong>1割未満</strong>。9割以上は穏便に売却で清算されています。</p>
 </div>
 

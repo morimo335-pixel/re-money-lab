@@ -97,7 +97,7 @@ H2-1：古銭の価値を見極める5つのチェックポイント
 <p>同じ「一銭」でも、明治期の竜一銭銅貨と昭和期の一銭は価値が10倍以上違うことがあります。発行年（西暦・元号）が読み取れる場合は必ずメモしておきましょう。</p>
 
 <!-- 業界人BOX① -->
-<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>査定前に「綺麗にしよう」と古銭を磨くのは<strong>絶対にNG</strong>です。査定額が10分の1になる原因No.1。やるなら<strong>柔らかい乾いた布で全体の埃を払う程度</strong>に留めてください。表面の青緑色のサビ（緑青）も、無理に落とすと価値が暴落します。そのままで査定に出すのが正解です。
 </div>
 
@@ -171,7 +171,7 @@ H2-2：銘柄別の2026年最新買取相場【保存版】
 <p>天保通宝は金属の質や刻印の鋭さで評価が分かれます。保存状態の良いものは2026年市場で特に高評価です。</p>
 
 <!-- 業界人BOX② -->
-<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>「価値の高い古銭」と「ただの古銭」は素人目には見分けがつきません。私の現場経験では、<strong>大量の穴銭を持ち込まれた中から1枚2枚の希少種が見つかる</strong>のが普通です。逆に「これは絶対お宝」と思って持ち込まれた品が、実は明治以降の一般的な銅貨だった、というケースもよくあります。<strong>選別せず全部まとめて査定に出す</strong>のが正解です。
 </div>
 
@@ -277,7 +277,7 @@ H2-5：銀行・郵便局換金は損？2026年の手数料事情
 <p>500枚の1円玉や10円玉を持ち込むと、<strong>手数料の方が受取金額を上回る「手数料負け」</strong>が普通に起きます。しかも計数後にキャンセルしても手数料だけ徴収される金融機関もあります。</p>
 
 <!-- 業界人BOX③ -->
-<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>業界経験から言わせてもらうと、銀行は<strong>「プレミア価値を一切評価しない」</strong>のが最大の問題です。10万円額面の記念金貨を銀行に出しても、付くのは「10万円」だけ。同じ硬貨が買取業者では<strong>72万円</strong>になることを思うと、銀行は最後の選択肢にすべきです。
 </div>
 
@@ -345,7 +345,7 @@ H2-7：査定不可品の正直な処分（銅貨・低額古紙幣）
 <p>2026年の銀行は手数料負けが普通になっています。一方お宝エイドなら<strong>送料も手数料も一切かからず、しかも社会の役に立つ</strong>。「親の遺品をゴミに出すのは気が引ける」という日本人の倫理観に最もフィットする選択肢です。</p>
 
 <!-- 業界人BOX④ -->
-<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>査定で値段がつかなかった品をお客様にどう案内するかは、業界人の良心が問われる場面です。福ちゃんの査定員は「メルカリの方が良い場合もありますよ」と正直に言うことがあります。<strong>無理に買い叩かない誠実さ</strong>こそ、長く選ばれている業者の本質です。
 </div>
 
