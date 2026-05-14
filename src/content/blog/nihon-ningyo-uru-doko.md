@@ -285,18 +285,11 @@ H2-5：おすすめ買取業者 COYASH＋遺品整理110番
 <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人の本音：</strong>人形を売る人は、高確率で「その人形が入っていた大きな箪笥」「実家の和室まるごと」の処分にも困っています。<strong>人形の査定中に、ついでに重い箪笥や他の遺品もまとめて相談できるのが110番の強み</strong>。COYASHの査定と並行で見積もり取れば、実家整理が一気に片付きます。</p>
 </div>
 
-<!-- 内部リンク水色カード（遺品整理110番トラブル記事） -->
-<a href="/ihinseiri-trouble/" style="text-decoration:none;color:inherit;">
-<div style="background:#E3F2FD;border:2px solid #1E3A5F;border-radius:10px;padding:18px 22px;margin:25px 0;display:flex;align-items:center;gap:16px;box-shadow:0 2px 8px rgba(0,0,0,0.06);">
-<div style="font-size:2em;">🔗</div>
-<div style="flex:1;">
-<div style="color:#666;font-size:0.85em;margin-bottom:4px;">関連記事</div>
-<div style="color:#1E3A5F;font-weight:bold;font-size:1.05em;line-height:1.4;">遺品整理110番のトラブル事例｜元業界人が暴く失敗回避ガイド</div>
-<div style="color:#1B3A6F;font-size:0.9em;margin-top:6px;">人形以外の遺品もまとめて整理したい方へ。業者選びで失敗しないコツ。</div>
+<!-- 内部リンク水色カード（スニーカー記事準拠・正規装飾） -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<a href="/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 遺品整理110番のトラブル事例｜元業界人が暴く失敗回避ガイド →</a>
 </div>
-<div style="color:#1E3A5F;font-size:1.5em;">→</div>
-</div>
-</a>
 
 <hr />
 
