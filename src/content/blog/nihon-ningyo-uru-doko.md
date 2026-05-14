@@ -195,12 +195,16 @@ H2-3：高く売る5つのコツ
 
 <p>これが最重要。1社だけで決めると、相場の半額以下で売却しているケースが業界では珍しくありません。COYASH＋他1社の無料査定比較が最低ライン。</p>
 
-<!-- 中盤ミニCTA（A8リンク2箇所目） -->
-<p style="margin:20px 0;font-size:0.85em;color:#666;">※以下はPRリンクです。</p>
-<div style="background:#FFF8E1;border-left:5px solid #D4A574;padding:18px;margin:15px 0;border-radius:6px;text-align:center;">
-<p style="margin:0 0 12px 0;font-weight:bold;color:#1E3A5F;">▶ まずは無料で相場を知る</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" style="display:inline-block;background:linear-gradient(135deg,#D4A574 0%,#B8860B 100%);color:#fff;padding:10px 28px;border-radius:24px;text-decoration:none;font-weight:bold;font-size:0.95em;">COYASH 無料査定（完全無料）〉</a>
-<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" alt="" style="display:none;">
+<!-- 中盤ミニCTA（mybest風・正規テンプレ準拠） -->
+<div style="border:1px solid #E0E0E0;border-radius:12px;margin:30px 0;box-shadow:0 4px 16px rgba(0,0,0,0.08);overflow:hidden;background:#fff;">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 24px;display:flex;justify-content:space-between;align-items:center;">
+<span style="font-weight:bold;font-size:0.95em;">🎎 まずは無料で相場を知りたい人へ</span>
+<span style="font-size:0.75em;background:rgba(255,255,255,0.2);padding:3px 10px;border-radius:12px;">PR</span>
+</div>
+<div style="padding:20px 28px;">
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:16px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.05em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">COYASH 無料査定（完全無料）　▶</a>
+<img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" alt="">
+</div>
 </div>
 
 <hr />
@@ -398,16 +402,19 @@ H2-9：まとめ
 
 <p>「価値が分からない」と諦めて捨てる前に、まず無料査定で価値を確認してください。祖母が・母が大切にしていた人形が、思わぬ高額査定で次世代へ繋がる——それが、遺品整理に向き合う方にとって最も望ましいゴールだと、業界8年の現場経験から自信を持ってお伝えできます。</p>
 
-<!-- ===== まとめ直後・最終CTA（A8リンク3箇所目・最大訴求） ===== -->
-<p style="margin:20px 0 8px 0;font-size:0.85em;color:#666;">※以下はPRリンクです。</p>
-<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:25px 0;box-shadow:0 4px 12px rgba(0,0,0,0.08);">
-<div style="background:#1E3A5F;color:#fff;padding:14px 20px;text-align:center;">
-<strong style="font-size:1.1em;">あなたの日本人形、本当の価値はいくら？</strong>
+<!-- ===== まとめ直後・最終CTA（mybest風ミニカード・正規テンプレ準拠） ===== -->
+<div style="border:1px solid #E0E0E0;border-radius:12px;margin:40px 0;box-shadow:0 4px 16px rgba(0,0,0,0.08);overflow:hidden;background:#fff;">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 24px;display:flex;justify-content:space-between;align-items:center;">
+<span style="font-weight:bold;font-size:0.95em;">🎎 あなたの日本人形、本当の価値はいくら？</span>
+<span style="font-size:0.75em;background:rgba(255,255,255,0.2);padding:3px 10px;border-radius:12px;">PR</span>
 </div>
-<div style="padding:20px;background:#fff;text-align:center;">
-<p style="margin:0 0 16px 0;font-size:0.95em;line-height:1.6;">「価値が分からない」を放置して捨ててしまう前に、人形特化32万点超の実績を持つCOYASHで無料査定。査定料・出張料・キャンセル料すべて完全無料。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" style="display:inline-block;background:linear-gradient(135deg,#D4A574 0%,#B8860B 100%);color:#fff;padding:14px 40px;border-radius:30px;text-decoration:none;font-weight:bold;font-size:1.05em;box-shadow:0 4px 8px rgba(0,0,0,0.15);">COYASH で無料査定する 〉</a>
-<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" alt="" style="display:none;">
+<div style="padding:24px 28px 0 28px;text-align:center;">
+<h3 style="font-size:1.7em;margin:0;color:#1E3A5F;border:none;padding:0;">COYASH（コヤッシュ）</h3>
+<p style="margin:8px 0 0 0;color:#666;font-size:0.95em;">「価値が分からない」を放置して捨ててしまう前に、人形特化32万点超のCOYASHで無料査定</p>
+</div>
+<div style="padding:20px 28px 24px 28px;">
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">COYASHで無料査定する　▶</a>
+<img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" alt="">
 </div>
 </div>
 
