@@ -35,12 +35,18 @@ client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 MINCHO = "/System/Library/Fonts/ヒラギノ明朝 ProN.ttc"
 
 # ベースプロンプト：人物2人＋空白中央エリア（テキストなし）
-BG_PROMPT = """A photorealistic 16:9 horizontal magazine cover background image (1376x768 pixels) for a high-end Japanese women's lifestyle magazine. Editorial photography style, warm and refined.
+# 2026-05-14 BG_PROMPT を article-aware に変更：left_holds・right_holds をJSONで上書き可能
+DEFAULT_LEFT_HOLDS = "a small luxury watch case (wooden or leather, opened to show a vintage-style wristwatch with metallic bracelet inside)"
+DEFAULT_RIGHT_HOLDS = "a wooden clipboard close to her chest with both hands"
+
+
+def build_bg_prompt(left_holds: str = DEFAULT_LEFT_HOLDS, right_holds: str = DEFAULT_RIGHT_HOLDS) -> str:
+    return f"""A photorealistic 16:9 horizontal magazine cover background image (1376x768 pixels) for a high-end Japanese women's lifestyle magazine. Editorial photography style, warm and refined.
 
 THREE-PART LAYOUT:
-- LEFT 25 percent: A Japanese housewife in her early 40s, gentle but slightly anxious face, hair in a loose bun, wearing cream-beige knit sweater. She holds a small luxury watch case (wooden or leather, opened to show a vintage-style wristwatch with metallic bracelet inside) at chest level, looking down with hesitant worried expression. Half-body composition.
+- LEFT 25 percent: A Japanese housewife in her early 40s, gentle but slightly anxious face, hair in a loose bun, wearing cream-beige knit sweater. She holds {left_holds} at chest level, looking down with hesitant worried expression. Half-body composition.
 - CENTER 50 percent: PURE CLEAN CREAM-WHITE BACKGROUND. The center 50 percent of the image MUST BE COMPLETELY EMPTY. Absolutely NO text, NO letters, NO Japanese characters, NO numbers, NO codes, NO hashtags, NO symbols, NO objects, NO logos, NO decorations in this central area. Just empty smooth cream background.
-- RIGHT 25 percent: A confident smiling Japanese woman in her 30s with neat half-up dark hair, wearing navy blouse. She holds a wooden clipboard close to her chest with both hands. CRITICAL: her arms and hands stay strictly within the right 25 percent zone, not extending toward the center. No outstretched hands or pointing gestures. Half-body composition.
+- RIGHT 25 percent: A confident smiling Japanese woman in her 30s with neat half-up dark hair, wearing navy blouse. She holds {right_holds}. CRITICAL: her arms and hands stay strictly within the right 25 percent zone, not extending toward the center. No outstretched hands or pointing gestures. Half-body composition.
 
 STYLE:
 - Background: clean white to cream gradient, soft warm tone
@@ -52,12 +58,12 @@ ABSOLUTELY CRITICAL: This is a BACKGROUND-ONLY image. The center 50 percent must
 """
 
 
-def generate_bg(output: Path):
+def generate_bg(output: Path, left_holds: str = DEFAULT_LEFT_HOLDS, right_holds: str = DEFAULT_RIGHT_HOLDS):
     """Imagen 4 で背景（人物2人＋空白中央）を生成"""
     print("🎨 背景生成中（Imagen 4）...")
     resp = client.models.generate_images(
         model="imagen-4.0-generate-001",
-        prompt=BG_PROMPT,
+        prompt=build_bg_prompt(left_holds, right_holds),
         config=types.GenerateImagesConfig(
             number_of_images=1,
             aspect_ratio="16:9",
@@ -91,12 +97,13 @@ def compose_text(
     W, H = img.size
     draw = ImageDraw.Draw(img)
 
-    # フォントサイズ（スマホ視認性最優先）
-    main_size = max(72, int(H * 0.115))
-    accent_size = max(86, int(H * 0.145))
+    # フォントサイズ（スマホ視認性最優先・2026-05-14 文字大きすぎ調整）
+    main_size = max(64, int(H * 0.095))   # 旧0.115→0.095
+    accent_size = max(78, int(H * 0.120)) # 旧0.145→0.120
 
-    # サブタイトルは中央エリア（中央50%幅）に収まるよう自動調整
-    center_area_width = int(W * 0.52)  # 人物に被らない中央エリア
+    # サブタイトルは中央エリア（中央40%幅）に収まるよう自動調整
+    # 2026-05-14 Satoshi指摘：文字が左右人物に被るので中央エリア幅を狭く（52%→40%）
+    center_area_width = int(W * 0.40)  # 人物に被らない厳格中央エリア
     sub_size_initial = max(32, int(H * 0.048))  # 2026-05-14 サイズ拡大（スマホ視認性UP）
     font_sub = ImageFont.truetype(MINCHO, sub_size_initial)
     # 幅オーバーするなら段階的に縮小（実際のsubtitle文字列で判定）
@@ -105,33 +112,68 @@ def compose_text(
         font_sub = ImageFont.truetype(MINCHO, sub_size_initial)
     sub_size = sub_size_initial
 
-    font_main = ImageFont.truetype(MINCHO, main_size)
+    # 2026-05-14 Satoshi指摘：main lines も center_area_width に収まるよう自動縮小
+    def fit_font(text: str, base_size: int, max_w: int) -> ImageFont.FreeTypeFont:
+        size = base_size
+        font = ImageFont.truetype(MINCHO, size)
+        while draw.textlength(text, font=font) > max_w and size > 32:
+            size -= 2
+            font = ImageFont.truetype(MINCHO, size)
+        return font
+
+    font_main = fit_font(line1, main_size, center_area_width)
+    font_main_l2 = fit_font(line2, main_size, center_area_width)
     font_accent = ImageFont.truetype(MINCHO, accent_size)
 
     cx = W // 2
     line_spacing = int(main_size * 1.15)
 
-    # Line 1 (全体を少し上に詰める)
+    # 2026-05-14 Satoshi指示：太字化（stroke）+ 文字サイズも程よく抑える
+    # 旧 stroke 3/4/2 → 読みにくい（ブロック化）。1/2/1 で軽め太字
+    STROKE_W_MAIN = 1
+    STROKE_W_ACCENT = 2
+    STROKE_W_SUB = 1
+
+    # Line 1
     y1 = int(H * 0.07)
     w1 = draw.textlength(line1, font=font_main)
-    draw.text((cx - w1 / 2, y1), line1, font=font_main, fill=line1_color)
+    draw.text((cx - w1 / 2, y1), line1, font=font_main, fill=line1_color, stroke_width=STROKE_W_MAIN, stroke_fill=line1_color)
 
     # Line 2
     y2 = y1 + line_spacing
-    w2 = draw.textlength(line2, font=font_main)
-    draw.text((cx - w2 / 2, y2), line2, font=font_main, fill=line2_color)
+    w2 = draw.textlength(line2, font=font_main_l2)
+    draw.text((cx - w2 / 2, y2), line2, font=font_main_l2, fill=line2_color, stroke_width=STROKE_W_MAIN, stroke_fill=line2_color)
 
-    # Line 3: accent (大きい黄色) + 残り (ネイビー)
+    # Line 3: 語順対応版（accent の位置を line3_main 内で検出して分割）
     y3 = y2 + line_spacing
-    rest = line3_main.replace(line3_accent, "", 1)
-    accent_w = draw.textlength(line3_accent, font=font_accent)
-    rest_w = draw.textlength(rest, font=font_main)
+    accent_idx = line3_main.find(line3_accent) if line3_accent in line3_main else -1
+    if accent_idx == -1:
+        # accent が含まれない（保険）→ 全体をmain色で描画
+        before, accent_txt, after = "", line3_accent, line3_main
+    else:
+        before = line3_main[:accent_idx]
+        accent_txt = line3_accent
+        after = line3_main[accent_idx + len(line3_accent):]
+
+    font_line3_main = fit_font(line3_main, main_size, center_area_width)
+    before_w = draw.textlength(before, font=font_line3_main)
+    accent_w = draw.textlength(accent_txt, font=font_accent)
+    after_w = draw.textlength(after, font=font_line3_main)
     gap = 6
-    total_w = accent_w + gap + rest_w
+    gap_before = gap if before else 0
+    gap_after = gap if after else 0
+    total_w = before_w + gap_before + accent_w + gap_after + after_w
     x_start = cx - total_w / 2
     accent_y_offset = (accent_size - main_size) // 2
-    draw.text((x_start, y3 - accent_y_offset), line3_accent, font=font_accent, fill=line3_accent_color)
-    draw.text((x_start + accent_w + gap, y3), rest, font=font_main, fill=line3_main_color)
+
+    x = x_start
+    if before:
+        draw.text((x, y3), before, font=font_line3_main, fill=line3_main_color, stroke_width=STROKE_W_MAIN, stroke_fill=line3_main_color)
+        x += before_w + gap_before
+    draw.text((x, y3 - accent_y_offset), accent_txt, font=font_accent, fill=line3_accent_color, stroke_width=STROKE_W_ACCENT, stroke_fill=line3_accent_color)
+    x += accent_w + gap_after
+    if after:
+        draw.text((x, y3), after, font=font_line3_main, fill=line3_main_color, stroke_width=STROKE_W_MAIN, stroke_fill=line3_main_color)
 
     # ゴールド水平線
     y_line = y3 + line_spacing + 20
@@ -145,19 +187,19 @@ def compose_text(
     # サブタイトル
     y_sub = y_line + 24
     sub_w = draw.textlength(subtitle, font=font_sub)
-    draw.text((cx - sub_w / 2, y_sub), subtitle, font=font_sub, fill=subtitle_color)
+    draw.text((cx - sub_w / 2, y_sub), subtitle, font=font_sub, fill=subtitle_color, stroke_width=STROKE_W_SUB, stroke_fill=subtitle_color)
 
     # 第2サブタイトル（スマホで下空白を埋めるための価格フック等）
     if subtitle2:
         sub2_size = max(34, int(H * 0.055))
         font_sub2 = ImageFont.truetype(MINCHO, sub2_size)
-        # 幅オーバー時は段階縮小（中央52%幅以内に収める）
+        # 幅オーバー時は段階縮小（中央エリア幅以内に収める）
         while draw.textlength(subtitle2, font=font_sub2) > center_area_width and sub2_size > 22:
             sub2_size -= 1
             font_sub2 = ImageFont.truetype(MINCHO, sub2_size)
         y_sub2 = y_sub + sub_size + 28
         sub2_w = draw.textlength(subtitle2, font=font_sub2)
-        draw.text((cx - sub2_w / 2, y_sub2), subtitle2, font=font_sub2, fill=subtitle2_color)
+        draw.text((cx - sub2_w / 2, y_sub2), subtitle2, font=font_sub2, fill=subtitle2_color, stroke_width=STROKE_W_SUB, stroke_fill=subtitle2_color)
 
     output.parent.mkdir(parents=True, exist_ok=True)
     img.save(output, "JPEG", quality=92)
@@ -190,6 +232,10 @@ if __name__ == "__main__":
         print(__doc__)
         sys.exit(1)
 
-    generate_bg(bg)
+    # left_holds / right_holds をJSONから抽出（compose_text には渡さない）
+    bg_left = params.pop("bg_left_holds", DEFAULT_LEFT_HOLDS)
+    bg_right = params.pop("bg_right_holds", DEFAULT_RIGHT_HOLDS)
+
+    generate_bg(bg, left_holds=bg_left, right_holds=bg_right)
     compose_text(bg, final, **params)
     print(f"\n🎉 完了！→ {final}")
