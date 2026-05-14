@@ -75,6 +75,19 @@ H2-1：日本人形を売る人の3パターン
 
 <p>👉 <strong>このパターンにおすすめ</strong>：人形特化のCOYASH（価値判断と供養両対応）＋遺品整理110番（他の遺品もまとめて処理）の併用。</p>
 
+<!-- 内部リンク水色カード（遺品整理110番トラブル記事・H2-1直後配置） -->
+<a href="/ihinseiri-trouble/" style="text-decoration:none;color:inherit;">
+<div style="background:#E3F2FD;border:2px solid #1E3A5F;border-radius:10px;padding:18px 22px;margin:25px 0;display:flex;align-items:center;gap:16px;box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+<div style="font-size:2em;">🔗</div>
+<div style="flex:1;">
+<div style="color:#666;font-size:0.85em;margin-bottom:4px;">関連記事</div>
+<div style="color:#1E3A5F;font-weight:bold;font-size:1.05em;line-height:1.4;">遺品整理110番のトラブル事例｜元業界人が暴く失敗回避ガイド</div>
+<div style="color:#1B3A6F;font-size:0.9em;margin-top:6px;">人形以外の遺品もまとめて整理したい方へ。業者選びで失敗しないコツ。</div>
+</div>
+<div style="color:#1E3A5F;font-size:1.5em;">→</div>
+</div>
+</a>
+
 <h3>② 断捨離パターン（娘の成長・飾らなくなった）</h3>
 
 <p>子どもが成長し、雛人形・五月人形を飾る機会がなくなって、置き場所に困っている方。「捨てるには気が引けるが、誰かに大切にしてほしい」という思いが強いパターンです。</p>
@@ -166,9 +179,13 @@ H2-3：高く売る5つのコツ
 
 <p>素人が下手に拭くと衣装や顔の彩色が剥がれて減額対象に。埃を軽く払う程度に留め、汚れは触らず査定士に判断を委ねるのが正解です。</p>
 
-<h3>③ 写真は明るい場所で5方向撮影</h3>
+<h3>③ 写真は明るい場所で5方向撮影＋「銘」が決め手</h3>
 
-<p>事前査定（オンライン査定）では写真品質が査定額を左右します。正面・背面・横（左右）・上面の5方向＋作者印・共箱の写真を撮影しておきましょう。</p>
+<p>事前査定（オンライン査定）では写真品質が査定額を左右します。正面・背面・横（左右）・上面の5方向に加えて、<strong>共箱の蓋裏の文字・人形の背中や足の裏の作家署名（銘・落款）を大きく撮影</strong>してください。</p>
+
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:16px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>プロは顔より先に、箱の裏の「文字」を見ます。共箱の蓋裏に作家名・印章が記されていれば、それだけで真贋判定の証拠になり、査定額が数万円〜数十万円跳ね上がります。</p>
+</div>
 
 <h3>④ 「価値が分からない」を口に出さない</h3>
 
@@ -228,7 +245,7 @@ H2-5：おすすめ買取業者 COYASH＋遺品整理110番
 <tr><td style="padding:8px;border-bottom:1px solid #EEE;"><strong>対応地域</strong></td><td style="padding:8px;border-bottom:1px solid #EEE;">全国（LP記載エリア確認必須）</td></tr>
 <tr><td style="padding:8px;"><strong>対象品</strong></td><td style="padding:8px;">日本人形・西洋人形・骨董人形・現代創作人形</td></tr>
 </table>
-<p style="margin:0 0 14px 0;font-size:0.95em;">人形に特化した買取業者。日本人形の知識が豊富なスタッフが対応し、有名作家作品から状態の悪い品まで価値判断が的確。**綾子さん層の「価値が分からない」を解消できる第一選択肢**です。</p>
+<p style="margin:0 0 14px 0;font-size:0.95em;">人形に特化した買取業者。日本人形の知識が豊富なスタッフが対応し、有名作家作品から状態の悪い品まで価値判断が的確。**「祖母の市松人形の価値が分からない50代女性」「実家の遺品整理に途方に暮れる主婦」の第一選択肢**です。</p>
 <div style="text-align:center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" style="display:inline-block;background:linear-gradient(135deg,#D4A574 0%,#B8860B 100%);color:#fff;padding:14px 40px;border-radius:30px;text-decoration:none;font-weight:bold;font-size:1.05em;box-shadow:0 4px 8px rgba(0,0,0,0.15);">無料査定を申し込む 〉</a>
 <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" alt="" style="display:none;">
@@ -239,6 +256,8 @@ H2-5：おすすめ買取業者 COYASH＋遺品整理110番
 <h3>🔧 サブ：遺品整理110番</h3>
 
 <p>遺品整理の文脈で人形以外もまとめて処理したい場合は、遺品整理110番の併用が便利。「人形はCOYASH、その他の不用品は110番」と役割分担すれば、それぞれが得意領域で適正価格になります。</p>
+
+<p><strong>業界人の本音：</strong>人形を売る人は、高確率で「その人形が入っていた大きな箪笥」「実家の和室まるごと」の処分にも困っています。<strong>人形の査定中に、ついでに重い箪笥や他の遺品もまとめて相談できるのが110番の強み</strong>。COYASHの査定と並行で見積もり取れば、実家整理が一気に片付きます。</p>
 
 <!-- 内部リンク水色カード（遺品整理110番トラブル記事） -->
 <a href="/ihinseiri-trouble/" style="text-decoration:none;color:inherit;">
@@ -286,7 +305,7 @@ H2-7：業界人ワンポイントコラム
 
 <h3>📝 業界人だけが知る「人形供養」との関係</h3>
 
-<p>査定で買取不可となった人形は、神社・お寺での人形供養に出すのが業界の常識ルート。<strong>COYASHでは「買取できない品は提携先で供養」というサービスも提供</strong>しており、綾子さん層の「捨てるに忍びない」気持ちを救う仕組みが整っています。</p>
+<p>査定で買取不可となった人形は、神社・お寺での人形供養に出すのが業界の常識ルート。<strong>COYASHでは「買取できない品は提携先で供養」というサービスも提供</strong>しており、「捨てるに忍びない」「家族の思い出を雑には扱えない」という気持ちを救う仕組みが整っています。</p>
 
 <hr />
 
@@ -296,7 +315,7 @@ H2-8：FAQ
 <h2>よくある質問｜日本人形買取FAQ</h2>
 
 <h3>Q1. ガラスケース入りの日本人形でも買取できる？</h3>
-<p>A. はい、ガラスケース入りでも買取可能です。ケースが綺麗な状態なら加点対象、汚れ・割れがあれば外して人形のみ査定するケースが多いです。</p>
+<p>A. はい、ガラスケース入りでも買取可能です。ただし業界の本音を言うと、<strong>古いケースは汚れで中身が見えづらく査定額が下がるケース</strong>もあれば、<strong>宅配買取ではケースが大きすぎて送料が高くつくジレンマ</strong>もあります。中身だけ取り出した方が作家の銘が確認しやすく、高評価になることも。判断に迷う場合は、まず無料査定で「ケースありとなし、どちらが有利か」を相談するのが正解です。</p>
 
 <h3>Q2. 作家名が分からなくても査定してもらえる？</h3>
 <p>A. はい、専門査定士が共箱・印章・人形の特徴から作家を特定します。「分からないから」と諦めず、まず無料査定に出すのが正解です。</p>
@@ -332,7 +351,7 @@ H2-9：まとめ
 <li>人形専門のCOYASH＋遺品整理110番の併用が遺品整理場面では最強</li>
 </ol>
 
-<p>「価値が分からない」と諦めて捨てる前に、まず無料査定で価値を確認してください。祖母が・母が大切にしていた人形が、思わぬ高額査定で次世代へ繋がる——それが綾子さん層にとって最も望ましいゴールだと、業界8年の現場経験から自信を持ってお伝えできます。</p>
+<p>「価値が分からない」と諦めて捨てる前に、まず無料査定で価値を確認してください。祖母が・母が大切にしていた人形が、思わぬ高額査定で次世代へ繋がる——それが、遺品整理に向き合う方にとって最も望ましいゴールだと、業界8年の現場経験から自信を持ってお伝えできます。</p>
 
 <!-- ===== 筆者プロフィール②（記事末・130px・公式テンプレ） ===== -->
 <div style="background:#F8F4E6;border-left:4px solid #D4A574;border-radius:6px;padding:16px;margin:32px 0;text-align:center;">
