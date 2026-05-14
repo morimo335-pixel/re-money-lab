@@ -227,6 +227,12 @@ H2-4：売り先4パターン徹底比較
 <p style="margin:0;"><strong style="color:#C0392B;">⚠️ 避けたい売り先：</strong>近所のリサイクルショップに持ち込むと、人形の専門知識がないため一律「数千円」査定になりがちです。藤村光環の80万円相当の市松人形が3,000円で売却された実例も業界ではよくある話です。</p>
 </div>
 
+<!-- 関連カード3個目（不用品売却ハブ・H2-4末尾） -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<a href="/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を高く売る方法ガイド｜元買取8年が損しない売却術を全部解説 →</a>
+</div>
+
 <hr />
 
 <!-- ============================================================
