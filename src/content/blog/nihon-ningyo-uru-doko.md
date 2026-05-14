@@ -195,12 +195,24 @@ H2-3：高く売る5つのコツ
 
 <p>これが最重要。1社だけで決めると、相場の半額以下で売却しているケースが業界では珍しくありません。COYASH＋他1社の無料査定比較が最低ライン。</p>
 
+<!-- 中盤ミニCTA（A8リンク2箇所目） -->
+<p style="margin:20px 0;font-size:0.85em;color:#666;">※以下はPRリンクです。</p>
+<div style="background:#FFF8E1;border-left:5px solid #D4A574;padding:18px;margin:15px 0;border-radius:6px;text-align:center;">
+<p style="margin:0 0 12px 0;font-weight:bold;color:#1E3A5F;">▶ まずは無料で相場を知る</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" style="display:inline-block;background:linear-gradient(135deg,#D4A574 0%,#B8860B 100%);color:#fff;padding:10px 28px;border-radius:24px;text-decoration:none;font-weight:bold;font-size:0.95em;">COYASH 無料査定（完全無料）〉</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" alt="" style="display:none;">
+</div>
+
 <hr />
 
 <!-- ============================================================
 H2-4：売り先4パターン徹底比較
 ============================================================ -->
 <h2>日本人形の売り先4パターン徹底比較</h2>
+
+<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>近所のリサイクルショップは「専門知識ゼロで一律数千円」になりがち。価値ある日本人形は人形特化業者一択です。</p>
+</div>
 
 <table>
 <thead>
@@ -279,6 +291,10 @@ H2-6：3つの落とし穴
 ============================================================ -->
 <h2>売る前に絶対NG！日本人形買取の3つの落とし穴</h2>
 
+<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>「綺麗にしてから売ろう」「箱は古いから捨てよう」が最も損する3大落とし穴。元の状態を保つのが鉄則。</p>
+</div>
+
 <h3>① 自分で修復・クリーニングしてしまう</h3>
 
 <p>「綺麗にしてから出した方が高く売れるはず」と思って衣装を洗濯したり、顔を磨いたりするのは厳禁。<strong>オリジナル性が損なわれて査定額が半額以下になる</strong>ケースがほとんどです。</p>
@@ -298,6 +314,10 @@ H2-7：業界人ワンポイントコラム
 ============================================================ -->
 <h2>業界人ワンポイントコラム｜日本人形買取の現場ネタ</h2>
 
+<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>2026年は円安＋海外コレクター需要で人形市場は過去最高水準。日本人形は今売り時です。</p>
+</div>
+
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:20px;margin:25px 0;border-radius:4px;">
 <p style="margin:0 0 12px 0;"><strong style="color:#1E3A5F;">💡 業界の裏側：</strong>2026年は<strong>円安と海外コレクター需要の追い風</strong>で、日本人形市場は「越境EC化」が加速。状態の良い有名作家作品は海外富裕層の投資対象になり、過去最高水準の買取価格が出るケースもあります。</p>
 <p style="margin:0;">特に欧米のコレクターは「ジャパニーズ・トラディショナル・ドール」として日本人形を芸術品評価。藤村光環や小出松寿の名前は欧米のオークションでもブランド力を持つようになりました。</p>
@@ -313,6 +333,10 @@ H2-7：業界人ワンポイントコラム
 H2-8：FAQ
 ============================================================ -->
 <h2>よくある質問｜日本人形買取FAQ</h2>
+
+<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>ガラスケース有無・作家不明・状態不良すべて買取可能。専門業者なら適正判定してくれます。</p>
+</div>
 
 <h3>Q1. ガラスケース入りの日本人形でも買取できる？</h3>
 <p>A. はい、ガラスケース入りでも買取可能です。ただし業界の本音を言うと、<strong>古いケースは汚れで中身が見えづらく査定額が下がるケース</strong>もあれば、<strong>宅配買取ではケースが大きすぎて送料が高くつくジレンマ</strong>もあります。中身だけ取り出した方が作家の銘が確認しやすく、高評価になることも。判断に迷う場合は、まず無料査定で「ケースありとなし、どちらが有利か」を相談するのが正解です。</p>
@@ -339,6 +363,10 @@ H2-9：まとめ
 ============================================================ -->
 <h2>まとめ｜日本人形を売るなら「専門業者×相見積もり」が黄金ルール</h2>
 
+<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>家族の思い出を守りつつ、価値を正しく見極める。COYASH＋遺品整理110番の併用で「捨てるに忍びない」と「適正価格」の両立が可能です。</p>
+</div>
+
 <p>遺品整理で出てきた市松人形、娘の成長で飾らなくなった雛人形、母が大切にしていた西洋人形——どれも家族の思い出が詰まった大切な品です。だからこそ、価値を正しく見極めて、次の方へ大切に橋渡しできる業者を選びたいものです。</p>
 
 <p><strong>本記事のポイントを5つに整理：</strong></p>
@@ -352,6 +380,19 @@ H2-9：まとめ
 </ol>
 
 <p>「価値が分からない」と諦めて捨てる前に、まず無料査定で価値を確認してください。祖母が・母が大切にしていた人形が、思わぬ高額査定で次世代へ繋がる——それが、遺品整理に向き合う方にとって最も望ましいゴールだと、業界8年の現場経験から自信を持ってお伝えできます。</p>
+
+<!-- ===== まとめ直後・最終CTA（A8リンク3箇所目・最大訴求） ===== -->
+<p style="margin:20px 0 8px 0;font-size:0.85em;color:#666;">※以下はPRリンクです。</p>
+<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:25px 0;box-shadow:0 4px 12px rgba(0,0,0,0.08);">
+<div style="background:#1E3A5F;color:#fff;padding:14px 20px;text-align:center;">
+<strong style="font-size:1.1em;">あなたの日本人形、本当の価値はいくら？</strong>
+</div>
+<div style="padding:20px;background:#fff;text-align:center;">
+<p style="margin:0 0 16px 0;font-size:0.95em;line-height:1.6;">「価値が分からない」を放置して捨ててしまう前に、人形特化32万点超の実績を持つCOYASHで無料査定。査定料・出張料・キャンセル料すべて完全無料。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" style="display:inline-block;background:linear-gradient(135deg,#D4A574 0%,#B8860B 100%);color:#fff;padding:14px 40px;border-radius:30px;text-decoration:none;font-weight:bold;font-size:1.05em;box-shadow:0 4px 8px rgba(0,0,0,0.15);">COYASH で無料査定する 〉</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" alt="" style="display:none;">
+</div>
+</div>
 
 <!-- ===== 筆者プロフィール②（記事末・130px・公式テンプレ） ===== -->
 <div style="background:#F8F4E6;border-left:4px solid #D4A574;border-radius:6px;padding:16px;margin:32px 0;text-align:center;">
