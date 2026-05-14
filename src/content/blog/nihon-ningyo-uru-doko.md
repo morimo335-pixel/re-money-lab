@@ -238,42 +238,23 @@ H2-5：おすすめ買取業者 COYASH＋遺品整理110番
 <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>人形だけならCOYASH一択、遺品整理ついでなら110番との併用が最強です。</p>
 </div>
 
-<!-- 🌟 COYASH mybest風カード（feedback_affiliate_card_style.md 正規テンプレ準拠） -->
+<!-- 🌟 COYASH A8カード（スニーカー記事準拠・table版正規テンプレ） -->
 <div style="border:1px solid #E0E0E0;border-radius:12px;margin:40px 0;box-shadow:0 4px 16px rgba(0,0,0,0.08);overflow:hidden;background:#fff;">
 <div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 24px;display:flex;justify-content:space-between;align-items:center;">
 <span style="font-weight:bold;font-size:0.95em;">🎎 祖母の遺品の人形を価値そのまま手放したい人へ</span>
 <span style="font-size:0.75em;background:rgba(255,255,255,0.2);padding:3px 10px;border-radius:12px;">PR</span>
 </div>
-<div style="padding:24px 28px 0 28px;text-align:center;">
-<h3 style="font-size:1.7em;margin:0;color:#1E3A5F;border:none;padding:0;">COYASH（コヤッシュ）</h3>
-<p style="margin:8px 0 0 0;color:#666;font-size:0.95em;">人形特化32万点超の買取実績・査定料／出張料／キャンセル料すべて完全無料</p>
-</div>
-<div style="padding:20px 28px;">
-<a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">無料査定を申し込む　▶</a>
-<img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" alt="">
-</div>
-<div style="padding:0 28px 24px 28px;">
-<p style="margin-top:0;"><strong>こんな人におすすめ</strong></p>
-<ul>
-<li>祖母・母の遺品から市松人形・雛人形・西洋人形が出てきた50代女性</li>
-<li>実家の整理で「価値が分からない人形」をどう処分するか悩んでる方</li>
-<li>有名作家作品か量産品かをプロに見極めてほしい方</li>
-</ul>
-<p><strong>✅ メリット</strong></p>
-<ul>
-<li>人形特化32万点超の実績・専門査定士が作家・年代を的確判定</li>
-<li>査定料・出張料・キャンセル料すべて完全無料</li>
-<li>買取不可品も提携先で人形供養可（「捨てるに忍びない」を解決）</li>
-</ul>
-<p><strong>⚠️ デメリット</strong></p>
-<ul>
-<li>地域によりLP記載対応エリア外の可能性あり（事前確認推奨）</li>
-<li>ニトリ／IKEA等の現代量産家具系は買取対象外</li>
-</ul>
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin-top:18px;border-radius:4px;">
-▶ <strong>あわせて読みたい</strong><br>
-<a href="/ihinseiri-trouble/">遺品整理110番のトラブル事例｜元業界人が暴く失敗回避ガイド</a>
-</div>
+<div style="padding:28px 24px;">
+<h3 style="margin:0 0 14px 0;font-size:1.4em;color:#1E3A5F;border:none;padding:0;">COYASH（コヤッシュ）</h3>
+<p style="margin:0 0 16px 0;color:#666;font-size:0.95em;line-height:1.7;">人形特化32万点超の買取実績を持つ、日本人形・西洋人形・骨董人形の専門業者。専門査定士が作家・年代を的確に判定し、査定料・出張料・キャンセル料すべて完全無料。買取不可品も提携先で人形供養対応可能。</p>
+<table style="width:100%;border-collapse:collapse;margin:16px 0;font-size:0.92em;">
+<tr><td style="padding:8px 0;border-bottom:1px solid #EEE;width:35%;color:#888;background:#fff;">買取方法</td><td style="padding:8px 0;border-bottom:1px solid #EEE;background:#fff;">出張・宅配・店頭</td></tr>
+<tr><td style="padding:8px 0;border-bottom:1px solid #EEE;color:#888;background:#fff;">査定料</td><td style="padding:8px 0;border-bottom:1px solid #EEE;background:#fff;"><strong>無料</strong>（出張料・キャンセル料も無料）</td></tr>
+<tr><td style="padding:8px 0;border-bottom:1px solid #EEE;color:#888;background:#fff;">対応品目</td><td style="padding:8px 0;border-bottom:1px solid #EEE;background:#fff;">日本人形・西洋人形・骨董人形・現代創作人形</td></tr>
+<tr><td style="padding:8px 0;color:#888;background:#fff;">こんな人に</td><td style="padding:8px 0;background:#fff;">祖母の遺品で市松/雛/西洋人形が出てきた50代女性・実家整理に悩む主婦</td></tr>
+</table>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ COYASHの無料査定を申し込む</a>
+<img class="a8-pixel" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" alt="" width="1" height="1" style="border:0;" />
 </div>
 </div>
 
