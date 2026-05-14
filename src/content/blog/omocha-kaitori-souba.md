@@ -96,7 +96,7 @@ H2-1：おもちゃの価値を見極める5つのチェックポイント
 <p>LEGOやトミカは<strong>シリーズ完品・大量まとめ</strong>の方が圧倒的に高評価です。バラレゴ（パーツが混ざった状態）でもkg単位で買取してくれる業者があるので、捨てずに一度査定に出してください。</p>
 
 <!-- 業界人BOX① -->
-<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>査定前に「綺麗にしよう」とおもちゃを水洗いしたり、ブリキを磨くのは<strong>絶対にNG</strong>です。査定額が10分の1になる原因No.1。やるなら<strong>柔らかい乾いた布で全体の埃を払う程度</strong>に留めてください。ブリキ表面の自然な変色（古色）やソフビのわずかな日焼けも、コレクター市場ではむしろ「当時物の証拠」としてプラス評価される場合があります。手を加えず、そのままで査定に出すのが正解です。
 </div>
 
@@ -166,7 +166,7 @@ H2-2：銘柄別の2026年最新買取相場【保存版】
 <p>ブリキは保存状態の良い個体になると100万円超の落札例もあります。実家の押入れから出てきた「埃まみれの古いロボット人形」が、実は数十万円の資産だったというのは現場でよくある話です。</p>
 
 <!-- 業界人BOX② -->
-<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>「価値の高いおもちゃ」と「ただの古いおもちゃ」は素人目には見分けがつきません。私の現場経験では、<strong>大量のおもちゃの段ボールを持ち込まれた中から1〜2点の希少品が見つかる</strong>のが普通です。逆に「これは絶対お宝」と思って持ち込まれた品が、実は2000年代の量産品だった、というケースもよくあります。<strong>選別せず全部まとめて査定に出す</strong>のが正解です。
 </div>
 
@@ -296,7 +296,7 @@ H2-5：卒業タイミングと「保留箱」で後悔ゼロ
 <p>NPO寄付やリサイクル買取に出すときは、子供に<strong>「他の子が遊んでくれるよ」</strong>と伝えると、処分が「終わり」ではなく「お別れ＋誰かへのバトン」に変わります。これだけで子供の納得度は大きく上がります。</p>
 
 <!-- 業界人BOX③ -->
-<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>査定の現場で一番多い後悔は、<strong>「親が良かれと思って先に捨ててしまった希少品」</strong>です。子供が大学生になってから「あのトミカ集まだ実家にあるかな？」と聞かれて、すでに処分済みだったというケース。子供が手放すと言ったとしても、<strong>「黒箱」「香港製」「廃盤LEGO大型」「昭和ブリキ」だけは1度プロの目を通してから判断</strong>することを強くおすすめします。
 </div>
 
@@ -373,7 +373,7 @@ H2-7：査定不可品の正直な処分（破損品・寄付・自治体）
 <p>大型のジャングルジム・三輪車・滑り台は<strong>自治体の粗大ゴミ</strong>として300〜2,000円で出せます。プラスチック小型は可燃／金属は不燃ゴミに分別。ただし、状態が良い品をいきなりゴミに出すのは「もったいない」一択。必ず一度は買取・寄付・ジモティーを検討してください。</p>
 
 <!-- 業界人BOX④ -->
-<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>「破損品でも一応出してください」と伝えるのには理由があります。査定士目線では<strong>本体は値がつかなくても、付属パーツや箱だけ別ルートで再販できる</strong>ことが珍しくありません。例えば壊れたLEGOセットでも、説明書1冊・特殊パーツ数個に値がつくケース。「もう絶対ダメだろう」と素人判断で捨てる前に、まとめて見せてしまうのが結局得です。
 </div>
 

@@ -91,7 +91,7 @@ H2-1：古いレコードの処分前にまず確認すべき5つのこと
 <p>50枚以上ある場合は、<strong>店頭持ち込みより出張買取の方が圧倒的に楽</strong>です。LPレコード100枚で約25kgあるので、運搬中の事故リスクや腰への負担を考えると、自宅で査定してもらう一択です。</p>
 
 <!-- 業界人ワンポイントBOX（エメラルド系） -->
-<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>査定前に「磨き上げ」をやり過ぎる人が多いですが、業者は経年の自然な状態を前提に値付けします。素人クリーニングで盤を傷つけると本末転倒。<strong>軽く埃を払う程度</strong>で十分です。
 </div>
 
@@ -151,7 +151,7 @@ H2-3：レコードを大量処分する3つの選択肢
 <p>地元の引き取り手を募集する方法。<strong>処分費はかからない</strong>ものの、引き取り日時の調整・自宅までの来訪対応など、思った以上に手間です。トラブル例も少なくないため、面識のない相手とのやり取りに慣れていない方にはあまりおすすめしません。</p>
 
 <!-- 業界人BOX（梱包コツ・宅配買取編） -->
-<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>もし宅配買取を選ぶなら、段ボールには<strong>レコードを必ず立てて</strong>詰めてください。横倒し（平積み）は輸送中に割れる原因No.1です。隙間は新聞紙で埋め、底面はガムテープを米の字に貼って補強。1箱あたりの重量は<strong>50〜60枚を目安</strong>に。
 </div>
 
@@ -203,7 +203,7 @@ H2-5：レコードプレーヤーも一緒に処分する時
 <p>レコード単体の査定とプレーヤー単体の査定を別々の業者に出すと、査定士の出張回数が増え、業者の負担も大きくなります。<strong>同じ業者に「レコード＋プレーヤー」をまとめて売ると、業者側も「丸ごと引き取れる優良案件」と判断して査定額がアップしやすい</strong>のです。</p>
 
 <!-- 業界人BOX -->
-<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>プレーヤーは「動く・動かない」で査定額が3倍以上変わります。動作確認できれば事前に伝えると有利。針が摩耗していてもプレーヤー本体に価値があるので、針交換は不要です。<strong>取扱説明書・元箱があれば必ず一緒に</strong>。
 </div>
 
@@ -234,7 +234,7 @@ H2-6：高く売れる古いレコードの特徴【元業界人視点】
 <p>レコードの査定は<strong>NM（ニアミント）→EX（エクセレント）→VG＋→VG→G</strong>の5段階でランク付けされます。NM・EXなら定価以上の買取も期待できます。</p>
 
 <!-- 業界人BOX（買取強化シーズン） -->
-<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>レコード市場には<strong>4月・11月の買取強化シーズン</strong>があります。長期休暇前・ボーナス時期に在庫を確保したい業者がキャンペーンを打つので、急がない方はこのタイミングがお得です。
 </div>
 
@@ -310,7 +310,7 @@ H2-8：業界人が見た古いレコード処分の3つの落とし穴
 <p>業界人として一つお伝えしたいのは、<strong>「捨てる」と「次の愛好家に引き継ぐ」は全く別の選択肢</strong>だということ。買取業者に売れば、その盤は再び誰かのターンテーブルで音を奏でます。これは故人の想いを<strong>消すのではなく、つなぐ選択</strong>です。</p>
 
 <!-- 業界人BOX -->
-<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>遺品整理は「全部捨てること」ではなく「<strong>残すもの・形見分けするもの・次に引き継ぐもの</strong>」を整理するプロセスです。査定明細を家族で共有すると、相続トラブルの予防にもなります。
 </div>
 

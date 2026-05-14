@@ -123,8 +123,8 @@ H2-2：2026年最新 楽器の本音買取相場
 
 <p>2026年の中古ギター市場で見逃せないのが、<strong>円安による海外バイヤーの参入</strong>です。1980年代の国産ギター（<strong>グレコ、フェルナンデス、トーカイ</strong>など）は、かつては「Fenderの安物コピー」扱いでしたが、現在は海外のヴィンテージ市場で「ジャパンヴィンテージ」として評価され、買取相場が急騰しています。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント（過信は禁物）</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント（過信は禁物）</p>
   <p style="margin:0;">¥12〜25万円という相場が出るのは、<strong>1980年前後の上位機種（ラッカー塗装や当時の高級パーツ使用モデル）</strong>に限った話です。当時の初心者向け低価格モデルは、現在でも<strong>数千円〜3万円程度</strong>にしかならないケースが多いので、「古い国産＝すべてお宝」とは思わない方が無難。型番とシリアルから上位機種か判断してください。</p>
 </div>
 
@@ -154,8 +154,8 @@ H2-2：2026年最新 楽器の本音買取相場
 
 <p>バイオリンの査定では、2026年のトレンドとして<strong>「鑑定書」の重要性</strong>が高まっています。特に¥100万円を超える可能性のあるオールドバイオリンや作家物については、鑑定書の有無が査定額を数十万円単位で左右します。ケース・弓・付属品が全て揃っていることも、高価買取の必須条件です。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
   <p style="margin:0;">「親が買ってくれた古い楽器」の真の価値は、メーカー名と型番で90%決まります。査定に出す前に必ずヘッド裏や本体裏のシリアル番号、製造国（USA / Mexico / Japan）を確認しましょう。USA製ヴィンテージは想像以上の値段がつくケースが多いです。</p>
 </div>
 
@@ -346,8 +346,8 @@ H2-4：壊れた楽器・古い楽器も売れる？2026年の常識
 <p style="margin:0;"><a href="https://re-money-lab.com/furui-record-shobun/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 【完全保存版】古いレコードの処分で損しない7つの鉄則 →</a></p>
 </div>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
   <p style="margin:0;">私の現場経験では、タンポ劣化＋小傷ありの中古サックスが、内部のタンポと共鳴管の状態だけで¥8,000の値段がついたケースがあります。「ダメ元で査定」が結果的に臨時収入に変わるのは珍しくありません。<strong>ただし</strong>、管が真っ二つに折れている・木材が完全に腐っているなど、修理しても元が取れないレベルの破損は、さすがにパーツ取り（数千円）にしかならない点はご理解ください。</p>
 </div>
 

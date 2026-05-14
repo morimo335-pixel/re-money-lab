@@ -70,7 +70,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 <li><strong>メリット</strong>：即金性◎、手間少、幅広いジャンル対応</li>
 <li><strong>デメリット</strong>：買取価格が低め、専門性の高い商品は適正査定されにくい</li>
 </ul>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>総合リサイクルショップでは、<strong>多くの場合、ベテラン査定員ほど短時間で値段を判断します</strong>（経験則として数秒〜十数秒）。これはマニュアル化された相場表と取扱経験に基づく判断ですが、裏を返せば<strong>専門性の高い商品（ブランド品・骨董品・カメラなど）は本来の価値より低く査定されてしまう可能性</strong> があります。価値が分からない高そうな商品は、リサイクルショップに持ち込む前に<strong>専門店の査定を試してみる</strong> のがおすすめです。</p>
 </div>
 <h3>② 宅配買取（ネット完結）</h3>
@@ -80,7 +80,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 <li><strong>メリット</strong>：完全在宅、24時間申込可、専門業者多数、複数比較しやすい</li>
 <li><strong>デメリット</strong>：入金まで数日〜1週間、梱包の手間、店次第で返送料発生</li>
 </ul>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>宅配買取で<strong>絶対に確認すべきポイントは3つ</strong>：①送料無料、②査定料無料、③キャンセル時の返送料無料。<strong>この3つすべてが無料の業者だけ選ぶ</strong> のが業界の常識です。1つでも有料だと「返送した結果手数料で赤字」になりかねません。また、宅配買取業者は<strong>得意ジャンルが分かれている</strong> ため、ジャンル外の商品を送ると相場より大幅に低い査定が出ることも。送る前に「自分の商品はこの業者の得意ジャンルか？」を必ず確認しましょう。</p>
 </div>
 <h3>③ 出張買取（自宅まで来てくれる）</h3>
@@ -114,7 +114,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 </tbody>
 </table>
 <p><strong>この記事で「出張買取」と書く時は、自分から申し込む正規サービス</strong> を指しています。<strong>業者から飛び込みで来る「訪問買取」は別物</strong> で、特に貴金属の悪質トラブルが多いため、H2-5「契約編」で詳しく解説します。</p>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>買取業界では一般的に <strong>営業成績による評価制度</strong> があり、<strong>強引な交渉や即決の圧力をかける営業に遭遇する可能性</strong> もあります。<strong>詳しい対策はH2-4（査定額アップの事前準備）とH2-5（NG行動）で解説します。</strong></p>
 </div>
 <h3>④ フリマアプリ（メルカリ・ラクマ）</h3>
@@ -128,7 +128,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 <p>💬 <strong>覚悟しておくべき「対応コスト」</strong><br />
 フリマで売る場合、購入者から1日数件〜十数件の問い合わせが来ます。「サイズ感は？」「値下げは？」「即決可能？」などにこまめに返信できる人でないと、機会損失になります。</p>
 </blockquote>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>買取業者がフリマアプリと正面競合しないのには <strong>業界側の事情</strong> があります。それは <strong>「在庫リスク」と「人件費」</strong>。業者は商品仕入後の保管コスト・店舗運営費・人件費・広告費があるため、買取価格は必然的に「<strong>売値の30〜50%程度</strong>」に抑えざるを得ません。一方で個人がフリマで売る場合、これらのコストが一切かからない。<strong>だから個人の方が高く売れる</strong> という、シンプルな経済原理です。「買取業者で安く買い叩かれた」と感じる場合があるとすれば、それは業者が悪いわけではなく<strong>ビジネスモデル上、必然的にその価格になる</strong> ということなんです。</p>
 </div>
 <h3>⑤ ネットオークション（ヤフオク）</h3>
@@ -142,7 +142,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 <p>💬 <strong>覚悟しておくべき「対応コスト」</strong><br />
 ヤフオクではオークション期間中（1〜7日）に入札者からの質問対応、落札後は発送通知・到着確認などのメッセージが発生します。返信が遅いと入札を見送られる可能性があります。</p>
 </blockquote>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>買取業界の多くの業者は、お客さんから仕入れた商品を、<strong>最終的にヤフオクや専門市場で売って利益を出している</strong> のが一般的です。これは決して悪いことではなく、商売として当然のビジネスモデル。ただし<strong>消費者目線で見ると、自分で直接ヤフオクに出せば、その「業者の利益分」が丸ごと自分の手取りになる</strong> ということ。だから<strong>手間さえ惜しまなければ、ヤフオクが最高値になるのは理屈として自然</strong> なんです。ただし、すべての商品がそうとは限らず、<strong>お店ごとに「さばける販売ルート」が違う</strong> ため、業者によってはヤフオク相場とほぼ変わらない高値で買い取ってくれるケースもあります（H2-2で解説）。</p>
 </div>
 <h3>＋α：もう一つの選択肢、ジモティー（地域密着の譲る・売る掲示板）</h3>
@@ -156,7 +156,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 </ul>
 <h4>💡 メルカリの「0円出品」との違い</h4>
 <p>メルカリにも「0円・送料のみ」や「あげます」出品は可能ですが、<strong>送料を出品者が負担する前提のため、大型家具・家電には不向き</strong>（送料だけで数千円かかるケースも）。一方ジモティーは <strong>「近所の人が車で取りに来る」のが前提</strong> なので、<strong>送料負担ゼロで大型物を手放せる点で圧倒的に優位</strong> ですの——これが業界人がジモティーを補助ツールとして推す最大の理由です。</p>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>業界人から見たジモティーの真価は、<strong>「売値」ではなく「処分費用の節約」</strong> にあります。筆者の廃品回収業界での実務経験では、<strong>大型ソファ・冷蔵庫・洗濯機などは廃品回収で3,000〜15,000円程度かかる</strong> のが一般的（家電リサイクル法対象品はリサイクル料金込み・品目・地域で変動）。ジモティーなら <strong>0円譲渡</strong> で相手が自宅まで取りに来てくれるケースが多く、処分費ゼロで手放せるのが最大の強みです。これは業者が値段をつけない <strong>製造10年超の家電の有力な選択肢の一つ</strong> として機能します。</p>
 </div>
 <p><strong>「売って得する」より「捨てて損しない」</strong> が合言葉。引っ越し・遺品整理で大型家具・家電が出る方は、<strong>廃品回収に出す前に必ずジモティーで1週間試す</strong> のをルール化しましょう。</p>
@@ -218,7 +218,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 </table>
 <h3>① ブランド品 → 専門宅配買取</h3>
 <p><strong>結論</strong>：ブランド品は「専門宅配買取」が最適。総合リサイクルショップでは本来の価値より低い査定になるリスクあり。</p>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>ブランド品の査定では、<strong>真贋判定の専門知識を持つ業者を選ぶ</strong> のが鉄則。ブランド品を専門に取り扱う宅配買取業者・百貨店内の買取専門店・ブランド品鑑定士資格保有者が在籍する業者などが該当します。総合リサイクルショップでブランド品を売ると、<strong>本来10万円相場のバッグが2〜3万円で査定</strong> されることも珍しくありません。付属品（箱・保存袋・ギャランティカード）の有無で査定額は大きく変動します。</p>
 </div>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:0 8px 8px 0;padding:16px 22px;margin:24px 0;color:#3E2723;line-height:1.85;">
@@ -227,7 +227,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 </div>
 <h3>② 貴金属 → 貴金属専門の買取店</h3>
 <p><strong>結論</strong>：貴金属は金相場連動で透明性が高く、専門店が最適。ただし<strong>訪問買取は悪質トラブルが多発しているため要注意</strong>。</p>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>貴金属の買取価格は <strong>金・プラチナ・銀の市場相場（時価）に連動</strong> します。売る前に <strong>当日の金相場を必ず確認</strong>（田中貴金属工業や三菱マテリアルのサイトで公開）。業者の買取価格が <strong>相場の80〜90%以上</strong> であれば適正。ブランドジュエリー（カルティエ・ティファニーなど）は金属価値＋ブランド価値が加算されるため、ブランド品買取の知識もある業者を選びましょう。</p>
 </div>
 <p>⚠️ なお、<strong>訪問買取（業者から飛び込みで来るタイプ）では悪質トラブルが多発</strong> しています。詳しくはH2-5「契約編」を参照してください。</p>
@@ -237,7 +237,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 </div>
 <h3>③ カメラ・楽器・コレクション品 → 専門業者宅配 or ヤフオク</h3>
 <p><strong>結論</strong>：このジャンルはモデル名・年式・コンディションで価格が大きく変動するため、<strong>専門業者</strong> または <strong>ヤフオク</strong> の二択。総合リサイクルショップでは適正査定になりにくい。</p>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>判断軸は2つ：</p>
 </div>
 <p><strong>①知識のある専門業者を選ぶ</strong><br />
@@ -256,7 +256,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 </div>
 <h3>④ 家具・家電 → 出張買取＋廃品回収との併用</h3>
 <p><strong>結論</strong>：家具・家電は「出張買取」が基本ですが、状態によっては「廃品回収との併用」を検討すべき。</p>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong><strong>家電は製造から5年を超えると、多くの業者で値段がつきにくくなる傾向</strong> があります（メーカー保証期間や部品保有年数の目安によるもの）。</p>
 </div>
 <table>
@@ -290,7 +290,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 
 <h3>⑤ 本・CD・DVD・ゲーム → 量で判断</h3>
 <p><strong>結論</strong>：このジャンルは <strong>「量」で売り方を分ける</strong> のが最適。少量→フリマ、大量→宅配買取。希少本・絶版本は古書専門店orヤフオクが高値。</p>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>本・CD・DVD・ゲームの買取業者では、<strong>ISBN/JANコードを使った機械的な査定</strong> が一般的。バーコードをスキャンすると定価と相場が瞬時に出てくる仕組みのため、<strong>一般書籍は業者ごとの査定額の差が比較的小さい</strong> 傾向です。</p>
 </div>
 <p>ただし <strong>希少本・絶版本・初版本・サイン本などは機械査定では適正評価されません</strong>。古書専門店（神保町など）またはヤフオクでマニアに直接売る方が圧倒的に高値になります。</p>
@@ -323,7 +323,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 
 <h3>⑥ 服・アパレル → フリマアプリ（個別売り）</h3>
 <p><strong>結論</strong>：服・アパレルはフリマアプリ（メルカリ・ラクマ）が最適。買取業者に持ち込むと想像以上に低い査定になりやすい。</p>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong><strong>総合リサイクル店だと、服はkg単位で扱われるケースもあり、1着あたり数十円〜数百円の査定になることも</strong> あります。これは服が在庫スペースを取り、回転率も悪いため、業者側の利益確保のため。一方で <strong>服専門の買取店（ブランディアなど）なら個別査定で適正な値段が付きやすい</strong> 傾向です。</p>
 </div>
 <table>
@@ -364,13 +364,13 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 <h3>【タイプ①】とにかく早く処分したい人 → 出張買取 or リサイクルショップ</h3>
 <p><strong>こんな人</strong>：引っ越し直前・断捨離中・スピード重視</p>
 <p>大型家具・家電があるなら <strong>出張買取</strong>、小物中心なら <strong>リサイクルショップ</strong> を選びましょう。</p>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>急いでいる人ほど <strong>「最初に見つけた1社で決める」</strong> をやりがち。<strong>急いでいる時こそ、最低3社の見積もりを取ること</strong> が業界の鉄則です。<strong>詳しくはH2-4参照</strong>。一括査定サイトを使えば1日で複数社の見積もりが揃います。</p>
 </div>
 <h3>【タイプ②】手間かけずそこそこ価格で売りたい人 → 宅配買取</h3>
 <p><strong>こんな人</strong>：仕事や育児で店舗に行く時間がない・出品作業の手間は絶対に避けたい・数千円〜数万円のリターンは欲しい</p>
 <p>ジャンル特化の宅配買取業者を選ぶのがコツ。ブランド品ならブランド専門業者、本なら本専門業者というように。</p>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>宅配買取は <strong>「振込スピード」</strong> も業者によって差があります。最短で<strong>査定承諾後24時間以内</strong> に振り込んでくれる業者もあれば、<strong>1週間以上かかる</strong> 業者も。急ぎで現金が欲しい場合は振込スピードも事前確認を。また、<strong>送料・査定料・キャンセル時返送料すべて無料</strong> の業者だけ選ぶのが鉄則(H2-1で詳述)。</p>
 </div>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:0 8px 8px 0;padding:16px 22px;margin:24px 0;color:#3E2723;line-height:1.85;">
@@ -384,7 +384,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 <h3>【タイプ③】手間OK・最高値で売りたい人 → ヤフオク・フリマ</h3>
 <p><strong>こんな人</strong>：スマホ操作・写真撮影が得意・在宅時間が長い・少しでも高く売りたい・副業感覚で取り組める</p>
 <p>初心者・小物中心ならメルカリ、コレクター品・レア物ならヤフオクが最適。</p>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>このタイプで最大のメリットは、<strong>「業者の利益分が自分の手取りになる」</strong> こと(H2-1で解説)。買取業者は店舗運営費・人件費・在庫リスクがあるため、買取価格は売値の30〜50%程度に抑えざるを得ません。個人がヤフオク・メルカリで売る場合、これらのコストが一切かからないため、<strong>業者が中間で取っていた利益分が、丸ごと自分の手取りになる</strong> ということ。</p>
 </div>
 <p>ただし、<strong>写真撮影・説明文作成(1商品10〜30分)</strong>、<strong>購入者からの問い合わせ対応</strong>(サイズ・状態・値下げ交渉への返信)、<strong>梱包・発送</strong>、<strong>トラブル対応</strong> などの手間が発生します。<strong>売る商品の単価次第</strong> で見合うかどうかが決まります(1点500円の本に1時間かけるのは非効率、5万円のブランドバッグなら十分元が取れます)。</p>
@@ -392,7 +392,7 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 <h3>【タイプ④】引っ越し・遺品整理で大量処分する人 → 出張買取＋廃品回収併用</h3>
 <p><strong>こんな人</strong>：引っ越しで家1軒分・親の遺品整理・30点以上の不用品</p>
 <p><strong>「出張買取＋廃品回収の複合サービス」</strong> を提供している業者を選びましょう。売れる物は買い取り、売れない物は廃品回収として有料引取してもらえます。</p>
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong>筆者は廃品回収業界での実務経験から、<strong>「すべて廃品回収に出す」のは実は損をしているケースが多い</strong> と感じています。家1軒分の不用品の中には、必ず<strong>買取に回せる商品</strong>が含まれています(製造から数年以内の家電、ブランド食器・カメラ・時計、状態の良い家具、古銭・記念硬貨、着物・骨董品など)。これらをまとめて廃品回収に出すと、本来5万円〜10万円になる商品を捨てることになります。<strong>両方できる業者</strong> を選ぶのが最効率です。</p>
 </div>
 <p>また、<strong>買取がつかない物をいきなり廃品回収に出すのではなく、間に「ジモティーでの0円譲渡」をはさむ</strong> のも業界人のテクです。処分コストを最大限抑えられます。優先順位は以下の三段構えで臨むのがベスト：</p>

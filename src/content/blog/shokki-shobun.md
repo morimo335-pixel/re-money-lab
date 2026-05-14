@@ -132,8 +132,8 @@ heroImage: '../../assets/blog/shokki-shobun.jpg'
 </tbody>
 </table>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
-<p style="margin:0;color:#004D40;"><strong>💡 業界人ワンポイント：</strong>現役時代、お客様の9割は「全部捨てる」か「全部売る」の二択で考えていました。実は「ブランド物だけ売って、残りは寄付」のように<strong>品物ごとに使い分ける</strong>のが、もったいない罪悪感を残さず一番得する手順です。</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;color:#E65100;"><strong>💡 業界人ワンポイント：</strong>現役時代、お客様の9割は「全部捨てる」か「全部売る」の二択で考えていました。実は「ブランド物だけ売って、残りは寄付」のように<strong>品物ごとに使い分ける</strong>のが、もったいない罪悪感を残さず一番得する手順です。</p>
 </div>
 
 <h3>「ノンブランドの食器」でも値が付くケース</h3>
@@ -213,8 +213,8 @@ heroImage: '../../assets/blog/shokki-shobun.jpg'
 
 <p>底や側面に職人のサイン（落款）が入った和食器は、<strong>素人判断で捨てるのが最もリスクが大きい</strong>食器です。楠部彌弌・鈴木五郎など著名作家の作品は1点で1万円〜数十万円の価値があります。共箱があれば必ず一緒に保管してください。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
-<p style="margin:0;color:#004D40;"><strong>💡 業界人ワンポイント：</strong>現役時代、ご遺族から「父が大事にしてた湯呑みなんて売れないでしょう？」と渡された茶碗が、人間国宝の作品で30万円を超えた経験があります。<strong>「価値があるか分からない」物こそ査定に出してください</strong>。</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;color:#E65100;"><strong>💡 業界人ワンポイント：</strong>現役時代、ご遺族から「父が大事にしてた湯呑みなんて売れないでしょう？」と渡された茶碗が、人間国宝の作品で30万円を超えた経験があります。<strong>「価値があるか分からない」物こそ査定に出してください</strong>。</p>
 </div>
 
 <h3>割れ物・欠け・極端な傷み</h3>
@@ -303,8 +303,8 @@ heroImage: '../../assets/blog/shokki-shobun.jpg'
 
 <p>食器以外にも衣類・おもちゃ・文房具などを同梱できるため、家中の整理を一気に進めるのにも便利です。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
-<p style="margin:0;color:#004D40;"><strong>💡 業界人ワンポイント：</strong>業界では「値が付かない食器」を扱う機会が多いのですが、<strong>「これ、捨てる前に寄付って選択肢があるんですよ」とお伝えすると、9割のお客様が安心した表情に変わります</strong>。罪悪感の正体は「価値あるものを無価値にする後ろめたさ」なので、誰かに役立つルートを示すと一気に解消されます。</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;color:#E65100;"><strong>💡 業界人ワンポイント：</strong>業界では「値が付かない食器」を扱う機会が多いのですが、<strong>「これ、捨てる前に寄付って選択肢があるんですよ」とお伝えすると、9割のお客様が安心した表情に変わります</strong>。罪悪感の正体は「価値あるものを無価値にする後ろめたさ」なので、誰かに役立つルートを示すと一気に解消されます。</p>
 </div>
 
 <!-- ===== H2-6：自治体ルールの基本 ===== -->
@@ -361,8 +361,8 @@ heroImage: '../../assets/blog/shokki-shobun.jpg'
 
 <p>電話だけで金額を確定させる業者は要注意。<strong>必ず現地で物量と品物の価値を確認した上で正式見積もりを出す業者</strong>が信頼できます。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:20px 0;border-radius:4px;">
-<p style="margin:0;color:#004D40;"><strong>💡 業界人ワンポイント：</strong>もし契約後に強引な追加請求などトラブルに遭ったら、<strong>消費者ホットライン「188（いやや）」</strong>へすぐ電話してください。早ければ早いほど解決しやすく、業界の自浄作用にも繋がります。</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;padding:15px 20px;margin:20px 0;border-radius:4px;">
+<p style="margin:0;color:#E65100;"><strong>💡 業界人ワンポイント：</strong>もし契約後に強引な追加請求などトラブルに遭ったら、<strong>消費者ホットライン「188（いやや）」</strong>へすぐ電話してください。早ければ早いほど解決しやすく、業界の自浄作用にも繋がります。</p>
 </div>
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">

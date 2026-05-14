@@ -122,8 +122,8 @@ H2-2：2026年最新ロレックス買取相場
 <h3>GMTペプシ廃盤で「神格化」進行中</h3>
 <p>2024年に生産終了したGMTマスターIIペプシ（126710BLRO）は、現在中古市場で<strong>定価の1.5〜2倍</strong>で取引されています。2024年新作の黒グレーベゼル「<strong>126710GRNR（通称ブルス）</strong>」の登場で、旧ペプシは「赤青ベゼル最終モデル」として神格化が進行中。手元にペプシをお持ちなら、現在の420万円台は<strong>歴史的高値圏</strong>と認識しておいてください。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
   <p style="margin:0;">廃盤モデルが必ず値上がりする保証はありません。例えばエアキング116900は廃盤後に逆に値下がりしました。<strong>「希少性 × 人気モデル」の両条件が揃ったときだけプレミア化</strong>が起こります。ペプシ・コスモグラフ白・5桁旧型サブはこの両条件揃いです。</p>
 </div>
 
@@ -188,8 +188,8 @@ H2-3：後悔しない判断基準5選（記事の核）
 
 <p>例えばサブマリーナ（取得価額100万円）を212万円で売却した場合、譲渡益112万円−特別控除50万円＝62万円。5年超保有なら課税対象は<strong>31万円</strong>で済みます。給与所得との合算でも、実際の追加納税額は数万円程度のケースが多いです。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
   <p style="margin:0;">税金が不安で売却を躊躇する方は多いですが、ポイントは<strong>「特別控除50万円を賢く使う」</strong>こと。年をまたいで複数本売る場合、毎年50万円ずつ控除を使い切れます。心配な場合は最寄りの税務署か税理士に無料相談を。「投資資産として申告漏れ」と指摘されないためにも、必要なら確定申告で堂々と特別控除を活用するのが安全です。</p>
 </div>
 

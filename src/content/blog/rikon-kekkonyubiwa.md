@@ -159,7 +159,7 @@ heroImage: '../../assets/blog/rikon-kekkonyubiwa.jpg'
 <li>査定額に不満なら無理に売らずキャンセル可能（<strong>複数業者で相見積もり</strong>が鉄則）</li>
 </ul>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>婚約指輪の返還義務について揉めそうな場合は、弁護士に相談するのが安全です。ただ、私の現場感覚では「返してほしい」と元配偶者から言われるケースは1割未満。ほとんどは穏便に売却で清算されています。
 </div>
 
@@ -384,7 +384,7 @@ heroImage: '../../assets/blog/rikon-kekkonyubiwa.jpg'
 
 <p>売れます。<strong>買取業者は刻印を理由に拒否することはありません</strong>。査定後にリサイズや溶解で刻印は消えるので、新姓・旧姓どちらでも問題なし。「刻印があるから売れないかも」と心配する必要はゼロです。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<div style="background:#FFF3E0;border-left:4px solid #E65100;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
 <strong>💡 業界人ワンポイント：</strong>FAQの中で一番多いのが「Q3. 刻印を消すべき？」と「Q6. ノーブランドでも売れる？」の2問です。<strong>どちらも答えは「そのままで大丈夫」</strong>。査定前に余計な手間や費用をかけず、まず無料査定に出すのが時間効率的にも金額的にも一番得です。
 </div>
 

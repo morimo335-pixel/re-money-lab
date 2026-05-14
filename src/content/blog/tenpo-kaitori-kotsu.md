@@ -85,8 +85,8 @@ H2-1：3つの買取方法の違い
 
 <p>オンライン査定やフリマアプリが普及しきった結果、逆に<strong>「プロに直接見てもらいたい」</strong>という対面ニーズが急増しています。特に高額品（ブランド品・宝飾・時計）では、<strong>査定員の説明を聞きながら納得して売りたい</strong>層が伸びており、これが店舗買取の検索ボリュームを押し上げている背景です。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
   <p style="margin:0;">店舗買取と出張買取の最大の違いは<strong>「主導権が誰にあるか」</strong>です。店舗買取は<strong>あなたが主導権を持って持ち込む</strong>取引、出張買取は<strong>業者があなたの家に来る</strong>取引。後者は心理的にも断りにくくなる構造があり、その分クーリングオフ制度の対象になっています（詳細は後述）。</p>
 </div>
 
@@ -126,8 +126,8 @@ H2-2：店舗買取が向いている人・向いていない人
 <li><strong>査定中に席を外せない用事がある</strong>（小さな子供同伴など）</li>
 </ul>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
   <p style="margin:0;">「店舗まで持っていくのが面倒だから、出張でいいや」という<strong>受動的な選択は損するパターン</strong>です。逆に「少量だけど面倒だから出張呼ぼう」と業者を呼ぶと、心理的に断りにくくなり想定より安く手放してしまう人を、私は現場で何百人と見てきました。<strong>少量×高単価ならまず店舗買取が原則</strong>です。</p>
 </div>
 
@@ -157,8 +157,8 @@ H2-3：信頼できる買取店の見分け方5項目
 <h3>⑤ 確定率・口コミ・成約データが公開されている</h3>
 <p>例えばコメ兵店頭買取は<strong>確定率96.96%</strong>（100人中97人が提示価格に納得して売却完了）と公開しています。このような透明性のあるデータを出している店は、価格設定に自信がある証拠です。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
   <p style="margin:0;">「査定無料・出張費無料」を強調する店は当たり前のサービス内容です。本当に重要なのは<strong>「キャンセル料無料」かどうか</strong>。査定後に金額が合わなくて断った時、運送費や査定料を請求してくる店は要注意。事前にキャンセルポリシーを必ず確認してください。</p>
 </div>
 
@@ -189,8 +189,8 @@ H2-4：店舗買取で多くの人が損する3つの典型パターン
 
 <p>現場で査定する側から見ると、「<strong>今すぐ売る理由がある人</strong>」（引越し・転居・遺品整理の期限など）は、ほぼ確実に提示価格通りで成約します。逆に「<strong>持ち帰って検討します</strong>」と言われると、店舗側は<strong>値上げカードを切るか、競合に取られるかの判断</strong>を迫られます。これがあなたの最強の武器です。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
   <p style="margin:0;">私が現場で見てきた中で、買い叩かれる人の<strong>共通する特徴</strong>はもう一つあります。それは<strong>「査定員と仲良くなろうとする」</strong>こと。世間話に応じたり、笑顔で接してきたり——査定員は人として悪い人ではないので親しみを感じるのは自然ですが、<strong>取引の場では「ビジネスライクな距離感」を保つ方が結果的に高く売れます</strong>。</p>
 </div>
 
@@ -250,8 +250,8 @@ H2-5：店舗買取で買い叩かれない5つのコツ★（記事の核）
 
 <p>これを言われた瞬間、店舗側は<strong>「値上げカード」を切るかどうかの判断</strong>を迫られます。多くの場合、店長に確認して<strong>+10〜30%の値上げ提示</strong>が出てきます。それでも一旦持ち帰り、別の大手チェーンで査定→最終的に納得した方に売る、というのが鉄則です。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
   <p style="margin:0;">「複数店回るのが面倒」と感じる方も多いですが、<strong>1時間の手間で査定額が1万円〜10万円変わる</strong>のが店舗買取の現実です。時給換算すると、これほど効率の良い「副業」はありません。特にロレックス・エルメスなどの高額品は、5社見積もりで<strong>最高値と最低値が50万円以上差がつく</strong>ことも珍しくありません。</p>
 </div>
 
@@ -300,8 +300,8 @@ H2-6：店舗買取はクーリングオフできる？
 
 <p>こうした場合は、消費者ホットライン（<strong>188</strong>）や弁護士への相談を検討してください。ただし、立証は容易ではないため、<strong>「そもそも即決しない」</strong>のが最大の予防策です。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント</p>
   <p style="margin:0;">店舗買取のクーリングオフが対象外なのは、消費者を不利にしているわけではありません。むしろ「<strong>自分で店舗を選び、対面でしっかり納得して取引する</strong>」という前提が法律で守られているからこそ、店舗側も論理的な査定説明をしてくれる構造です。だからこそ、その場で即決せず、納得いくまで対話する姿勢が大切です。</p>
 </div>
 

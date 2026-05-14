@@ -129,8 +129,8 @@ heroImage: '../../assets/blog/kegawa-coat-jidai-okure.jpg'
 
 <p>80〜90年代バブル期、ミンクコートは「100万円超」が当たり前でした。母世代がブランドサロンで支払った金額を聞くと「本当に？」と驚くほどです。しかし、買取相場は<strong>当時の購入価格の3〜10%</strong>まで下落しているのが2026年の現実。お母様が100万円で購入したミンクが、今は5万円前後で売れれば良い方——という温度感を、最初に正直にお伝えしておきます。</p>
 
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント｜過去最高査定の1着</p>
+<div style="background:#FFF3E0;border-left:4px solid #E65100;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#E65100;">💡 業界人ワンポイント｜過去最高査定の1着</p>
   <p style="margin:0;">私が現場で「これは高い」と即座に査定額を上げたのは、<strong>SAGA MINKタグ付き・ロング丈・毛艶◎・1980年代後半製の1着で12万円</strong>。お客様は「祖母がハワイ旅行で買った」と仰っていて、湿度管理されたタンスに防虫剤と共に大切に眠っていたんです。<strong>ミンクは「タグ＋保管状態」で査定額が決まる</strong>——これだけは覚えてお帰りください。</p>
 </div>
 
