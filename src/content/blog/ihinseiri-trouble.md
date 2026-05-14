@@ -84,6 +84,20 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 <li>信頼できる業者の探し方（業界人推奨）</li>
 <li>万が一トラブルに遭ったときの対処法</li>
 </ul>
+
+<!-- 関連記事内部リンク（記事33 日本人形・2026-05-14追加） -->
+<a href="/nihon-ningyo-uru-doko/" style="text-decoration:none;color:inherit;">
+<div style="background:#E3F2FD;border:2px solid #1E3A5F;border-radius:10px;padding:18px 22px;margin:25px 0;display:flex;align-items:center;gap:16px;box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+<div style="font-size:2em;">🎎</div>
+<div style="flex:1;">
+<div style="color:#666;font-size:0.85em;margin-bottom:4px;">関連記事</div>
+<div style="color:#1E3A5F;font-weight:bold;font-size:1.05em;line-height:1.4;">【2026】日本人形を売るならどこ？元買取8年のコツ5選</div>
+<div style="color:#1B3A6F;font-size:0.9em;margin-top:6px;">祖母の遺品・断捨離で出てきた市松人形・雛人形の本音相場とCOYASH活用法。</div>
+</div>
+<div style="color:#1E3A5F;font-size:1.5em;">→</div>
+</div>
+</a>
+
 </div>
 </div>
 
