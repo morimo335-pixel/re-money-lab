@@ -396,10 +396,19 @@ H2-9：まとめ
 </div>
 </div>
 
-<!-- ===== 筆者プロフィール②（記事末・130px・公式テンプレ） ===== -->
-<div style="background:#F8F4E6;border-left:4px solid #D4A574;border-radius:6px;padding:16px;margin:32px 0;text-align:center;">
-<img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;display:block;margin:0 auto 10px;border-radius:50%;object-fit:cover;">
-<p style="margin:0;font-weight:bold;">筆者　ハル｜元買取業界8年・累計査定3万点超</p>
+<!-- ===== 筆者プロフィール②（記事末・130px横並び・正規テンプレ） ===== -->
+<div style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;background:#F8F4E6;border-left:5px solid #D4A574;padding:20px;margin:32px 0;border-radius:4px;">
+<img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:130px;height:130px;flex-shrink:0;border-radius:50%;object-fit:cover;" />
+<div style="flex:1;min-width:240px;">
+<p style="margin:0;"><strong>ハル</strong></p>
+<ul style="margin:8px 0 0 0;padding-left:20px;">
+<li>買取業界の営業として複数社で計8年勤務（骨董・人形・ブランド品・貴金属・着物等）</li>
+<li><strong>累計査定3万点超</strong>（市松人形・雛人形・西洋ドール・骨董人形含む）</li>
+<li>廃品回収業界での実務経験もあり</li>
+<li><strong>古物商許可保有</strong></li>
+<li>業界の内側を知る目線で、読者の損を防ぐことを軸に執筆</li>
+</ul>
+</div>
 </div>
 
 </div>
