@@ -478,4 +478,12 @@ H2-11：まとめ
 </div>
 </div>
 
+<!-- ===== 記事34 雛人形処分への逆リンク（2026-05-15追加） ===== -->
+<div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
+<p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：節句人形（雛人形・五月人形）の処分でお悩みの方へ</p>
+<ul style="margin:0;padding-left:1.5em;">
+<li><a href="https://re-money-lab.com/hina-ningyo-shobun/" style="color:#1E3A5F;text-decoration:underline;">雛人形の処分はみんなどうしてる？元買取8年が神社・買取・寄付を本音解説</a>（神社供養＋買取＋寄付の5つの選択肢）</li>
+</ul>
+</div>
+
 </div>
