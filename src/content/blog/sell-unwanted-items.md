@@ -675,6 +675,10 @@ heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <a href="https://re-money-lab.com/sneaker-basketball-shoes-kaitori/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 【元買取8年】スニーカー・バッシュ買取はいくら？高く売る5選 →</a>
 </div>
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<a href="https://re-money-lab.com/mishin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 捨てる前に！東京23区のミシン買取は出張査定が正解｜元買取8年 →</a>
+</div>
 
 
 </div>
