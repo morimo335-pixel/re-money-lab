@@ -402,6 +402,7 @@ H2-8：まとめ
 <li><a href="https://re-money-lab.com/patek-philippe-uru-doko/" style="color:#1E3A5F;text-decoration:underline;">【2026】パテックフィリップ売るならどこ？元買取8年のコツ5選</a>（金無垢モデルは貴金属相場の追い風も受けます）</li>
 <li><a href="https://re-money-lab.com/rolex-uru-doko/" style="color:#1E3A5F;text-decoration:underline;">ロレックスを売るならどこ？元買取8年が後悔しないコツ5選解説</a></li>
 <li><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:underline;">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a></li>
+<li><a href="https://re-money-lab.com/louis-vuitton-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">東京23区のルイヴィトン買取は出張査定が正解｜元買取8年が解説</a>（ブランドバッグも東京23区なら出張買取が便利です）</li>
 </ul>
 </div>
 
