@@ -465,6 +465,12 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <a href="https://re-money-lab.com/shokki-shobun/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 食器の処分どうする？元業界人8年が教える5つの正解と高く売るコツ →</a>
 </div>
+
+<!-- ===== 記事38 贈答品買取への逆リンク（2026-05-18追加） ===== -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<a href="https://re-money-lab.com/zoutouhin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 皿もタオルも！東京23区の贈答品買取は出張査定が正解｜元買取8年 →</a>
+</div>
 <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;background:#F8F4E6;border-left:5px solid #D4A574;padding:20px;margin:32px 0;border-radius:4px;">
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:130px;height:130px;flex-shrink:0;border-radius:50%;object-fit:cover;" />
 <div style="flex:1;min-width:240px;">
