@@ -199,6 +199,7 @@ H2-3：壊れた・古いミシンでも売れる理由
 <li><a href="https://re-money-lab.com/tsukawanai-gakki-uru/" style="color:#1E3A5F;text-decoration:underline;">使わない楽器の売り方は？元買取8年が押し入れ楽器の本音相場を解説</a></li>
 <li><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:underline;">遺品整理のトラブル事例と回避術｜元買取営業8年が実家じまいの注意点を解説</a></li>
 <li><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:underline;">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a></li>
+<li><a href="https://re-money-lab.com/piano-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">お金を払うな！東京23区のピアノ処分は出張買取が正解｜元買取8年</a></li>
 </ul>
 </div>
 
