@@ -353,6 +353,7 @@ H2-5：手放す方法の比較＋出張買取が怖い不安解消
 <ul style="margin:0;padding-left:1.5em;">
 <li><a href="https://re-money-lab.com/mishin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">捨てる前に！東京23区のミシン買取は出張査定が正解｜元買取8年</a></li>
 <li><a href="https://re-money-lab.com/zoutouhin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">皿もタオルも！東京23区の贈答品買取は出張査定が正解｜元買取8年</a></li>
+<li><a href="https://re-money-lab.com/audio-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">夫のアンプ売れる？東京23区オーディオ出張買取の本音｜元買取8年</a></li>
 </ul>
 </div>
 
