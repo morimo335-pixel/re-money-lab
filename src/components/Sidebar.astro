@@ -25,7 +25,7 @@ const pickupPosts = pickupSlugs
   .map(slug => allPosts.find(p => p.id === slug))
   .filter(Boolean);
 
-const sidebarTitle = (related && related.length > 0) ? '📚 この記事の関連' : '📚 ピックアップ記事';
+const sidebarTitle = '📚 あわせて読みたい';
 ---
 
 <aside class="sidebar">
