@@ -1,0 +1,44 @@
+A photorealistic 16:9 horizontal image (1376x768 pixels) for a Japanese women's lifestyle magazine featured image, in the style of LEE, ESSE, or Kurashi-no-Techo magazine.
+
+CRITICAL: This image will be viewed primarily on SMARTPHONES (small screens, 350-400px wide when displayed). The main headline text MUST be LARGE, BOLD, and HIGH-CONTRAST so it remains perfectly readable even when scaled down. The center text area must be visually dominant.
+
+THREE-PART COMPOSITION (left 28% / center 44% / right 28%):
+
+LEFT 28%: A Japanese housewife in her early 40s with a tired but contemplative expression, hair tied back loosely, wearing a soft cream-beige knit cardigan. She holds an old wooden box containing a vintage wristwatch and old photographs. She looks down at the items with sadness and indecision, as if she's struggling with the decision to either discard or keep her late parent's belongings. Half-body composition. Soft warm natural lighting.
+
+CENTER 44% (TEXT-DOMINANT AREA): Large Japanese text on a clean cream background with deep green border (#2C5F2D dark green border, #F5F0E8 cream interior fill), in elegant Mincho (serif) font. ALL HEADLINE CHARACTERS MUST BE EXTRA LARGE, BOLD, AND THICK-STROKED.
+
+- TOP horizontal ribbon banner in warm cream-yellow (#E8D5B7) with deep green text (#2C5F2D), small but elegant, PERFECTLY HORIZONTAL (no tilt): "実家整理 2巡目"
+
+- Main headline (in 2 lines, EXTRA BOLD Mincho serif font):
+  Line 1: "親の遺品、" — DEEP NAVY color #1E3A5F (vivid, easy to read)
+  Line 2: "捨てられない人へ" — DEEP NAVY #1E3A5F base, but the first three characters "捨てられ" should be BRIGHT EMERALD GREEN #00A878 for emphasis, bolder and slightly LARGER.
+
+- A thin elegant gold horizontal line (color #D4A574) separating headline from subtitle.
+
+- Subtitle below in smaller but readable Mincho font, GOLD color #D4A574:
+  "業界人が勧める 1つの方法"
+
+RIGHT 28%: A confident smiling Japanese male expert in his late 30s, short clean dark hair, wearing a navy suit with white shirt. He stands with a warm welcoming gesture, holding a clipboard. Behind him: shelves of various antique items in soft focus (a brass vintage wristwatch, a small ceramic vase, an old leather camera, a folded silk kimono fabric). Half-body composition.
+
+ALIGNMENT RULE: Heads of both characters (left housewife and right expert) MUST be at the EXACT same horizontal eye level — completely aligned. Both characters' bodies should be the SAME visual size and posture height — strictly aligned.
+
+OVERALL STYLE:
+- Background: cream-white base (#FAF7F0) with subtle deep green decorative accents
+- Soft natural lighting, gentle warm shadows
+- High-end, trustworthy, calm magazine-cover aesthetic
+- Mincho/serif Japanese typography throughout
+
+STRICTLY AVOID:
+- Emoji icons of any kind
+- Trademarked logos or brand monograms
+- Cartoon or illustration style — keep it photorealistic
+- Crowded layouts, harsh colors, commercial banner feel
+- Pop, rounded gothic, or handwritten fonts — must be Mincho serif
+- Garbled or random Japanese characters
+- Bright warning red, panel dividers, harsh yellow
+- YouTube-thumbnail style
+- Tilted/skewed ribbon — ribbon must be perfectly horizontal
+- Misaligned character heights — heads must be at same eye level
+
+Aspect ratio: 16:9, suitable for a blog featured image at 1376x768px.
