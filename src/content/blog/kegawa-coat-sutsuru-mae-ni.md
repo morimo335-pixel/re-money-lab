@@ -222,7 +222,7 @@ heroImage: '../../assets/blog/kegawa-coat-sutsuru-mae-ni.jpg'
 <li>クーリングオフ8日適用・押し買い行為ゼロ</li>
 </ul>
 <div style="text-align:center;margin:18px 0 0 0;">
-<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 査定料0円・キャンセルOK ／</span>
+<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 女性査定員 指名OK ／</span>
 </div>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ まずは無料で価値だけ聞いてみる</a>
 <p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">fuku-chan.info</a></p>
@@ -278,7 +278,7 @@ heroImage: '../../assets/blog/kegawa-coat-sutsuru-mae-ni.jpg'
 <div style="padding:20px;">
 <p style="margin:0 0 12px 0;">福ちゃん毛皮買取は出張査定料・キャンセル料すべて無料。<strong>査定だけ受けて売らない選択も自由</strong>です。クローゼットを開ける重い気持ちを、まずは「相場を知る」というアクションに変えてみませんか。</p>
 <div style="text-align:center;margin:18px 0 0 0;">
-<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 査定料0円・キャンセルOK ／</span>
+<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 女性査定員 指名OK ／</span>
 </div>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ まずは無料で価値だけ聞いてみる</a>
 <p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">fuku-chan.info</a></p>
