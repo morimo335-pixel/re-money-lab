@@ -5,6 +5,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import Sidebar from '../components/Sidebar.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import '../styles/article.css';
 
@@ -33,12 +34,32 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				border-radius: 12px;
 				box-shadow: var(--box-shadow);
 			}
+			.article-container {
+				display: flex;
+				gap: 30px;
+				max-width: 1100px;
+				margin: 0 auto;
+				padding: 0 1em;
+				align-items: flex-start;
+			}
 			.prose {
 				width: 760px;
-				max-width: calc(100% - 2em);
-				margin: auto;
+				max-width: 100%;
+				flex: 1;
+				min-width: 0;
 				padding: 1em;
 				color: rgb(var(--gray-dark));
+			}
+			@media (max-width: 1023px) {
+				.article-container {
+					flex-direction: column;
+					gap: 0;
+					padding: 0;
+				}
+				.prose {
+					width: 100%;
+					margin: 0 auto;
+				}
 			}
 			.title {
 				margin-bottom: 1.2em;
@@ -72,26 +93,29 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		<Header />
 		<main>
 			<article>
-				<div class="prose">
-					<div class="title">
-						<h1>{title}</h1>
-						<div class="date">
-							📅 <FormattedDate date={pubDate} />
-							{
-								updatedDate && (
-									<span class="last-updated-on">
-										・更新 <FormattedDate date={updatedDate} />
-									</span>
-								)
-							}
+				<div class="article-container">
+					<div class="prose">
+						<div class="title">
+							<h1>{title}</h1>
+							<div class="date">
+								📅 <FormattedDate date={pubDate} />
+								{
+									updatedDate && (
+										<span class="last-updated-on">
+											・更新 <FormattedDate date={updatedDate} />
+										</span>
+									)
+								}
+							</div>
+							<hr />
 						</div>
-						<hr />
+						<div class="hero-image">
+							{heroImage && <Image width={1376} height={768} src={heroImage} alt={title} />}
+						</div>
+						<TableOfContents />
+						<slot />
 					</div>
-					<div class="hero-image">
-						{heroImage && <Image width={1376} height={768} src={heroImage} alt={title} />}
-					</div>
-					<TableOfContents />
-					<slot />
+					<Sidebar />
 				</div>
 			</article>
 		</main>
