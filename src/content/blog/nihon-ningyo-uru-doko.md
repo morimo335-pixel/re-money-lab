@@ -1,6 +1,6 @@
 ---
-title: '【2026】日本人形を売るならどこ？元買取8年のコツ5選'
-description: '遺品整理で出た日本人形、価値を知らずに捨てて後悔する前に。元買取8年の査定員が、藤村光環80万超えの2026年最新相場、査定額が倍になる5つのコツ、COYASH・遺品整理110番の使い分けを解説。あなたの日本人形の本当の価値が分かります。'
+title: '【2026】日本人形を売るならどこ？買取8年のコツ5選'
+description: '遺品整理で出た日本人形、価値を知らずに捨てて後悔する前に。買取8年の査定員が、藤村光環80万超えの2026年最新相場、査定額が倍になる5つのコツ、COYASH・遺品整理110番の使い分けを解説。あなたの日本人形の本当の価値が分かります。'
 pubDate: '2026-05-14'
 heroImage: '../../assets/blog/nihon-ningyo-uru-doko.jpg'
 ---
@@ -54,7 +54,7 @@ heroImage: '../../assets/blog/nihon-ningyo-uru-doko.jpg'
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">🎎 雛人形・五月人形の処分方法に特化して知りたい方はこちら</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/hina-ningyo-shobun/" style="color:#1E3A5F;text-decoration:underline;">雛人形の処分はみんなどうしてる？元買取8年が神社・買取・寄付を本音解説</a>（2026年急増中の節句人形処分問題に特化）</li>
+<li><a href="https://re-money-lab.com/hina-ningyo-shobun/" style="color:#1E3A5F;text-decoration:underline;">雛人形の処分はみんなどうしてる？買取8年が神社・買取・寄付を本音解説</a>（2026年急増中の節句人形処分問題に特化）</li>
 </ul>
 </div>
 
@@ -166,7 +166,7 @@ H2-2：2026年最新の本音買取相場
 <!-- ============================================================
 H2-3：高く売る5つのコツ
 ============================================================ -->
-<h2>日本人形を高く売る5つのコツ｜元買取8年が暴く現場の鉄則</h2>
+<h2>日本人形を高く売る5つのコツ｜買取8年が暴く現場の鉄則</h2>
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
 <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>同じ人形でも、ちょっとした準備で査定額が2〜3倍違うことが普通にあります。</p>
@@ -238,7 +238,7 @@ H2-4：売り先4パターン徹底比較
 <!-- 関連カード3個目（不用品売却ハブ・H2-4末尾） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を高く売る方法ガイド｜元買取8年が損しない売却術を全部解説 →</a>
+<a href="/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を高く売る方法ガイド｜買取8年が損しない売却術を全部解説 →</a>
 </div>
 
 <hr />

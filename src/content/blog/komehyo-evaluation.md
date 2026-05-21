@@ -1,6 +1,6 @@
 ---
-title: 'コメ兵宅配買取の評判は？元買取営業8年が業界人の視点で本音レビュー'
-description: 'コメ兵宅配買取の評判は？元買取営業8年が業界人の視点で本音レビュー'
+title: 'コメ兵宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー'
+description: 'コメ兵宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー'
 pubDate: '2026-04-26'
 heroImage: '../../assets/blog/komehyo-evaluation.jpg'
 ---
@@ -69,7 +69,7 @@ heroImage: '../../assets/blog/komehyo-evaluation.jpg'
 <div style="background:linear-gradient(135deg,#E8B658 0%,#C8923A 50%,#A77620 100%);color:#fff;display:inline-block;padding:11px 24px;border-radius:8px 8px 0 0;font-weight:bold;font-size:1.08em;letter-spacing:0.04em;text-shadow:0 1px 2px rgba(0,0,0,0.15);box-shadow:inset 0 1px 0 rgba(255,255,255,0.35);">📖 この記事で分かる事</div>
 <div style="border:3px solid #C8923A;border-radius:0 10px 10px 10px;padding:22px 28px;background:#fff;">
 <ul style="margin:0;padding-left:1.5em;line-height:2;">
-<li>元買取営業8年が見た<strong>コメ兵の本当の評価</strong>と業界トップである理由</li>
+<li>買取営業8年が見た<strong>コメ兵の本当の評価</strong>と業界トップである理由</li>
 <li><strong>最大5,000万円の運送保険・AI査定</strong>など他社にはない独自サービスの実態</li>
 <li>コメ兵を<strong>使うべき人・他社が向いている人</strong>の見極め方</li>
 </ul>
@@ -168,7 +168,7 @@ heroImage: '../../assets/blog/komehyo-evaluation.jpg'
 <h3>⚠️ 出張買取の押し買いリスクに注意</h3>
 <p>「玄関先で査定→即現金」を売りにする出張買取の中には、<strong>押し買い（強引な買取）の被害事例</strong>が報告されています。コメ兵宅配買取は<strong>訪問なし・郵送ベース</strong>なので、玄関で詰め寄られる心配はありません。</p>
 <p>押し買い被害を避ける詳しい方法は、関連記事で解説しています：</p>
-<p>📚 <a href="/ng-actions-5/">押し買いに遭いやすい人の5つの特徴｜元買取営業8年の自衛術</a></p>
+<p>📚 <a href="/ng-actions-5/">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></p>
 <h3>フリマ vs 宅配買取の選び方</h3>
 <table>
 <thead>
@@ -224,23 +224,23 @@ heroImage: '../../assets/blog/komehyo-evaluation.jpg'
 <hr />
 <h3>📚 関連記事（内部リンク）</h3>
 <ul>
-<li>📖 <a href="/sell-unwanted-items/">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a> — まずは全体像を知りたい方へ（ハブ記事）</li>
-<li>📖 <a href="/raise-appraisal/">買取業定額を上げるコツ7選｜元買取営業8年が教える準備術</a> — 売る前の準備で査定額を最大化</li>
-<li>📖 <a href="/ng-actions-5/">押し買いに遭いやすい人の5つの特徴｜元買取営業8年の自衛術</a> — 出張買取のリスクを知っておきたい方へ</li>
-<li>📖 <a href="/brandoff-evaluation/">ブランドオフ宅配買取の評判は？元買取営業8年が業界人の視点で本音レビュー</a> — コメ兵と並ぶ大手ブランド買取のレビュー</li>
+<li>📖 <a href="/sell-unwanted-items/">不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法</a> — まずは全体像を知りたい方へ（ハブ記事）</li>
+<li>📖 <a href="/raise-appraisal/">買取業定額を上げるコツ7選｜買取営業8年が教える準備術</a> — 売る前の準備で査定額を最大化</li>
+<li>📖 <a href="/ng-actions-5/">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a> — 出張買取のリスクを知っておきたい方へ</li>
+<li>📖 <a href="/brandoff-evaluation/">ブランドオフ宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー</a> — コメ兵と並ぶ大手ブランド買取のレビュー</li>
 </ul>
 <hr />
 
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/brandoff-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ブランドオフ宅配買取の評判は？元買取営業8年が業界人の視点で本音レビュー</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/brandoff-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ブランドオフ宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー</a></p>
 </div>
 
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/laquda-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ラクーダ一括査定の評判は？元買取営業8年が業界の裏側から本音レビュー</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/laquda-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ラクーダ一括査定の評判は？買取営業8年が業界の裏側から本音レビュー</a></p>
 </div>
 
 <!-- ===== 内部リンクカード ===== -->
@@ -252,7 +252,7 @@ heroImage: '../../assets/blog/komehyo-evaluation.jpg'
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/patek-philippe-uru-doko/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">【2026】パテックフィリップ売るならどこ？元買取8年のコツ5選</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/patek-philippe-uru-doko/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">【2026】パテックフィリップ売るならどこ？買取8年のコツ5選</a></p>
 </div>
 
 

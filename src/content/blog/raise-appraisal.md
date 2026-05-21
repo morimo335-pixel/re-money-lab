@@ -1,6 +1,6 @@
 ---
-title: '買取査定額を上げるコツ7選｜元買取営業8年が教える準備術'
-description: '買取査定額を上げるコツ7選｜元買取営業8年が教える準備術'
+title: '買取査定額を上げるコツ7選｜買取営業8年が教える準備術'
+description: '買取査定額を上げるコツ7選｜買取営業8年が教える準備術'
 pubDate: '2026-04-22'
 heroImage: '../../assets/blog/raise-appraisal.png'
 ---
@@ -27,7 +27,7 @@ heroImage: '../../assets/blog/raise-appraisal.png'
 <hr />
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 遺品整理 業者トラブル7選｜元買取営業8年が暴く悪質手口と回避術 →</a>
+<a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術 →</a>
 </div>
 
 <figure class="wp-block-image aligncenter size-full is-style-rounded" style="width:200px;"><a href="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg"><img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハルのプロフィールアイコン" class="wp-image-125"/></a></figure>
@@ -84,7 +84,7 @@ heroImage: '../../assets/blog/raise-appraisal.png'
 <p>つまり <strong>「基準金額 10万円 × 付属品係数 0.7 × 状態係数 0.8 = 5.6万円」</strong> のように、<strong>揃っていない要素があるほど掛け算で減額</strong> されていく構造なんです。</p>
 <p>逆に言えば、<strong>「揃えればよかっただけの要素」を事前に整えるだけで、査定額が1.3倍・1.5倍と上がっていく</strong> ということ。これが「事前準備で査定額が数倍変わる」のカラクリです。</p>
 <div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
-<strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong><strong>業界の査定マニュアルには「減額基準」は細かく載っていても、「加点基準」はほとんど載っていません</strong><br><br>これは査定員の裁量で「マイナスを積み上げていく」方式が業界標準のため。つまり、<strong>消費者側で「マイナスされる要素を先に潰しておく」だけで、そのまま査定額が上がる</strong> のです。「加点してもらう」のではなく「減点を回避する」が正しい戦略です。<br><br>📖 <strong>関連記事：業者ごとの違い・ジャンル別の売り方を詳しく知りたい方へ</strong><br><br>業者のビジネス構造・得意ジャンルの違いについては、<strong><a href="/sell-unwanted-items/">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a></strong> で詳しく解説しています。<strong>H2-2「ジャンル別の最適な売り方」</strong> の箇所が特に役立ちます。
+<strong style="color:#1E3A5F;">💡 業界人ワンポイント：</strong><strong>業界の査定マニュアルには「減額基準」は細かく載っていても、「加点基準」はほとんど載っていません</strong><br><br>これは査定員の裁量で「マイナスを積み上げていく」方式が業界標準のため。つまり、<strong>消費者側で「マイナスされる要素を先に潰しておく」だけで、そのまま査定額が上がる</strong> のです。「加点してもらう」のではなく「減点を回避する」が正しい戦略です。<br><br>📖 <strong>関連記事：業者ごとの違い・ジャンル別の売り方を詳しく知りたい方へ</strong><br><br>業者のビジネス構造・得意ジャンルの違いについては、<strong><a href="/sell-unwanted-items/">不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法</a></strong> で詳しく解説しています。<strong>H2-2「ジャンル別の最適な売り方」</strong> の箇所が特に役立ちます。
 </div>
 <hr />
 <h2>H2-2：【準備①】状態を整える — 査定額+10〜20%アップ</h2>
@@ -433,7 +433,7 @@ heroImage: '../../assets/blog/raise-appraisal.png'
 <p>事前準備のやり方が分かったら、次は <strong>「どの売り方が最適か」</strong> を決めましょう。</p>
 <p>買取業者・フリマアプリ・ヤフオク・ジモティー——<strong>売る商品と状況に応じた「最適な売り方」</strong> をまとめた記事を用意しています。</p>
 <blockquote>
-<p>📖 <strong>【完全ガイド】</strong> → <a href="/sell-unwanted-items/">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a></p>
+<p>📖 <strong>【完全ガイド】</strong> → <a href="/sell-unwanted-items/">不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法</a></p>
 <p>商品ジャンル別・ペルソナ別の最適な売り方、査定編だけでなく契約編のNG行動まで網羅したハブ記事です。<strong>「自分の不用品を、業界人と同じ目線で判断できる」</strong> 状態になります。</p>
 </blockquote>
 <h3>📌 もし取引後に「安く売らされた」と感じたら</h3>
@@ -479,19 +479,19 @@ heroImage: '../../assets/blog/raise-appraisal.png'
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜元買取営業8年の自衛術</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></p>
 </div>
 
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/brandoff-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ブランドオフ宅配買取の評判は？元買取営業8年が業界人の視点で本音レビュー</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/brandoff-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ブランドオフ宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー</a></p>
 </div>
 
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/komehyo-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">コメ兵宅配買取の評判は？元買取営業8年が業界人の視点で本音レビュー</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/komehyo-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">コメ兵宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー</a></p>
 </div>
 
 

@@ -1,6 +1,6 @@
 ---
-title: '雛人形の処分はみんなどうしてる？元買取8年が神社・買取・寄付を本音解説'
-description: '娘の成長で役目を終えた雛人形、祖母の遺品で出てきた7段飾り——「捨てたら罰当たり？」と悩む前に。元買取8年が神社供養・買取・寄付・譲渡・粗大ごみの5つの選択肢を、罪悪感ゼロで手放す本音目線で解説。真多呂・吉徳・久月の2026年最新買取相場も網羅。'
+title: '雛人形の処分はみんなどうしてる？買取8年が神社・買取・寄付を本音解説'
+description: '娘の成長で役目を終えた雛人形、祖母の遺品で出てきた7段飾り——「捨てたら罰当たり？」と悩む前に。買取8年が神社供養・買取・寄付・譲渡・粗大ごみの5つの選択肢を、罪悪感ゼロで手放す本音目線で解説。真多呂・吉徳・久月の2026年最新買取相場も網羅。'
 pubDate: '2026-05-15'
 heroImage: '../../assets/blog/hina-ningyo-shobun.jpg'
 ---
@@ -111,7 +111,7 @@ H2-2：「みんなどうしてる？」現代の処分事情
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：実家じまいでは食器・古銭も大量に出ます</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/shokki-shobun/" style="color:#1E3A5F;text-decoration:underline;">親の食器どうする？元買取8年が解説する処分・買取の判断軸</a></li>
+<li><a href="https://re-money-lab.com/shokki-shobun/" style="color:#1E3A5F;text-decoration:underline;">親の食器どうする？買取8年が解説する処分・買取の判断軸</a></li>
 <li><a href="https://re-money-lab.com/kosen-shobun/" style="color:#1E3A5F;text-decoration:underline;">古銭処分の正解｜元業界人が教える買取相場と業者選び</a></li>
 </ul>
 </div>
@@ -208,7 +208,7 @@ H2-4：雛人形は買取できる？2026年最新相場
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：雛人形以外の人形相場も知りたい方へ</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/nihon-ningyo-uru-doko/" style="color:#1E3A5F;text-decoration:underline;">日本人形を売るならどこ？元買取8年のコツ5選</a>（市松人形・西洋ドール含む人形全般の相場）</li>
+<li><a href="https://re-money-lab.com/nihon-ningyo-uru-doko/" style="color:#1E3A5F;text-decoration:underline;">日本人形を売るならどこ？買取8年のコツ5選</a>（市松人形・西洋ドール含む人形全般の相場）</li>
 </ul>
 </div>
 
@@ -217,7 +217,7 @@ H2-4：雛人形は買取できる？2026年最新相場
 <!-- ============================================================
 H2-5：処分前に必ず確認すべき5つのポイント
 ============================================================ -->
-<h2>処分前に必ず確認すべき5つのポイント｜元買取8年の現場視点</h2>
+<h2>処分前に必ず確認すべき5つのポイント｜買取8年の現場視点</h2>
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>処分前のチェックは<strong>①作家名 ②共箱 ③保存状態 ④付属品 ⑤写真撮影</strong>の5つだけ。これを5分やるかやらないかで、数万円の差が生まれます。</p>
@@ -353,8 +353,8 @@ H2-8：まとめ
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：節句人形以外の処分関連記事</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/nihon-ningyo-uru-doko/" style="color:#1E3A5F;text-decoration:underline;">日本人形を売るならどこ？元買取8年のコツ5選</a></li>
-<li><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:underline;">遺品整理業者のトラブル事例｜元買取8年が解説する回避策</a></li>
+<li><a href="https://re-money-lab.com/nihon-ningyo-uru-doko/" style="color:#1E3A5F;text-decoration:underline;">日本人形を売るならどこ？買取8年のコツ5選</a></li>
+<li><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:underline;">遺品整理業者のトラブル事例｜買取8年が解説する回避策</a></li>
 <li><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:underline;">不用品を高く売る完全ガイド｜元業界人が教える業者選びの全て</a></li>
 </ul>
 </div>

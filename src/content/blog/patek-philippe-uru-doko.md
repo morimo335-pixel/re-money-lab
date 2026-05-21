@@ -1,6 +1,6 @@
 ---
-title: '【2026】パテックフィリップ売るならどこ？元買取8年のコツ5選'
-description: '遺品整理や買い替えでパテックフィリップを売るならどこ？元買取8年がノーチラス955万・アクアノート1,351万の2026年最新相場、高く売る5つのコツ、PREMIER VALUE・コメ兵宅配・米田屋の3社使い分けを現場目線で解説。'
+title: '【2026】パテックフィリップ売るならどこ？買取8年のコツ5選'
+description: '遺品整理や買い替えでパテックフィリップを売るならどこ？買取8年がノーチラス955万・アクアノート1,351万の2026年最新相場、高く売る5つのコツ、PREMIER VALUE・コメ兵宅配・米田屋の3社使い分けを現場目線で解説。'
 pubDate: '2026-05-14'
 heroImage: '../../assets/blog/patek-philippe-uru-doko.jpg'
 ---
@@ -69,7 +69,7 @@ H2-1：パテックを売る人の3パターン
 <!-- 内部リンク水色カード ① 遺品セクション直下 -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:22px 0;">
 <p style="margin:0 0 6px;color:#1E3A5F;font-weight:bold;font-size:1em;">▶ 遺品の方は売却前に必読</p>
-<p style="margin:0;"><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">遺品整理 業者トラブル7選｜元買取営業8年が暴く悪質手口と回避術</a></p>
+<p style="margin:0;"><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術</a></p>
 <p style="margin:6px 0 0 0;font-size:0.88em;color:#555;">親族間の確認漏れ・押し買い・査定二重価格——高額時計の遺品売却で「絶対やってはいけないこと」を先に把握しておくと安心です。</p>
 </div>
 
@@ -149,7 +149,7 @@ H2-3：高く売る5つのコツ
 <!-- 内部リンク水色カード ② 比較の検討に入る箇所 -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:22px 0;">
 <p style="margin:0 0 6px;color:#1E3A5F;font-weight:bold;font-size:1em;">▶ 超高額品を預けて大丈夫？大手の本音を確認</p>
-<p style="margin:0;"><a href="https://re-money-lab.com/komehyo-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">コメ兵宅配買取の評判は？元買取営業8年が業界人の視点で本音レビュー</a></p>
+<p style="margin:0;"><a href="https://re-money-lab.com/komehyo-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">コメ兵宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー</a></p>
 <p style="margin:6px 0 0 0;font-size:0.88em;color:#555;">3,000万円の運送保険の実態・査定基準の厳しさ・減額時の説明の論理性まで、現場目線で深掘りしています。</p>
 </div>
 
@@ -172,7 +172,7 @@ H2-3：高く売る5つのコツ
 <!-- ============================================================
 H2-4：3社比較（リベ大流7要素）
 ============================================================ -->
-<h2>3社比較｜パテックフィリップを売るならどこ？元買取8年の本音ガイド</h2>
+<h2>3社比較｜パテックフィリップを売るならどこ？買取8年の本音ガイド</h2>
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>最大80社一括査定で最高値を即発見するなら<strong>PREMIER VALUE</strong>、上場大手の安心感と3,000万円運送保険なら<strong>コメ兵宅配</strong>、関西在住で老舗質舗の専門目利きが欲しいなら<strong>米田屋</strong>。役割が違うので「使い分け」が正解です。</p>
@@ -336,7 +336,7 @@ H2-6：FAQ 6問
 <!-- 内部リンク水色カード ③ まとめ直前・ついで読み誘発 -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:22px 0;">
 <p style="margin:0 0 6px;color:#1E3A5F;font-weight:bold;font-size:1em;">▶ パテックをお持ちの方の多くは、ロレックスも所有されています</p>
-<p style="margin:0;"><a href="https://re-money-lab.com/rolex-uru-doko/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ロレックスを売るならどこ？元買取8年が後悔しないコツ5選解説</a></p>
+<p style="margin:0;"><a href="https://re-money-lab.com/rolex-uru-doko/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ロレックスを売るならどこ？買取8年が後悔しないコツ5選解説</a></p>
 <p style="margin:6px 0 0 0;font-size:0.88em;color:#555;">2026年1月の定価改定でデイトナ572万・GMTペプシ420万の歴史的高水準。パテック売却ついでに相場を確認しておくと、後悔ない判断ができます。</p>
 </div>
 
@@ -388,7 +388,7 @@ H2-7：まとめ＋3社横並びshineバナー
 <!-- ===== 免責表記 ===== -->
 <div style="background:#F5F5F5;border:1px solid #D4A574;border-radius:6px;padding:18px 22px;margin:36px 0 28px 0;font-size:14px;color:#555;line-height:1.8;">
 <p style="margin:0 0 10px 0;font-weight:bold;color:#1E3A5F;font-size:15px;">📝 本記事のご利用にあたって</p>
-<p style="margin:0 0 10px 0;">本記事は2026年5月時点の情報をもとに、元買取営業8年の経験から執筆しています。情報の正確性には最大限配慮していますが、各業者の規約・サービス内容・法令・買取相場は随時変更される可能性があります。</p>
+<p style="margin:0 0 10px 0;">本記事は2026年5月時点の情報をもとに、買取営業8年の経験から執筆しています。情報の正確性には最大限配慮していますが、各業者の規約・サービス内容・法令・買取相場は随時変更される可能性があります。</p>
 <ul style="margin:0 0 10px 0;padding-left:1.4em;">
 <li>実際の業者選びや売却前には、必ず<strong>公式サイトの最新情報</strong>をご確認ください</li>
 <li>本記事は一般的な情報の提供であり、<strong>個別の法的・税務的助言を行うものではありません</strong></li>

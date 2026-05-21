@@ -1,6 +1,6 @@
 ---
-title: 'おもちゃ買取の本音相場5選｜元買取8年がトミカ・LEGO解説'
-description: '家に眠るおもちゃ、いくらで売れる？2026年は円安と海外コレクター需要で歴史的高値。元買取8年がトミカ黒箱5万円・LEGO廃盤3万円・ブリキ人形70万円の最新相場と、損しない処分5つの選択肢を本音解説。'
+title: 'おもちゃ買取の本音相場5選｜買取8年がトミカ・LEGO解説'
+description: '家に眠るおもちゃ、いくらで売れる？2026年は円安と海外コレクター需要で歴史的高値。買取8年がトミカ黒箱5万円・LEGO廃盤3万円・ブリキ人形70万円の最新相場と、損しない処分5つの選択肢を本音解説。'
 pubDate: '2026-05-10'
 heroImage: '../../assets/blog/omocha-kaitori-souba.jpg'
 ---
@@ -8,12 +8,12 @@ heroImage: '../../assets/blog/omocha-kaitori-souba.jpg'
 <div class="article-content">
 
 <!-- ============================================================
-記事26：おもちゃ買取の本音相場5選｜元買取8年がトミカ・LEGO解説
+記事26：おもちゃ買取の本音相場5選｜買取8年がトミカ・LEGO解説
 slug: omocha-shobun-houhou
 カテゴリ：15（売る前に知ろう！）
 メインKW：おもちゃ 買取（Vol 1000-1万・競合中）／相場特化キラー寄り集客記事
 サブKW：おもちゃ 処分／おもちゃ 処分 方法／おもちゃ 売る／いらない おもちゃ 処分／おもちゃ 処分 寄付／おもちゃ 処分 タイミング／おもちゃ 処分 無料／おもちゃ 処分 買取／大きい おもちゃ 処分／子供 おもちゃ 処分／赤ちゃん おもちゃ 処分
-タイトル型：保存版＋数字＋権威型「相場5選｜元買取8年が解説」（30字）
+タイトル型：保存版＋数字＋権威型「相場5選｜買取8年が解説」（30字）
 A8案件：おもちゃ・レトロ玩具【福ちゃん】(23-1205)・s00000014709014・¥4,000＋Wチャンス
 a8mat（テキスト）：4B1SPX+AWY4T6+35HU+2BD44I（pixel www18・EPC 5%以上）
 a8mat（バナー）：4B1SPX+AWY4T6+35HU+2BFWFL（pixel www11）
@@ -103,7 +103,7 @@ H2-1：おもちゃの価値を見極める5つのチェックポイント
 <!-- 内部リンク水色カード（A=ハブ） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/sell-unwanted-items/">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a>
+<a href="https://re-money-lab.com/sell-unwanted-items/">不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法</a>
 </div>
 
 <!-- ============================================================
@@ -400,7 +400,7 @@ H2-8：危ない業者の手口と自衛術
 <!-- 内部リンク水色カード（G-3=宅配買取トラブル・H2-8危ない業者と完全同テーマ） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/takuhai-kaitori-trouble/">【完全保存版】宅配買取トラブル5選｜元買取営業8年が暴く&quot;安く買い叩かれる&quot;カラクリと回避術</a>
+<a href="https://re-money-lab.com/takuhai-kaitori-trouble/">【完全保存版】宅配買取トラブル5選｜買取営業8年が暴く&quot;安く買い叩かれる&quot;カラクリと回避術</a>
 </div>
 
 <!-- ============================================================
@@ -485,7 +485,7 @@ H2-11：まとめ｜眠るおもちゃは捨てる前にまず査定を
 <!-- 内部リンク水色カード（記事29・使わない楽器・2026-05-12追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/tsukawanai-gakki-uru/">ギターが28万円？！使わない楽器を高く売る5選｜元買取8年解説</a>
+<a href="https://re-money-lab.com/tsukawanai-gakki-uru/">ギターが28万円？！使わない楽器を高く売る5選｜買取8年解説</a>
 </div>
 
 <!-- 筆者プロフィール②（記事末・130px・横並び・上と内容統一） -->

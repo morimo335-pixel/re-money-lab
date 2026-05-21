@@ -175,7 +175,7 @@ heroImage: '../../assets/blog/kin-kaitori-chuiten.jpg'
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜元買取営業8年の自衛術 →</a>
+<a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a>
 </div>
 
 <h2>注意点⑤：重量の計測を目の前で確認しない</h2>
@@ -217,7 +217,7 @@ heroImage: '../../assets/blog/kin-kaitori-chuiten.jpg'
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜元買取営業8年が教える準備術 →</a>
+<a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜買取営業8年が教える準備術 →</a>
 </div>
 
 <h2>注意点⑦：信頼業者を選ばずに最初の1社で決める</h2>
@@ -393,7 +393,7 @@ heroImage: '../../assets/blog/kin-kaitori-chuiten.jpg'
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 遺品整理 業者トラブル7選｜元買取営業8年が暴く悪質手口と回避術 →</a>
+<a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術 →</a>
 </div>
 
 <div style="background:#F8F4E6;border-radius:8px;padding:20px 24px;margin:36px 0;display:flex;align-items:center;gap:18px;">
@@ -414,25 +414,25 @@ heroImage: '../../assets/blog/kin-kaitori-chuiten.jpg'
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/brandoff-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ブランドオフ宅配買取の評判は？元買取営業8年が業界人の視点で本音レビュー</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/brandoff-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ブランドオフ宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー</a></p>
 </div>
 
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/komehyo-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">コメ兵宅配買取の評判は？元買取営業8年が業界人の視点で本音レビュー</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/komehyo-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">コメ兵宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー</a></p>
 </div>
 
 <!-- ===== 内部リンクカード（記事35 逆リンク） ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/kikinzoku-kaitori-tokyo/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">東京23区の貴金属買取は出張査定が正解｜元買取8年の本音解説</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/kikinzoku-kaitori-tokyo/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">東京23区の貴金属買取は出張査定が正解｜買取8年の本音解説</a></p>
 </div>
 
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜元買取営業8年の自衛術</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></p>
 </div>
 
 <!-- 内部リンク水色カード（記事25・古銭処分・5/9追加） -->
@@ -444,13 +444,13 @@ heroImage: '../../assets/blog/kin-kaitori-chuiten.jpg'
 <!-- 内部リンク水色カード（記事28・ロレックス・5/11追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/rolex-uru-doko/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ロレックスを売るならどこ？元買取8年が後悔しないコツ5選解説</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/rolex-uru-doko/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ロレックスを売るならどこ？買取8年が後悔しないコツ5選解説</a></p>
 </div>
 
 <!-- 内部リンク水色カード（記事30・店舗買取・5/12追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/tenpo-kaitori-kotsu/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">店舗買取の注意点5選｜元買取8年が買い叩かれない持ち込みコツ解説</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/tenpo-kaitori-kotsu/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">店舗買取の注意点5選｜買取8年が買い叩かれない持ち込みコツ解説</a></p>
 </div>
 
 

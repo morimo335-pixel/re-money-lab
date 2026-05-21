@@ -324,7 +324,7 @@ heroImage: '../../assets/blog/komehyo-umeda-kaitori.jpg'
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/komehyo-evaluation/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 コメ兵宅配買取の評判は？元買取営業8年が業界人の視点で本音レビュー →</a>
+<a href="https://re-money-lab.com/komehyo-evaluation/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 コメ兵宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー →</a>
 </div>
 
 <h2>まとめ｜コメ兵 梅田店を最大限活用する戦略</h2>
@@ -364,23 +364,23 @@ heroImage: '../../assets/blog/komehyo-umeda-kaitori.jpg'
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜元買取営業8年が教える準備術 →</a>
+<a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜買取営業8年が教える準備術 →</a>
 </div>
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法 →</a>
+<a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法 →</a>
 </div>
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/rolex-uru-doko/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 ロレックスを売るならどこ？元買取8年が後悔しないコツ5選解説 →</a>
+<a href="https://re-money-lab.com/rolex-uru-doko/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 ロレックスを売るならどこ？買取8年が後悔しないコツ5選解説 →</a>
 </div>
 
 <!-- 内部リンク水色カード（記事30・店舗買取・5/12追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/tenpo-kaitori-kotsu/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 店舗買取の注意点5選｜元買取8年が買い叩かれない持ち込みコツ解説 →</a>
+<a href="https://re-money-lab.com/tenpo-kaitori-kotsu/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 店舗買取の注意点5選｜買取8年が買い叩かれない持ち込みコツ解説 →</a>
 </div>
 
 <div style="background:#F8F4E6;border-radius:8px;padding:20px;margin:36px 0;display:flex;align-items:center;gap:20px;">

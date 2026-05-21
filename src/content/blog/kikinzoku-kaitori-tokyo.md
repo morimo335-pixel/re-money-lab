@@ -1,6 +1,6 @@
 ---
-title: '東京23区の貴金属買取は出張査定が正解｜元買取8年の本音解説'
-description: '東京23区で金・プラチナ・アクセサリーを売るなら出張買取が正解。元買取8年が2026年の最新相場、壊れた指輪や金歯でも値段がつく理由、押し買いを避ける業者の見分け方、七福の出張買取を本音でレビューします。'
+title: '東京23区の貴金属買取は出張査定が正解｜買取8年の本音解説'
+description: '東京23区で金・プラチナ・アクセサリーを売るなら出張買取が正解。買取8年が2026年の最新相場、壊れた指輪や金歯でも値段がつく理由、押し買いを避ける業者の見分け方、七福の出張買取を本音でレビューします。'
 pubDate: '2026-05-16'
 heroImage: '../../assets/blog/kikinzoku-kaitori-tokyo.jpg'
 ---
@@ -196,7 +196,7 @@ H2-3：壊れていても売れる？査定3要素
 <!-- ============================================================
 H2-4：出張買取は違法？不安解消
 ============================================================ -->
-<h2>「貴金属の出張買取は違法？怖い」を元買取8年が解消</h2>
+<h2>「貴金属の出張買取は違法？怖い」を買取8年が解消</h2>
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>出張買取そのものは<strong>合法な、ごく普通の買取方法</strong>です。違法なのは「アポなしで突然訪問する押し買い」。自分から申し込んだ出張買取と、押し買いは<strong>まったくの別物</strong>です。</p>
@@ -237,8 +237,8 @@ H2-4：出張買取は違法？不安解消
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：買取トラブルを避けたい方へ</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:underline;">押し買いに遭いやすい人の5つの特徴｜元買取営業8年の自衛術</a></li>
-<li><a href="https://re-money-lab.com/takuhai-kaitori-trouble/" style="color:#1E3A5F;text-decoration:underline;">宅配買取は危険？元買取8年が暴くトラブル5選と回避術</a></li>
+<li><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:underline;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></li>
+<li><a href="https://re-money-lab.com/takuhai-kaitori-trouble/" style="color:#1E3A5F;text-decoration:underline;">宅配買取は危険？買取8年が暴くトラブル5選と回避術</a></li>
 </ul>
 </div>
 
@@ -399,10 +399,10 @@ H2-8：まとめ
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：高級時計・不用品も「相場が高い今」が売り時</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/patek-philippe-uru-doko/" style="color:#1E3A5F;text-decoration:underline;">【2026】パテックフィリップ売るならどこ？元買取8年のコツ5選</a>（金無垢モデルは貴金属相場の追い風も受けます）</li>
-<li><a href="https://re-money-lab.com/rolex-uru-doko/" style="color:#1E3A5F;text-decoration:underline;">ロレックスを売るならどこ？元買取8年が後悔しないコツ5選解説</a></li>
-<li><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:underline;">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a></li>
-<li><a href="https://re-money-lab.com/louis-vuitton-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">東京23区のルイヴィトン買取は出張査定が正解｜元買取8年が解説</a>（ブランドバッグも東京23区なら出張買取が便利です）</li>
+<li><a href="https://re-money-lab.com/patek-philippe-uru-doko/" style="color:#1E3A5F;text-decoration:underline;">【2026】パテックフィリップ売るならどこ？買取8年のコツ5選</a>（金無垢モデルは貴金属相場の追い風も受けます）</li>
+<li><a href="https://re-money-lab.com/rolex-uru-doko/" style="color:#1E3A5F;text-decoration:underline;">ロレックスを売るならどこ？買取8年が後悔しないコツ5選解説</a></li>
+<li><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:underline;">不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法</a></li>
+<li><a href="https://re-money-lab.com/louis-vuitton-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">東京23区のルイヴィトン買取は出張査定が正解｜買取8年が解説</a>（ブランドバッグも東京23区なら出張買取が便利です）</li>
 </ul>
 </div>
 

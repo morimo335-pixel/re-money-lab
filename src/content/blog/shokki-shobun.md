@@ -70,7 +70,7 @@ heroImage: '../../assets/blog/shokki-shobun.jpg'
 <div style="font-size:2em;">🎎</div>
 <div style="flex:1;">
 <div style="color:#666;font-size:0.85em;margin-bottom:4px;">関連記事</div>
-<div style="color:#1E3A5F;font-weight:bold;font-size:1.05em;line-height:1.4;">【2026】日本人形を売るならどこ？元買取8年のコツ5選</div>
+<div style="color:#1E3A5F;font-weight:bold;font-size:1.05em;line-height:1.4;">【2026】日本人形を売るならどこ？買取8年のコツ5選</div>
 <div style="color:#1B3A6F;font-size:0.9em;margin-top:6px;">祖母の遺品・断捨離で出てきた市松人形・雛人形の本音相場とCOYASH活用法。</div>
 </div>
 <div style="color:#1E3A5F;font-size:1.5em;">→</div>
@@ -367,7 +367,7 @@ heroImage: '../../assets/blog/shokki-shobun.jpg'
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜元買取営業8年の自衛術 →</a>
+<a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a>
 </div>
 
 <!-- ===== H2-8：業界人コラム（1記事1焦点ルール・後半圧縮）===== -->
@@ -432,12 +432,12 @@ heroImage: '../../assets/blog/shokki-shobun.jpg'
 <!-- ===== 内部リンクカード（記事末・まとめて配置）===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法 →</a>
+<a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法 →</a>
 </div>
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜元買取営業8年が教える準備術 →</a>
+<a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜買取営業8年が教える準備術 →</a>
 </div>
 
 
@@ -451,14 +451,14 @@ heroImage: '../../assets/blog/shokki-shobun.jpg'
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：節句人形（雛人形・五月人形）の処分でお悩みの方へ</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/hina-ningyo-shobun/" style="color:#1E3A5F;text-decoration:underline;">雛人形の処分はみんなどうしてる？元買取8年が神社・買取・寄付を本音解説</a>（神社供養＋買取＋寄付の5つの選択肢）</li>
+<li><a href="https://re-money-lab.com/hina-ningyo-shobun/" style="color:#1E3A5F;text-decoration:underline;">雛人形の処分はみんなどうしてる？買取8年が神社・買取・寄付を本音解説</a>（神社供養＋買取＋寄付の5つの選択肢）</li>
 </ul>
 </div>
 
 <!-- ===== 記事38 贈答品買取への逆リンク（2026-05-18追加） ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/zoutouhin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 皿もタオルも！東京23区の贈答品買取は出張査定が正解｜元買取8年 →</a>
+<a href="https://re-money-lab.com/zoutouhin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 皿もタオルも！東京23区の贈答品買取は出張査定が正解｜買取8年 →</a>
 </div>
 
 <!-- ===== 筆者プロフィール②：記事末尾（小・横並び）===== -->

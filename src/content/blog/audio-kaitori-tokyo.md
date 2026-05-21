@@ -1,6 +1,6 @@
 ---
-title: '夫のアンプ売れる？東京23区オーディオ出張買取の本音｜元買取8年'
-description: '東京23区で夫が遺した真空管アンプや実家の大型スピーカー、古いレコードプレーヤーの処分にお悩みの方へ。円安と海外バイヤー需要で2026年は「日本ヴィンテージ・オーディオ」の黄金期。LUXMANは18万、McIntoshは45万の実買取例も。重くて運べないオーディオを自宅で完結する出張買取と、押し買いを避けるクーリングオフ8日を元買取8年が本音解説。'
+title: '夫のアンプ売れる？東京23区オーディオ出張買取の本音｜買取8年'
+description: '東京23区で夫が遺した真空管アンプや実家の大型スピーカー、古いレコードプレーヤーの処分にお悩みの方へ。円安と海外バイヤー需要で2026年は「日本ヴィンテージ・オーディオ」の黄金期。LUXMANは18万、McIntoshは45万の実買取例も。重くて運べないオーディオを自宅で完結する出張買取と、押し買いを避けるクーリングオフ8日を買取8年が本音解説。'
 pubDate: '2026-05-20'
 heroImage: '../../assets/blog/audio-kaitori-tokyo.jpg'
 ---
@@ -297,15 +297,15 @@ H2-4：古くても売れる3つの理由
 
 <p>このように、オーディオの価値は<strong>「いま音が出るか」「ペアがそろっているか」だけでは決まりません</strong>。海外需要・国内再生・部品取りという複数の出口があるからこそ、古くて傷んだオーディオにも値段がつくのです。「ペア揃ってない」「片方しかない」「動かない」——どの状態でも、まずは査定に出してから判断してください。</p>
 
-<p style="margin:18px 0;line-height:1.85;">💡 <strong>元買取8年からのひとこと：</strong>実家の片付けや遺品整理の現場では、オーディオ以外にも「え、これが売れるの？」というお宝が眠っていることが本当によくあります。大掃除のついでに大損しないよう、関連記事もあわせてご覧ください。</p>
+<p style="margin:18px 0;line-height:1.85;">💡 <strong>買取8年からのひとこと：</strong>実家の片付けや遺品整理の現場では、オーディオ以外にも「え、これが売れるの？」というお宝が眠っていることが本当によくあります。大掃除のついでに大損しないよう、関連記事もあわせてご覧ください。</p>
 
 <!-- ===== 内部リンク水色カード①：実家・重いもの系 ===== -->
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：実家・押し入れの重い不用品を手放す前に</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/tsukawanai-gakki-uru/" style="color:#1E3A5F;text-decoration:underline;">使わない楽器の売り方は？元買取8年が押し入れ楽器の本音相場を解説</a></li>
-<li><a href="https://re-money-lab.com/piano-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">お金を払うな！東京23区のピアノ処分は出張買取が正解｜元買取8年</a></li>
-<li><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:underline;">遺品整理のトラブル事例と回避術｜元買取営業8年が実家じまいの注意点を解説</a></li>
+<li><a href="https://re-money-lab.com/tsukawanai-gakki-uru/" style="color:#1E3A5F;text-decoration:underline;">使わない楽器の売り方は？買取8年が押し入れ楽器の本音相場を解説</a></li>
+<li><a href="https://re-money-lab.com/piano-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">お金を払うな！東京23区のピアノ処分は出張買取が正解｜買取8年</a></li>
+<li><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:underline;">遺品整理のトラブル事例と回避術｜買取営業8年が実家じまいの注意点を解説</a></li>
 </ul>
 </div>
 
@@ -371,9 +371,9 @@ H2-5：手放す方法の比較
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：実家じまい・大掃除でオーディオと一緒に出てくるお宝</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/mishin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">捨てる前に！東京23区のミシン買取は出張査定が正解｜元買取8年</a></li>
-<li><a href="https://re-money-lab.com/zoutouhin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">皿もタオルも！東京23区の贈答品買取は出張査定が正解｜元買取8年</a></li>
-<li><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:underline;">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a></li>
+<li><a href="https://re-money-lab.com/mishin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">捨てる前に！東京23区のミシン買取は出張査定が正解｜買取8年</a></li>
+<li><a href="https://re-money-lab.com/zoutouhin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">皿もタオルも！東京23区の贈答品買取は出張査定が正解｜買取8年</a></li>
+<li><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:underline;">不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法</a></li>
 </ul>
 </div>
 
@@ -580,9 +580,9 @@ H2-9：まとめ
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：東京23区で賢く手放すための関連記事</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/piano-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">お金を払うな！東京23区のピアノ処分は出張買取が正解｜元買取8年</a></li>
-<li><a href="https://re-money-lab.com/kikinzoku-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">東京23区の貴金属買取は出張査定が正解｜元買取8年の本音解説</a></li>
-<li><a href="https://re-money-lab.com/tenpo-kaitori-kotsu/" style="color:#1E3A5F;text-decoration:underline;">店舗買取の注意点5選｜元買取8年が買い叩かれない持ち込みコツ解説</a></li>
+<li><a href="https://re-money-lab.com/piano-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">お金を払うな！東京23区のピアノ処分は出張買取が正解｜買取8年</a></li>
+<li><a href="https://re-money-lab.com/kikinzoku-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:underline;">東京23区の貴金属買取は出張査定が正解｜買取8年の本音解説</a></li>
+<li><a href="https://re-money-lab.com/tenpo-kaitori-kotsu/" style="color:#1E3A5F;text-decoration:underline;">店舗買取の注意点5選｜買取8年が買い叩かれない持ち込みコツ解説</a></li>
 </ul>
 </div>
 

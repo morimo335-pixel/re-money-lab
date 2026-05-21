@@ -104,7 +104,7 @@ H2-1：古いお酒の価値を見極める5つのチェックポイント
 <!-- 内部リンク水色カード（A=44ハブ） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/sell-unwanted-items/">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a>
+<a href="https://re-money-lab.com/sell-unwanted-items/">不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法</a>
 </div>
 
 <!-- ============================================================
@@ -277,7 +277,7 @@ H2-4：古いお酒の処分方法5選（売れない時の選択肢）
 <!-- 内部リンク水色カード（B=53コメ兵） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/ihinseiri-trouble/">遺品整理 業者トラブル7選｜元買取営業8年が暴く悪質手口と回避術</a>
+<a href="https://re-money-lab.com/ihinseiri-trouble/">遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術</a>
 </div>
 
 <!-- ============================================================
@@ -467,7 +467,7 @@ H2-9：業界人コラム：2026年酒税法改正と古酒市場の未来
 <!-- 内部リンク水色カード（記事26・おもちゃ買取本音相場・2026-05-10追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/omocha-kaitori-souba/">おもちゃ買取の本音相場5選｜元買取8年がトミカ・LEGO解説</a>
+<a href="https://re-money-lab.com/omocha-kaitori-souba/">おもちゃ買取の本音相場5選｜買取8年がトミカ・LEGO解説</a>
 </div>
 
 <!-- 筆者プロフィール②（記事末・130px横並び・公式テンプレ） -->

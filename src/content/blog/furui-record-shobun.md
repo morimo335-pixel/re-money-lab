@@ -98,7 +98,7 @@ H2-1：古いレコードの処分前にまず確認すべき5つのこと
 <!-- 内部リンク水色カード（A=44ハブ） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/sell-unwanted-items/">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a>
+<a href="https://re-money-lab.com/sell-unwanted-items/">不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法</a>
 </div>
 
 <!-- ============================================================
@@ -158,7 +158,7 @@ H2-3：レコードを大量処分する3つの選択肢
 <!-- 内部リンク水色カード（H2-3末尾・L=215 遺品整理トラブル） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/ihinseiri-trouble/">遺品整理 業者トラブル7選｜元買取営業8年が暴く悪質手口と回避術</a>
+<a href="https://re-money-lab.com/ihinseiri-trouble/">遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術</a>
 </div>
 
 <!-- ============================================================
@@ -388,7 +388,7 @@ H2-10：まとめ｜捨てる前にまず査定を
 <!-- 内部リンク水色カード（記事29・使わない楽器・2026-05-12追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/tsukawanai-gakki-uru/">ギターが28万円？！使わない楽器を高く売る5選｜元買取8年解説</a>
+<a href="https://re-money-lab.com/tsukawanai-gakki-uru/">ギターが28万円？！使わない楽器を高く売る5選｜買取8年解説</a>
 </div>
 
 <!-- 筆者プロフィール②（記事末・130px横並び・公式テンプレ） -->

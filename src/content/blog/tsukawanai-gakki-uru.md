@@ -1,6 +1,6 @@
 ---
-title: 'ギターが28万円？！使わない楽器を高く売る5選｜元買取8年解説'
-description: '使わない楽器を高く売る5選を元買取8年が本音解説。Fender Stratocaster 1974年¥25.8万・Custom Shop Telecaster ¥43.2万の2026年実買取データ、ヤマハ・鈴木バイオリンの相場、福ちゃん×楽器の買取屋さん2社使い分け、壊れた楽器・古い楽器も売れる理由まで網羅。'
+title: 'ギターが28万円？！使わない楽器を高く売る5選｜買取8年解説'
+description: '使わない楽器を高く売る5選を買取8年が本音解説。Fender Stratocaster 1974年¥25.8万・Custom Shop Telecaster ¥43.2万の2026年実買取データ、ヤマハ・鈴木バイオリンの相場、福ちゃん×楽器の買取屋さん2社使い分け、壊れた楽器・古い楽器も売れる理由まで網羅。'
 pubDate: '2026-05-12'
 heroImage: '../../assets/blog/tsukawanai-gakki-uru.jpg'
 ---
@@ -71,7 +71,7 @@ H2-1：使わない楽器を売る人の3パターン
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<p style="margin:0;"><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 遺品整理 業者トラブル7選｜元買取営業8年が暴く悪質手口と回避術 →</a></p>
+<p style="margin:0;"><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術 →</a></p>
 </div>
 
 <h3>③ 自分の趣味卒業・断捨離</h3>
@@ -199,7 +199,7 @@ H2-2：2026年最新 楽器の本音買取相場
 <!-- ============================================================
 H2-3：使わない楽器を高く売る5つのコツ
 ============================================================ -->
-<h2>使わない楽器を高く売る5つのコツ｜元買取8年の本音解説</h2>
+<h2>使わない楽器を高く売る5つのコツ｜買取8年の本音解説</h2>
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>①第一印象の磨き上げ ②付属品とメンテ履歴 ③売却タイミング ④最低2〜3社の相見積もり ⑤感情と経済の分離——この5つを押さえれば、査定額が<strong>1.3〜2倍</strong>変わります。</p>
@@ -228,7 +228,7 @@ H2-3：使わない楽器を高く売る5つのコツ
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<p style="margin:0;"><a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜元買取営業8年が教える準備術 →</a></p>
+<p style="margin:0;"><a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜買取営業8年が教える準備術 →</a></p>
 </div>
 
 <h3>コツ③：売却タイミングの見極め</h3>
@@ -403,7 +403,7 @@ H2-5：楽器の種類別 おすすめ業者の使い分け
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<p style="margin:0;"><a href="https://re-money-lab.com/omocha-kaitori-souba/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 おもちゃ買取の本音相場5選｜元買取8年がトミカ・LEGO解説 →</a></p>
+<p style="margin:0;"><a href="https://re-money-lab.com/omocha-kaitori-souba/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 おもちゃ買取の本音相場5選｜買取8年がトミカ・LEGO解説 →</a></p>
 </div>
 
 <hr />
@@ -439,7 +439,7 @@ H2-6：買取トラブル回避5項目
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜元買取営業8年の自衛術 →</a></p>
+<p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a></p>
 </div>
 
 <hr />
@@ -511,10 +511,10 @@ H2-8：まとめ
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<p style="margin:0;"><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法 →</a></p>
-<p style="margin:10px 0 0;"><a href="https://re-money-lab.com/mishin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 捨てる前に！東京23区のミシン買取は出張査定が正解｜元買取8年 →</a></p>
-<p style="margin:10px 0 0;"><a href="https://re-money-lab.com/piano-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 お金を払うな！東京23区のピアノ処分は出張買取が正解｜元買取8年 →</a></p>
-<p style="margin:10px 0 0;"><a href="https://re-money-lab.com/audio-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 夫のアンプ売れる？東京23区オーディオ出張買取の本音｜元買取8年 →</a></p>
+<p style="margin:0;"><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法 →</a></p>
+<p style="margin:10px 0 0;"><a href="https://re-money-lab.com/mishin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 捨てる前に！東京23区のミシン買取は出張査定が正解｜買取8年 →</a></p>
+<p style="margin:10px 0 0;"><a href="https://re-money-lab.com/piano-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 お金を払うな！東京23区のピアノ処分は出張買取が正解｜買取8年 →</a></p>
+<p style="margin:10px 0 0;"><a href="https://re-money-lab.com/audio-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 夫のアンプ売れる？東京23区オーディオ出張買取の本音｜買取8年 →</a></p>
 </div>
 
 <!-- ===== 筆者プロフィール②（記事末・130px・横並び） ===== -->

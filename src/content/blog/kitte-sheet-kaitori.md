@@ -278,7 +278,7 @@ heroImage: '../../assets/blog/kitte-sheet-kaitori.jpg'
 <!-- 内部リンクカード L -->
 <div style="background:#E3F2FD;border-left:4px solid #00695C;padding:15px 20px;margin:25px 0;border-radius:4px;">
   <p style="margin:0 0 6px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;">遺品整理 業者トラブル7選｜元買取営業8年が暴く悪質手口と回避術</a>（実家整理で切手と一緒に出てくる遺品の扱いも参考に）</p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;">遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術</a>（実家整理で切手と一緒に出てくる遺品の扱いも参考に）</p>
 </div>
 
 <!-- ===== H2-7 ===== -->
@@ -315,7 +315,7 @@ heroImage: '../../assets/blog/kitte-sheet-kaitori.jpg'
 <!-- 内部リンクカード C -->
 <div style="background:#E3F2FD;border-left:4px solid #00695C;padding:15px 20px;margin:25px 0;border-radius:4px;">
   <p style="margin:0 0 6px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;">押し買いに遭いやすい人の5つの特徴｜元買取営業8年の自衛術</a>（出張買取を依頼する前に必読）</p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a>（出張買取を依頼する前に必読）</p>
 </div>
 
 <!-- A8カード③：遺品整理110番（H2-7末尾）-->
@@ -386,7 +386,7 @@ heroImage: '../../assets/blog/kitte-sheet-kaitori.jpg'
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">遺品整理 業者トラブル7選｜元買取営業8年が暴く悪質手口と回避術</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術</a></p>
 </div>
 
 <!-- ===== 内部リンクカード ===== -->

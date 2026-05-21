@@ -1,6 +1,6 @@
 ---
-title: '遺品整理 業者トラブル7選｜元買取営業8年が暴く悪質手口と回避術'
-description: '遺品整理 業者トラブル7選｜元買取営業8年が暴く悪質手口と回避術'
+title: '遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術'
+description: '遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術'
 pubDate: '2026-04-30'
 heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 ---
@@ -91,7 +91,7 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 <div style="font-size:2em;">🎎</div>
 <div style="flex:1;">
 <div style="color:#666;font-size:0.85em;margin-bottom:4px;">関連記事</div>
-<div style="color:#1E3A5F;font-weight:bold;font-size:1.05em;line-height:1.4;">【2026】日本人形を売るならどこ？元買取8年のコツ5選</div>
+<div style="color:#1E3A5F;font-weight:bold;font-size:1.05em;line-height:1.4;">【2026】日本人形を売るならどこ？買取8年のコツ5選</div>
 <div style="color:#1B3A6F;font-size:0.9em;margin-top:6px;">祖母の遺品・断捨離で出てきた市松人形・雛人形の本音相場とCOYASH活用法。</div>
 </div>
 <div style="color:#1E3A5F;font-size:1.5em;">→</div>
@@ -147,7 +147,7 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜元買取営業8年の自衛術 →</a>
+<a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a>
 </div>
 
 <h2>なぜ遺品整理はトラブルが多発するのか｜業界の構造的な問題</h2>
@@ -170,7 +170,7 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 
 <p>悪質業者はこの「情報の非対称性」につけこみます。<strong>業者は知っていて、依頼者は知らない</strong>。この差が、悪質手口の温床になっています。</p>
 
-<h2>【元買取営業の本音】悪質業者を見抜く5つのチェックポイント</h2>
+<h2>【買取営業の本音】悪質業者を見抜く5つのチェックポイント</h2>
 <div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:0 8px 8px 0;padding:16px 22px;margin:24px 0;color:#3E2723;line-height:1.85;">
 <strong style="color:#C8923A;font-size:1.05em;">💡 結論</strong><br>
 悪質業者は"見積もり"と"説明の仕方"で必ず尻尾を出します。この5項目を当てれば素人でも見抜けます。
@@ -341,7 +341,7 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法 →</a>
+<a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法 →</a>
 </div>
 
 <h2>遺品整理の費用相場｜知らないと損する金額の目安</h2>
@@ -382,7 +382,7 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜元買取営業8年が教える準備術 →</a>
+<a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜買取営業8年が教える準備術 →</a>
 </div>
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
@@ -444,7 +444,7 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 
 <div style="background:#F5F5F5;border:1px solid #D4A574;border-radius:6px;padding:18px 22px;margin:36px 0 28px 0;font-size:14px;color:#555;line-height:1.8;">
 <p style="margin:0 0 10px 0;font-weight:bold;color:#1E3A5F;font-size:15px;">📝 本記事のご利用にあたって</p>
-<p style="margin:0 0 10px 0;">本記事は2026年4月時点の情報をもとに、元買取営業8年の経験から執筆しています。情報の正確性には最大限配慮していますが、各業者の規約・サービス内容・法令は随時変更される可能性があります。</p>
+<p style="margin:0 0 10px 0;">本記事は2026年4月時点の情報をもとに、買取営業8年の経験から執筆しています。情報の正確性には最大限配慮していますが、各業者の規約・サービス内容・法令は随時変更される可能性があります。</p>
 <ul style="margin:0 0 10px 0;padding-left:1.4em;">
 <li>実際の業者選びや契約前には、必ず<strong>公式サイトの最新情報</strong>をご確認ください</li>
 <li>本記事は一般的な情報の提供であり、<strong>個別の法的助言を行うものではありません</strong></li>
@@ -469,7 +469,7 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 <!-- ===== 記事38 贈答品買取への逆リンク（2026-05-18追加） ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/zoutouhin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 皿もタオルも！東京23区の贈答品買取は出張査定が正解｜元買取8年 →</a>
+<a href="https://re-money-lab.com/zoutouhin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 皿もタオルも！東京23区の贈答品買取は出張査定が正解｜買取8年 →</a>
 </div>
 <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;background:#F8F4E6;border-left:5px solid #D4A574;padding:20px;margin:32px 0;border-radius:4px;">
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:130px;height:130px;flex-shrink:0;border-radius:50%;object-fit:cover;" />
@@ -508,7 +508,7 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜元買取営業8年の自衛術</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></p>
 </div>
 
 <!-- ===== 内部リンクカード ===== -->
@@ -534,26 +534,26 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 <!-- 内部リンク水色カード（記事26・おもちゃ買取本音相場・2026-05-10追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/omocha-kaitori-souba/">おもちゃ買取の本音相場5選｜元買取8年がトミカ・LEGO解説</a>
+<a href="https://re-money-lab.com/omocha-kaitori-souba/">おもちゃ買取の本音相場5選｜買取8年がトミカ・LEGO解説</a>
 </div>
 
 <!-- 内部リンク水色カード（記事29・使わない楽器・2026-05-12追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/tsukawanai-gakki-uru/">ギターが28万円？！使わない楽器を高く売る5選｜元買取8年解説</a>
+<a href="https://re-money-lab.com/tsukawanai-gakki-uru/">ギターが28万円？！使わない楽器を高く売る5選｜買取8年解説</a>
 </div>
 
 <!-- 内部リンク水色カード（記事32・パテックフィリップ・2026-05-14追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/patek-philippe-uru-doko/">【2026】パテックフィリップ売るならどこ？元買取8年のコツ5選</a>
+<a href="https://re-money-lab.com/patek-philippe-uru-doko/">【2026】パテックフィリップ売るならどこ？買取8年のコツ5選</a>
 </div>
 
 <!-- ===== 記事34 雛人形処分への逆リンク（2026-05-15追加） ===== -->
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：節句人形（雛人形・五月人形）の処分でお悩みの方へ</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/hina-ningyo-shobun/" style="color:#1E3A5F;text-decoration:underline;">雛人形の処分はみんなどうしてる？元買取8年が神社・買取・寄付を本音解説</a>（神社供養＋買取＋寄付の5つの選択肢）</li>
+<li><a href="https://re-money-lab.com/hina-ningyo-shobun/" style="color:#1E3A5F;text-decoration:underline;">雛人形の処分はみんなどうしてる？買取8年が神社・買取・寄付を本音解説</a>（神社供養＋買取＋寄付の5つの選択肢）</li>
 </ul>
 </div>
 

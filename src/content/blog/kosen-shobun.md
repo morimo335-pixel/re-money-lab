@@ -104,7 +104,7 @@ H2-1：古銭の価値を見極める5つのチェックポイント
 <!-- 内部リンク水色カード（A=ハブ） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/sell-unwanted-items/">不用品を売るならどこ？元買取営業8年が教える買い叩かれない5つの方法</a>
+<a href="https://re-money-lab.com/sell-unwanted-items/">不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法</a>
 </div>
 
 <!-- ============================================================
@@ -459,7 +459,7 @@ H2-11：まとめ
 <!-- 内部リンク水色カード（記事26・おもちゃ買取本音相場・2026-05-10追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/omocha-kaitori-souba/">おもちゃ買取の本音相場5選｜元買取8年がトミカ・LEGO解説</a>
+<a href="https://re-money-lab.com/omocha-kaitori-souba/">おもちゃ買取の本音相場5選｜買取8年がトミカ・LEGO解説</a>
 </div>
 
 <!-- 筆者プロフィール②（記事末尾・横並び・公式テンプレ） -->
@@ -467,7 +467,7 @@ H2-11：まとめ
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:130px;height:130px;flex-shrink:0;border-radius:50%;object-fit:cover;" />
 <div style="flex:1;min-width:240px;">
 <p style="margin:0;"><strong>ハル</strong></p>
-<p style="margin:4px 0 8px 0;color:#666;font-size:0.9em;">元買取業界8年・累計査定3万点超</p>
+<p style="margin:4px 0 8px 0;color:#666;font-size:0.9em;">買取業界8年・累計査定3万点超</p>
 <ul style="margin:0;padding-left:20px;">
 <li>買取業界の営業として複数社で計8年勤務（古銭・骨董品・ブランド品・貴金属・着物等）</li>
 <li><strong>累計査定3万点超</strong>の現場経験</li>
@@ -482,7 +482,7 @@ H2-11：まとめ
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：節句人形（雛人形・五月人形）の処分でお悩みの方へ</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/hina-ningyo-shobun/" style="color:#1E3A5F;text-decoration:underline;">雛人形の処分はみんなどうしてる？元買取8年が神社・買取・寄付を本音解説</a>（神社供養＋買取＋寄付の5つの選択肢）</li>
+<li><a href="https://re-money-lab.com/hina-ningyo-shobun/" style="color:#1E3A5F;text-decoration:underline;">雛人形の処分はみんなどうしてる？買取8年が神社・買取・寄付を本音解説</a>（神社供養＋買取＋寄付の5つの選択肢）</li>
 </ul>
 </div>
 

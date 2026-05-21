@@ -1,6 +1,6 @@
 ---
 title: 'フィルムカメラのブーム終了？元業界人8年が相場と売り時を本音解説'
-description: 'フィルムカメラのブームは終了したのか？元買取営業8年が2026年の真実を本音解説。親の遺品の正しい売り時、機種別最新相場（CONTAX T2・Leica M3）、福ちゃんカメラ買取の評判まで完全網羅。'
+description: 'フィルムカメラのブームは終了したのか？買取営業8年が2026年の真実を本音解説。親の遺品の正しい売り時、機種別最新相場（CONTAX T2・Leica M3）、福ちゃんカメラ買取の評判まで完全網羅。'
 pubDate: '2026-05-04'
 heroImage: '../../assets/blog/film-camera-boom-shuryou.jpg'
 ---
@@ -298,7 +298,7 @@ heroImage: '../../assets/blog/film-camera-boom-shuryou.jpg'
 <!-- ===== 内部リンクカード②：業者選びの不安 ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">遺品整理 業者トラブル7選｜元買取営業8年が暴く悪質手口と回避術</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術</a></p>
 </div>
 
 <!-- ===== 内部リンクカード③：信頼できる業者へ（行動） ===== -->

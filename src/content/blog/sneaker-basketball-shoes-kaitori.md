@@ -1,6 +1,6 @@
 ---
-title: '【元買取8年】スニーカー・バッシュ買取はいくら？高く売る5選'
-description: '子供のバッシュ卒業や古いスニーカーで悩む主婦必読。元買取営業8年のハルが、ナイキ・アディダス・ニューバランス・バッシュ全ブランドの本音相場と高く売る5つのコツを暴露。フリマより楽で高い売り先と査定額UPの裏ワザを5分で解説。'
+title: '【買取8年】スニーカー・バッシュ買取はいくら？高く売る5選'
+description: '子供のバッシュ卒業や古いスニーカーで悩む主婦必読。買取営業8年のハルが、ナイキ・アディダス・ニューバランス・バッシュ全ブランドの本音相場と高く売る5つのコツを暴露。フリマより楽で高い売り先と査定額UPの裏ワザを5分で解説。'
 pubDate: '2026-05-13'
 heroImage: '../../assets/blog/sneaker-basketball-shoes-kaitori.jpg'
 ---
@@ -23,7 +23,7 @@ heroImage: '../../assets/blog/sneaker-basketball-shoes-kaitori.jpg'
 
 <p>特に2020年代以降、ナイキ・ジョーダンの再販価格が異常に高騰し、<strong>未使用の人気モデルは10万円超で売れる事例</strong>も珍しくありません。ニューバランス990系・サロモン・ホカといった「機能系スニーカー」も中古市場が活発化し、状態次第で数万円つく時代です。バッシュ（バスケットシューズ）も、コービー・カイリー・カリーといった選手モデルは中古市場が驚くほど活況です。</p>
 
-<p>この記事では、元買取営業8年の私が、<strong>ブランド別×状態別の本音相場・高く売る5つのコツ・損しない売り先選び・買取王国の使い方</strong>を、業界の裏側まで含めて全部お話しします。読み終わる頃には、ご自宅の靴箱が「眠っている資産」に見えてくるはずです。</p>
+<p>この記事では、買取営業8年の私が、<strong>ブランド別×状態別の本音相場・高く売る5つのコツ・損しない売り先選び・買取王国の使い方</strong>を、業界の裏側まで含めて全部お話しします。読み終わる頃には、ご自宅の靴箱が「眠っている資産」に見えてくるはずです。</p>
 
 <div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:24px;margin:28px 0;text-align:center;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:280px;height:280px;display:block;margin:0 auto;border-radius:50%;object-fit:cover;" />
@@ -316,7 +316,7 @@ heroImage: '../../assets/blog/sneaker-basketball-shoes-kaitori.jpg'
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を高く売る方法ガイド｜元買取8年が損しない売却術を全部解説 →</a>
+<a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を高く売る方法ガイド｜買取8年が損しない売却術を全部解説 →</a>
 </div>
 
 <h2>ブランド別攻略法｜売り先と査定の最適解は変わる</h2>
