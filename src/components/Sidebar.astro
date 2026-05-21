@@ -19,24 +19,26 @@ const pickupPosts = pickupSlugs
 
 <aside class="sidebar">
   <div class="sb-title">📚 ピックアップ記事</div>
-  {pickupPosts.map(post => post && (
-    <a href={`/${post.id}/`} class="sb-card">
-      <div class="sb-thumb">
-        {post.data.heroImage && (
-          <Image
-            src={post.data.heroImage}
-            alt={post.data.title}
-            width={120}
-            height={68}
-            loading="lazy"
-          />
-        )}
-      </div>
-      <div class="sb-ttl">{post.data.title}</div>
-    </a>
-  ))}
+  <div class="sb-grid">
+    {pickupPosts.map(post => post && (
+      <a href={`/${post.id}/`} class="sb-card">
+        <div class="sb-thumb">
+          {post.data.heroImage && (
+            <Image
+              src={post.data.heroImage}
+              alt={post.data.title}
+              width={320}
+              height={180}
+              loading="lazy"
+            />
+          )}
+        </div>
+        <div class="sb-ttl">{post.data.title}</div>
+      </a>
+    ))}
+  </div>
 
-  <div class="sb-title" style="margin-top:20px;">🏷 カテゴリ</div>
+  <div class="sb-title" style="margin-top:24px;">🏷 カテゴリ</div>
   <div class="sb-cat">
     <a href="/">🏠 トップへ</a>
     <a href="/about/">📝 運営者情報</a>
@@ -45,7 +47,7 @@ const pickupPosts = pickupSlugs
 
 <style>
   .sidebar {
-    width: 280px;
+    width: 320px;
     flex-shrink: 0;
     font-family: 'Noto Sans JP', sans-serif;
     position: sticky;
@@ -57,38 +59,38 @@ const pickupPosts = pickupSlugs
   .sb-title {
     font-weight: bold;
     color: #1E3A5F;
-    font-size: 0.95em;
-    padding: 8px 12px;
+    font-size: 1em;
+    padding: 10px 14px;
     border-bottom: 3px solid #C8923A;
-    margin-bottom: 12px;
+    margin-bottom: 14px;
     background: linear-gradient(135deg,#FFF8E1,#FFFFFF);
-    border-radius: 4px 4px 0 0;
+    border-radius: 6px 6px 0 0;
+  }
+  .sb-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
   }
   .sb-card {
-    display: flex;
-    gap: 10px;
-    align-items: center;
-    padding: 8px;
-    margin-bottom: 8px;
+    display: block;
     background: #FAFAFA;
     border: 1px solid #E5E9F0;
-    border-radius: 6px;
+    border-radius: 8px;
+    overflow: hidden;
     text-decoration: none;
-    transition: all 0.2s;
+    transition: all 0.25s;
   }
   .sb-card:hover {
     background: #fff;
     border-color: #C8923A;
-    transform: translateY(-1px);
-    box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(0,0,0,0.10);
   }
   .sb-thumb {
-    width: 70px;
-    height: 40px;
-    flex-shrink: 0;
-    border-radius: 4px;
-    overflow: hidden;
+    width: 100%;
+    aspect-ratio: 16 / 9;
     background: #E3E8F0;
+    overflow: hidden;
   }
   .sb-thumb img {
     width: 100%;
@@ -97,23 +99,23 @@ const pickupPosts = pickupSlugs
     display: block;
   }
   .sb-ttl {
-    font-size: 0.78em;
-    line-height: 1.4;
-    color: #333;
-    flex: 1;
-    font-weight: 500;
+    font-size: 0.92em;
+    line-height: 1.45;
+    color: #1E3A5F;
+    font-weight: 600;
+    padding: 10px 12px 12px;
   }
   .sb-cat {
     display: flex;
     flex-direction: column;
-    gap: 6px;
+    gap: 8px;
     padding: 8px;
   }
   .sb-cat a {
     color: #1E3A5F;
     text-decoration: none;
-    font-size: 0.85em;
-    padding: 6px 10px;
+    font-size: 0.92em;
+    padding: 8px 12px;
     border-radius: 4px;
     background: #F0F4F8;
     transition: background 0.2s;
@@ -122,14 +124,32 @@ const pickupPosts = pickupSlugs
     background: #E3E8F0;
   }
 
+  /* タブレット〜PC（1024px以上）：右サイドバー追従 */
+
+  /* タブレット以下（〜1023px）：サイドバー本文下部に・グリッド2列 */
   @media (max-width: 1023px) {
     .sidebar {
       width: 100%;
       position: static;
       max-height: none;
-      margin-top: 30px;
+      margin-top: 36px;
       padding-top: 24px;
       border-top: 2px solid #E0E0E0;
+    }
+    .sb-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14px;
+    }
+  }
+
+  /* スマホ（〜600px）：サイドバー1列（縦並び） */
+  @media (max-width: 600px) {
+    .sb-grid {
+      grid-template-columns: 1fr;
+    }
+    .sb-ttl {
+      font-size: 0.88em;
     }
   }
 </style>
