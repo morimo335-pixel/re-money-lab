@@ -14,6 +14,7 @@ const blog = defineCollection({
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
 			heroImage: z.optional(image()),
+			related: z.array(z.string()).optional(),  // 関連記事slug配列（サイドバー動的表示用）
 		}),
 });
 

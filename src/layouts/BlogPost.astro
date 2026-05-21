@@ -11,7 +11,7 @@ import '../styles/article.css';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, related } = Astro.props;
 ---
 
 <html lang="ja">
@@ -115,7 +115,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 						<TableOfContents />
 						<slot />
 					</div>
-					<Sidebar />
+					<Sidebar related={related} />
 				</div>
 			</article>
 		</main>

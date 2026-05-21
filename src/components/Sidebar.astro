@@ -2,23 +2,34 @@
 import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 
-// ピックアップ記事5本（SC実測上位＋戦略的に選定・2026-05-21）
-const pickupSlugs = [
-  'kegawa-coat-jidai-okure',        // 毛皮時代遅れ（SC表示123・最大）
-  'komehyo-umeda-kaitori',           // コメ兵梅田（SC表示94）
-  'film-camera-boom-shuryou',        // フィルムカメラ（CTR 7.8%）
-  'mercari-fuku-urenai',             // メルカリ服売れない（SC表示80）
-  'takuhai-kaitori-trouble',         // 宅配買取トラブル（SC表示77）
+interface Props {
+  related?: string[];  // 記事のfrontmatter related から渡される（slug配列）
+}
+
+const { related } = Astro.props as Props;
+
+// デフォルトピックアップ記事（fallback・SC実測上位）
+const defaultSlugs = [
+  'kegawa-coat-jidai-okure',
+  'komehyo-umeda-kaitori',
+  'film-camera-boom-shuryou',
+  'mercari-fuku-urenai',
+  'takuhai-kaitori-trouble',
 ];
 
 const allPosts = await getCollection('blog');
+
+// 関連記事指定があればそれを優先・なければデフォルト
+const pickupSlugs = (related && related.length > 0) ? related : defaultSlugs;
 const pickupPosts = pickupSlugs
   .map(slug => allPosts.find(p => p.id === slug))
   .filter(Boolean);
+
+const sidebarTitle = (related && related.length > 0) ? '📚 この記事の関連' : '📚 ピックアップ記事';
 ---
 
 <aside class="sidebar">
-  <div class="sb-title">📚 ピックアップ記事</div>
+  <div class="sb-title">{sidebarTitle}</div>
   <div class="sb-grid">
     {pickupPosts.map(post => post && (
       <a href={`/${post.id}/`} class="sb-card">
@@ -124,9 +135,6 @@ const pickupPosts = pickupSlugs
     background: #E3E8F0;
   }
 
-  /* タブレット〜PC（1024px以上）：右サイドバー追従 */
-
-  /* タブレット以下（〜1023px）：サイドバー本文下部に・グリッド2列 */
   @media (max-width: 1023px) {
     .sidebar {
       width: 100%;
@@ -143,7 +151,6 @@ const pickupPosts = pickupSlugs
     }
   }
 
-  /* スマホ（〜600px）：サイドバー1列（縦並び） */
   @media (max-width: 600px) {
     .sb-grid {
       grid-template-columns: 1fr;
