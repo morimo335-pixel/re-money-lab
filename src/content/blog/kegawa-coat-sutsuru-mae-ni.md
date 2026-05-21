@@ -225,7 +225,7 @@ heroImage: '../../assets/blog/kegawa-coat-sutsuru-mae-ni.jpg'
 <span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 査定料0円・キャンセルOK ／</span>
 </div>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ まずは無料で価値だけ聞いてみる</a>
-<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：fuku-chan.info</p>
+<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">fuku-chan.info</a></p>
 </div>
 </div>
 
@@ -281,7 +281,7 @@ heroImage: '../../assets/blog/kegawa-coat-sutsuru-mae-ni.jpg'
 <span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 査定料0円・キャンセルOK ／</span>
 </div>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ まずは無料で価値だけ聞いてみる</a>
-<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：fuku-chan.info</p>
+<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">fuku-chan.info</a></p>
 </div>
 </div>
 
