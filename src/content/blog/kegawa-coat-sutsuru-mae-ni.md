@@ -4,9 +4,9 @@ description: '実家から出てきた毛皮コート、捨てるか売るか何
 pubDate: '2026-05-21'
 heroImage: '../../assets/blog/kegawa-coat-sutsuru-mae-ni.jpg'
 related:
+  - oya-ihin-suterarenai
   - kegawa-coat-jidai-okure
   - ihinseiri-trouble
-  - takuhai-kaitori-trouble
 ---
 
 <div class="article-content">
