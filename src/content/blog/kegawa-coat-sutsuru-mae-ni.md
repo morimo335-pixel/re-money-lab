@@ -73,10 +73,9 @@ heroImage: '../../assets/blog/kegawa-coat-sutsuru-mae-ni.jpg'
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
 <p style="margin:0 0 8px 0;"><strong style="color:#C8923A;">💡 結論</strong></p>
 <ul style="margin:0;padding-left:1.4em;line-height:1.85;">
-<li><span style="color:#C0392B;">🌀</span> <strong>罪悪感</strong>：親への裏切りに感じて動けない</li>
-<li><span style="color:#E67E22;">📦</span> <strong>物理的占有</strong>：3kg超の毛皮がクローゼットを浸食</li>
-<li><span style="color:#1E3A5F;">❓</span> <strong>情報不足</strong>：判断材料がないから10年先延ばしに</li>
-<li><span style="color:#27AE60;">✅</span> これは優柔不断ではなく、<strong>ごく自然な反応</strong></li>
+<li><span style="color:#C0392B;">🌀</span> <strong>罪悪感</strong>：「親不孝な娘」になる気がして捨てられない</li>
+<li><span style="color:#E67E22;">📦</span> <strong>クローゼット圧迫</strong>：3kg超の毛皮が一番広い場所を占領</li>
+<li><span style="color:#1E3A5F;">❓</span> <strong>判断材料ゼロ</strong>：「いくらで売れる？売っていい？」が分からない</li>
 </ul>
 </div>
 
