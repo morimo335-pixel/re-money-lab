@@ -154,8 +154,6 @@ heroImage: '../../assets/blog/kegawa-coat-sutsuru-mae-ni.jpg'
 
 <p>カビた毛皮の修復には専門のガス滅菌処理（数万円）が必要で、皮が硬化してしまえば再加工も不可能。<strong>「今売れば1万円」のミンクが、3年後には「買取不可」になる</strong>のはよくあるケースです。判断を先延ばしにすればするほど、選択肢そのものが消えていきます。</p>
 
-<p style="font-size:0.95em;background:#F4ECD8;border:1px dashed #C8923A;border-radius:6px;padding:12px 16px;margin:18px 0;"><span style="color:#C8923A;">💎</span> <strong>先に相場だけ知りたい方は</strong>：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" style="color:#1E3A5F;font-weight:bold;">▶ 福ちゃん毛皮買取で無料査定を試す（PR）</a> ／査定だけ受けて売らない選択も自由です。</p>
-
 <!-- ===== H2-3 ===== -->
 <div style="background:#FFEBEE;border:2px solid #C0392B;border-radius:8px;padding:18px 22px;margin:30px 0;">
 <p style="margin:0;color:#C0392B;font-weight:bold;font-size:1.05em;">⚠️ ただし、今すぐ捨てないでください</p>
@@ -223,7 +221,7 @@ heroImage: '../../assets/blog/kegawa-coat-sutsuru-mae-ni.jpg'
 <li>古物商許可保有・LINE査定対応</li>
 <li>クーリングオフ8日適用・押し買い行為ゼロ</li>
 </ul>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ 福ちゃんで無料査定してみる（PR）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ 福ちゃんで無料査定してみる（PR）</a>
 </div>
 </div>
 
@@ -275,7 +273,7 @@ heroImage: '../../assets/blog/kegawa-coat-sutsuru-mae-ni.jpg'
 <div style="background:linear-gradient(135deg,#1E3A5F,#2C5282);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 まずは無料査定で価値を知る</div>
 <div style="padding:20px;">
 <p style="margin:0 0 12px 0;">福ちゃん毛皮買取は出張査定料・キャンセル料すべて無料。<strong>査定だけ受けて売らない選択も自由</strong>です。クローゼットを開ける重い気持ちを、まずは「相場を知る」というアクションに変えてみませんか。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:8px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ 福ちゃんで無料査定してみる（PR）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:8px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ 福ちゃんで無料査定してみる（PR）</a>
 </div>
 </div>
 
