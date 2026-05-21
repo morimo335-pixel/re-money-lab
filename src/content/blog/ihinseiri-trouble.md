@@ -496,6 +496,12 @@ heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/kegawa-coat-sutsuru-mae-ni/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">捨てる前に。実家の毛皮コート、後悔しない処分方法6選</a></p>
+</div>
+
+<!-- ===== 内部リンクカード ===== -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
+  <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
   <p style="margin:0;"><a href="https://re-money-lab.com/tetsubin-mikiwakekata/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">実家の鉄瓶、捨てて大丈夫？元業界人8年が真贋見分け5点を本音解説</a></p>
 </div>
 
