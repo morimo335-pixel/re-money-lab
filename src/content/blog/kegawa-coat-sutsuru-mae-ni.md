@@ -221,7 +221,7 @@ heroImage: '../../assets/blog/kegawa-coat-sutsuru-mae-ni.jpg'
 <li>古物商許可保有・LINE査定対応</li>
 <li>クーリングオフ8日適用・押し買い行為ゼロ</li>
 </ul>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#16A085,#0E6655);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(22,160,133,0.35);">▶ まずは無料で価値だけ聞いてみる</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ まずは無料で価値だけ聞いてみる</a>
 </div>
 </div>
 
@@ -273,7 +273,7 @@ heroImage: '../../assets/blog/kegawa-coat-sutsuru-mae-ni.jpg'
 <div style="background:linear-gradient(135deg,#1E3A5F,#2C5282);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 まずは無料査定で価値を知る</div>
 <div style="padding:20px;">
 <p style="margin:0 0 12px 0;">福ちゃん毛皮買取は出張査定料・キャンセル料すべて無料。<strong>査定だけ受けて売らない選択も自由</strong>です。クローゼットを開ける重い気持ちを、まずは「相場を知る」というアクションに変えてみませんか。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#16A085,#0E6655);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:8px;box-shadow:0 4px 12px rgba(22,160,133,0.35);">▶ まずは無料で価値だけ聞いてみる</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:8px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ まずは無料で価値だけ聞いてみる</a>
 </div>
 </div>
 
