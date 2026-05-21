@@ -3,6 +3,12 @@ title: '東京23区の貴金属買取は出張査定が正解｜買取8年の本
 description: '東京23区で金・プラチナ・アクセサリーを売るなら出張買取が正解。買取8年が2026年の最新相場、壊れた指輪や金歯でも値段がつく理由、押し買いを避ける業者の見分け方、七福の出張買取を本音でレビューします。'
 pubDate: '2026-05-16'
 heroImage: '../../assets/blog/kikinzoku-kaitori-tokyo.jpg'
+related:
+  - kin-kaitori-chuiten
+  - rikon-kekkonyubiwa
+  - ng-actions-5
+  - takuhai-kaitori-trouble
+  - patek-philippe-uru-doko
 ---
 
 <div class="article-content">

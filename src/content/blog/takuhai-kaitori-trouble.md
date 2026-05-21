@@ -3,6 +3,12 @@ title: '宅配買取は危険？買取8年が暴くトラブル5選と回避術'
 description: '宅配買取は危険？買取8年が業界の裏側から「安く買い叩く5つのカラクリ」と「絶対トラブルを防ぐ5ステップ」を本音解説。査定額の罠、キャンセル料人質化、勝手な売却、押し買い転換まで網羅。安心して使える業者の選び方も紹介。'
 pubDate: '2026-04-29'
 heroImage: '../../assets/blog/takuhai-kaitori-trouble.jpg'
+related:
+  - ng-actions-5
+  - raise-appraisal
+  - kimono-kaitori-koukai
+  - brandoff-evaluation
+  - komehyo-evaluation
 ---
 
 <div class="article-content">

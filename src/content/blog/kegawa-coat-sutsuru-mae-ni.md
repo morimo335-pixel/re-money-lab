@@ -7,8 +7,6 @@ related:
   - kegawa-coat-jidai-okure
   - ihinseiri-trouble
   - takuhai-kaitori-trouble
-  - ng-actions-5
-  - kimono-uru-osusume
 ---
 
 <div class="article-content">

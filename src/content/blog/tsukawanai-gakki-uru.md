@@ -3,6 +3,12 @@ title: 'ギターが28万円？！使わない楽器を高く売る5選｜買取
 description: '使わない楽器を高く売る5選を買取8年が本音解説。Fender Stratocaster 1974年¥25.8万・Custom Shop Telecaster ¥43.2万の2026年実買取データ、ヤマハ・鈴木バイオリンの相場、福ちゃん×楽器の買取屋さん2社使い分け、壊れた楽器・古い楽器も売れる理由まで網羅。'
 pubDate: '2026-05-12'
 heroImage: '../../assets/blog/tsukawanai-gakki-uru.jpg'
+related:
+  - ihinseiri-trouble
+  - raise-appraisal
+  - furui-record-shobun
+  - omocha-kaitori-souba
+  - ng-actions-5
 ---
 
 <div class="article-content">

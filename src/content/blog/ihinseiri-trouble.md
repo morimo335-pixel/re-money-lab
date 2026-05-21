@@ -3,6 +3,12 @@ title: '遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手
 description: '遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術'
 pubDate: '2026-04-30'
 heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
+related:
+  - nihon-ningyo-uru-doko
+  - ng-actions-5
+  - sell-unwanted-items
+  - raise-appraisal
+  - fukuchan-shucchou-kaitori
 ---
 
 <div class="article-content">

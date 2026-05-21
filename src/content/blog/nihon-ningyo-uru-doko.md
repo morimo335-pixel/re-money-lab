@@ -3,6 +3,10 @@ title: '【2026】日本人形を売るならどこ？買取8年のコツ5選'
 description: '遺品整理で出た日本人形、価値を知らずに捨てて後悔する前に。買取8年の査定員が、藤村光環80万超えの2026年最新相場、査定額が倍になる5つのコツ、COYASH・遺品整理110番の使い分けを解説。あなたの日本人形の本当の価値が分かります。'
 pubDate: '2026-05-14'
 heroImage: '../../assets/blog/nihon-ningyo-uru-doko.jpg'
+related:
+  - hina-ningyo-shobun
+  - ihinseiri-trouble
+  - sell-unwanted-items
 ---
 
 <div class="article-content">

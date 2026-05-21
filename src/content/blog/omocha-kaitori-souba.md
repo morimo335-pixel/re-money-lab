@@ -3,6 +3,12 @@ title: 'おもちゃ買取の本音相場5選｜買取8年がトミカ・LEGO解
 description: '家に眠るおもちゃ、いくらで売れる？2026年は円安と海外コレクター需要で歴史的高値。買取8年がトミカ黒箱5万円・LEGO廃盤3万円・ブリキ人形70万円の最新相場と、損しない処分5つの選択肢を本音解説。'
 pubDate: '2026-05-10'
 heroImage: '../../assets/blog/omocha-kaitori-souba.jpg'
+related:
+  - sell-unwanted-items
+  - fukuchan-shucchou-kaitori
+  - ihinseiri-trouble
+  - takuhai-kaitori-trouble
+  - tsukawanai-gakki-uru
 ---
 
 <div class="article-content">
