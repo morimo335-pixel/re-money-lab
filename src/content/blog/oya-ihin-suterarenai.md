@@ -2,7 +2,7 @@
 title: '捨てる前に。親の遺品が捨てられない時、業界人が勧める1つの方法'
 description: '親の遺品が何年も捨てられない…罪悪感で動けないあなたへ。買取8年が「売れる物vs捨てるしかない物」「兄弟と揉めない進め方」「悪質業者の見抜き方」を10分で本音解説。捨てる前にできる中間選択肢、現場目線で。'
 pubDate: '2026-05-22'
-heroImage: '../../assets/blog/oya-ihin-suterarenai.jpg'
+heroImage: '../../assets/blog/kegawa-coat-sutsuru-mae-ni.jpg'
 related:
   - ihinseiri-trouble
   - kegawa-coat-sutsuru-mae-ni
