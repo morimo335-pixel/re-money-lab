@@ -149,15 +149,12 @@ related:
 
 <p>特に近年、相場が大きく動いているのが<strong>長期熟成の国産シングルモルトウイスキー</strong>と、<strong>定番のヴィンテージランタン（コールマンのシーズンズやサンタフェ等）</strong>です。「父が好きで飲まずに取っておいた」「父のキャンプ道具」が、一本数万円や1点10万円超の価値になるケースは現場でよくあります。</p>
 
-<!-- ===== 業界人独自コラム：想定外の高値ベスト3 ===== -->
+<!-- ===== 業界人独自コラム：想定外の高値 ===== -->
 <div style="background:#FFF4E1;border:2px dashed #C8923A;border-radius:8px;padding:20px 24px;margin:24px 0;">
-<p style="margin:0 0 10px 0;font-weight:bold;color:#8B6914;font-size:1.05em;">📊 業界8年で見た「実家から出た想定外の高値」ベスト3</p>
-<ul style="margin:0;padding-left:1.5em;line-height:2;">
-<li><strong>30年動かない昭和のロレックス</strong>（サブマリーナRef.5513）→ <span style="color:#C0392B;font-weight:bold;">30万円</span>。「もう動かないから処分するつもり」だった一本。動作確認なしでもブランド・型番・年代だけで価値が決まる時計があります。「動かないから売れない」は時計の世界では幻想です</li>
-<li><strong>母のサガミンクのコート</strong>（ボーグ加工）→ <span style="color:#C0392B;font-weight:bold;">4万5,000円</span>。バブル期に50万円で購入し「もう着る人もいない」と廃棄寸前→海外バイヤー経由のエコ循環へ</li>
-<li><strong>祖父の押入れの「ただの古い掛軸」</strong>（江戸後期の文人画）→ <span style="color:#C0392B;font-weight:bold;">12万円</span>。骨董市場で評価される作家筋だった</li>
-</ul>
-<p style="margin:14px 0 0 0;font-size:0.95em;color:#555;">いずれも「動かない・古い・もう要らない」と判断しがちな品。業界では真逆で、<strong>捨てる前に査定</strong>が鉄則です。</p>
+<p style="margin:0 0 10px 0;font-weight:bold;color:#8B6914;font-size:1.05em;">📊 業界8年で見た「実家から出た想定外の高値」実例</p>
+<p style="margin:0 0 10px 0;line-height:1.85;"><strong>30年前から動かない昭和のロレックス</strong> → <span style="color:#C0392B;font-weight:bold;font-size:1.1em;">30万円</span>。</p>
+<p style="margin:0 0 10px 0;line-height:1.85;">「もう動かないから処分するつもり」だった一本。査定の現場で実際にあったケースです。動作確認なしでも<strong>ブランド・型番・年代だけで価値が決まる時計</strong>がある——「動かないから売れない」は時計の世界では幻想だと、この一件で確信しました。</p>
+<p style="margin:0;font-size:0.95em;color:#555;">「動かない・古い・もう要らない」と判断しがちな品ほど、業界では真逆の評価がつく。<strong>捨てる前に査定</strong>が鉄則です。</p>
 </div>
 
 <h3>捨てるしかない物4品目</h3>
