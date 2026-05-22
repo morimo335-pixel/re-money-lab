@@ -316,16 +316,20 @@ related:
 <p>その時に頼れるのが<strong>遺品整理110番</strong>。全国対応の複数業者から一括見積りでき、業者ごとに料金・サービス内容を比較できる点が特徴です。一般廃棄物許可と古物商許可の両方を持つ業者がリストアップされるため、上記の3許可証チェックを自分でやらなくても選定の手間が省けます。</p>
 
 <!-- ===== A8カード②：遺品整理110番 ===== -->
-<div style="border:2px solid #2C5F2D;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(44,95,45,0.15);">
-<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 まとめて頼みたい時：遺品整理110番</div>
+<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 自力で限界を感じた時：遺品整理110番</div>
 <div style="padding:20px;">
 <p style="margin:0 0 12px 0;">遺品整理を全国対応の複数業者から一括見積り。買取と処分を同時に依頼でき、許可証を持つ業者だけが登録されているので<strong>選定の手間が省けます</strong>。</p>
 <ul style="margin:0 0 16px 0;padding-left:1.5em;">
 <li>無料見積り・全国24時間対応</li>
 <li>一般廃棄物許可・古物商許可保有業者のみ登録</li>
-<li>買取＋処分＋ハウスクリーニング一括</li>
+<li>買取と処分をまとめて依頼OK</li>
 </ul>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(212,165,116,0.42);">▶ 無料見積もりを依頼する</a>
+<div style="text-align:center;margin:18px 0 0 0;">
+<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 全国24時間 無料対応 ／</span>
+</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 無料で一括見積もりを取る</a>
+<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">遺品整理110番</a></p>
 </div>
 </div>
 
