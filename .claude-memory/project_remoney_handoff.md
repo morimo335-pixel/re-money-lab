@@ -145,16 +145,41 @@ Satoshi「ブログ続き」→前夜（5/21夜）に10角度候補＋推し3本
 
 **Why this matters:** 過去のミス再発防止。朝Satoshiが「被ってない？」と聞いた時点で既に Night Shift で検証済→「①slug 0件・②本文軽言及1箇所・③A8提携済・④同一案件未使用・⑤感情軸別」と即答できる状態を作る。Phase 1 即起動可能になる。
 
-### 既存資産 grep ワンライナー（Night Shift 起動時毎回実行）
+### 既存資産 grep ワンライナー（手動確認用）
 
 ```bash
 cd ~/re-money-lab/src/content/blog
-# 候補KWを下記に差し替えて実行
 KW="<候補KW>"; SLUG_PATTERN="<候補slug候補>"
 echo "=== ① slug ==="; ls | grep -iE "$SLUG_PATTERN"
 echo "=== ② title/description ==="; grep -E "title:|description:" *.md | grep -iE "$KW"
 echo "=== ③ 本文言及 ==="; grep -lE "$KW" *.md | while read f; do echo "$f: $(grep -c "$KW" "$f")箇所"; done
 ```
+
+### 🛠 自動検証スクリプト（5チェック一発実行）
+
+```bash
+~/re-money-lab/scripts/validate-candidate.sh "<候補KW>" "<候補slugパターン>" "[A8案件IDパターン]"
+
+# 例：「終活 何から」候補
+~/re-money-lab/scripts/validate-candidate.sh "終活" "shukatsu|shuukatsu" ""
+
+# 例：「ジャパニーズウイスキー」候補（記事24の既存被り検知できる）
+~/re-money-lab/scripts/validate-candidate.sh "ウイスキー" "whisky|whiskey|osake" "4B1SPX+AV5TZU"
+```
+
+戻り値 0 = 5チェック合格・handoff.md 掲載OK／戻り値 1 = NG・要再検討。
+
+### 🔧 Captain Rotor 統合手順（PC側スクリプト改造）
+
+PC側 Captain Rotor（朝の候補3本生成スクリプト）に下記を組み込む：
+
+1. 候補KWを列挙する直前に `validate-candidate.sh` を各候補ごとに呼ぶ
+2. 戻り値 0 の候補のみ `CANDIDATES_YYYY-MM-DD.md` と handoff.md「次の N記事目以降 候補一覧」テーブルに掲載
+3. 戻り値 1 の候補は `CANDIDATES_YYYY-MM-DD_rejected.md` に「NG理由」と共に記録（同じKWを翌日また提案してしまうループ防止）
+
+### 🔁 SessionStart hook 自動リマインダー
+
+`.claude/settings.json` に SessionStart hook 設定済（commit 後 PC側で git pull すれば自動有効化）。Claude Code が起動するたびに本セクション冒頭を自動 additionalContext 注入＝**読み忘れ構造的に不可能**にしてある。
 
 ### 違反履歴
 - **2026-05-22 朝**：43候補3本（義実家／ウイスキー／終活）すべて事前検証ゼロで handoff.md 提示→朝Satoshi検証で2本既存被り発覚→ジャパニーズウイスキーは記事24で既存・福ちゃんお酒a8mat既使用判明。「ちゃんと確認します。その確認をいつも夜にしてくれてるんじゃないの？遅いって！！！」 Satoshi激怒で本ルール確定。
