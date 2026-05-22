@@ -230,13 +230,6 @@ related:
 </div>
 </div>
 
-<!-- ===== 内部リンクカード①：毛皮処分集客 ===== -->
-<div style="background:linear-gradient(135deg,#FFF8E1,#FFE082);border-left:5px solid #C8923A;border-radius:8px;padding:14px 18px;margin:24px 0;">
-<p style="margin:0 0 8px 0;font-weight:bold;color:#8B6914;font-size:0.95em;">▶ あわせて読みたい</p>
-<p style="margin:0;"><a href="/kegawa-coat-sutsuru-mae-ni/" style="color:#2C5F2D;font-weight:bold;text-decoration:none;font-size:1.02em;">捨てる前に。実家の毛皮コート、後悔しない処分方法6選</a></p>
-<p style="margin:6px 0 0 0;font-size:0.88em;color:#555;">毛皮特化の同じ「捨てる罪悪感ゼロ」アプローチを6選で深掘り解説</p>
-</div>
-
 <!-- ===== H2-4 ===== -->
 <h2>兄弟姉妹と揉めない遺品整理｜2日間タイムライン</h2>
 
