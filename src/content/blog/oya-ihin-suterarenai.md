@@ -49,12 +49,11 @@ related:
 
 <!-- ===== 結論BOX ===== -->
 <div style="background:#F5F0E8;border-left:4px solid #2C5F2D;padding:18px 22px;margin:24px 0;border-radius:4px;">
-<p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 結論</strong></p>
+<p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 解決策（結論）</strong></p>
 <ul style="margin:0;padding-left:1.4em;line-height:1.85;">
-<li><span style="color:#C0392B;">🚨</span> 親の遺品「捨てる or 取っておく」の二択で詰まる人が9割</li>
-<li><span style="color:#27AE60;">✅</span> 業界人が勧めるのは<strong>「捨てる前に査定」</strong>という中間選択肢</li>
-<li><span style="color:#1E3A5F;">🎯</span> 実家から出てくる物は<strong>「売れる8カテゴリ vs 捨てる4品目」</strong>で見分ける</li>
-<li><span style="color:#E67E22;">⚠️</span> 押し買い・悪質業者は<strong>「3つの許可証チェック」</strong>で防げる</li>
+<li><span style="color:#27AE60;">✅</span> 捨てる前にまず<strong>「査定だけ」</strong>受ける（査定料無料の業者で「中間選択肢」を取る）</li>
+<li><span style="color:#27AE60;">✅</span> 売れる物（時計・ブランド等8カテゴリ）と捨てる物（婚礼タンス等4品目）を<strong>先に仕分ける</strong></li>
+<li><span style="color:#27AE60;">✅</span> 多品目同時査定の出張買取で<strong>半日完結</strong>＋3許可証チェックで悪質業者を防ぐ</li>
 </ul>
 </div>
 
@@ -86,11 +85,11 @@ related:
 <h2>親の遺品が捨てられない3つの心理｜あなたは普通です</h2>
 
 <div style="background:#F5F0E8;border-left:4px solid #2C5F2D;padding:15px 20px;margin:20px 0;border-radius:4px;">
-<p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 結論</strong></p>
+<p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 解決策（結論）</strong></p>
 <ul style="margin:0;padding-left:1.4em;line-height:1.85;">
-<li><span style="color:#C0392B;">🌀</span> <strong>罪悪感</strong>：捨てる＝親への裏切りに感じる</li>
-<li><span style="color:#E67E22;">📦</span> <strong>物理的占有</strong>：押し入れ・2階・物置で生活動線を圧迫</li>
-<li><span style="color:#1E3A5F;">❓</span> <strong>情報不足</strong>：売れるか・捨てて違法じゃないか分からない</li>
+<li><span style="color:#27AE60;">✅</span> まず<strong>「自分は普通」</strong>と認識する（罪悪感は誰でも持つ自然な反応）</li>
+<li><span style="color:#27AE60;">✅</span> 「決めない」を選択肢に入れる（<strong>保留箱・査定だけ・写真保存</strong>）</li>
+<li><span style="color:#27AE60;">✅</span> 情報を埋める（次の章で売れる物・選び方・防衛策まで全部分かる）</li>
 </ul>
 </div>
 
@@ -116,11 +115,11 @@ related:
 <h2>実家から出てくる物｜売れる8カテゴリ vs 捨てるしかない4品目</h2>
 
 <div style="background:#F5F0E8;border-left:4px solid #2C5F2D;padding:15px 20px;margin:20px 0;border-radius:4px;">
-<p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 結論</strong></p>
+<p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 解決策（結論）</strong></p>
 <ul style="margin:0;padding-left:1.4em;line-height:1.85;">
-<li><span style="color:#27AE60;">✅</span> 高級腕時計・ブランド品・5年以内家電・骨董・酒類は<strong>確実に売れる</strong></li>
-<li><span style="color:#C0392B;">🚨</span> 婚礼タンス・5年超家電・ノンブランド食器・期限切れ金券は<strong>処分一択</strong></li>
-<li><span style="color:#1E3A5F;">🎯</span> 「高かったから売れる」は<strong>幻想</strong>。今の需要があるかが全て</li>
+<li><span style="color:#27AE60;">✅</span> 時計・ブランド・5年以内家電・骨董・酒類は迷わず<strong>「査定行き」</strong>に分ける</li>
+<li><span style="color:#27AE60;">✅</span> 婚礼タンス・5年超家電・ノンブランド食器・期限切れ金券は<strong>「処分行き」</strong>に即決</li>
+<li><span style="color:#27AE60;">✅</span> 思い出の物は<strong>写真でデジタル保存</strong>（minikura月320円〜・あのころポスト月360円〜）</li>
 </ul>
 </div>
 
@@ -167,12 +166,11 @@ related:
 <h2>業界人が必ず勧める「捨てる前に査定」という中間選択肢</h2>
 
 <div style="background:#F5F0E8;border-left:4px solid #2C5F2D;padding:15px 20px;margin:20px 0;border-radius:4px;">
-<p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 結論</strong></p>
+<p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 解決策（結論）</strong></p>
 <ul style="margin:0;padding-left:1.4em;line-height:1.85;">
-<li><span style="color:#27AE60;">✅</span> 「<strong>捨てる or 取っておく</strong>」の二択ではなく「<strong>査定だけ受ける</strong>」第三の道</li>
-<li><span style="color:#1E3A5F;">🌍</span> 海外バイヤー経由・国内リユース・部品取り——<strong>必要な誰かに届く循環</strong></li>
-<li><span style="color:#C8923A;">💛</span> 金額より「<strong>役に立つ</strong>」が分かるだけで心が圧倒的に軽くなる</li>
-<li><span style="color:#E67E22;">📞</span> 多品目同時査定の出張買取が、実家整理の本命</li>
+<li><span style="color:#27AE60;">✅</span> <strong>「査定だけ受けて、売らない自由」</strong>を行使する（査定料・出張費・キャンセル料すべて無料の業者を選ぶ）</li>
+<li><span style="color:#27AE60;">✅</span> <strong>多品目同時査定の出張買取</strong>を使う（時計・ブランド・骨董・着物まで半日で実家まるごと完了）</li>
+<li><span style="color:#27AE60;">✅</span> 査定額より<strong>「誰の役に立つか」</strong>の説明を聞く（海外バイヤー・国内リユース・部品取り経由）</li>
 </ul>
 </div>
 
@@ -221,11 +219,11 @@ related:
 <h2>兄弟姉妹と揉めない遺品整理｜2日間タイムライン</h2>
 
 <div style="background:#F5F0E8;border-left:4px solid #2C5F2D;padding:15px 20px;margin:20px 0;border-radius:4px;">
-<p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 結論</strong></p>
+<p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 解決策（結論）</strong></p>
 <ul style="margin:0;padding-left:1.4em;line-height:1.85;">
-<li><span style="color:#C0392B;">🚨</span> 単独フライング処分は<strong>修復不可能な関係悪化</strong>を生む</li>
-<li><span style="color:#1E3A5F;">📋</span> 「<strong>保留箱</strong>」と「全員立会確認」の2点で揉め事は9割回避</li>
-<li><span style="color:#27AE60;">✅</span> 写真を兄弟LINEで共有→<strong>判断期限</strong>を切るのが鉄則</li>
+<li><span style="color:#27AE60;">✅</span> 「①使う②保留③手放す」<strong>3つの段ボール</strong>で仕分ける（3秒迷ったら必ず②保留へ）</li>
+<li><span style="color:#27AE60;">✅</span> 保留品はスマホで撮って<strong>兄弟LINEに共有＋判断期限を明示</strong>（「○月○日まで」と切る）</li>
+<li><span style="color:#27AE60;">✅</span> 保留品は<strong>minikura</strong>（月320円〜）or 実家納戸に整然積載で「決断保留」を可視化</li>
 </ul>
 </div>
 
@@ -268,11 +266,11 @@ related:
 <h2>押し買い・悪質業者から身を守る｜3つの許可証チェック法</h2>
 
 <div style="background:#F5F0E8;border-left:4px solid #2C5F2D;padding:15px 20px;margin:20px 0;border-radius:4px;">
-<p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 結論</strong></p>
+<p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 解決策（結論）</strong></p>
 <ul style="margin:0;padding-left:1.4em;line-height:1.85;">
-<li><span style="color:#C0392B;">🚫</span> <strong>一般廃棄物収集運搬業許可</strong>がない業者の回収は<strong>違法</strong></li>
-<li><span style="color:#E67E22;">⚠️</span> 産業廃棄物許可は「事業ごみ専用」で家庭ごみには無効</li>
-<li><span style="color:#1E3A5F;">📞</span> 不審な業者には<strong>「188（消費生活センター）」</strong>即通報</li>
+<li><span style="color:#27AE60;">✅</span> 業者選びは<strong>「一般廃棄物収集運搬業許可」</strong>を必ず確認＋3社相見積もり</li>
+<li><span style="color:#27AE60;">✅</span> 訪問購入は<strong>「家に上げない・録音宣言・クーリングオフ8日」</strong>で被害9割回避</li>
+<li><span style="color:#27AE60;">✅</span> 不審時は<strong>「188」（消費者ホットライン）</strong>へ即電話（最寄りの消費生活センターに繋がる）</li>
 </ul>
 </div>
 
