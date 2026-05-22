@@ -62,9 +62,9 @@ related:
 <div style="background:linear-gradient(135deg,#E8D5B7,#D4BE94);border:2px solid #2C5F2D;border-radius:8px;padding:14px 16px;margin:24px 0;">
 <p style="margin:0 0 10px 0;font-weight:bold;color:#2C5F2D;font-size:1em;">📚 あわせて読みたい</p>
 <div style="display:flex;flex-direction:column;gap:8px;">
-<a href="/kegawa-coat-jidai-okure/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#2C5F2D;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #2C5F2D;">▶ 毛皮コートは本当に時代遅れ？買取8年が教える今のリアル相場</a>
-<a href="/hina-ningyo-shobun/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#2C5F2D;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #2C5F2D;">▶ 雛人形の処分どうしてる？罪悪感ゼロで手放す3つの方法</a>
-<a href="/ihinseiri-trouble/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#2C5F2D;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #2C5F2D;">▶ 遺品整理 業者トラブル7選｜悪質手口と回避術</a>
+<a href="/kegawa-coat-jidai-okure/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#2C5F2D;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #2C5F2D;">▶ 毛皮コートは本当に時代遅れ？元買取業界人がリアルを語る、今の相場と賢い手放し方</a>
+<a href="/hina-ningyo-shobun/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#2C5F2D;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #2C5F2D;">▶ 雛人形の処分、みんなどうしてる？放置はNG！罪悪感ゼロの正解5選</a>
+<a href="/ihinseiri-trouble/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#2C5F2D;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #2C5F2D;">▶ 遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術</a>
 </div>
 </div>
 
@@ -213,7 +213,7 @@ related:
 <!-- ===== 内部リンクカード①：毛皮処分集客 ===== -->
 <div style="background:linear-gradient(135deg,#FFF8E1,#FFE082);border-left:5px solid #C8923A;border-radius:8px;padding:14px 18px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#8B6914;font-size:0.95em;">▶ あわせて読みたい</p>
-<p style="margin:0;"><a href="/kegawa-coat-sutsuru-mae-ni/" style="color:#2C5F2D;font-weight:bold;text-decoration:none;font-size:1.02em;">実家の毛皮コート、捨てる前に。後悔しない処分方法6選</a></p>
+<p style="margin:0;"><a href="/kegawa-coat-sutsuru-mae-ni/" style="color:#2C5F2D;font-weight:bold;text-decoration:none;font-size:1.02em;">捨てる前に。実家の毛皮コート、後悔しない処分方法6選</a></p>
 <p style="margin:6px 0 0 0;font-size:0.88em;color:#555;">毛皮特化の同じ「捨てる罪悪感ゼロ」アプローチを6選で深掘り解説</p>
 </div>
 
@@ -247,11 +247,15 @@ related:
 
 <p>2日間で「②保留」となった品物は、実家の納戸の奥に「保留エリア」として整然と積載するか、minikuraの宅配型トランクルーム（月320円〜・段ボール1箱から）に郵送します。物理的に視界から消える＋スマホで中身を写真確認できる安心感が、親や兄弟の納得度を上げます。</p>
 
+<p>実家整理を進めていると、<strong>父のネクタイピンや母の指輪から思わぬ価値が出るケース</strong>もよくあります。2026年現在、金1g25,000円超の史上最高値圏が続いていて、ご家庭に眠る小さな金製品でも侮れない金額になる可能性があります。</p>
+
+<p>「どうせ全部メッキ（偽物）だし…」と自分で判断して捨ててしまうのが、実は一番もったいないパターンです。<strong>本物かどうかの見分けはプロに丸投げして大丈夫</strong>。査定のついでに玄関に出しておけば、その場で仕分けてもらえます。</p>
+
 <!-- ===== 内部リンクカード②：金製品 ===== -->
 <div style="background:linear-gradient(135deg,#FFF8E1,#FFE082);border-left:5px solid #C8923A;border-radius:8px;padding:14px 18px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#8B6914;font-size:0.95em;">▶ あわせて読みたい</p>
 <p style="margin:0;"><a href="/kin-kaitori-chuiten/" style="color:#2C5F2D;font-weight:bold;text-decoration:none;font-size:1.02em;">親の金製品買取の注意点｜本物の純金を見抜く5つの目安</a></p>
-<p style="margin:6px 0 0 0;font-size:0.88em;color:#555;">2026年金1g25,000円超の史上最高値圏。父のネクタイピン・母の指輪も要チェック</p>
+<p style="margin:6px 0 0 0;font-size:0.88em;color:#555;">プロが現場で使う5つの見分け方をそのまま解説。査定前のセルフチェックに</p>
 </div>
 
 <!-- ===== 業界人ワンポイントBOX（Patek風ティール緑） ===== -->
@@ -305,9 +309,11 @@ related:
 
 <p>万一不審な業者に当たったら、その場で契約を完了させず<strong>「188（消費者ホットライン・いやや）」</strong>へ電話してください。最寄りの消費生活センターに繋がります。</p>
 
-<h3>遺品整理を業者に丸ごと頼みたい場合</h3>
+<h3>自力で限界を感じた時の最終手段｜業者に丸ごと頼む選択肢</h3>
 
-<p>「片付け＋買取＋処分まで全部お願いしたい」というケースには、複数社を一括見積りできるサービスがあります。<strong>遺品整理110番</strong>は全国対応で、業者ごとに料金・サービス内容を比較できる点が特徴。一般廃棄物許可と古物商許可の両方を持つ業者がリストアップされるため、上記のチェックを自分でやらなくても、選定の手間が省けます。</p>
+<p>「価値があるものは福ちゃんに買い取ってもらったけれど、残った婚礼タンスや大量のごみを一気に処分したい」——実家整理の現場でよくあるこの場面では、<strong>片付けと処分を丸ごと頼める一括見積もりサービス</strong>を使うのが正解です。買取→残品処分の2ステップで進めると、無駄な出費もストレスも最小化できます。</p>
+
+<p>その時に頼れるのが<strong>遺品整理110番</strong>。全国対応の複数業者から一括見積りでき、業者ごとに料金・サービス内容を比較できる点が特徴です。一般廃棄物許可と古物商許可の両方を持つ業者がリストアップされるため、上記の3許可証チェックを自分でやらなくても選定の手間が省けます。</p>
 
 <!-- ===== A8カード②：遺品整理110番 ===== -->
 <div style="border:2px solid #2C5F2D;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(44,95,45,0.15);">
