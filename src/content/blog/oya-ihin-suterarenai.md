@@ -30,7 +30,7 @@ related:
 
 <p>結論からお伝えすると、<strong>遺品を「捨てる」か「取っておく」かの二択で考えるのをやめてください</strong>。業界人が勧めるのは「<strong>捨てる前に、まず査定だけ受ける</strong>」という中間選択肢です。査定額の大小ではなく「誰の役に立つか」が見えるだけで、心は驚くほど軽くなります。</p>
 
-<p>この記事では、実家から出てきた物の<strong>「売れる物8カテゴリ vs 捨てるしかない物4品目」</strong>の見分け方、兄弟姉妹と揉めない2日間タイムライン、悪質業者を見抜く3つの許可証チェック法まで、10分で全部お伝えします。</p>
+<p>この記事では、実家から出てきた物の<strong>「売れる物5カテゴリ vs 捨てるしかない物4品目」</strong>の見分け方、兄弟姉妹と揉めない2日間タイムライン、悪質業者を見抜く3つの許可証チェック法まで、10分で全部お伝えします。</p>
 
 <!-- ===== 筆者プロフィール①：リード文末（大280px）===== -->
 <div style="background:#E8D5B7;border-left:5px solid #2C5F2D;border-radius:6px;padding:24px;margin:28px 0;text-align:center;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
@@ -52,7 +52,7 @@ related:
 <p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 解決策（結論）</strong></p>
 <ul style="margin:0;padding-left:1.4em;line-height:1.85;">
 <li><span style="color:#27AE60;">✅</span> 捨てる前にまず<strong>「査定だけ」</strong>受ける（査定料無料の業者で「中間選択肢」を取る）</li>
-<li><span style="color:#27AE60;">✅</span> 売れる物（時計・ブランド等8カテゴリ）と捨てる物（婚礼タンス等4品目）を<strong>先に仕分ける</strong></li>
+<li><span style="color:#27AE60;">✅</span> 売れる物（時計・ブランド等5カテゴリ）と捨てる物（婚礼タンス等4品目）を<strong>先に仕分ける</strong></li>
 <li><span style="color:#27AE60;">✅</span> 多品目同時査定の出張買取で<strong>半日完結</strong>＋3許可証チェックで悪質業者を防ぐ</li>
 </ul>
 </div>
@@ -73,7 +73,7 @@ related:
 <div style="border:3px solid #C8923A;border-radius:0 10px 10px 10px;padding:22px 28px;background:#fff;">
 <ul style="margin:0;padding-left:1.5em;line-height:2;">
 <li>なぜ親の遺品は何年も捨てられないのか、3層の心理構造</li>
-<li>実家から出てくる物の「売れる8カテゴリ vs 捨てるしかない4品目」見分け方</li>
+<li>実家から出てくる物の「売れる5カテゴリ vs 捨てるしかない4品目」見分け方</li>
 <li>業界人が必ず勧める「捨てる前に査定」という中間選択肢の本質</li>
 <li>兄弟姉妹と揉めない遺品整理の2日間タイムライン</li>
 <li>押し買い・悪質業者を見抜く3つの許可証チェック法</li>
@@ -112,7 +112,7 @@ related:
 <p>この3層が重なって決断が凍りつく。怠惰ではなく、判断材料がないだけです。次の章では「実家から出てきた物が売れるか、捨てるしかないか」を一覧で見ていきます。</p>
 
 <!-- ===== H2-2 ===== -->
-<h2>実家から出てくる物｜売れる8カテゴリ vs 捨てるしかない4品目</h2>
+<h2>実家から出てくる物｜売れる5カテゴリ vs 捨てるしかない4品目</h2>
 
 <div style="background:#F5F0E8;border-left:4px solid #2C5F2D;padding:15px 20px;margin:20px 0;border-radius:4px;">
 <p style="margin:0 0 8px 0;"><strong style="color:#2C5F2D;">💡 解決策（結論）</strong></p>
@@ -123,27 +123,23 @@ related:
 </ul>
 </div>
 
-<p>実家整理の現場で出てくる物は、業界視点で「売れる物」と「処分するしかない物」に明確に分かれます。まず売れる8カテゴリを相場とともに見ていきます。</p>
+<p>実家整理の現場で出てくる物は、業界視点で「売れる物」と「処分するしかない物」に明確に分かれます。まず売れる5カテゴリを相場とともに見ていきます。</p>
 
-<h3>売れる物8カテゴリと買取相場の目安</h3>
+<h3>売れる物5カテゴリと買取相場の目安</h3>
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0;">
 <thead>
 <tr style="background:#2C5F2D;color:#fff;">
-<th style="padding:10px;border:1px solid #ddd;text-align:left;">カテゴリ</th>
-<th style="padding:10px;border:1px solid #ddd;text-align:left;">主な対象</th>
+<th style="padding:10px;border:1px solid #ddd;text-align:left;">カテゴリ（主な対象）</th>
 <th style="padding:10px;border:1px solid #ddd;text-align:right;">相場目安</th>
 </tr>
 </thead>
 <tbody>
-<tr><td style="padding:10px;border:1px solid #ddd;">①高級腕時計</td><td style="padding:10px;border:1px solid #ddd;">ロレックス・オメガ等</td><td style="padding:10px;border:1px solid #ddd;text-align:right;">4,000円〜40万円超</td></tr>
-<tr style="background:#f8f9fa;"><td style="padding:10px;border:1px solid #ddd;">②高級ブランド品</td><td style="padding:10px;border:1px solid #ddd;">シャネル・ヴィトン・グッチ</td><td style="padding:10px;border:1px solid #ddd;text-align:right;">3,500円〜3.5万円超</td></tr>
-<tr><td style="padding:10px;border:1px solid #ddd;">③5年以内家電</td><td style="padding:10px;border:1px solid #ddd;">エアコン・洗濯機・テレビ・空気清浄機</td><td style="padding:10px;border:1px solid #ddd;text-align:right;">5,000円〜2.4万円</td></tr>
-<tr style="background:#f8f9fa;"><td style="padding:10px;border:1px solid #ddd;">④ブランド家具</td><td style="padding:10px;border:1px solid #ddd;">カリモク・天童木工・飛騨産業</td><td style="padding:10px;border:1px solid #ddd;text-align:right;">1,000円〜1.7万円</td></tr>
-<tr><td style="padding:10px;border:1px solid #ddd;">⑤コレクション系</td><td style="padding:10px;border:1px solid #ddd;">ヴィンテージランタン・特撮ソフビ・高級釣り竿</td><td style="padding:10px;border:1px solid #ddd;text-align:right;">5,000円〜15万円超</td></tr>
-<tr style="background:#f8f9fa;"><td style="padding:10px;border:1px solid #ddd;">⑥美術品・骨董品</td><td style="padding:10px;border:1px solid #ddd;">掛軸・茶道具・伝統工芸品・作家陶器</td><td style="padding:10px;border:1px solid #ddd;text-align:right;">数千円〜鑑定額次第</td></tr>
-<tr><td style="padding:10px;border:1px solid #ddd;">⑦未開封の贈答品・金券</td><td style="padding:10px;border:1px solid #ddd;">箱入りブランド食器・今治タオル・金券</td><td style="padding:10px;border:1px solid #ddd;text-align:right;">500円〜2,000円</td></tr>
-<tr style="background:#f8f9fa;"><td style="padding:10px;border:1px solid #ddd;">⑧未開封酒類</td><td style="padding:10px;border:1px solid #ddd;">ウイスキー・ブランデー</td><td style="padding:10px;border:1px solid #ddd;text-align:right;">5,000円〜2万円</td></tr>
+<tr><td style="padding:10px;border:1px solid #ddd;">①<strong>高級腕時計</strong>（ロレックス・オメガ等）</td><td style="padding:10px;border:1px solid #ddd;text-align:right;font-weight:bold;color:#C0392B;">4,000円〜40万円超</td></tr>
+<tr style="background:#f8f9fa;"><td style="padding:10px;border:1px solid #ddd;">②<strong>高級ブランド品</strong>（シャネル・ヴィトン・グッチ）</td><td style="padding:10px;border:1px solid #ddd;text-align:right;font-weight:bold;color:#C0392B;">3,500円〜3.5万円超</td></tr>
+<tr><td style="padding:10px;border:1px solid #ddd;">③<strong>5年以内の家電</strong>（エアコン・洗濯機・テレビ・空気清浄機）</td><td style="padding:10px;border:1px solid #ddd;text-align:right;font-weight:bold;color:#C0392B;">5,000円〜2.4万円</td></tr>
+<tr style="background:#f8f9fa;"><td style="padding:10px;border:1px solid #ddd;">④<strong>骨董・コレクション系</strong>（掛軸・茶道具・ヴィンテージランタン・釣り竿）</td><td style="padding:10px;border:1px solid #ddd;text-align:right;font-weight:bold;color:#C0392B;">数千円〜15万円超</td></tr>
+<tr><td style="padding:10px;border:1px solid #ddd;">⑤<strong>未開封の贈答品・酒類</strong>（ブランド食器・タオル・ウイスキー）</td><td style="padding:10px;border:1px solid #ddd;text-align:right;font-weight:bold;color:#C0392B;">500円〜2万円</td></tr>
 </tbody>
 </table>
 
@@ -197,6 +193,12 @@ related:
 </div>
 
 <h3>「査定額の大小」より「誰の役に立つか」が分かる安心感</h3>
+
+<p>もう一つ、業界8年で忘れられない依頼者がいます。<strong>終末期のがんで余命を告げられた方</strong>からのご依頼でした。</p>
+
+<p>「自分が動けるうちに、家族のために少しでも荷物を減らしておきたい」——その一言で、依頼者は丁寧に整理した品々をテーブルに並べました。査定中、私は不覚にも涙が出そうになりました。査定額の高低ではなく、依頼者が「<strong>家族のために</strong>」と動いている姿そのものに胸を打たれたからです。</p>
+
+<p>物を手放すことは、時に「最後の優しさ」になる——そう教わった一件でした。<strong>「捨てる」ではなく「家族のために整理する」</strong>と捉え直すだけで、心の重みは大きく変わります。</p>
 
 <p>査定の現場でよく見るのは、こんな光景です。実家から運び出した遺品をテーブルに並べ、査定士が一つ一つ説明する。「これは海外バイヤー経由で東欧の寒冷地に。これは国内で愛好家コレクターに。これは部品取りでリビルド業者に」——。総額3,500円の査定でも、依頼者の方は涙を流して「ありがとうございました、これで母も喜びます」と帰られます。</p>
 
@@ -363,7 +365,7 @@ related:
 <div style="background:#F5F0E8;border-left:4px solid #2C5F2D;padding:18px 22px;margin:20px 0;border-radius:4px;">
 <ul style="margin:0;padding-left:1.4em;line-height:1.95;">
 <li><span style="color:#27AE60;">✅</span> 二択をやめて<strong>「捨てる前に査定」中間選択肢</strong>を取る</li>
-<li><span style="color:#1E3A5F;">🎯</span> 売れる8カテゴリ（時計・ブランド・5年以内家電・骨董・酒類等）と捨てる4品目（婚礼タンス・5年超家電・ノンブランド食器・期限切れ金券）を見分ける</li>
+<li><span style="color:#1E3A5F;">🎯</span> 売れる5カテゴリ（時計・ブランド・5年以内家電・骨董・酒類等）と捨てる4品目（婚礼タンス・5年超家電・ノンブランド食器・期限切れ金券）を見分ける</li>
 <li><span style="color:#C0392B;">🚨</span> 兄弟と揉めないため<strong>「保留箱」と全員立会確認</strong>を徹底</li>
 <li><span style="color:#E67E22;">🛡️</span> 押し買い対策は「家に上げない・録音宣言・クーリングオフ8日」</li>
 <li><span style="color:#C8923A;">💛</span> 金額より「<strong>誰の役に立つか</strong>」が見える方が、心は圧倒的に軽くなる</li>
