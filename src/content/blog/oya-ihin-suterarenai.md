@@ -381,11 +381,12 @@ related:
 </div>
 
 <!-- ===== 筆者プロフィール②：記事末尾（小130px） ===== -->
-<div style="background:#E8D5B7;border-left:5px solid #2C5F2D;border-radius:6px;padding:20px;margin:28px 0;display:flex;flex-wrap:wrap;align-items:center;gap:18px;">
+<div style="background:#E8D5B7;border-left:5px solid #2C5F2D;border-radius:6px;padding:22px 24px;margin:28px 0;display:flex;flex-wrap:wrap;align-items:center;gap:22px;">
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;" />
-<div>
-<p style="margin:0 0 6px 0;font-weight:bold;font-size:1.05em;">筆者　ハル</p>
-<p style="margin:0;font-size:0.92em;color:#555;line-height:1.7;">買取業界の営業として複数社で計8年勤務。累計査定3万点超。<strong>古物商許可保有</strong>。親の遺品・実家整理で詰まる読者に、業界の裏側から本音を届けます。</p>
+<div style="flex:1;min-width:240px;">
+<p style="margin:0 0 8px 0;font-weight:bold;font-size:1.1em;color:#1E3A5F;">筆者　ハル</p>
+<p style="margin:0 0 10px 0;font-size:0.95em;color:#333;line-height:1.8;">買取業界の営業として複数社で<strong>計8年勤務</strong>。<strong>累計査定3万点超</strong>。毛皮・着物・ブランド品・骨董・貴金属まで幅広く査定し、廃品回収業界の実務経験も持つ。<strong>古物商許可保有</strong>。</p>
+<p style="margin:0;font-size:0.92em;color:#555;line-height:1.75;">親の遺品・実家整理で詰まる読者に、表に出ない業界の裏側と現場の本音をお届けします。「捨てる前にできること」を、3万点の査定経験から徹底解説。</p>
 </div>
 </div>
 
