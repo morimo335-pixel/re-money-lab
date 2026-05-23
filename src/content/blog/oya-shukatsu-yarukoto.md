@@ -268,14 +268,22 @@ related:
 
 <p>10カテゴリそれぞれを別々の業者に依頼すると、10日間スケジュールを抑える必要があります。買取8年でおすすめするのは、<strong>多品目を1回でまとめて査定できる出張買取</strong>を1日入れること。査定員が家に来て、その場で「これは売れます」「これは値段つきません」を一気に判別してくれます。</p>
 
-<!-- A8 mybest風カード：福ちゃん総合（上ミニCTA）-->
-<div style="border:2px solid #1E3A5F;border-radius:10px;padding:0;margin:28px 0;overflow:hidden;box-shadow:0 4px 10px rgba(30,58,95,0.15);">
-<div style="background:linear-gradient(135deg,#1E3A5F,#2C5282);color:#fff;padding:12px 18px;font-weight:bold;font-size:1.02em;">🌟 多品目同時査定No.1｜福ちゃん総合出張買取</div>
-<div style="padding:16px 18px;background:#fff;">
-<p style="margin:0 0 12px 0;font-size:0.95em;line-height:1.7;">買取業界14品目すべてに対応する出張買取の老舗。<strong>査定料・出張料・キャンセル料すべて無料</strong>、女性査定員の指定も可能で、初めての方も安心して呼べます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 福ちゃんで無料査定を申し込む</a>
+<!-- A8カード：福ちゃん総合出張買取（上ミニ・正規フォーマット）-->
+<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 業界人イチオシ：福ちゃん総合出張買取</div>
+<div style="padding:20px;">
+<p style="margin:0 0 12px 0;">遺品14品目に対応する総合査定。腕時計・ブランド・骨董・着物・毛皮・貴金属・酒類まで一度に査定可能。<strong>「捨てる以外の選択肢を選んだ」という納得感</strong>が得られる業者です。</p>
+<ul style="margin:0 0 16px 0;padding-left:1.5em;">
+<li>査定料・出張費・キャンセル料すべて無料</li>
+<li>古物商許可保有・全国対応・LINE査定可</li>
+<li>クーリングオフ8日適用・押し買い行為ゼロ</li>
+</ul>
+<div style="text-align:center;margin:18px 0 0 0;">
+<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 女性査定員 指名OK ／</span>
+</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ まずは無料で価値だけ聞いてみる</a>
+<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">fuku-chan.jp</a></p>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" alt="">
-<p style="margin:8px 0 0 0;font-size:0.8em;color:#888;text-align:center;">※当リンクはアフィリエイト広告です</p>
 </div>
 </div>
 
@@ -359,24 +367,22 @@ related:
 
 <p>業界14品目（着物・骨董・お酒・カメラ・楽器・レコード・食器・切手・古銭・毛皮・金・ブランド等）に対応する<strong>福ちゃん</strong>なら、実家の押入れから出てくる物のほぼすべてに値段をつけてくれます。出張査定は完全無料、女性査定員も指定可能で、初めての方でも安心して呼べる業者です。</p>
 
-<!-- A8 mybest風カード：福ちゃん総合（中フルCTA）-->
-<div style="border:2px solid #1E3A5F;border-radius:10px;padding:0;margin:32px 0;overflow:hidden;box-shadow:0 6px 14px rgba(30,58,95,0.18);">
-<div style="background:linear-gradient(135deg,#1E3A5F,#2C5282);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.08em;">🌟 親の終活｜業界人イチオシ｜福ちゃん総合出張買取</div>
-<div style="padding:20px;background:#fff;">
-<table style="width:100%;border-collapse:collapse;font-size:0.92em;margin-bottom:14px;">
-<tr><td style="padding:8px 0;border-bottom:1px solid #EEE;color:#888;width:35%;">対応品目</td><td style="padding:8px 0;border-bottom:1px solid #EEE;">14品目（着物・骨董・お酒・楽器・カメラ・食器・切手・古銭・毛皮・金・ブランド等）</td></tr>
-<tr><td style="padding:8px 0;border-bottom:1px solid #EEE;color:#888;">出張エリア</td><td style="padding:8px 0;border-bottom:1px solid #EEE;">全国対応</td></tr>
-<tr><td style="padding:8px 0;border-bottom:1px solid #EEE;color:#888;">手数料</td><td style="padding:8px 0;border-bottom:1px solid #EEE;"><strong style="color:#C0392B;">査定料・出張料・キャンセル料すべて無料</strong></td></tr>
-<tr><td style="padding:8px 0;border-bottom:1px solid #EEE;color:#888;">女性査定員</td><td style="padding:8px 0;border-bottom:1px solid #EEE;">指定可能</td></tr>
-<tr><td style="padding:8px 0;color:#888;">公式実績</td><td style="padding:8px 0;">買取業界14品目で長期提携実績、査定士はマナー研修・専門研修済</td></tr>
-</table>
+<!-- A8カード：福ちゃん総合出張買取（中フル・正規フォーマット）-->
+<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 業界人イチオシ：福ちゃん総合出張買取</div>
+<div style="padding:20px;">
+<p style="margin:0 0 12px 0;">遺品14品目に対応する総合査定。腕時計・ブランド・骨董・着物・毛皮・貴金属・酒類まで一度に査定可能。<strong>「捨てる以外の選択肢を選んだ」という納得感</strong>が得られる業者です。</p>
+<ul style="margin:0 0 16px 0;padding-left:1.5em;">
+<li>査定料・出張費・キャンセル料すべて無料</li>
+<li>古物商許可保有・全国対応・LINE査定可</li>
+<li>クーリングオフ8日適用・押し買い行為ゼロ</li>
+</ul>
 <div style="text-align:center;margin:18px 0 0 0;">
 <span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 女性査定員 指名OK ／</span>
 </div>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:18px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;margin-top:10px;box-shadow:0 6px 14px rgba(26,188,156,0.42);">▶ 公式サイトで無料査定を申し込む</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ まずは無料で価値だけ聞いてみる</a>
 <p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">fuku-chan.jp</a></p>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" alt="">
-<p style="margin:10px 0 0 0;font-size:0.8em;color:#888;text-align:center;">※当リンクはアフィリエイト広告です</p>
 </div>
 </div>
 
@@ -439,18 +445,22 @@ related:
 <li><strong>適格請求書発行事業者登録</strong>（インボイス対応・信頼できる正規業者の証）</li>
 </ul>
 
-<!-- A8 mybest風カード：遺品整理110番（中CTA）-->
-<div style="border:2px solid #1E3A5F;border-radius:10px;padding:0;margin:32px 0;overflow:hidden;box-shadow:0 4px 10px rgba(30,58,95,0.15);">
-<div style="background:linear-gradient(135deg,#1E3A5F,#2C5282);color:#fff;padding:12px 18px;font-weight:bold;font-size:1.02em;">🏠 実家まるごと整理ならココ｜遺品整理110番（生前整理コース対応）</div>
-<div style="padding:16px 18px;background:#fff;">
-<p style="margin:0 0 12px 0;font-size:0.95em;line-height:1.7;"><strong>生前整理コース</strong>にも対応する全国対応業者。実家まるごとの片付け＋買取＋処分を1社で完結。<strong>許可証完備の正規業者</strong>で、子世代が遠方に住んでいても安心して任せられます。</p>
+<!-- A8カード：遺品整理110番（正規フォーマット）-->
+<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 自力で限界を感じた時：遺品整理110番</div>
+<div style="padding:20px;">
+<p style="margin:0 0 12px 0;">遺品整理を全国対応の複数業者から一括見積り。買取と処分を同時に依頼でき、許可証を持つ業者だけが登録されているので<strong>選定の手間が省けます</strong>。</p>
+<ul style="margin:0 0 16px 0;padding-left:1.5em;">
+<li>無料見積り・全国24時間対応</li>
+<li>一般廃棄物許可・古物商許可保有業者のみ登録</li>
+<li>買取と処分をまとめて依頼OK</li>
+</ul>
 <div style="text-align:center;margin:18px 0 0 0;">
 <span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 全国24時間 無料対応 ／</span>
 </div>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 遺品整理110番で無料見積もりを依頼</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 無料で一括見積もりを取る</a>
 <p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">遺品整理110番</a></p>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" alt="">
-<p style="margin:8px 0 0 0;font-size:0.8em;color:#888;text-align:center;">※当リンクはアフィリエイト広告です</p>
 </div>
 </div>
 
@@ -518,18 +528,17 @@ related:
 <p style="margin:0 0 8px 0;"><strong style="color:#C8923A;">💡 最終結論：</strong>親の終活で大事なのは、<strong>「物の整理」を順番を守って進めること</strong>です。書類→写真→衣類→家具→思い出品の5ステップを守り、売れやすい品は<strong>多品目同時査定の出張買取でまとめて1日完結</strong>。親が元気なうちに「捨てる前にまず査定」を1日入れておくだけで、その後の家族の負担は大きく変わります。</p>
 </div>
 
-<!-- ===== 下CTA：福ちゃん総合 ===== -->
-<div style="border:2px solid #1E3A5F;border-radius:10px;padding:0;margin:32px 0;overflow:hidden;box-shadow:0 6px 14px rgba(30,58,95,0.18);">
-<div style="background:linear-gradient(135deg,#1E3A5F,#2C5282);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.08em;">🌟 親の終活｜まずはここから｜福ちゃん総合出張買取</div>
-<div style="padding:20px;background:#fff;">
-<p style="margin:0 0 14px 0;font-size:0.96em;line-height:1.75;">業界14品目対応で、実家から出てくるほぼ全カテゴリを<strong>1日まとめて査定</strong>。査定料・出張料・キャンセル料すべて無料、女性査定員指定可。<strong>呼ぶリスクゼロ</strong>で「捨てる前にまず査定」が試せます。</p>
+<!-- A8カード：福ちゃん総合出張買取（下フル・正規フォーマット）-->
+<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 まずは無料査定で価値を知る</div>
+<div style="padding:20px;">
+<p style="margin:0 0 12px 0;">福ちゃん総合出張買取は<strong>遺品14品目を一度に査定</strong>。査定料・出張費・キャンセル料すべて無料。査定だけ受けて売らない選択も自由です。</p>
 <div style="text-align:center;margin:18px 0 0 0;">
 <span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 女性査定員 指名OK ／</span>
 </div>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:18px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;margin-top:10px;box-shadow:0 6px 14px rgba(26,188,156,0.42);">▶ 福ちゃんで無料査定を申し込む</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ まずは無料で価値だけ聞いてみる</a>
 <p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">fuku-chan.jp</a></p>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" alt="">
-<p style="margin:10px 0 0 0;font-size:0.8em;color:#888;text-align:center;">※当リンクはアフィリエイト広告です</p>
 </div>
 </div>
 
