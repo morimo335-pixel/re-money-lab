@@ -4,10 +4,10 @@ description: '金が1g 29,000円超の今、買取で損したくない方へ。
 pubDate: '2026-05-03'
 heroImage: '../../assets/blog/kin-kaitori-chuiten.jpg'
 related:
+  - oya-shukatsu-yarukoto
   - ng-actions-5
   - raise-appraisal
   - ihinseiri-trouble
-  - kitte-sheet-kaitori
   - brandoff-evaluation
 ---
 

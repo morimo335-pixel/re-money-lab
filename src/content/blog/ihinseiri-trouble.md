@@ -4,9 +4,9 @@ description: '遺品整理 業者トラブル7選｜買取営業8年が暴く悪
 pubDate: '2026-04-30'
 heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 related:
+  - oya-shukatsu-yarukoto
   - oya-ihin-suterarenai
   - ng-actions-5
-  - sell-unwanted-items
   - fukuchan-shucchou-kaitori
   - furui-record-shobun
 ---
