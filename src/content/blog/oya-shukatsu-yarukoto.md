@@ -273,7 +273,7 @@ related:
 <div style="background:linear-gradient(135deg,#1E3A5F,#2C5282);color:#fff;padding:12px 18px;font-weight:bold;font-size:1.02em;">🌟 多品目同時査定No.1｜福ちゃん総合出張買取</div>
 <div style="padding:16px 18px;background:#fff;">
 <p style="margin:0 0 12px 0;font-size:0.95em;line-height:1.7;">買取業界14品目すべてに対応する出張買取の老舗。<strong>査定料・出張料・キャンセル料すべて無料</strong>、女性査定員の指定も可能で、初めての方も安心して呼べます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#E8B658,#C8923A);color:#fff;text-align:center;padding:14px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;box-shadow:0 4px 10px rgba(200,146,58,0.35);">▶ 福ちゃんで無料査定を申し込む</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 福ちゃんで無料査定を申し込む</a>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" alt="">
 <p style="margin:8px 0 0 0;font-size:0.8em;color:#888;text-align:center;">※当リンクはアフィリエイト広告です</p>
 </div>
@@ -370,7 +370,7 @@ related:
 <tr><td style="padding:8px 0;border-bottom:1px solid #EEE;color:#888;">女性査定員</td><td style="padding:8px 0;border-bottom:1px solid #EEE;">指定可能</td></tr>
 <tr><td style="padding:8px 0;color:#888;">公式実績</td><td style="padding:8px 0;">買取業界14品目で長期提携実績、査定士はマナー研修・専門研修済</td></tr>
 </table>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#E8B658,#C8923A);color:#fff;text-align:center;padding:18px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 6px 14px rgba(200,146,58,0.4);">▶ 公式サイトで無料査定を申し込む</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:18px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;margin-top:10px;box-shadow:0 6px 14px rgba(26,188,156,0.42);">▶ 公式サイトで無料査定を申し込む</a>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" alt="">
 <p style="margin:10px 0 0 0;font-size:0.8em;color:#888;text-align:center;">※当リンクはアフィリエイト広告です</p>
 </div>
@@ -440,7 +440,7 @@ related:
 <div style="background:linear-gradient(135deg,#1E3A5F,#2C5282);color:#fff;padding:12px 18px;font-weight:bold;font-size:1.02em;">🏠 実家まるごと整理ならココ｜遺品整理110番（生前整理コース対応）</div>
 <div style="padding:16px 18px;background:#fff;">
 <p style="margin:0 0 12px 0;font-size:0.95em;line-height:1.7;"><strong>生前整理コース</strong>にも対応する全国対応業者。実家まるごとの片付け＋買取＋処分を1社で完結。<strong>許可証完備の正規業者</strong>で、子世代が遠方に住んでいても安心して任せられます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#E8B658,#C8923A);color:#fff;text-align:center;padding:14px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;box-shadow:0 4px 10px rgba(200,146,58,0.35);">▶ 遺品整理110番で無料見積もりを依頼</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 遺品整理110番で無料見積もりを依頼</a>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" alt="">
 <p style="margin:8px 0 0 0;font-size:0.8em;color:#888;text-align:center;">※当リンクはアフィリエイト広告です</p>
 </div>
@@ -515,7 +515,7 @@ related:
 <div style="background:linear-gradient(135deg,#1E3A5F,#2C5282);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.08em;">🌟 親の終活｜まずはここから｜福ちゃん総合出張買取</div>
 <div style="padding:20px;background:#fff;">
 <p style="margin:0 0 14px 0;font-size:0.96em;line-height:1.75;">業界14品目対応で、実家から出てくるほぼ全カテゴリを<strong>1日まとめて査定</strong>。査定料・出張料・キャンセル料すべて無料、女性査定員指定可。<strong>呼ぶリスクゼロ</strong>で「捨てる前にまず査定」が試せます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#E8B658,#C8923A);color:#fff;text-align:center;padding:18px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 6px 14px rgba(200,146,58,0.4);">▶ 福ちゃんで無料査定を申し込む</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:18px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;margin-top:10px;box-shadow:0 6px 14px rgba(26,188,156,0.42);">▶ 福ちゃんで無料査定を申し込む</a>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" alt="">
 <p style="margin:10px 0 0 0;font-size:0.8em;color:#888;text-align:center;">※当リンクはアフィリエイト広告です</p>
 </div>
