@@ -61,7 +61,7 @@ related:
 <div style="background:linear-gradient(135deg,#E8D5B7,#D4BE94);border:2px solid #2C5F2D;border-radius:8px;padding:14px 16px;margin:24px 0;">
 <p style="margin:0 0 10px 0;font-weight:bold;color:#2C5F2D;font-size:1em;">📚 あわせて読みたい</p>
 <div style="display:flex;flex-direction:column;gap:8px;">
-<a href="/kegawa-coat-jidai-okure/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#2C5F2D;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #2C5F2D;">▶ 毛皮コートは本当に時代遅れ？元買取業界人がリアルを語る、今の相場と賢い手放し方</a>
+<a href="/kegawa-coat-jidai-okure/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#2C5F2D;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #2C5F2D;">▶ 毛皮コートは本当に時代遅れ？買取業界人がリアルを語る、今の相場と賢い手放し方</a>
 <a href="/hina-ningyo-shobun/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#2C5F2D;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #2C5F2D;">▶ 雛人形の処分、みんなどうしてる？放置はNG！罪悪感ゼロの正解5選</a>
 <a href="/ihinseiri-trouble/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#2C5F2D;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #2C5F2D;">▶ 遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術</a>
 </div>
