@@ -4,9 +4,9 @@ description: '親の終活でやることは「物の整理」が大きな比重
 pubDate: '2026-05-23'
 heroImage: '../../assets/blog/oya-shukatsu-yarukoto.jpg'
 related:
+  - gijikka-mono-ooi-komaru
   - oya-ihin-suterarenai
   - ihinseiri-trouble
-  - kin-kaitori-chuiten
 ---
 
 <div class="article-content">

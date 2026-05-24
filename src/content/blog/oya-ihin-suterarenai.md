@@ -4,9 +4,9 @@ description: '親の遺品が何年も捨てられない…罪悪感で動けな
 pubDate: '2026-05-22'
 heroImage: '../../assets/blog/oya-ihin-suterarenai.jpg'
 related:
+  - gijikka-mono-ooi-komaru
   - oya-shukatsu-yarukoto
   - ihinseiri-trouble
-  - kegawa-coat-sutsuru-mae-ni
 ---
 
 <div class="article-content">
