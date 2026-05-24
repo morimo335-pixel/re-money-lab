@@ -1,0 +1,37 @@
+Create a 16:9 horizontal blog thumbnail image (1376x768 pixels) in
+premium Japanese women's lifestyle magazine cover style (LEE / VERY).
+FONT: All Japanese text in a HEAVY, BLACK-WEIGHT Japanese MINCHO SERIF
+typeface (明朝体, like Noto Serif JP Black). NOT gothic, NOT sans-serif.
+
+BACKGROUND: One single cream white color (#FFFDF7) covering the ENTIRE image.
+NO panels, NO color blocks, NO gradients, NO room/desk/wood scenes.
+
+LEFT SIDE (28%) — Worried Daughter-in-Law (Yome): Japanese woman early 40s,
+half-body knees-up, cream-beige knit cardigan, loose bun hair, anxious troubled
+expression, holding a stack of OLD CREAM-COLORED PORCELAIN PLATES (no brand logos)
+and a plain CREAM LEATHER HANDBAG in her arms. Slightly LARGER presence than usual,
+but NOT overlapping with center text. NO white outline, NO sticker effect.
+
+CENTER (44%) — TEXT AREA:
+[TOP] Yellow ribbon banner #FFEB3B, STRAIGHT HORIZONTAL (NOT tilted), bold red
+  Mincho text 「シャネル ¥320,000?!」 in vivid red #E74C3C
+[MAIN] 2 lines bold large Mincho serif (heavy black weight):
+  Line 1: 「実家ものが多すぎ」 in vivid rose pink #E8769C (bright, NOT dark)
+  Line 2: 「捨てる前にコレ」 in vivid emerald green #00A878 (bright, NOT dark)
+[GOLD LINE] Thin horizontal line #D4A574
+[SUBTITLE] 1 line: 「買取8年が暴く 売れやすい商品5品目」 in dark charcoal #2C3E50
+
+RIGHT SIDE (28%) — Smiling Female Expert: Japanese woman early 30s,
+half-body knees-up, navy blouse, half-up dark hair, warm reassuring smile,
+holding a CLIPBOARD with appraisal documents forward toward the viewer
+(suggesting "let the professional handle it").
+
+CRITICAL CONSTRAINTS:
+- BOTH PEOPLE MUST BE THE EXACT SAME SIZE AND HEIGHT, head tops aligned at
+  the same horizontal level, knee-cut at the same horizontal level
+- All Japanese text PERFECTLY RENDERED in Mincho serif, no garbled characters
+- Text must NOT overlap faces or bodies
+- People fully visible knees-up, no cropping
+- NO brand logos, NO monogram patterns, NO Chanel CC, NO Louis Vuitton, NO Gucci
+- NO warning icons (⚠️🚫$￥), NO decorative emojis baked into the image
+- Photo-realistic style, aspect ratio strictly 16:9
