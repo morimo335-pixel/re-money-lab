@@ -62,7 +62,7 @@ related:
 <div style="background:linear-gradient(135deg,#FFF8E1,#FFE082);border:2px solid #FFB300;border-radius:8px;padding:14px 16px;margin:24px 0;">
 <p style="margin:0 0 10px 0;font-weight:bold;color:#E65100;font-size:1em;">📚 あわせて読みたい</p>
 <div style="display:flex;flex-direction:column;gap:8px;">
-<a href="/kegawa-coat-jidai-okure/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#1E3A5F;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #C8923A;">▶ 毛皮コートは本当に時代遅れ？元買取8年が教える今のリアル相場</a>
+<a href="/kegawa-coat-jidai-okure/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#1E3A5F;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #C8923A;">▶ 毛皮コートは本当に時代遅れ？買取8年が教える今のリアル相場</a>
 <a href="/ihinseiri-trouble/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#1E3A5F;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #C8923A;">▶ 遺品整理 業者トラブル7選｜悪質手口と回避術</a>
 <a href="/takuhai-kaitori-trouble/" style="background:#fff;border-radius:5px;padding:8px 12px;text-decoration:none;color:#1E3A5F;font-size:0.92em;font-weight:600;display:block;border-left:3px solid #C8923A;">▶ 出張買取トラブル｜押し買い被害を防ぐ業界人の対策</a>
 </div>
