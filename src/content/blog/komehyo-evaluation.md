@@ -212,7 +212,24 @@ related:
 </tr>
 </tbody>
 </table>
-<div style="border:2px solid #1E3A5F;border-radius:12px;overflow:hidden;margin:32px 0;background:#fff;box-shadow:0 4px 16px rgba(0,0,0,0.08);"><div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 24px;display:flex;justify-content:space-between;align-items:center;"><span style="font-weight:bold;font-size:0.95em;">🎯 自分の品が買取対象か確認したい方へ</span><span style="font-size:0.75em;background:rgba(255,255,255,0.2);padding:3px 10px;border-radius:12px;">PR</span></div><div style="padding:24px 28px;"><a class="gold-cta-shine" href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9H5F6I+3VEM+686ZM" rel="sponsored nofollow noopener" target="_blank" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:20px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);margin:0;">対象ジャンルを確認する　▶</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B1SPX+9H5F6I+3VEM+686ZM" alt="" style="display:block;margin:0;"></div></div>
+<!-- ===== A8カード：コメ兵 買取対象確認（5/23確定フォーマット）===== -->
+<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🎯 自分の品が買取対象か確認したい方へ</div>
+<div style="padding:20px;">
+<p style="margin:0 0 12px 0;">コメ兵宅配買取の<strong>対象ジャンルは公式ページで一覧確認</strong>できます。ブランドバッグ・貴金属・時計・宝飾品など、まずは「自分の品が査定対象か」を1分で確認可能。</p>
+<ul style="margin:0 0 16px 0;padding-left:1.5em;">
+<li>対象ジャンル一覧を公式LPで即確認</li>
+<li>申込み前のミスマッチ防止</li>
+<li>百貨店外商の蔵出し受け皿として実績豊富</li>
+</ul>
+<div style="text-align:center;margin:18px 0 0 0;">
+<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 対象品の確認 1分で完了 ／</span>
+</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9H5F6I+3VEM+686ZM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 対象ジャンルを確認する</a>
+<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9H5F6I+3VEM+686ZM" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">komehyo.jp</a></p>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B1SPX+9H5F6I+3VEM+686ZM" alt="">
+</div>
+</div>
 <hr />
 <h2>H2-8：まとめ｜「タンスに眠らせるほど価値が下がる」前に動く</h2>
 <h3>📌 この記事の要点（保存版）</h3>
