@@ -307,7 +307,11 @@ related:
 <tr><td style="padding:8px 0;border-bottom:1px solid #EEE;color:#888;">対応品目</td><td style="padding:8px 0;border-bottom:1px solid #EEE;">金・宝石・ブランド・時計・カメラ・楽器</td></tr>
 <tr><td style="padding:8px 0;color:#888;">こんな人に</td><td style="padding:8px 0;">刻印のない金や、上場企業の安心感を求める人</td></tr>
 </table>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9H5F6I+3VEM+686ZM" rel="sponsored nofollow" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ コメ兵で無料宅配査定する</a>
+<div style="text-align:center;margin:18px 0 0 0;">
+<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 刻印なし金もX線検査でOK ／</span>
+</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9H5F6I+3VEM+686ZM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ コメ兵で無料宅配査定する</a>
+<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9H5F6I+3VEM+686ZM" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">komehyo.jp</a></p>
 <img src="https://www11.a8.net/0.gif?a8mat=4B1SPX+9H5F6I+3VEM+686ZM" alt="" width="1" height="1" style="border:0;" />
 </div>
 </div>

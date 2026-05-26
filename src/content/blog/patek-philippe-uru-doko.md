@@ -239,7 +239,11 @@ H2-4：3社比較（リベ大流7要素）
 <li>宅配買取で<strong>最大3,000万円の運送保険</strong>完備・全国対応</li>
 <li>最短翌営業日入金・減額時の説明が論理的で納得感が高い</li>
 </ul>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">宅配買取・無料査定はこちら（PR）　▶</a>
+<div style="text-align:center;margin:18px 0 0 0;">
+<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ パテックの査定 1分で完了 ／</span>
+</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ コメ兵で無料宅配査定する</a>
+<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">komehyo.jp</a></p>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" alt="">
 </div>
 </div>

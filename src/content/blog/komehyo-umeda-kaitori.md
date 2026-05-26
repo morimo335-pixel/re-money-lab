@@ -227,7 +227,11 @@ related:
 <p style="margin:8px 0 0 0;color:#666;font-size:0.95em;">阪急梅田駅徒歩2分／全国共通の業界基準価格で査定</p>
 </div>
 <div style="padding:20px 28px;">
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">来店予約・無料査定はこちら　▶</a>
+<div style="text-align:center;margin:18px 0 0 0;">
+<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 来店予約 1分で完了 ／</span>
+</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 梅田店の来店予約をする</a>
+<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">komehyo.jp</a></p>
 <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" alt="">
 </div>
 <div style="padding:0 28px 24px 28px;">
@@ -363,7 +367,11 @@ related:
 <p style="margin:8px 0 0 0;color:#666;font-size:0.95em;">3階全体が買取専用フロア・西日本最大級</p>
 </div>
 <div style="padding:20px 28px;">
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">来店予約・無料査定はこちら　▶</a>
+<div style="text-align:center;margin:18px 0 0 0;">
+<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 来店予約 1分で完了 ／</span>
+</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 梅田店の来店予約をする</a>
+<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">komehyo.jp</a></p>
 <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" alt="">
 </div>
 </div>
