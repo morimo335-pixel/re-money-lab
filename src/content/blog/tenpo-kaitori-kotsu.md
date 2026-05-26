@@ -435,7 +435,7 @@ H2-9：まとめ
 
 <!-- ===== shineバナー2社横並び ===== -->
 <div style="display:flex;gap:12px;flex-wrap:wrap;margin:30px 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">💎 コメ兵 店頭買取<br><span style="font-size:0.82em;font-weight:normal;">上場・AI査定5分・確定率96.96%</span></a>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 14px rgba(26,188,156,0.42);">💎 コメ兵 店頭買取<br><span style="font-size:0.82em;font-weight:normal;">上場・AI査定5分・確定率96.96%</span></a>
   <a href="https://af.moshimo.com/af/c/click?a_id=5533260&p_id=5634&pc_id=15507&pl_id=72760" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:200px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 12px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.0em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">🔍 PREMIER VALUE<br><span style="font-size:0.82em;font-weight:normal;">最大80社一括査定・最高値即発見</span></a>
 </div>
 
