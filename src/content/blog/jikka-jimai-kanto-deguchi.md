@@ -670,6 +670,8 @@ related:
 
 <p>借地権で地主が非協力的、共有持分で兄弟がまとまらない、隣地境界で揉めている——こうした「人間関係の障害」を抱えるご家庭が、自分で交渉して動かなくなるパターンがほとんどです。借地権・訳あり物件専門の買取業者は、<strong>無料相談・現地調査・査定・売買契約・地主との代理交渉までワンストップで対応</strong>するため、施主が直接交渉する必要がありません。</p>
 
+<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
+
 <!-- ===== A8 mybest風カード：訳あり物件買取センター（記事46準拠） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
 <div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 関東4都県の借地権・空き家でお困りの方へ</div>
