@@ -668,28 +668,22 @@ related:
 
 <p>借地権で地主が非協力的、共有持分で兄弟がまとまらない、隣地境界で揉めている——こうした「人間関係の障害」を抱えるご家庭が、自分で交渉して動かなくなるパターンがほとんどです。借地権・訳あり物件専門の買取業者は、<strong>無料相談・現地調査・査定・売買契約・地主との代理交渉までワンストップで対応</strong>するため、施主が直接交渉する必要がありません。</p>
 
-<!-- ===== A8 mybest風カード：訳あり物件買取センター ===== -->
-<div style="border:1px solid #ccc;border-radius:10px;overflow:hidden;margin:30px 0;box-shadow:0 4px 12px rgba(0,0,0,0.08);">
-<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;letter-spacing:0.04em;text-shadow:0 1px 2px rgba(0,0,0,0.2);">🏆 関東4都県の借地権・空き家でお困りの方へ</div>
-<div style="padding:24px;background:#fff;">
-<p style="font-size:1.25em;font-weight:bold;color:#1B3A6F;margin:0 0 8px 0;">借地権の買取〜売却まで【訳あり物件買取センター】</p>
-<p style="margin:0 0 14px 0;color:#666;font-size:0.92em;">運営：株式会社ブリリアント（LIXIL不動産ショップ系列の借地権・空き家専門サービス）</p>
-
-<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:14px 18px;margin:18px 0;border-radius:4px;">
-<p style="margin:0;font-size:0.95em;line-height:1.85;"><strong style="color:#8B1538;">💎 サービスの特徴</strong><br>
-✅ <strong>他社で断られた物件も積極的に査定</strong>（借地権・再建築不可・共有持分）<br>
-✅ 無料相談・現地調査・査定・売買契約・<strong>地主との代理交渉まで一括対応</strong><br>
-✅ <strong>対応エリア：東京都・神奈川県・埼玉県・千葉県の首都圏4都県</strong><br>
-✅ 査定無料・相談だけでも料金は発生しません</p>
-</div>
-
-<p style="margin:14px 0;font-size:0.95em;color:#444;line-height:1.8;">大手の仲介会社に「売れない」と断られた物件でも、借地権・空き家の専門業者にとっては<strong>「再生して売却できる得意分野の物件」</strong>であるケースが多くあります。家財も整理途中のままで、地主さんとの面倒な交渉も丸ごと任せて、まずは<strong>「いくらで引き取ってもらえるか」の数字だけ</strong>パートの休憩時間にスマホからサクッと確認するところから始められます。</p>
-
-<p style="text-align:center;margin:18px 0 0 0;">
+<!-- ===== A8 mybest風カード：訳あり物件買取センター（記事46準拠） ===== -->
+<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 関東4都県の借地権・空き家でお困りの方へ</div>
+<div style="padding:20px;">
+<p style="margin:0 0 12px 0;">大手の仲介会社に「売れない」と断られた物件でも、借地権・空き家の専門業者にとっては<strong>「再生して売却できる得意分野の物件」</strong>であるケースが多くあります。家財もそのままで、地主さんとの面倒な交渉も丸ごと任せて、まずは<strong>「いくらで引き取ってもらえるか」の数字</strong>を確認するところから始められます。</p>
+<ul style="margin:0 0 16px 0;padding-left:1.5em;">
+<li>他社で断られた物件も積極的に査定（借地権・再建築不可・共有持分）</li>
+<li>無料相談・現地調査・査定・売買契約・地主との代理交渉まで一括対応</li>
+<li>対応エリア：東京都・神奈川県・埼玉県・千葉県の首都圏4都県</li>
+</ul>
+<div style="text-align:center;margin:18px 0 0 0;">
 <span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 関東4都県・無料相談OK ／</span>
-</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 家財も整理途中のままで無料査定（関東4都県）</a>
+</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 家財もそのままで無料査定を依頼する</a>
 <p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">訳あり物件買取センター</a></p>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" alt="">
 </div>
 </div>
 
