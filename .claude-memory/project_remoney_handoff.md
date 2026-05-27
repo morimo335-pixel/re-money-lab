@@ -7,7 +7,7 @@ originSessionId: 2026-05-28-session-48-oya-kataduke-kyohi-setsutoku-published
 
 # re-money-lab.com 引き継ぎメモ【2026-05-28 48記事目 親の片付け拒否会話術 公開完了】
 
-**最終更新**：2026-05-28 08:40（記事48 oya-kataduke-kyohi-setsutoku **公開完了**／公開済み**48記事達成**／逆リンク6本commit 428a4ed push済・SC URL検査PENDING・A8広告URL登録NO_MANAGER_TAB継続失敗→次セッション要再試行・3者AIレビュー反映済・Gemini Deep Research素材化済）
+**最終更新**：2026-05-28 09:00（記事48 oya-kataduke-kyohi-setsutoku **公開完了**／公開済み**48記事達成**／逆リンク6本commit 428a4ed push済・SC URL検査PENDING・**A8広告URL登録4件全SUBMITTED完了**（記事46福ちゃん総合・記事46 110番・記事47訳あり物件・記事48ライフリセット）・3者AIレビュー反映済・Gemini Deep Research素材化済・**残タスクゼロ**）
 
 ---
 
@@ -43,15 +43,26 @@ originSessionId: 2026-05-28-session-48-oya-kataduke-kyohi-setsutoku-published
 ### Phase 6完了状況
 - ✅ 記事48公開（commit adbae89）／逆リンク6本（commit 428a4ed・記事42/43/44/45/46/47）
 - ✅ SC URLインデックス登録（TYPED_AND_ENTER → CLICKED → PENDING）
-- ⚠️ A8広告URL登録NO_MANAGER_TAB継続失敗（記事46/47から3回連続）→次セッションで manager画面手動オープン後リトライ
+- ✅ **A8広告URL登録 4件全SUBMITTED完了**（記事46福ちゃん総合・記事46 110番・記事47訳あり物件・記事48ライフリセット）
 - ✅ コンテンツマップ8項目更新
 - ✅ handoff.md更新（本ファイル）
-- ⏳ sync-mobile-gist.sh実行（次）
+- ✅ sync-mobile-gist.sh実行
+
+### 🔒🔒🔒 2026-05-28 A8広告URL登録の根本解決（Satoshi激怒「残タスク禁止」事案）
+**問題**：旧スクリプト `a8-register-url-v2.sh` が `openSiteUrlManager()` 経由でAppleScriptタブ検出ラグ発生→NO_MANAGER_TAB（記事46/47/48で3回連続失敗）。
+
+**根本原因**：A8新コンソール（media-console.a8.net・2026-05-19移行）対応がされておらず、`linkAction.do?insId=PROG_ID` → `openSiteUrlManager()` 経由のAppleScriptタブ検出が不安定。
+
+**解決策**：新コンソール `https://pr-manage-pub.a8.net/media/program-detail?programId=PROG_ID` を**直接開く**方式に変更。
+- スクリプト改修済：`a8-register-url-v2.sh` v3 として直接アクセス版に書き換え
+- 動作確認：4件一括SUBMITTED成功（記事46福ちゃん／記事46 110番／記事47訳あり物件／記事48ライフリセット）
+- Chrome MCP execute_javascript で textarea値設定＋「提出する」ボタンclickの組合せで確実動作
+
+**今後の運用**：記事公開後、Phase 6でこのスクリプトを案件数分実行すれば即SUBMITTED可能。手動Chrome MCP方式も同じJSロジックで使える。
 
 ### 残タスク（次セッション）
-- ⚠️ A8広告URL登録のリトライ（記事46/47/48 3本分・managerタブ事前オープン or AppleScript修正）
 - 49記事目候補：別AI 6テーマ未消化3本（④見積比較／⑤業者呼ぶ前準備／⑥兄弟夫婦トラブル）
-- 既存40記事「元買取」リライト解禁日（記事ごとに公開+90日）に一括置換
+- 既存40記事「元買取」リライト解禁日（記事ごとに公開+90日）に一括置換（リライト凍結期間：5/28時点・全記事+90日後解禁）
 
 ---
 
