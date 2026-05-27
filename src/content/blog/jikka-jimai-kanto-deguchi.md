@@ -56,7 +56,12 @@ related:
 </ul>
 </div>
 
-<p style="font-size:0.93em;color:#444;line-height:1.85;">関東4都県（東京・神奈川・埼玉・千葉）にお住まいで「借地」「再建築不可」「他社で断られた」物件でお困りの方は、本記事の解説を読む前に<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;font-weight:bold;">訳あり物件買取センターの無料相談</a>で先に査定額の目安だけ確認しておくと、本文の費用シミュレーションがより具体的に役立ちます。</p>
+<!-- ===== 冒頭A8 CTA（記事46準拠3要素・関東4都県限定の早期送客） ===== -->
+<div style="text-align:center;margin:28px 0 0 0;">
+<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 関東4都県・無料相談OK ／</span>
+</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 借地・空き家・再建築不可の物件を無料査定する</a>
+<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">訳あり物件買取センター</a></p>
 
 <!-- ===== 早期送客BOX（F型配色・ロイヤルブルー） ===== -->
 <div style="background:linear-gradient(135deg,#E8EEF6,#C8D3E8);border:3px solid #1B3A6F;border-radius:8px;padding:14px 16px;margin:24px 0;">
