@@ -760,12 +760,6 @@ related:
 
 <p>実家じまいは、誰にとっても重い決断です。でも、出口の選択肢を知って、関東の業者に相談先があると分かるだけで、動き出すスピードが大きく変わります。まずは現地査定の予約から、無理のないペースで始めてみてください。</p>
 
-<!-- ===== まとめ末尾A8 CTA（ミニ） ===== -->
-<div style="margin:30px 0;text-align:center;">
-<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:inline-block;background:linear-gradient(135deg,#E8B658 0%,#C8923A 50%,#A77620 100%);color:#fff;padding:14px 32px;border-radius:8px;font-weight:bold;font-size:1em;text-decoration:none;letter-spacing:0.04em;box-shadow:0 4px 8px rgba(200,146,58,0.3);">▶ 借地・空き家でお困りなら無料相談（関東4都県）</a>
-<p style="margin:10px 0 0 0;font-size:0.8em;color:#888;">※当リンクはアフィリエイト広告です</p>
-</div>
-
 <!-- ===== 筆者プロフィール②：記事末（小130px・F型配色） ===== -->
 <div style="background:#E8EEF6;border-left:5px solid #1B3A6F;border-radius:6px;padding:20px;margin:32px 0;display:flex;flex-wrap:wrap;align-items:center;gap:18px;">
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;" />
