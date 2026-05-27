@@ -56,12 +56,19 @@ related:
 </ul>
 </div>
 
-<!-- ===== 冒頭A8 CTA（記事46準拠3要素・関東4都県限定の早期送客） ===== -->
-<div style="text-align:center;margin:28px 0 0 0;">
+<!-- ===== 冒頭A8 mybest風カード（記事46同型・関東4都県限定の早期送客） ===== -->
+<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 関東4都県の借地・空き家・再建築不可でお困りの方へ</div>
+<div style="padding:20px;">
+<p style="margin:0 0 12px 0;">借地権・再建築不可・他社で断られた物件は、専門業者なら<strong>現状有姿（家財もそのまま）で査定可能</strong>。本記事の費用シミュレーションを読む前に、まず自分の物件が動かせるかだけ確認しておくと判断が早くなります。</p>
+<div style="text-align:center;margin:18px 0 0 0;">
 <span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 関東4都県・無料相談OK ／</span>
 </div>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 借地・空き家・再建築不可の物件を無料査定する</a>
 <p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">訳あり物件買取センター</a></p>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" alt="">
+</div>
+</div>
 
 <!-- ===== 早期送客BOX（F型配色・ロイヤルブルー） ===== -->
 <div style="background:linear-gradient(135deg,#E8EEF6,#C8D3E8);border:3px solid #1B3A6F;border-radius:8px;padding:14px 16px;margin:24px 0;">
@@ -764,12 +771,19 @@ related:
 
 <p>実家じまいは、誰にとっても重い決断です。でも、出口の選択肢を知って、関東の業者に相談先があると分かるだけで、動き出すスピードが大きく変わります。まずは現地査定の予約から、無理のないペースで始めてみてください。</p>
 
-<!-- ===== まとめ末尾A8 CTA（記事46準拠 3要素・関東4都県限定） ===== -->
-<div style="text-align:center;margin:28px 0 0 0;">
+<!-- ===== まとめ末尾A8 mybest風カード（記事46同型・最終後押し） ===== -->
+<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 関東4都県・最後の一押し：訳あり物件買取センター</div>
+<div style="padding:20px;">
+<p style="margin:0 0 12px 0;">記事を読み終えても「動き出すのは怖い」「自分の物件が対象か分からない」と感じている方も、<strong>無料相談だけなら今日10分で済みます</strong>。査定額に納得できなければ断ってOK・料金発生なし。専門業者が地主交渉から書類準備まで一括で引き受けます。</p>
+<div style="text-align:center;margin:18px 0 0 0;">
 <span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 関東4都県・無料相談OK ／</span>
 </div>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 家財もそのままで無料査定を依頼する</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ まずは無料で査定額の目安を聞いてみる</a>
 <p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">訳あり物件買取センター</a></p>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" alt="">
+</div>
+</div>
 
 <!-- ===== 筆者プロフィール②：記事末（小130px横並び・記事46準拠） ===== -->
 <div style="background:#E8EEF6;border:3px solid #1B3A6F;border-radius:10px;padding:20px;margin:32px 0;display:flex;flex-wrap:wrap;align-items:center;gap:18px;">
