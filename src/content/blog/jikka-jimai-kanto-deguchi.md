@@ -685,10 +685,11 @@ related:
 
 <p style="margin:14px 0;font-size:0.95em;color:#444;line-height:1.8;">大手の仲介会社に「売れない」と断られた物件でも、借地権・空き家の専門業者にとっては<strong>「再生して売却できる得意分野の物件」</strong>であるケースが多くあります。家財も整理途中のままで、地主さんとの面倒な交渉も丸ごと任せて、まずは<strong>「いくらで引き取ってもらえるか」の数字だけ</strong>パートの休憩時間にスマホからサクッと確認するところから始められます。</p>
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#E8B658 0%,#C8923A 50%,#A77620 100%);color:#fff;text-align:center;padding:16px 24px;border-radius:8px;font-weight:bold;font-size:1.05em;text-decoration:none;letter-spacing:0.04em;box-shadow:0 4px 8px rgba(200,146,58,0.3);text-shadow:0 1px 2px rgba(0,0,0,0.15);">▶ 家財も整理途中のままで無料査定（関東4都県）</a>
-<img src="https://www12.a8.net/0.gif?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" width="1" height="1" alt="" style="border:0;display:none;">
-<p style="text-align:center;font-size:0.82em;color:#888;margin:10px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">訳あり物件買取センター</a></p>
-<p style="margin:10px 0 0 0;font-size:0.8em;color:#888;text-align:center;">※当リンクはアフィリエイト広告です</p>
+<p style="text-align:center;margin:18px 0 0 0;">
+<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 関東4都県・無料相談OK ／</span>
+</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 家財も整理途中のままで無料査定（関東4都県）</a>
+<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">訳あり物件買取センター</a></p>
 </div>
 </div>
 
