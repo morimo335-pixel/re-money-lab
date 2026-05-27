@@ -4,6 +4,7 @@ description: '親の終活でやることは「物の整理」が大きな比重
 pubDate: '2026-05-23'
 heroImage: '../../assets/blog/oya-shukatsu-yarukoto.jpg'
 related:
+  - oya-kataduke-kyohi-setsutoku
   - jikka-jimai-kanto-deguchi
   - oya-shisetsu-nyuuyo-checklist
   - oya-rojinhome-zaiakukan

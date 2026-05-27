@@ -4,6 +4,7 @@ description: '実家じまいの費用相場、進め方、片付け・買取・
 pubDate: '2026-05-27'
 heroImage: '../../assets/blog/jikka-jimai-kanto-deguchi.jpg'
 related:
+  - oya-kataduke-kyohi-setsutoku
   - oya-shisetsu-nyuuyo-checklist
   - oya-rojinhome-zaiakukan
   - oya-shukatsu-yarukoto
