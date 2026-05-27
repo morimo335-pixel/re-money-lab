@@ -764,12 +764,12 @@ related:
 <a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 家財もそのままで無料査定を依頼する</a>
 <p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B3YV9+BIDQL6+5TF6+5YJRM" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">訳あり物件買取センター</a></p>
 
-<!-- ===== 筆者プロフィール②：記事末（小130px・F型配色） ===== -->
-<div style="background:#E8EEF6;border-left:5px solid #1B3A6F;border-radius:6px;padding:20px;margin:32px 0;display:flex;flex-wrap:wrap;align-items:center;gap:18px;">
+<!-- ===== 筆者プロフィール②：記事末（小130px横並び・記事46準拠） ===== -->
+<div style="background:#E8EEF6;border:3px solid #1B3A6F;border-radius:10px;padding:20px;margin:32px 0;display:flex;flex-wrap:wrap;align-items:center;gap:18px;">
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;" />
-<div>
-<p style="margin:0 0 6px 0;font-weight:bold;font-size:1.05em;">筆者　ハル</p>
-<p style="margin:0;font-size:0.92em;line-height:1.7;color:#444;">買取業界8年・累計査定3万点超／古物商許可保有／廃品回収業実務経験あり。遺品整理・生前整理の現場で40-50代主婦の方からのご相談に立ち会い続けています。</p>
+<div style="flex:1;min-width:200px;">
+<p style="margin:0 0 6px 0;font-weight:bold;font-size:1.1em;color:#1B3A6F;">筆者　ハル</p>
+<p style="margin:0;font-size:0.93em;line-height:1.75;">買取業界で計8年勤務・累計査定3万点超・古物商許可保有・廃品回収業実務経験あり。遺品整理・生前整理の現場で、親の施設入居や相続をきっかけに実家整理を進める40-50代の方の相談に多く対応。「業界の本音」を読者に届けるため、re-money-lab.com で執筆中。</p>
 </div>
 </div>
 
