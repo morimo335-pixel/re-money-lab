@@ -1,0 +1,23 @@
+<!--
+=====================================================================
+🔒 筆者プロフィール② 記事末カード 正規テンプレ（2026-05-27 Satoshi確定）
+=====================================================================
+【絶対固定】
+- display:flex;flex-wrap:wrap;align-items:center;gap:18px;
+- 内側<div style="flex:1;min-width:200px;"> ← これが無いと横並び崩れ事案再発
+- border:3px solid [色]・border-radius:10px・padding:20px
+
+【プレースホルダー差替のみ】
+- [BG]       ：背景色（記事配色で変える・E8F5E9緑/E8EEF6ロイヤルブルー等）
+- [BORDER]   ：border色（#2E7D32緑/#1B3A6Fロイヤルブルー等）
+- [TITLE_COL]：「筆者　ハル」見出し色（borderと揃える）
+- [DESC]     ：プロフィール本文（80〜100字目安・買取8年・累計査定3万点超・古物商保有 を必ず含む）
+=====================================================================
+-->
+<div style="background:[BG];border:3px solid [BORDER];border-radius:10px;padding:20px;margin:32px 0;display:flex;flex-wrap:wrap;align-items:center;gap:18px;">
+<img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;" />
+<div style="flex:1;min-width:200px;">
+<p style="margin:0 0 6px 0;font-weight:bold;font-size:1.1em;color:[TITLE_COL];">筆者　ハル</p>
+<p style="margin:0;font-size:0.93em;line-height:1.75;">[DESC]</p>
+</div>
+</div>
