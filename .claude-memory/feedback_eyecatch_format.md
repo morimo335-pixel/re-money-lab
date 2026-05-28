@@ -140,6 +140,75 @@ Text must NOT overlap faces. People fully visible knees-up. Photo-realistic. Asp
 - D モダンクラシック：ボルドー#B33951＋ティール#2A9D8F＋マスタード＋クリーム
 - E ウイスキー琥珀：ボルドー#9B2335＋アンバー#C68E17＋ティール＋ネイビー
 
+---
+
+## 🆕🆕🆕 2026-05-28 確定：右側フォーマット 2タイプ運用（Type-A／Type-B 使い分け）
+
+**Satoshi 2026-05-28 指示**：「文字のみ採用・色は鮮やかな色でランダム」。記事30（店舗買取）のレイアウトを別タイプとして正式登録。
+
+### Type-A：黄リボン型（既存・記事34以降の標準）
+- 上部**黄リボン**（#FFEB3B水平・赤文字フック「[BRAND][PRICE]?!」等）
+- Line1：vividマゼンタ系・Line2：vividターコイズ系
+- ゴールド水平線
+- サブ：墨色 #2C3E50「買取8年が暴く [TEMA] [数字]選」
+
+### Type-B：王冠アクセント型（🆕新規・記事30準拠）
+- 上部黄リボン**無し**
+- 右上：**ゴールド王冠アイコン ✦**（#C8923A・小さく）
+- Line1：**vivid色A**（大・最強調）
+- Line1直下：**ゴールド小斜めアクセント線**（#C8923A）
+- Line2：**vivid色B**（中・色Aと異なる）
+- Line3：強調分割可（「[数字]つの」ゴールド#C8923A＋「[KW]」vivid色B）
+- ゴールド水平線
+- サブ：**ゴールド系統一**（#A77620・「買取8年が暴く [TEMA] [本音]」）
+- 上品・知的・高単価商品（ロレックス／パテック／ブランドバッグ／貴金属／専門書）に最適
+
+### 🎨 配色選択（毎回ランダム・vividパレットから2色組合せ）
+**Type-A/B共通**：固定せず、直近2-3記事と被らないvivid 2色をランダム選択。
+- vividパレット：鮮やかローズレッド#E63946／朱赤#FF4757／クリムゾン赤#E8283C／マゼンタ#E91E63／ターコイズ#16A085／ビリジアン#2ECC71／エメラルド#00A878／ネイビー#1B3A6F
+- 🔴NG（暗い）：deep bordeaux #8B1538／deep teal #1A5F5C／dark purple
+
+### Type-B プロンプトテンプレ（コピペ用・記事30準拠）
+```
+Create a 16:9 horizontal blog thumbnail image (1376x768 pixels) in
+premium Japanese women's lifestyle magazine cover style (LEE / VERY).
+FONT: All Japanese text in a HEAVY, BLACK-WEIGHT Japanese MINCHO SERIF
+typeface (明朝体, like Noto Serif JP Black). NOT gothic, NOT sans-serif.
+
+BACKGROUND: One single off-white cream color (#FAF8F3) covering the ENTIRE image.
+NO panels, NO color blocks, NO gradients.
+
+LEFT SIDE (22%) — Worried Housewife: Japanese woman early 40s, half-body knees-up,
+white knit sweater, half-up hair, troubled expression, holding [TEMA_LEFT_HOLDS].
+
+CENTER (56%) — TEXT AREA (NO yellow ribbon, crown accent instead):
+[TOP RIGHT ABOVE LINE1] Small gold crown icon ✦ in champagne gold #C8923A
+[LINE 1] Large bold Mincho serif: 「[KW_MAIN]」 in vivid [COLOR_A]
+[GOLD DIAGONAL ACCENT] Thin gold diagonal line under Line 1
+[LINE 2] Medium bold Mincho serif: 「[KW_SUB1]」 in vivid [COLOR_B]
+[LINE 3 with split emphasis] 「[N]つの」 in gold #C8923A + 「[KW_SUB2]」 in vivid [COLOR_B]
+[GOLD HORIZONTAL LINE] Thin #D4A574
+[SUBTITLE 2 lines in gold serif #A77620]
+  Line 1: 「買取8年が暴く」
+  Line 2: 「[TEMA] [SUBTITLE_PHRASE]」
+
+RIGHT SIDE (22%) — Smiling Expert: Japanese woman early 30s, half-body knees-up,
+navy blouse, half-up dark hair, warm smile, holding [TEMA_RIGHT_HOLDS] forward.
+
+CRITICAL: NO text on objects. Both people MUST be EXACT same size and height.
+All Japanese text PERFECTLY RENDERED Mincho serif. Pure off-white cream background.
+```
+
+差替プレースホルダー：`[TEMA_LEFT_HOLDS]` `[KW_MAIN]` `[COLOR_A]` `[KW_SUB1]` `[COLOR_B]` `[N]` `[KW_SUB2]` `[TEMA]` `[SUBTITLE_PHRASE]` `[TEMA_RIGHT_HOLDS]`
+
+### 使い分けの目安
+| 記事タイプ | 推奨Type |
+|---|---|
+| 集客記事（感情入口・読者の困り） | **Type-A**（黄リボン・親しみやすさ） |
+| キラー記事（高単価・収益主役） | **Type-B**（王冠・高級感・上品） |
+| 業者比較・ランキング系 | Type-B |
+| 品目特化（量産） | Type-A（軽快に） |
+
 ### 配色履歴（重複回避用・直近）
 | 記事 | 配色 |
 |---|---|
