@@ -1,0 +1,6 @@
+# Cloudflare Pages リダイレクト設定
+# WordPress→Astro 移管後の旧URLレガシー対応（2026-05-28 Satoshi指示 404解消）
+
+# WP時代のRSSフィードURL → 該当記事 or blogトップへ301転送
+/tag/買取査定/feed/atom/  /blog/  301
+/kimono-kaitori-koukai/feed/atom/  /kimono-kaitori-koukai/  301
