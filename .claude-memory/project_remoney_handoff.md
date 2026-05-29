@@ -7,7 +7,7 @@ originSessionId: 2026-05-29-session-49-jikka-seiri-kyodai-momeru-published
 
 # re-money-lab.com 引き継ぎメモ【2026-05-29 49記事目 兄弟で揉める 公開完了】
 
-**最終更新**：2026-05-29 13:00（記事49 jikka-seiri-kyodai-momeru **公開完了**・HTTP200確認済／公開済み**49記事達成**／逆リンク3本commit 0af0a9c push済（記事48本文＋related・記事44/47 related）・**⚠️A8広告URL登録PENDING（A8ログイン切れ＝Satoshi手動ログイン必要）**・SC URL検査PENDING・コンテンツマップ更新PENDING）
+**最終更新**：2026-05-29 13:30（記事49 jikka-seiri-kyodai-momeru **公開完了**・HTTP200確認済／公開済み**49記事達成**／逆リンク3本commit 0af0a9c push済・**✅A8広告URL登録完了**（遺品整理110番・登録済URL一覧先頭に確認済）・コンテンツマップ8項目更新済・handoff更新済・メモリ圧縮済／**残：SC URL検査のみPENDING**）
 
 ## 🆕🆕🆕 2026-05-29 セッション成果【夜の自動化強化＋記事49公開】
 
@@ -24,10 +24,14 @@ originSessionId: 2026-05-29-session-49-jikka-seiri-kyodai-momeru-published
 - **配色**：インディゴ#3F51B5／アイキャッチB案（黄リボン「私ばかり動いてる…」＋マゼンタ「なぜ兄弟で」＋ティール「揉めるのか」）
 - **リベ大8:2達成**：集客9本：キラー15本
 
-### 🔴 次セッション残タスク（最優先）
-1. **A8広告URL登録**：A8ログイン切れでPENDING→**Satoshi手動ログイン後に `~/Library/Scripts/a8-register-url-v2.sh s00000015223034 https://re-money-lab.com/jikka-seiri-kyodai-momeru/`**
-2. **SC URL検査＋インデックス登録**：記事49 URL（Search Console）
-3. **コンテンツマップ8項目更新**：~/Desktop/コンテンツマップ.html（49記事・集客9:キラー15・実家整理クラスター26本目ノード追加）
+### 🔴 次セッション残タスク
+1. **SC URL検査＋インデックス登録**：記事49 URL（Search Console・要ログイン）。← 唯一の残タスク
+
+### 🔧 2026-05-29 A8広告URL登録スクリプトを新コンソール対応に修正（v4）
+- **判明**：A8は5/19に `media-console.a8.net` へ移行。旧v3が叩いていた `pr-manage-pub.a8.net/media/program-detail` を**直接URLアクセスすると access-denied**（NO_MANAGER_TAB連発の真因）。
+- **正しいフロー**（記事49で確定）：①`media-console.a8.net/program/detail-partnered?programId=PID` を開く ②ページ内「広告掲載URL管理」(`#openSiteUrlManager`)を**実DOMクリック**→pr-manage-pub の管理画面が**新タブで開く**（ボタン経由なら開ける） ③textareaにURL入力→「提出する」。
+- `a8-register-url-v2.sh` を**v4に書き換え済**（detail-partnered経由・ログイン切れ判定付き・zsh -n OK）。次回からこのフローで自動登録可。要A8ログイン。
+- 記事49は今回 Satoshi手動で「広告掲載URL管理」クリック→提出で登録完了（登録済URL一覧先頭に確認済）。
 
 ---
 ## 【過去セッション】2026-05-28 48記事目 親の片付け拒否会話術 公開完了（1行サマリ）
