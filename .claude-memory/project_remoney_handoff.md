@@ -1,13 +1,37 @@
 ---
-name: re-money-lab.com セッション引き継ぎ（2026-05-28 48記事目 親の片付け拒否会話術 公開完了）
-description: **48記事公開状態**。2026-05-28、48記事目「親が実家整理を拒否する時の会話術｜捨てられない心理と伝え方」公開完了（commit adbae89+428a4ed・本文約15,000字・読了9分・H2 7本）。**集客記事8本目（行動経済学＋シニア心理学ベース・親説得の感情入口）**。メインKW「親 物 捨てない 説得」＋サブKW（親 物 捨てない 心理／実家 片付け 親 嫌がる／親 片付け 拒否）。**A8＝遺品整理専門【ライフリセット】¥2.2k（株式会社アシスト・全国対応・確定率100%）単独・末尾CTA1本のみ**。記事47（実家じまい関東出口戦略）の前段配置＝親説得→空き家化の自然導線。記事43（切り出しセリフ）と差別化＝拒否後の突破口軸で棲み分け。配色D型ボルドー#B33951×シャンパンゴールド。3者AIレビュー反映（H2-1検索KW追加・冒頭結論ブロック・「ゴミ屋敷恥ずかしい」業界人BOX解消・CTA「親と話す」軸統一）。Gemini Deep Research素材化（深層心理5/防衛機制5/NGワード5/会話術3ステップ/成功事例3/2026統計）。集客:キラー 33:15（69:31・リベ大8:2まであと1本）。**🔒5/28新ルール：本文5,000-6,500字・8-9分読了に圧縮（writing_rules.md）**。**🔒5/28新ルール：装飾はtemplates/から差替のみ（mybest-card.html / profile-card-bottom.html）**。
+name: re-money-lab.com セッション引き継ぎ（2026-05-29 49記事目 兄弟で揉める 公開完了）
+description: **49記事公開状態**。2026-05-29、49記事目「なぜ実家整理は兄弟で揉める？買取8年が見た泥沼と防ぎ方」公開完了（commit 8274df4＋逆リンク0af0a9c・実質約7,000字・読了9分・H2 7本）。**集客記事9本目（別AI 6テーマ⑥兄弟夫婦トラブル）**。メインKW「相続 兄弟 揉める」（プランナー実測Vol10-100・競合低）＋サブ（兄弟 遺品整理 揉める／夫 実家 片付け 協力しない／遺品 分け方 兄弟）。**A8＝遺品整理110番¥6k（末尾CTA1本＋中盤ソフトCTA・生前整理〜遺品整理両対応明示）**。記事48（親の説得）→記事49（兄弟・夫婦の壁）の自然導線。配色インディゴ#3F51B5。Gemini Deep Research素材化（司法統計75-80%＝遺産5000万以下/揉める4原因/夫タイプ別対策/空き家6倍増税/解決事例2件）。3者AIレビュー反映5点。集客:キラー 34:15（→**リベ大8:2達成**）。**🆕5/29：プランナー実測＆全記事カニバリ判定を毎晩Night Shift自動化（planner-measure.sh・captain-rotor.sh統合）**。
 type: project
-originSessionId: 2026-05-28-session-48-oya-kataduke-kyohi-setsutoku-published
+originSessionId: 2026-05-29-session-49-jikka-seiri-kyodai-momeru-published
 ---
 
-# re-money-lab.com 引き継ぎメモ【2026-05-28 48記事目 親の片付け拒否会話術 公開完了】
+# re-money-lab.com 引き継ぎメモ【2026-05-29 49記事目 兄弟で揉める 公開完了】
 
-**最終更新**：2026-05-28 09:00（記事48 oya-kataduke-kyohi-setsutoku **公開完了**／公開済み**48記事達成**／逆リンク6本commit 428a4ed push済・SC URL検査PENDING・**A8広告URL登録4件全SUBMITTED完了**（記事46福ちゃん総合・記事46 110番・記事47訳あり物件・記事48ライフリセット）・3者AIレビュー反映済・Gemini Deep Research素材化済・**残タスクゼロ**）
+**最終更新**：2026-05-29 13:00（記事49 jikka-seiri-kyodai-momeru **公開完了**・HTTP200確認済／公開済み**49記事達成**／逆リンク3本commit 0af0a9c push済（記事48本文＋related・記事44/47 related）・**⚠️A8広告URL登録PENDING（A8ログイン切れ＝Satoshi手動ログイン必要）**・SC URL検査PENDING・コンテンツマップ更新PENDING）
+
+## 🆕🆕🆕 2026-05-29 セッション成果【夜の自動化強化＋記事49公開】
+
+### 🌙 Night Shift自動化の根本強化（Satoshi激怒「朝に手動でやるな・毎晩夜にやっとけ！！！」事案）
+- **問題**：captain-rotor.sh（夜の候補生成）が `claude --print` ヘッドレス実行でChrome MCP不可→候補は毎晩「推定Vol」止まり→朝に手動プランナー実測が残っていた。カニバリ判定もgrep3語一致頼みでテーマ被り取りこぼし（fukuchan-shucchou-kaitori＝出張買取の流れ既載／raise-appraisal＝準備術7選既載 を当初「カニバリゼロ」と誤判定し、Satoshi指摘で発覚）。
+- **解決①プランナー実測**：`~/Library/Scripts/planner-measure.sh` 新規作成。A8の a8-list-partnered.sh と同じくAppleScriptでGUIセッションのログイン済Chromeを操作しGoogle広告キーワードプランナーで実測→`PLANNER_VOL_DATE.md`生成。captain-rotor.sh が候補生成後に `CANDIDATE_KWS_DATE.txt` を読んで自動実行→claude --printマージでCANDIDATES/handoffのVol欄に反映。**朝は「3本から選ぶだけ」に戻った**。
+- **解決②カニバリ判定**：captain-rotor.sh Phase α＋night-shift-prompt.md STEP4 に「全記事title・H2一括スキャン（grep）してからテーマ語照合」を必須化。
+- **検証済**：planner-measure.sh 単体で「相続 兄弟 揉める=10-100/低」等を実測成功。zsh -n構文OK。今夜23時のCronから本番稼働。**朝に抜けてたら手動MCPでなく `planner-measure.sh "kw1,kw2,..."` ワンコマンド（約1分）**。
+
+### 公開記事（記事49）
+- **URL**：https://re-money-lab.com/jikka-seiri-kyodai-momeru/（commit 8274df4＋0af0a9c）
+- **メインKW**：相続 兄弟 揉める（実測Vol10-100・競合低）／集客記事9本目／🏺実家整理クラスター26本目
+- **A8**：遺品整理110番¥6k（programID s00000015223034・a8mat 4B1SPX+9HQUSA+39GM+5MFLEA）末尾CTA1本＋中盤ソフトCTA
+- **配色**：インディゴ#3F51B5／アイキャッチB案（黄リボン「私ばかり動いてる…」＋マゼンタ「なぜ兄弟で」＋ティール「揉めるのか」）
+- **リベ大8:2達成**：集客9本：キラー15本
+
+### 🔴 次セッション残タスク（最優先）
+1. **A8広告URL登録**：A8ログイン切れでPENDING→**Satoshi手動ログイン後に `~/Library/Scripts/a8-register-url-v2.sh s00000015223034 https://re-money-lab.com/jikka-seiri-kyodai-momeru/`**
+2. **SC URL検査＋インデックス登録**：記事49 URL（Search Console）
+3. **コンテンツマップ8項目更新**：~/Desktop/コンテンツマップ.html（49記事・集客9:キラー15・実家整理クラスター26本目ノード追加）
+
+---
+## 【過去セッション】2026-05-28 48記事目 親の片付け拒否会話術 公開完了（1行サマリ）
+48記事目 oya-kataduke-kyohi-setsutoku 公開（集客8本目・メインKW「親 物 捨てない 説得」・A8ライフリセット¥2.2k末尾1本・配色ボルドーD型・Gemini Deep Research素材化・3者AIレビュー反映・本文圧縮5000-6500字ルール確立・templates/差替運用初実践）。
 
 ---
 
