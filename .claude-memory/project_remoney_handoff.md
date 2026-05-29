@@ -7,7 +7,7 @@ originSessionId: 2026-05-29-session-49-jikka-seiri-kyodai-momeru-published
 
 # re-money-lab.com 引き継ぎメモ【2026-05-29 49記事目 兄弟で揉める 公開完了】
 
-**最終更新**：2026-05-29 13:30（記事49 jikka-seiri-kyodai-momeru **公開完了**・HTTP200確認済／公開済み**49記事達成**／逆リンク3本commit 0af0a9c push済・**✅A8広告URL登録完了**（遺品整理110番・登録済URL一覧先頭に確認済）・コンテンツマップ8項目更新済・handoff更新済・メモリ圧縮済／**残：SC URL検査のみPENDING**）
+**最終更新**：2026-05-29 13:45（記事49 jikka-seiri-kyodai-momeru **公開完了**・HTTP200確認済／公開済み**49記事達成**／逆リンク3本commit 0af0a9c push済・**✅A8広告URL登録完了**・**✅SC URL検査＋インデックス登録リクエスト済み**（優先クロールキュー追加確認）・コンテンツマップ8項目更新済・handoff更新済・メモリ圧縮済／**残タスクゼロ🎉**）
 
 ## 🆕🆕🆕 2026-05-29 セッション成果【夜の自動化強化＋記事49公開】
 
@@ -24,8 +24,8 @@ originSessionId: 2026-05-29-session-49-jikka-seiri-kyodai-momeru-published
 - **配色**：インディゴ#3F51B5／アイキャッチB案（黄リボン「私ばかり動いてる…」＋マゼンタ「なぜ兄弟で」＋ティール「揉めるのか」）
 - **リベ大8:2達成**：集客9本：キラー15本
 
-### 🔴 次セッション残タスク
-1. **SC URL検査＋インデックス登録**：記事49 URL（Search Console・要ログイン）。← 唯一の残タスク
+### ✅ 次セッション残タスク：ゼロ
+記事49のPhase 6全完了（公開・逆リンク・A8登録・SC登録・コンテンツマップ・handoff・メモリ圧縮）。SC URL検査は `~/Library/Scripts/sc-request-indexing.sh <URL>` で実行→「優先クロールキュー追加」確認済。
 
 ### 🔧 2026-05-29 A8広告URL登録スクリプトを新コンソール対応に修正（v4）
 - **判明**：A8は5/19に `media-console.a8.net` へ移行。旧v3が叩いていた `pr-manage-pub.a8.net/media/program-detail` を**直接URLアクセスすると access-denied**（NO_MANAGER_TAB連発の真因）。
