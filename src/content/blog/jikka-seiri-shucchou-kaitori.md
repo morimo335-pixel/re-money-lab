@@ -248,15 +248,16 @@ related:
 
 <p>たくさんの品をまとめて手放したいなら、<strong>全国対応の総合出張買取に一度で見てもらう</strong>のがいちばん楽です。着物も食器も古道具も、ジャンルを問わず自宅で一気に査定・搬出してくれます。一方で、<strong>「これは高く売れそう」と分かっている品は、その分野の専門査定に出すと金額が変わる</strong>ことがあります。下に、品目別に強い査定先をまとめました（いずれも無料査定）。</p>
 
-<!-- 品目別ソフト送客（コンシェルジュ・大カードにせず控えめ・A8インライン） -->
-<div style="background:#fff;border:2px dashed #2E5E4E;border-radius:10px;padding:18px 22px;margin:24px 0;">
-<p style="margin:0 0 10px 0;font-weight:bold;color:#2E5E4E;font-size:1em;">📌 品目別・高く売りたいときの専門査定先（無料）</p>
-<ul style="margin:0;padding-left:1.4em;line-height:2.1;">
-<li><strong>着物・帯が多いなら</strong> … 着物の査定実績が豊富な <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AUKEE2+35HU+5YJRM" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">福ちゃんの着物無料査定</a></li>
-<li><strong>骨董・古美術なら</strong> … 鑑定士のいる <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B2B196+35HU+15OK2A" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">福ちゃんの骨董査定</a>／<a href="https://px.a8.net/svt/ejp?a8mat=4B3HQH+3YAN4Q+5O4W+BWVTE" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">ウリエルの骨董出張買取</a></li>
-<li><strong>ブランド時計なら</strong> … <a href="https://px.a8.net/svt/ejp?a8mat=4B1VU1+GE0M1M+5O4W+1ZGNQP" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">ウリエルのブランド時計出張買取</a></li>
-</ul>
-<p style="margin:10px 0 0 0;font-size:0.85em;color:#777;">※種類がバラバラで「まず全部まとめて」なら、全国対応の<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9ZXV" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">総合出張買取（福ちゃん）の無料査定</a>が便利です。詳しい申し込み先は記事末にまとめています。</p>
+<!-- 品目別ソフト送客（明るい光るボタン・横並びflex） -->
+<div style="background:#F4F9F6;border:2px solid #2E5E4E;border-radius:10px;padding:20px 22px;margin:24px 0;">
+<p style="margin:0 0 6px 0;font-weight:bold;color:#2E5E4E;font-size:1.05em;">📌 品目別・高く売りたいときの専門査定先（すべて無料）</p>
+<p style="margin:0 0 14px 0;font-size:0.9em;color:#555;">高く残りやすい品は、専門の無料査定が有利。種類がバラバラなら記事末の総合査定が便利です。</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AUKEE2+35HU+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:inline-block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:0.95em;box-shadow:0 4px 14px rgba(26,188,156,0.45);">👘 着物の無料査定｜福ちゃん</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B2B196+35HU+15OK2A" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:inline-block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:0.95em;box-shadow:0 4px 14px rgba(26,188,156,0.45);">🏺 骨董の査定｜福ちゃん</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3HQH+3YAN4Q+5O4W+BWVTE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:inline-block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:0.95em;box-shadow:0 4px 14px rgba(26,188,156,0.45);">🏺 骨董の出張買取｜ウリエル</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1VU1+GE0M1M+5O4W+1ZGNQP" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:inline-block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:0.95em;box-shadow:0 4px 14px rgba(26,188,156,0.45);">⌚ ブランド時計｜ウリエル</a>
+</div>
 </div>
 
 <!-- ===== 🖼️ 箸休めイラスト（H2-4とH2-5の間＝記事のド真ん中・Phase3でノアが差替） ===== -->
@@ -371,9 +372,15 @@ related:
 
 <p>そして、<strong>「売る・売らない以前に、家ごと空にして掃除まで終わらせたい」</strong>という場合は、買取専門ではなく<strong>遺品整理業者</strong>の出番です。仕分け・搬出・清掃・消臭までワンストップで任せられます。費用はかかりますが、前述の通り買取分を作業費から差し引いてもらえる業者を選べば、負担はぐっと抑えられます。遠方で何度も通えない方や、量が多すぎて手がつけられない方には、現地の無料見積もりから相談してみる価値があります。</p>
 
-<!-- 110番ソフトCTA（控えめ枠・大カードにしない・A8インライン） -->
-<div style="text-align:center;margin:26px 0;">
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" target="_blank" style="display:inline-block;background:#fff;color:#2E5E4E;border:2px solid #2E5E4E;border-radius:30px;padding:12px 28px;text-decoration:none;font-weight:bold;font-size:0.98em;box-shadow:0 2px 6px rgba(46,94,78,0.15);">▶ 家ごと片付けたい人は「遺品整理110番」の無料現地見積もりへ</a>
+<!-- 110番CTA（枠＋説明＋リベ大流3要素：黄リボン訴求＋光るボタン＋公式サイトリンク） -->
+<div style="background:#FFF8EE;border:2px solid #E8923A;border-radius:10px;padding:20px 22px;margin:28px 0;box-shadow:0 3px 10px rgba(232,146,58,0.15);">
+<p style="margin:0 0 8px 0;font-weight:bold;color:#C8722A;font-size:1.06em;">🏠 「売る」より「家ごと空にして片付けたい」人へ</p>
+<p style="margin:0 0 16px 0;font-size:0.95em;line-height:1.85;color:#444;">仕分け・搬出・清掃・消臭までまとめて任せたいなら、<strong>遺品整理110番</strong>が便利です。全国対応で<strong>現地見積もりは無料</strong>。古物商を持つ業者なら<strong>買取できた分を作業費から差し引ける</strong>ので、前章でお伝えした通り最終的な負担を抑えられます。物を売るより「家を片付けること」が目的の方は、まず無料見積もりで総額を確認しておくと安心です。</p>
+<div style="text-align:center;margin:18px 0 0 0;">
+<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 全国対応・現地見積もり無料 ／</span>
+</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#F4A93C,#E8852C);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 16px rgba(232,133,44,0.5);">▶ 遺品整理110番の無料現地見積もりへ</a>
+<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">遺品整理110番</a></p>
 <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" alt="">
 </div>
 
