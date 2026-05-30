@@ -4,6 +4,7 @@ description: '遺品整理や買い替えでパテックフィリップを売る
 pubDate: '2026-05-14'
 heroImage: '../../assets/blog/patek-philippe-uru-doko.jpg'
 related:
+  - katami-tokei-uru-doko
   - ihinseiri-trouble
   - komehyo-evaluation
   - rolex-uru-doko

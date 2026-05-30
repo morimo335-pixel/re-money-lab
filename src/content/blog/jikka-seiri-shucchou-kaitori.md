@@ -5,10 +5,10 @@ pubDate: '2026-05-30'
 heroImage: '../../assets/blog/jikka-seiri-shucchou-kaitori.jpg'
 related:
   - jikka-seiri-kyodai-momeru
+  - katami-tokei-uru-doko
   - oya-kataduke-kyohi-setsutoku
   - jikka-jimai-kanto-deguchi
   - gijikka-mono-ooi-komaru
-  - oya-shukatsu-yarukoto
 ---
 
 <div class="article-content">
