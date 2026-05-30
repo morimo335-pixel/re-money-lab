@@ -2,6 +2,7 @@
 # WordPress→Astro 移管後の旧URLレガシー対応（2026-05-28 Satoshi指示 404解消）
 
 # WP時代のRSSフィードURL → 該当記事 or blogトップへ301転送
-/tag/買取査定/feed/atom/  /blog/  301
+# ※日本語タグは生書きだとエンコード差でマッチしない→ワイルドカードで全タグ吸収（2026-05-30 修正）
 /kimono-kaitori-koukai/feed/atom/  /kimono-kaitori-koukai/  301
+/tag/*  /blog/  301
 /comments/feed/  /  301
