@@ -4,11 +4,11 @@ description: '形見や実家から出てきた高級時計、どこで売るか
 pubDate: '2026-05-30'
 heroImage: '../../assets/blog/katami-tokei-uru-doko.jpg'
 related:
+  - jikka-kottou-uru
   - rolex-uru-doko
   - patek-philippe-uru-doko
   - jikka-seiri-shucchou-kaitori
   - ihinseiri-trouble
-  - jikka-seiri-kyodai-momeru
 ---
 
 <div class="article-content">
