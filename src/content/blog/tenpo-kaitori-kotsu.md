@@ -258,7 +258,7 @@ H2-5：店舗買取で買い叩かれない5つのコツ★（記事の核）
 
 <div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
   <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
-  <p style="margin:0;">「複数店回るのが面倒」と感じる方も多いですが、<strong>1時間の手間で査定額が1万円〜10万円変わる</strong>のが店舗買取の現実です。時給換算すると、これほど効率の良い「副業」はありません。特にロレックス・エルメスなどの高額品は、5社見積もりで<strong>最高値と最低値が50万円以上差がつく</strong>ことも珍しくありません。</p>
+  <p style="margin:0;">「複数店回るのが面倒」と感じる方も多いですが、<strong>1時間の手間で査定額が1万円〜10万円変わる</strong>のが店舗買取の現実です。時給換算すると、これほど効率の良い「副業」はありません。特にロレックス・エルメスなどの高額品は、5社見積もりで<strong>最高値と最低値が50万円以上差がつく</strong>ことも珍しくありません（<a href="/rolex-uru-doko/" style="color:#1E3A5F;font-weight:600;">ロレックスの損しない売り方と店選びはこちら</a>）。</p>
 </div>
 
 <hr />
