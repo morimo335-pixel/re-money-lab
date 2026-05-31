@@ -190,6 +190,7 @@ H2-3：壊れていても売れる？査定3要素
 <ul style="margin:0;padding-left:1.5em;">
 <li><a href="https://re-money-lab.com/kin-kaitori-chuiten/" style="color:#1E3A5F;text-decoration:underline;">金買取の注意点7選｜元業界人が教える損しない自衛術</a></li>
 <li><a href="https://re-money-lab.com/rikon-kekkonyubiwa/" style="color:#1E3A5F;text-decoration:underline;">離婚で結婚指輪・婚約指輪を売る7つのコツ｜刻印も解説</a></li>
+<li><a href="https://re-money-lab.com/konyaku-yubiwa-uru/" style="color:#1E3A5F;text-decoration:underline;">婚約指輪を売るならどこ？買取8年が相場と判断基準5選解説</a></li>
 </ul>
 </div>
 
