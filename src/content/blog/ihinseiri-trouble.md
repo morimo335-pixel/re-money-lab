@@ -4,10 +4,10 @@ description: '遺品整理 業者トラブル7選｜買取営業8年が暴く悪
 pubDate: '2026-04-30'
 heroImage: '../../assets/blog/ihinseiri-trouble.jpg'
 related:
+  - ihinseiri-gyousha-hikaku
   - gijikka-mono-ooi-komaru
   - oya-shukatsu-yarukoto
   - oya-ihin-suterarenai
-  - ng-actions-5
   - fukuchan-shucchou-kaitori
 ---
 

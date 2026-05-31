@@ -4,11 +4,11 @@ description: '実家整理で出てきた古い壺や掛軸、ガラクタだと
 pubDate: '2026-05-30'
 heroImage: '../../assets/blog/jikka-kottou-uru.jpg'
 related:
+  - ihinseiri-gyousha-hikaku
   - jikka-seiri-shucchou-kaitori
   - tetsubin-mikiwakekata
   - ihinseiri-trouble
   - jikka-seiri-kyodai-momeru
-  - katami-tokei-uru-doko
 ---
 
 <div class="article-content">
