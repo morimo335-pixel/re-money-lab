@@ -4,6 +4,7 @@ description: '実家整理で「全部捨てるしかない」と悩んでいま
 pubDate: '2026-05-30'
 heroImage: '../../assets/blog/jikka-seiri-shucchou-kaitori.jpg'
 related:
+  - souzoku-jikka-uru-mae-ni
   - kyoukasho-kaitori-osusume
   - ihinseiri-gyousha-hikaku
   - jikka-kottou-uru

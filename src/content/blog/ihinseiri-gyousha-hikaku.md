@@ -4,6 +4,7 @@ description: '高額請求や誤廃棄が怖い人へ。遺品整理の業者比
 pubDate: '2026-05-31'
 heroImage: '../../assets/blog/ihinseiri-gyousha-hikaku.jpg'
 related:
+  - souzoku-jikka-uru-mae-ni
   - jikka-seiri-shucchou-kaitori
   - jikka-kottou-uru
   - ihinseiri-trouble
