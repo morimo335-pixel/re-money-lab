@@ -4,6 +4,7 @@ description: '不用品やいらない物をどこで売れば最も得か悩ん
 pubDate: '2026-04-20'
 heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 related:
+  - kangakki-uru-doko
   - kyoukasho-kaitori-osusume
   - brandoff-evaluation
   - komehyo-evaluation
