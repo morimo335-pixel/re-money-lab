@@ -71,6 +71,7 @@ related:
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/jikka-seiri-shucchou-kaitori/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">実家整理で出張買取が"処分費まで軽くする"理由と業者選び</a></li>
 <li><a href="/jikka-kottou-uru/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">実家の骨董、捨てる前に。買取8年が見分け方と売り方を解説</a></li>
+<li><a href="/ihinseiri-osaka-souba/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">大阪の遺品整理 相場は？親の家を片付ける前に損しない順番を解説</a></li>
 </ul>
 </div>
 

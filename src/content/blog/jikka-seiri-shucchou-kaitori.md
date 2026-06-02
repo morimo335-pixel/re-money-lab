@@ -74,6 +74,7 @@ related:
 <li><a href="/jikka-seiri-kyodai-momeru/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">なぜ実家整理は兄弟で揉める？買取8年が見た泥沼と防ぎ方</a></li>
 <li><a href="/oya-kataduke-kyohi-setsutoku/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">そもそも親が片付けを拒否する｜捨てられない心理と会話術</a></li>
 <li><a href="/jikka-jimai-kanto-deguchi/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">実家じまいの費用はいくら？関東での手順と安く進めるコツ</a></li>
+<li><a href="/ihinseiri-osaka-souba/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">大阪の遺品整理 相場は？親の家を片付ける前に損しない順番を解説</a></li>
 </ul>
 </div>
 
