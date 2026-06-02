@@ -19,7 +19,7 @@ originSessionId: 2026-05-06-workflow-split-core
 - ✅ Phase宣言「🔹 Phase N：[ロール名]を起動します」を最初に書く
 - ✅ 単独ロール独断禁止（Phase毎の連携必須）
 - ✅ 引き継ぎメモ（`project_remoney_handoff.md`）を読む
-- ✅ WP REST APIで現状の記事数を実地確認（記憶より現実優先）
+- ✅ git repo（re-money-lab-astro/src/content/blog）と本番サイトで現状の記事数を実地確認（記憶より現実優先・WPはAstro移管済）
 
 ---
 
@@ -96,9 +96,9 @@ Vol 100-1000・competition「低」・感情検索系・個人ブログ参入余
 ## 🔄 ステップ4：既存記事との重複チェック（必須）
 
 ```bash
-source ~/.zshrc && curl -s -u "morimo335:${WP_APP_PASSWORD}" \
-  "https://re-money-lab.com/wp-json/wp/v2/posts?per_page=50&search=[KW]&_fields=id,title,slug" \
-  | python3 -m json.tool
+# Astro（現行）：記事mdのtitle/slugを直接grep。※WP REST APIはAstro移管で廃止
+cd ~/Desktop/ClaudeCode作業/re-money-lab-astro/src/content/blog
+for f in *.md; do grep -m1 '^title:' "$f" | sed "s|^title:|$f :|"; done | grep -iE '[KWの主要語]'
 ```
 重複あれば即却下→別KWへ。
 
@@ -240,7 +240,7 @@ Captain Rotor が毎朝の候補3本生成時に**実買取データの初期リ
 
 #### F. ビジュアル・公開設定（2）
 - [ ] アイキャッチ：数字＋パワーワード＋権威性 3点セット
-- [ ] WP設定（カテゴリ／タグ／パーマリンク英語／featured_media）
+- [ ] Astro frontmatter（title／description／pubDate／heroImage／related・slug=ファイル名英語）
 
 #### G. 必須仕上げ（2）
 - [ ] 読了時間バッジ冒頭表示
