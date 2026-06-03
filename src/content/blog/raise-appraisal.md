@@ -34,6 +34,7 @@ related:
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <a href="https://re-money-lab.com/ihinseiri-trouble/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 遺品整理 業者トラブル7選｜買取営業8年が暴く悪質手口と回避術 →</a>
+<a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;margin-top:8px;">📖 出張買取は怖い？当日の流れと女性1人の安全対策・断り方 →</a>
 </div>
 
 <figure class="wp-block-image aligncenter size-full is-style-rounded" style="width:200px;"><a href="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg"><img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハルのプロフィールアイコン" class="wp-image-125"/></a></figure>
