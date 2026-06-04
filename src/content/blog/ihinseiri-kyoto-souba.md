@@ -172,6 +172,7 @@ related:
 <p style="margin:0 0 10px 0;font-weight:bold;color:#1E3A5F;font-size:0.98em;">▶ あわせて読みたい（関西の遺品整理・実家片付け）</p>
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/ihinseiri-osaka-souba/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">大阪の遺品整理 相場と損しない順番｜長屋・狭い路地の事情も</a></li>
+<li><a href="/ihinseiri-kobe-souba/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">神戸の遺品整理 相場と坂の街で損しない順番｜港町の事情も</a></li>
 <li><a href="/jikka-seiri-shucchou-kaitori/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">実家整理で出張買取が"処分費まで軽くする"理由と業者選び</a></li>
 </ul>
 </div>
