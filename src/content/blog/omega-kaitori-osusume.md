@@ -133,6 +133,7 @@ related:
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/rolex-uri-doki/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">ロレックスの売り時はいつ？高く売るタイミングとNG行動</a></li>
 <li><a href="/patek-philippe-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">パテック・フィリップを売るならどこ？高額査定の店選び</a></li>
+<li><a href="/cartier-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">カルティエ時計の買取おすすめは？3社を目的別に比較</a></li>
 </ul>
 </div>
 
