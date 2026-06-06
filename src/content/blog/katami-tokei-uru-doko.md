@@ -189,6 +189,7 @@ related:
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/rolex-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">ロレックスを売って後悔しない？損しない売り方と店選び5選</a></li>
 <li><a href="/patek-philippe-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">パテック・フィリップを売るならどこ？別格の資産価値と頼み先</a></li>
+<li><a href="/omega-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">オメガ買取のおすすめは？3社を目的別に比較</a></li>
 </ul>
 </div>
 

@@ -325,6 +325,7 @@ related:
 <li><a href="/rolex-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">ロレックスを売って後悔しない？2026年最新相場と損しない店選び5選</a></li>
 <li><a href="/patek-philippe-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">パテック・フィリップを売るならどこ？別格の資産価値と頼み先</a></li>
 <li><a href="/katami-tokei-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">形見の時計、どこで売る？損しない業者選びを解説</a></li>
+<li><a href="/omega-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">オメガ買取のおすすめは？3社を目的別に比較</a></li>
 </ul>
 </div>
 
