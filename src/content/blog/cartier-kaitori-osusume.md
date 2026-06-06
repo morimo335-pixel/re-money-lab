@@ -130,6 +130,12 @@ related:
 <p style="margin:0;line-height:1.85;">カルティエは<strong>レディースの「指名買い」需要</strong>が世界中にあるのが他ブランドと違うところ。成人式・就職・結婚記念に「一生モノ」として選ばれるため、ステンレスの定番でも<strong>状態が良ければ定価の70〜90%で取引される</strong>ことも。さらにコンビや金無垢、純正ダイヤ入りは「ハイジュエリー」として評価され、地金高騰の今は特に価値が崩れにくくなっています。</p>
 </div>
 
+<!-- ===== 箸休めイラスト①（実写・H2-1末に配置・②と最大限離す） ===== -->
+<figure style="margin:30px 0;text-align:center;">
+<img src="/blog-images/cartier-kaitori-osusume-illust.jpg" alt="付属品の箱と保証書をそろえて高級腕時計を査定に出す準備をする様子" style="max-width:100%;height:auto;border-radius:10px;" />
+<figcaption style="font-size:0.85em;color:#888;margin-top:8px;">箱・保証書・余りコマをそろえてから出すのが、高く売るコツ。</figcaption>
+</figure>
+
 <!-- ===== ▶ あわせて読みたい（H2-1末・時計記事へ・A8とは離す） ===== -->
 <div style="background:#E3F2FD;border:3px solid #1E3A5F;border-radius:8px;padding:16px 20px;margin:24px 0;">
 <p style="margin:0 0 10px 0;font-weight:bold;color:#1E3A5F;font-size:0.98em;">▶ あわせて読みたい（他ブランドの売り方）</p>
@@ -205,12 +211,6 @@ related:
 </div>
 </div>
 
-<!-- ===== 箸休めイラスト（実写・Phase3でノア差替） ===== -->
-<figure style="margin:30px 0;text-align:center;">
-<img src="/blog-images/cartier-kaitori-osusume-illust.jpg" alt="付属品の箱と保証書をそろえて高級腕時計を査定に出す準備をする様子" style="max-width:100%;height:auto;border-radius:10px;" />
-<figcaption style="font-size:0.85em;color:#888;margin-top:8px;">箱・保証書・余りコマをそろえてから出すのが、高く売るコツ。</figcaption>
-</figure>
-
 <!-- ===== H2-3 カルティエ特有の査定のコツ ===== -->
 <h2>カルティエ特有のコツ｜革ベルトがボロでも、電池切れでも売れる</h2>
 
@@ -234,12 +234,6 @@ related:
 
 <p>もうひとつ、カルティエならではの注意点が<strong>「コピー品が非常に多いブランド」</strong>ということ。バイヤーは偽物をつかむリスクを警戒して査定を慎重にします。<strong>過去にカルティエの正規店で修理・点検を受けた明細書があれば、それが「本物の証明」として最強</strong>。保証書以上に査定の不安を払拭し、強気の金額を引き出せます。</p>
 
-<!-- ===== 箸休めイラスト②（実写・Phase3でノア差替・革ベルトの状態確認） ===== -->
-<figure style="margin:30px 0;text-align:center;">
-<img src="/blog-images/cartier-kaitori-osusume-illust2.jpg" alt="革ベルトが劣化した高級腕時計を手に取り、文字盤やケースの状態を確認する様子" style="max-width:100%;height:auto;border-radius:10px;" />
-<figcaption style="font-size:0.85em;color:#888;margin-top:8px;">革ベルトが傷んでいても、本体（ヘッド）が生きていれば価値は残る。</figcaption>
-</figure>
-
 <!-- ===== H2-4 売る前のNG ===== -->
 <h2>売る前にやってはいけない3つのNG</h2>
 
@@ -262,6 +256,12 @@ related:
 <li><strong>❌ 本物の証明を用意しない</strong>：コピー品が多いため、証明がないと安全策で低めに査定されがち。<strong>正規店の修理明細・納品書</strong>があれば一気に解消できる</li>
 </ul>
 </div>
+
+<!-- ===== 箸休めイラスト②（実写・革ベルトの状態確認・①と間隔をあける） ===== -->
+<figure style="margin:30px 0;text-align:center;">
+<img src="/blog-images/cartier-kaitori-osusume-illust2.jpg" alt="革ベルトが劣化した高級腕時計を手に取り、文字盤やケースの状態を確認する様子" style="max-width:100%;height:auto;border-radius:10px;" />
+<figcaption style="font-size:0.85em;color:#888;margin-top:8px;">革ベルトが傷んでいても、本体（ヘッド）が生きていれば価値は残る。</figcaption>
+</figure>
 
 <!-- ===== ▶ あわせて読みたい（H2-4末・トラブル/評判へ・A8とは離す） ===== -->
 <div style="background:#E3F2FD;border:3px solid #1E3A5F;border-radius:8px;padding:16px 20px;margin:24px 0;">
