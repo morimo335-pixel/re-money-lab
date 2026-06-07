@@ -191,6 +191,7 @@ related:
 <li><a href="/patek-philippe-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">パテック・フィリップを売るならどこ？別格の資産価値と頼み先</a></li>
 <li><a href="/omega-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">オメガ買取のおすすめは？3社を目的別に比較</a></li>
 <li><a href="/cartier-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">カルティエ時計の買取おすすめは？3社を目的別に比較</a></li>
+<li><a href="/grand-seiko-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">グランドセイコーを売るなら？同じ型番で33万円差がつく3社の選び方</a></li>
 </ul>
 </div>
 

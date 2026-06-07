@@ -141,6 +141,7 @@ related:
 <p style="margin:0 0 10px 0;font-weight:bold;color:#1E3A5F;font-size:0.98em;">▶ あわせて読みたい（他ブランドの売り方）</p>
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/omega-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">オメガ買取のおすすめは？3社を目的別に比較</a></li>
+<li><a href="/grand-seiko-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">グランドセイコーを売るなら？同じ型番で33万円差がつく3社の選び方</a></li>
 <li><a href="/rolex-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">ロレックスを売って後悔しない？損しない売り方と店選び</a></li>
 </ul>
 </div>

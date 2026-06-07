@@ -134,6 +134,7 @@ related:
 <li><a href="/rolex-uri-doki/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">ロレックスの売り時はいつ？高く売るタイミングとNG行動</a></li>
 <li><a href="/patek-philippe-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">パテック・フィリップを売るならどこ？高額査定の店選び</a></li>
 <li><a href="/cartier-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">カルティエ時計の買取おすすめは？3社を目的別に比較</a></li>
+<li><a href="/grand-seiko-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">グランドセイコーを売るなら？同じ型番で33万円差がつく3社の選び方</a></li>
 </ul>
 </div>
 
