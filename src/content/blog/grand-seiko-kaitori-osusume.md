@@ -169,7 +169,7 @@ related:
 <p style="margin:0 0 10px 0;font-weight:bold;color:#1E3A5F;font-size:0.98em;">▶ あわせて読みたい（他ブランドの売り方）</p>
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/omega-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">オメガ買取のおすすめは？3社を目的別に比較</a></li>
-<li><a href="/cartier-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">カルティエ時計の買取おすすめは？3社を目的別に比較</a></li>
+<li><a href="/tag-heuer-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">タグホイヤー買取で損しない3社｜カレラ・モナコの相場と高く売るコツ</a></li>
 </ul>
 </div>
 
