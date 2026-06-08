@@ -16,6 +16,7 @@ related:
 <div class="article-content">
 
 <p>※本記事は広告（PR）を含みます。</p>
+<p style="display:inline-block;background:#FFF8E1;color:#A77620;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #C8923A;margin-bottom:20px;">⏱ 読了目安 約13分</p>
 <p>「実家の片付けで出てきた古いブランド品や着物…これって売れるの？」<br>
 「親の遺品整理で大量の不用品が出た。何が価値があって何が捨ててOKなのか分からない…」<br>
 「断捨離したいけど、業者に買い叩かれるのも怖い…」</p>
@@ -352,6 +353,11 @@ related:
 <a href="https://re-money-lab.com/mercari-fuku-urenai/" style="color:#1E3A5F;text-decoration:none;font-weight:600;">メルカリで服が売れない7つの原因｜買取営業8年が教える出品術</a>
 </div>
 <hr />
+<figure style="margin:30px 0;text-align:center;">
+<img src="/blog-images/sell-unwanted-items-illust.jpg" alt="自宅で不用品（バッグ・食器・本など）を段ボールに仕分けて売る準備をする様子" style="max-width:100%;height:auto;border-radius:10px;" />
+<figcaption style="font-size:0.85em;color:#888;margin-top:8px;">売る物を仕分けて箱にまとめておくと、査定もスムーズになる。</figcaption>
+</figure>
+
 <h2>H2-3：あなたはどのタイプ？ペルソナ別おすすめの売り方</h2>
 <figure class="wp-block-image size-large aligncenter"><a href="https://re-money-lab.com/wp-content/uploads/2026/04/04-type-diagnosis-flow.png"><img src="https://re-money-lab.com/wp-content/uploads/2026/04/04-type-diagnosis-flow.png" alt="タイプ別診断フローチャート" class="wp-image-65"/></a></figure>
 
@@ -547,6 +553,11 @@ related:
 <a href="https://re-money-lab.com/furui-record-shobun/">【完全保存版】古いレコードの処分で損しない7つの鉄則｜元業界人8年が暴く査定の裏側</a>
 </div>
 
+<figure style="margin:30px 0;text-align:center;">
+<img src="/blog-images/sell-unwanted-items-illust2.jpg" alt="自宅で女性査定士が白手袋でバッグを査定し、お客様が見守る出張買取の様子" style="max-width:100%;height:auto;border-radius:10px;" />
+<figcaption style="font-size:0.85em;color:#888;margin-top:8px;">出張買取なら、自宅で査定の様子を見ながら安心して手放せる。</figcaption>
+</figure>
+
 <h2>H2-6：まとめ｜あなたに合う売り方への次のアクション</h2>
 <figure class="wp-block-image size-large aligncenter"><a href="https://re-money-lab.com/wp-content/uploads/2026/04/08-next-action-3routes.png"><img src="https://re-money-lab.com/wp-content/uploads/2026/04/08-next-action-3routes.png" alt="次のアクション3ルート" class="wp-image-69"/></a></figure>
 
@@ -586,60 +597,6 @@ related:
 <p>「<strong>売る側（消費者側）の味方</strong> として、業界の中の人だからこそ伝えられる情報を発信していく」——それが本ブログのコンセプトです。</p>
 <p>ぜひ、あなたの <strong>大切な不用品が、適正な価格で次のオーナーに渡る</strong> ように、本記事の知識を活用してください。</p>
 <p>最後までお読みいただき、本当にありがとうございました。</p>
-<hr /><hr />
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/fukuchan-shucchou-kaitori/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 福ちゃん出張買取の評判｜元業界人8年が3つのお得ポイント解説 →</a>
-</div>
-
-
-
-<!-- 記事18 切手シート買取への内部リンク -->
-<div style="background:#E3F2FD;border-left:4px solid #00695C;padding:15px 20px;margin:25px 0;border-radius:4px;">
-<p style="margin:0 0 6px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい</p>
-<p style="margin:0;"><a href="https://re-money-lab.com/kitte-sheet-kaitori/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;">親の切手シートはいくらで売れる？元業界人8年が高額査定の3コツ解説</a>（実家整理で出てきた切手シートを損せず売却する方法）</p>
-</div>
-
-<!-- 内部リンクカード：記事19 毛皮 -->
-
-<!-- ===== 内部リンクカード ===== -->
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
-  <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></p>
-</div>
-
-<!-- ===== 内部リンクカード ===== -->
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
-  <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">買取査定額を上げるコツ7選｜買取営業8年が教える準備術</a></p>
-</div>
-
-<!-- ===== 内部リンクカード ===== -->
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
-  <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/fukuchan-shucchou-kaitori/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">福ちゃん出張買取の評判｜元業界人8年が3つのお得ポイント解説</a></p>
-</div>
-
-<!-- 内部リンク水色カード（記事24・古いお酒・5/8追加） -->
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
-▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/furui-osake-ureru/">山崎18年が9万円！？家の古いお酒は売れる？元業界人8年の7つのコツ</a>
-</div>
-
-
-<!-- 内部リンク水色カード（記事26・おもちゃ買取本音相場・2026-05-10追加） -->
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
-▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/omocha-kaitori-souba/">おもちゃ買取の本音相場5選｜買取8年がトミカ・LEGO解説</a>
-</div>
-
-<!-- ===== 記事34 雛人形処分への逆リンク（2026-05-15追加） ===== -->
-<div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
-<p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：節句人形（雛人形・五月人形）の処分でお悩みの方へ</p>
-<ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/hina-ningyo-shobun/" style="color:#1E3A5F;text-decoration:underline;">雛人形の処分はみんなどうしてる？買取8年が神社・買取・寄付を本音解説</a>（神社供養＋買取＋寄付の5つの選択肢）</li>
-</ul>
-</div>
 
 <!-- ===== 筆者プロフィール②：記事末（小130px・横並び）===== -->
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:6px;padding:20px;margin:30px 0;display:flex;align-items:center;gap:18px;">
@@ -653,26 +610,6 @@ related:
 <li>古物商許可保有</li>
 </ul>
 </div>
-</div>
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/shokki-shobun/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 食器の処分どうする？元業界人8年が教える5つの正解と高く売るコツ →</a>
-</div>
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/kosen-shobun/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 古銭の処分は捨てる前に！元業界人8年が教える売れる5つの選択肢 →</a>
-</div>
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/tenpo-kaitori-kotsu/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 店舗買取の注意点5選｜買取8年が買い叩かれない持ち込みコツ解説 →</a>
-</div>
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/sneaker-basketball-shoes-kaitori/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 【買取8年】スニーカー・バッシュ買取はいくら？高く売る5選 →</a>
-</div>
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/mishin-kaitori-tokyo/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 捨てる前に！東京23区のミシン買取は出張査定が正解｜買取8年 →</a>
 </div>
 
 
