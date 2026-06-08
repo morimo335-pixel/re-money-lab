@@ -169,6 +169,7 @@ related:
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/grand-seiko-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">グランドセイコーを売るなら？同じ型番で33万円差がつく3社の選び方</a></li>
 <li><a href="/iwc-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">IWCを売るなら？同じ時計で22万円差・古くても売れる3社比較</a></li>
+<li><a href="/breitling-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">ブライトリング買取おすすめ3社｜売る前のオーバーホールは大損？</a></li>
 </ul>
 </div>
 
