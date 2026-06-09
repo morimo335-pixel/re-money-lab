@@ -171,6 +171,7 @@ related:
 <li><a href="/omega-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">オメガ買取のおすすめは？3社を目的別に比較</a></li>
 <li><a href="/tag-heuer-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">タグホイヤー買取で損しない3社｜カレラ・モナコの相場と高く売るコツ</a></li>
 <li><a href="/iwc-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">IWCを売るなら？同じ時計で22万円差・古くても売れる3社比較</a></li>
+<li><a href="/koukyu-tokei-nisemono-mikiwakekata/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">本物か分からない…「偽物の見分け方」より大事な高級時計の売り方</a></li>
 </ul>
 </div>
 

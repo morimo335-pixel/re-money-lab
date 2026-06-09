@@ -136,6 +136,7 @@ related:
 <li><a href="/cartier-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">カルティエ時計の買取おすすめは？3社を目的別に比較</a></li>
 <li><a href="/grand-seiko-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">グランドセイコーを売るなら？同じ型番で33万円差がつく3社の選び方</a></li>
 <li><a href="/tag-heuer-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">タグホイヤー買取で損しない3社｜カレラ・モナコの相場と高く売るコツ</a></li>
+<li><a href="/koukyu-tokei-nisemono-mikiwakekata/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">本物か分からない…「偽物の見分け方」より大事な高級時計の売り方</a></li>
 </ul>
 </div>
 

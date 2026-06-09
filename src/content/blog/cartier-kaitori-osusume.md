@@ -143,6 +143,7 @@ related:
 <li><a href="/omega-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">オメガ買取のおすすめは？3社を目的別に比較</a></li>
 <li><a href="/grand-seiko-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">グランドセイコーを売るなら？同じ型番で33万円差がつく3社の選び方</a></li>
 <li><a href="/rolex-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">ロレックスを売って後悔しない？損しない売り方と店選び</a></li>
+<li><a href="/koukyu-tokei-nisemono-mikiwakekata/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">本物か分からない…「偽物の見分け方」より大事な高級時計の売り方</a></li>
 </ul>
 </div>
 
