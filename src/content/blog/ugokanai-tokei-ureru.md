@@ -304,7 +304,7 @@ related:
 <div style="background:#fff;border:3px solid #B85C38;border-radius:10px;padding:20px 24px;margin:28px 0;">
 <p style="margin:0 0 12px 0;font-weight:bold;color:#B85C38;font-size:1.05em;">⌚ ブランド別の売り方ガイド</p>
 <ul style="margin:0;padding-left:1.3em;line-height:2.1;">
-<li><a href="/rolex-uru-doko/" style="color:#B85C38;font-weight:600;">ロレックス</a>——不動・ガラス割れでも15万円の実例。部品需要が世界最強</li>
+<li><a href="/rolex-uru-doko/" style="color:#B85C38;font-weight:600;">ロレックスを売って後悔しない店選び</a>——不動・ガラス割れでも15万円の実例。部品需要が世界最強</li>
 <li><a href="/omega-kaitori-osusume/" style="color:#B85C38;font-weight:600;">オメガ</a>——不動のシーマスターでも約10万円。スピマス・シーマスターの相場</li>
 <li><a href="/iwc-kaitori-osusume/" style="color:#B85C38;font-weight:600;">IWC</a>——永久修理制度があり、古くても・動かなくても価値が残る</li>
 <li><a href="/tag-heuer-kaitori-osusume/" style="color:#B85C38;font-weight:600;">タグホイヤー</a>——クォーツは電池交換してから出すと得（本文の例外パターン）</li>
