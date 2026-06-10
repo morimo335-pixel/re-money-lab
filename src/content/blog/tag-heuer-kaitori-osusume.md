@@ -76,6 +76,7 @@ related:
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/katami-tokei-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">形見の時計、どこで売る？損しない業者選びを解説</a></li>
 <li><a href="/rolex-uri-doki/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">ロレックスの売り時はいつ？高く売るタイミングとNG行動</a></li>
+<li><a href="/ugokanai-tokei-ureru/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">動かない・電池切れの時計は売れる？修理不要で高く売る方法</a></li>
 </ul>
 </div>
 
