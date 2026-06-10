@@ -197,6 +197,7 @@ related:
 <li><a href="/breitling-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">ブライトリング買取おすすめ3社｜売る前のオーバーホールは大損？</a></li>
 <li><a href="/koukyu-tokei-nisemono-mikiwakekata/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">本物か分からない…「偽物の見分け方」より大事な高級時計の売り方</a></li>
 <li><a href="/ugokanai-tokei-ureru/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">動かない時計は売れる？不動ロレックス15万円の実例と修理不要の売り方</a></li>
+<li><a href="/furui-udedokei-ureru/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">古い腕時計は売れる？セイコー旧型4.6万円の実例と磨かず売る方法</a></li>
 </ul>
 </div>
 

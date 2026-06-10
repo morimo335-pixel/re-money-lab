@@ -77,6 +77,7 @@ related:
 <p style="margin:0 0 10px 0;font-weight:bold;color:#1E3A5F;font-size:0.98em;">▶ あわせて読みたい（時計を手放す前に）</p>
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/katami-tokei-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">形見の時計、どこで売る？損しない業者選びを解説</a></li>
+<li><a href="/furui-udedokei-ureru/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">古い腕時計は売れる？セイコー旧型4.6万円の実例と磨かず売る方法</a></li>
 </ul>
 </div>
 

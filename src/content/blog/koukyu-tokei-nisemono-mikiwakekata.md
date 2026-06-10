@@ -249,6 +249,7 @@ related:
 <li><a href="/iwc-kaitori-osusume/" style="color:#34418C;font-weight:600;">IWC</a>——永久修理制度があり、古くても・動かなくても売れる</li>
 <li><a href="/breitling-kaitori-osusume/" style="color:#34418C;font-weight:600;">ブライトリング</a>——ナビタイマー・クロノマット。売る前のオーバーホールは大損</li>
 <li><a href="/tudor-kaitori-osusume/" style="color:#34418C;font-weight:600;">チューダー（旧チュードル）</a>——「弟分」と思って売ると損。同じブラックベイで11万円差</li>
+<li><a href="/furui-udedokei-ureru/" style="color:#34418C;font-weight:600;">古い腕時計（ブランド不問）</a>——セイコー旧型4.6万円の実例。「古いからゴミ」が一番の損</li>
 <li><a href="/katami-tokei-uru-doko/" style="color:#34418C;font-weight:600;">形見・遺品の時計（ブランド不問）</a>——どこで・どう売るかの全体像はこちら</li>
 </ul>
 </div>
