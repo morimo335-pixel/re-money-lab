@@ -1,5 +1,5 @@
 ---
-title: '動かない時計は売れる？捨てる前に知る壊れた時計の買取相場｜買取8年'
+title: '動かない時計は売れる？不動ロレックス15万円の実例と修理不要の売り方｜買取8年'
 description: '動かない時計は売れる？結論、壊れていても値がつきます。不動のロレックスが15万円になった実例、電池切れ・水没・ガラス割れ別の減額目安、修理してから売ると損する理由、売り先3つの比較まで買取8年が解説します。'
 pubDate: '2026-06-11'
 heroImage: '../../assets/blog/ugokanai-tokei-ureru.jpg'
@@ -129,7 +129,7 @@ related:
 <li><strong>③ 海外への販路</strong>：円安の今、日本の中古時計とその部品は海外バイヤーにとって「世界で一番安く買える高品質な資源」。動かないムーブメント（機械部分）単体でも輸出されて取引されています。</li>
 </ul>
 
-<p>つまり「国内ではゴミに見えても、世界のどこかでは宝」。これが動かない時計が売れるカラクリです。</p>
+<p>国内だと値段がつかないように見えても、海外の修理ルートでは普通に部品需要がある——これが、動かない時計が売れるカラクリです。</p>
 
 <!-- ===== H2-2 故障タイプ別 ===== -->
 <h2>故障タイプ別の買取基準｜電池切れ・水没・ガラス割れでいくら減る？</h2>
@@ -155,8 +155,20 @@ related:
 <tr style="background:#F8ECE6;"><td style="padding:8px;border:1px solid #ccc;">ベルト切れ・腐食</td><td style="padding:8px;border:1px solid #ccc;">○ 売れる</td><td style="padding:8px;border:1px solid #ccc;">本体（ヘッド）のみの評価に</td></tr>
 </tbody>
 </table>
-<p style="font-size:0.8em;color:#888;margin:8px 0 0 0;">※一般的な高級ブランド時計の目安。買取不可になるのは、真贋（本物か）が確認できない個体やシリアルが削れた個体など、ごく一部です。</p>
+<p style="font-size:0.8em;color:#888;margin:8px 0 0 0;">※一般的な高級ブランド時計の目安。状態・モデル・査定先で変動します。</p>
 </div>
+
+<h3>動かない時計でも「買取不可」になるケースは？</h3>
+
+<p>逆に、故障の内容にかかわらず値段がつかないのは、次のようなケースです。</p>
+
+<ul>
+<li><strong>真贋（本物か偽物か）が確認できない個体</strong>——スーパーコピーの疑いがあるものは法律上買い取れません</li>
+<li><strong>シリアルナンバーが削れている個体</strong>——盗品でないことの確認ができないため一律で不可</li>
+<li><strong>内部が赤サビで完全に固着し、鑑定自体ができないほどの腐食</strong></li>
+</ul>
+
+<p>裏を返せば、これに当てはまらなければ「故障で買取不可」はめったにありません。本物かどうか不安な場合の対処は、<a href="/koukyu-tokei-nisemono-mikiwakekata/" style="color:#B85C38;font-weight:600;">「偽物の見分け方」より大事な高級時計の売り方</a>でも詳しく書いています。</p>
 
 <p>見てのとおり、<strong>ほとんどの故障は「減額はあっても、売れなくはならない」</strong>。ゼンマイ式（機械式）の時計は、部品さえあれば直して使い続けられる構造なので、原則として買取不可にはなりません。注意したいのは安価なファッション時計やノーブランド品で、こちらは故障していると値がつかないことがあります（その場合の出口も後ほど）。</p>
 
@@ -172,7 +184,7 @@ related:
 </figure>
 
 <!-- ===== H2-3 修理は大損 ===== -->
-<h2>修理してから売るのは大損｜唯一の例外は「安いクォーツの電池交換」</h2>
+<h2>時計は修理してから売るべき？基本は不要｜例外は電池交換だけ</h2>
 
 <p>「直してから持って行ったほうが高く売れるのでは？」——これが一番多い誤解です。数字で見てみましょう。</p>
 
@@ -181,7 +193,7 @@ related:
 <p style="margin:0 0 8px 0;font-weight:bold;color:#B85C38;font-size:1.05em;">🛡️ 「動けば8万円」の機械式時計、どっちが得？</p>
 <p style="margin:0 0 10px 0;line-height:1.85;"><strong>A：自費で分解掃除（約6万円）してから売る</strong> → 8万円 − 6万円 ＝ 手元に残るのは<strong>2万円</strong><br>
 <strong>B：何もせず、そのまま売る</strong> → 店は自社工房で約3万円で直せるので、その分だけ引いて買取 → 手元に<strong>5万円</strong></p>
-<p style="margin:0;line-height:1.85;">結果、<strong>何もしないBのほうが3万円も多く残ります</strong>。買取店が引く「故障減額」は、あなたが払う高い修理代ではなく、<strong>店の安い修理原価</strong>を基準に計算されるからです。さらに、安く直そうと非正規の修理店で社外部品に交換すると「改造品」扱いになり、修理前より下がる・買取を断られることすらあります。<strong>動かないまま、不具合を正直に伝えて出す——これが鉄則です。</strong></p>
+<p style="margin:0;line-height:1.85;">結果、<strong>何もしないBのほうが3万円も多く残ります</strong>。買取店が引く「故障減額」は、あなたが払う高い修理代ではなく、<strong>店の安い修理原価</strong>を基準に計算されるからです。さらに、安く直そうと非正規の修理店で社外部品に交換すると「改造品」扱いになり、修理前より下がる・買取を断られることすらあります。現場感覚で言うと、<strong>無理に触らず、不具合を正直に伝えてそのまま見てもらう人のほうが、結果的に損が少ないケースがほとんど</strong>です。</p>
 </div>
 
 <p>ただし、<strong>唯一の例外</strong>があります。それは<strong>1〜5万円クラスの量産クォーツ時計の「電池交換」だけ</strong>。電池が切れたまま査定に出すと、店は「電池でなく内部の回路が壊れているかもしれない」という最悪のケースを想定して、1〜2万円大きめに引かざるを得ません。1,000〜2,000円で電池を換えて「動く」と証明できれば、この保険分の減額を防げて差し引きプラスになります。タグホイヤーなどのクォーツはこのパターンです。逆に、<strong>高級な機械式時計には触らないこと</strong>。これだけ覚えておけば大丈夫です。</p>
@@ -264,7 +276,7 @@ related:
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
 <div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🎯 動かないまま、まず無料で価値を確かめる</div>
 <div style="padding:20px;">
-<p style="margin:0 0 14px 0;">動かない時計は出す店で「数百円」にも「数万円」にもなります。どこも査定・キャンセル無料なので、<strong>修理せずそのまま</strong>、合うボタンから確かめてみてください。</p>
+<p style="margin:0 0 14px 0;">動かない時計は出す店で「数百円」にも「数万円」にもなります。<strong>「これ本当に値段つくの？」くらいの状態でも大丈夫</strong>。まずは無料査定で相場だけ見てみてください。</p>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9UUE3E+2OUY+HV7V6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;margin-bottom:12px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">⌚ 高級ブランドの不動品｜複数社が競う一括査定 ラクーダ（全国）　▶</a>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9H5F6I+3VEM+61C2P" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;margin-bottom:12px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">🏢 1点を安全・確実に｜自社修理工房の コメ兵（全国）　▶</a>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1VU1+GE0M1M+5O4W+1ZGNQP" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 14px rgba(26,188,156,0.42);">🏠 遺品・実家整理ごと｜自宅で出張買取 ウリエル　▶</a>
