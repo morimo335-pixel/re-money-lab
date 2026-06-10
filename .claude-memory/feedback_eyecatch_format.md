@@ -279,6 +279,9 @@ All Japanese text PERFECTLY RENDERED Mincho serif. Pure off-white cream backgrou
 
 ---
 
+## 🆕 2026-06-11 確定：右下コーナーは常に空ける（Geminiウォーターマーク対策・Satoshi指摘）
+Gemini生成画像は**右下に透かしマークが入る**ため、アイキャッチの静物・サブ要素・文字を右下に配置しない。プロンプトに毎回 `Keep the BOTTOM-RIGHT corner COMPLETELY EMPTY (plain background, space reserved for a watermark)` を明記。静物は左下（人物の手前）等へ。記事74で木箱＋時計が透かしと重なり再生成になった事案。
+
 ## 🚫 NGリスト（恒久・絶対遵守）
 
 - ❌ テキストなし／人物なし／ロゴなしの抽象アイキャッチ
