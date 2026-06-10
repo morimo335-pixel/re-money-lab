@@ -1,6 +1,6 @@
 ---
-title: '捨てる前に！古い腕時計は売れる？保証書なしでも値がつく理由｜買取8年'
-description: '古い腕時計は売れる？結論、親の世代のセイコーやオメガは古いほど価値が出ることがあります。本体だけのキングセイコー4.6万円・古いチュードル70万円の実例、保証書・箱なしの減額目安と防ぎ方、磨いてはいけない理由まで買取8年が解説します。'
+title: '古い腕時計は売れる？セイコー旧型4.6万円の実例と磨かず売る方法｜買取8年'
+description: '古い腕時計は売れるのか、本体だけのセイコー旧型4.6万円の実例と磨かず売る方法を解説。保証書・箱なしでも値がつく理由とブランド別の減額目安、査定が3〜5割下がるNGなお手入れ、古い時計に強い売り先3社の比較まで買取8年がまとめました。'
 pubDate: '2026-06-11'
 heroImage: '../../assets/blog/furui-udedokei-ureru.jpg'
 related:
@@ -20,7 +20,7 @@ related:
 <p style="display:inline-block;background:#EFF2E6;color:#5B6B3C;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #5B6B3C;margin-bottom:20px;">⏱ 読了目安 約8分</p>
 
 <!-- ===== リード文 ===== -->
-<p>実家の片付けで出てきた、父や祖父の古い腕時計——<strong>「こんな何十年も前のもの、売れるわけない」と捨てるのは、ちょっと待ってください。</strong>時計の世界では、<strong>「古いほど価値が上がる」逆転現象</strong>が普通に起きています。本体だけの古いキングセイコーに4万6千円、社外ベルトに替わった古いチュードルに70万円の実例もあるのです。</p>
+<p>実家の片付けで出てきた、父や祖父の古い腕時計——<strong>「こんな何十年も前のもの、売れるわけない」と捨てるのは、ちょっと待ってください。</strong>時計の世界では、<strong>「古いほど価値が上がる」逆転現象</strong>が起きることがあります。本体だけの古いキングセイコーに4万6千円、社外ベルトに替わった古いチュードルに70万円の実例もあるのです。</p>
 
 <p>とはいえ、手元の時計を前にこんなふうに迷っていませんか。</p>
 
@@ -113,12 +113,12 @@ related:
 <tr><td style="padding:8px;border:1px solid #ccc;">1970年代 キングセイコー（国産）</td><td style="padding:8px;border:1px solid #ccc;"><strong>本体のみ</strong>・傷あり</td><td style="padding:8px;border:1px solid #ccc;"><strong>〜46,000円</strong></td></tr>
 <tr style="background:#EFF2E6;"><td style="padding:8px;border:1px solid #ccc;">1960年代 グランドセイコー旧型（国産）</td><td style="padding:8px;border:1px solid #ccc;"><strong>本体のみ</strong>・経年劣化</td><td style="padding:8px;border:1px solid #ccc;"><strong>61,000円</strong></td></tr>
 <tr><td style="padding:8px;border:1px solid #ccc;">1970年代 チュードル サブマリーナ</td><td style="padding:8px;border:1px solid #ccc;"><strong>本体のみ</strong>・社外革ベルト</td><td style="padding:8px;border:1px solid #ccc;"><strong>700,000円</strong></td></tr>
-<tr style="background:#EFF2E6;"><td style="padding:8px;border:1px solid #ccc;">1970年代 オメガ シーマスター</td><td style="padding:8px;border:1px solid #ccc;"><strong>本体のみ</strong>・経年傷</td><td style="padding:8px;border:1px solid #ccc;"><strong>511,000円</strong>（上限級の例）</td></tr>
-<tr><td style="padding:8px;border:1px solid #ccc;">1960年代 オメガ コンステレーション</td><td style="padding:8px;border:1px solid #ccc;"><strong>本体のみ</strong></td><td style="padding:8px;border:1px solid #ccc;"><strong>887,000円</strong>（上限級の例）</td></tr>
+<tr style="background:#EFF2E6;"><td style="padding:8px;border:1px solid #ccc;">1970年代 オメガ シーマスター（希少機）</td><td style="padding:8px;border:1px solid #ccc;"><strong>本体のみ</strong>・経年傷</td><td style="padding:8px;border:1px solid #ccc;"><strong>511,000円</strong>（上限級の例）</td></tr>
+<tr><td style="padding:8px;border:1px solid #ccc;">1960年代 オメガ コンステレーション（希少機）</td><td style="padding:8px;border:1px solid #ccc;"><strong>本体のみ</strong></td><td style="padding:8px;border:1px solid #ccc;"><strong>887,000円</strong>（上限級の例）</td></tr>
 <tr style="background:#EFF2E6;"><td style="padding:8px;border:1px solid #ccc;">1960年代 グランドセイコー旧型</td><td style="padding:8px;border:1px solid #ccc;">内箱・保証書あり（完品）</td><td style="padding:8px;border:1px solid #ccc;"><strong>1,150,000円</strong></td></tr>
 </tbody>
 </table>
-<p style="font-size:0.8em;color:#888;margin:8px 0 0 0;">※各買取店の公開買取実績より（出典：ピアゾ／モノ・ループ／なんぼや／ヒカカク！ 等）。モデル・状態・時期・査定先で大きく変動します。</p>
+<p style="font-size:0.8em;color:#888;margin:8px 0 0 0;">※各買取店の公開買取実績より（出典：ピアゾ／モノ・ループ／なんぼや／ヒカカク！ 等）。モデル・状態・時期・査定先で大きく変動します。オメガの50万円超は希少モデルの上限級で、一般的なステンレスの古いシーマスターは数万〜十数万円前後が目安です。</p>
 </div>
 
 <p>注目してほしいのは、<strong>高額例のほとんどが「本体のみ」</strong>だということ。そして<strong>国産のセイコーでも、型番によっては数万円〜100万円超</strong>になること。「セイコーだから安物」「付属品がないからダメ」という思い込みが、いちばんの損になります。</p>
@@ -158,7 +158,7 @@ related:
 </table>
 </div>
 
-<p>ポイントは、<strong>この線引きを素人が判別するのはほぼ不可能</strong>だということ。文字盤の変色ひとつ取っても、「劣化」ではなく「経年の味（パティナ）」としてプラス評価されることがあるのが、この世界の面白いところです。だからこそ「自分で判断して捨てる」のがいちばん危ない。判定はプロに任せて、あなたは無料査定に出すだけでいいんです。</p>
+<p>補足をひとつ。クォーツ（電池式）だから全部ダメ、というわけでもありません。<strong>80〜90年代のクォーツでも、初期モデルや人気ブランドのものは値がつくことがあります</strong>。そしてポイントは、<strong>この線引きを素人が判別するのはほぼ不可能</strong>だということ。文字盤の変色ひとつ取っても、「劣化」ではなく「経年の味（パティナ）」としてプラス評価されることがあるのが、この世界の面白いところです。だからこそ「自分で判断して捨てる」のがいちばん危ない。判定はプロに任せて、あなたは無料査定に出すだけでいいんです。</p>
 
 <div style="background:#E0F2F1;border:4px solid #00695C;border-radius:8px;padding:18px 22px;margin:28px 0;">
 <p style="margin:0 0 10px 0;"><strong style="color:#004D40;">💡 業界人ワンポイント</strong></p>
