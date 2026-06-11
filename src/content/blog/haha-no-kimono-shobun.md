@@ -205,6 +205,22 @@ related:
 
 <p>実際、形見の大島紬を売った方が「査定士さんが織りの技術を丁寧に説明してくれて、納得して手放せた。そのお金で母と祖母を偲ぶ食事に行けて、最高の形見分けになった」と語っている公開体験談もあります。<strong>売ることは、供養のかたちのひとつ</strong>——現場で何度もそう感じてきました。</p>
 
+<!-- ===== 中盤PR表記 ===== -->
+<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
+
+<!-- ===== 2社並列CTA（中盤・H2-3ハイブリッド解決法の直後） ===== -->
+<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🌸 ステップ③へ｜タンスの着物を無料の出張査定で「仕分け」してもらう</div>
+<div style="padding:20px;">
+<p style="margin:0 0 14px 0;">「どうせ値がつかないかも」くらいの気持ちで大丈夫。<strong>運ばず・洗わず・そのまま</strong>、プロに1点ずつ見てもらってください。出張も査定もキャンセルも無料です。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AUKEE2+35HU+60OXE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;margin-bottom:12px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">👘 着物が主役なら｜女性査定士を呼べる 福ちゃん（全国）　▶</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1VU1+FUYQOQ+5O4W+HV7V6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 14px rgba(26,188,156,0.42);">🏠 遺品・家まるごとなら｜出張買取 ウリエル　▶</a>
+<p style="margin:12px 0 0 0;font-size:0.82em;color:#777;">※ウリエルは関東・東海・関西＋岡山のエリア限定です。エリア外の方や着物中心の方は、全国対応の福ちゃんへ。いずれも出張・査定無料。</p>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPX+AUKEE2+35HU+60OXE" alt="">
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1VU1+FUYQOQ+5O4W+HV7V6" alt="">
+</div>
+</div>
+
 <!-- ===== H2-4 売る前NG ===== -->
 <h2>売る前にやってはいけないこと｜クリーニングに出すと費用倒れします</h2>
 
@@ -279,22 +295,6 @@ related:
 <li><strong>バイセル（注意系）</strong>：「数十万円した着物でも、リユース市場では正直かなり安くなる。捨てるより誰かに使ってもらえる、という割り切りは必要」（出典：着物情報サイトの体験談）</li>
 </ul>
 <p style="margin:10px 0 0 0;font-size:0.82em;color:#888;">※各社の公開口コミ・利用者の声を要約。感じ方には個人差があります。高く売ることより「納得して手放せたか」が満足度を分けています。</p>
-</div>
-
-<!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
-
-<!-- ===== 2社並列CTA（中盤・目的別） ===== -->
-<div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
-<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🌸 タンスの着物、まず無料の出張査定で「仕分け」してもらう</div>
-<div style="padding:20px;">
-<p style="margin:0 0 14px 0;">「どうせ値がつかないかも」くらいの気持ちで大丈夫。<strong>運ばず・洗わず・そのまま</strong>、プロに1点ずつ見てもらってください。出張も査定もキャンセルも無料です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AUKEE2+35HU+60OXE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;margin-bottom:12px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">👘 着物が主役なら｜女性査定士を呼べる 福ちゃん（全国）　▶</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1VU1+FUYQOQ+5O4W+HV7V6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 14px rgba(26,188,156,0.42);">🏠 遺品・家まるごとなら｜出張買取 ウリエル　▶</a>
-<p style="margin:12px 0 0 0;font-size:0.82em;color:#777;">※ウリエルは関東・東海・関西＋岡山のエリア限定です。エリア外の方や着物中心の方は、全国対応の福ちゃんへ。いずれも出張・査定無料。</p>
-<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPX+AUKEE2+35HU+60OXE" alt="">
-<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1VU1+FUYQOQ+5O4W+HV7V6" alt="">
-</div>
 </div>
 
 <!-- ===== H2-6 まとめ ===== -->
