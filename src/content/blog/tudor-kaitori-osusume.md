@@ -163,6 +163,7 @@ related:
 <li><a href="/rolex-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">ロレックスを売って後悔しない？損しない売り方と店選び</a></li>
 <li><a href="/breitling-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">ブライトリング買取おすすめ3社｜売る前のオーバーホールは大損？</a></li>
 <li><a href="/iwc-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">IWCを売るなら？同じ時計で22万円差・古くても売れる3社比較</a></li>
+<li><a href="/panerai-kaitori-osusume/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">パネライ買取おすすめ3社｜同じPAM00111で28万円差？売るならどこ</a></li>
 </ul>
 </div>
 
