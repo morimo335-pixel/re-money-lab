@@ -67,7 +67,7 @@ related:
 <!-- ===== 早期送客（テキスト案内・リンク埋め込みなし） ===== -->
 <div style="background:linear-gradient(135deg,#F1EBE2,#FFF8E1);border:3px solid #6B4A2E;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 10px 0;font-weight:bold;color:#6B4A2E;font-size:1em;">📌 まず結論だけ知りたい方へ</p>
-<p style="margin:0;line-height:1.85;">パネライは一時の投機ブームが落ち着いて、いまは本物のコレクターに支えられた底堅い相場です。円安で海外バイヤーの買い付けも活発。ただし<strong>パネライほど店ごとに査定が割れる時計はなく、同じPAM00111で28万円の差</strong>が出ています（後で実例を出します）。基本は<strong>「修理せず・磨かず、付属品をそろえて複数社で比べる」</strong>こと。<strong>1円でも高くなら複数社が競う一括査定のラクーダ、大手の安心感ならコメ兵、自宅で手間なくならウリエル</strong>が向いています。</p>
+<p style="margin:0;line-height:1.85;">パネライは一時の投機ブームが落ち着いて、いまは本物のコレクターに支えられた底堅い相場です。円安で海外バイヤーの買い付けも活発。ただし<strong>パネライほど店ごとに査定が割れる時計はなく、同じPAM00111でも公開買取価格に最大28万円の開き</strong>が出ています（後で実例を出します）。基本は<strong>「修理せず・磨かず、付属品をそろえて複数社で比べる」</strong>こと。<strong>1円でも高くなら複数社が競う一括査定のラクーダ、大手の安心感ならコメ兵、自宅で手間なくならウリエル</strong>が向いています。</p>
 </div>
 
 <!-- ===== ▶ あわせて読みたい（早期送客BOX・内部リンク・A8とは離す） ===== -->
@@ -114,13 +114,13 @@ related:
 <tr style="background:#F1EBE2;"><td style="padding:8px;border:1px solid #ccc;">ルミノール マリーナ PAM01312（自動44mm）</td><td style="padding:8px;border:1px solid #ccc;">中古良品・箱保証書あり</td><td style="padding:8px;border:1px solid #ccc;"><strong>450,000〜665,000円</strong>（店舗差 21.5万）</td></tr>
 <tr><td style="padding:8px;border:1px solid #ccc;">サブマーシブル PAM00959（自動42mm）</td><td style="padding:8px;border:1px solid #ccc;">良好・付属品完備</td><td style="padding:8px;border:1px solid #ccc;"><strong>530,000〜642,000円</strong></td></tr>
 <tr style="background:#F1EBE2;"><td style="padding:8px;border:1px solid #ccc;">ラジオミール ブラックシール3デイズ PAM00754（手巻45mm）</td><td style="padding:8px;border:1px solid #ccc;">使用感・箱保証書あり</td><td style="padding:8px;border:1px solid #ccc;"><strong>250,000〜405,000円</strong></td></tr>
-<tr><td style="padding:8px;border:1px solid #ccc;">サブマーシブル ブロンゾ PAM00382（自動47mm）</td><td style="padding:8px;border:1px solid #ccc;">緑青あり・完品</td><td style="padding:8px;border:1px solid #ccc;"><strong>320万〜380万円</strong>（限定モデルの例）</td></tr>
+<tr><td style="padding:8px;border:1px solid #ccc;">サブマーシブル ブロンゾ PAM00382（自動47mm）</td><td style="padding:8px;border:1px solid #ccc;">緑青あり・完品</td><td style="padding:8px;border:1px solid #ccc;"><strong>100万円超〜</strong>（限定・要見積もり）</td></tr>
 </tbody>
 </table>
-<p style="font-size:0.8em;color:#888;margin:8px 0 0 0;">※2026年の各買取店の公開買取実績より（出典：なんぼや／大黒屋／ピアゾ／カメラのキタムラ／ブランドレックス 等）。状態・付属品・査定先で変動します。</p>
+<p style="font-size:0.8em;color:#888;margin:8px 0 0 0;">※2026年の各買取店が公開している買取価格・買取上限価格より（出典：なんぼや／大黒屋／ピアゾ／カメラのキタムラ／ブランドレックス／銀座ラシン 等）。<strong>最大値は付属品完備など最良条件での上限価格</strong>で、実際の査定額は状態・付属品・シリアルにより変わります。</p>
 </div>
 
-<p>注目してほしいのが、表のいちばん上の<strong>ルミノール マリーナ PAM00111</strong>。<strong>同じ型番・本体のみの中古なのに、34万円から62万円まで28万円もの開き</strong>があります。PAM01312でも21.5万円差。これは、その店が<strong>パネライを欲しがるマニアや海外バイヤーへの販路を持っているか</strong>で評価がまるで変わるからです。パネライはこの「店による温度差」がロレックス以上に大きい。だからこそ「近所の1社で即決」は禁物で、複数社で比べるだけで手取りが二十数万円変わることもあります。</p>
+<p>注目してほしいのが、表のいちばん上の<strong>ルミノール マリーナ PAM00111</strong>。<strong>各店が公開している買取価格を並べると、同じ型番でも34万円台から最大62万円まで、公開価格ベースで28万円もの開き</strong>があります（上限の62万円は付属品完備など最良条件での数字です）。PAM01312でも公開価格で20万円超の差。これは、その店が<strong>パネライを欲しがるマニアや海外バイヤーへの販路を持っているか</strong>で評価がまるで変わるからです。パネライはこの「店による温度差」がロレックス以上に大きい。実際の手取りは状態しだいですが、だからこそ「近所の1社で即決」は禁物で、複数社で比べるだけで手取りが数万〜十数万円変わることもあります。</p>
 
 <!-- 視覚②：状態別3グレード（相場感） -->
 <div style="overflow-x:auto;margin:24px 0;">
@@ -141,7 +141,7 @@ related:
 <p style="font-size:0.8em;color:#888;margin:8px 0 0 0;">※人気モデルの目安。状態・付属品で変動します。</p>
 </div>
 
-<p>なお、上の表で320〜380万円をつけている<strong>ブロンゾのような100万円を超える限定モデルは、段ボールに詰めて送る宅配よりも、出張や店頭での対面査定が向きます</strong>。高額になるほど現物を直接見てもらう安心感が大きいからです。一般的なルミノールやサブマーシブルなら宅配・一括査定で問題ありません。「時計の知識なんて全然ないんですが…」というご家族からのご相談も実際とても多いので、難しく考えず、まずは無料査定で価値を確かめるところから始めれば大丈夫です。</p>
+<p>なお、上の表のブロンゾのような100万円を超える限定モデルは、段ボールに詰めて送る宅配よりも、出張や店頭での対面査定が向きます</strong>。高額になるほど現物を直接見てもらう安心感が大きいからです。一般的なルミノールやサブマーシブルなら宅配・一括査定で問題ありません。「時計の知識なんて全然ないんですが…」というご家族からのご相談も実際とても多いので、難しく考えず、まずは無料査定で価値を確かめるところから始めれば大丈夫です。</p>
 
 <div style="background:#E0F2F1;border:4px solid #00695C;border-radius:8px;padding:18px 22px;margin:28px 0;">
 <p style="margin:0 0 10px 0;"><strong style="color:#004D40;">💡 業界人ワンポイント</strong></p>
@@ -239,9 +239,9 @@ related:
 
 <!-- ===== 3社並列CTA（中盤・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
-<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🎯 パネライは店で28万円差｜まず無料で相場を比較する</div>
+<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🎯 パネライは店で査定が大きく変わる｜まず無料で相場を比較する</div>
 <div style="padding:20px;">
-<p style="margin:0 0 14px 0;">パネライは出す店で二十数万円変わった実例があります。どこも査定料・送料は無料なので、<strong>「高く／安心／手間なし」</strong>のどれを優先するか決めて、合うボタンから試してみてください。</p>
+<p style="margin:0 0 14px 0;">パネライは公開買取価格で見ても、店によって二十数万円もの開きが出ます。どこも査定料・送料は無料なので、<strong>「高く／安心／手間なし」</strong>のどれを優先するか決めて、合うボタンから試してみてください。</p>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9UUE3E+2OUY+HVFKY" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;margin-bottom:12px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">⌚ 1円でも高く｜複数社が競う一括査定 ラクーダ（全国）　▶</a>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9H5F6I+3VEM+691UQ" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;margin-bottom:12px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">🏢 不動・傷ありも安心｜自社修理工房の コメ兵（全国）　▶</a>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1VU1+GE0M1M+5O4W+1ZGNQP" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 14px rgba(26,188,156,0.42);">🏠 手間なく即現金｜自宅で出張買取 ウリエル　▶</a>
