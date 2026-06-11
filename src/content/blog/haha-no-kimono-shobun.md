@@ -164,7 +164,7 @@ related:
 <p style="margin:0;line-height:1.85;">査定を呼ぶ前の「宝探し」を強くおすすめします。証紙は<strong>着物を包んでいるたとう紙の中・タンスの引き出しの最下段・桐箱の底</strong>に挟まったまま眠っていることが多いんです。老舗呉服店のロゴ入りたとう紙や、お誂えの控え、購入時の領収書も「大切に買われた品」の証拠として査定の印象を上げます。30分の捜索が数万円の差になることも。なお、<strong>証紙が見つからなくても諦めないでください</strong>——着物専門の査定士なら、織りや絹の質感から本物を見抜けます。「証紙がないと買取不可」と言う店は、紙でしか判断できない店です。</p>
 </div>
 
-<!-- ===== 箸休めイラスト（実写・H2-2末） ===== -->
+<!-- ===== 箸休め画像（AI生成イメージ・H2-2末） ===== -->
 <figure style="margin:30px 0;text-align:center;">
 <img src="/blog-images/haha-no-kimono-shobun-illust.jpg" alt="和室の桐タンスの前で、たとう紙に包まれた母の着物をそっと広げる女性" style="max-width:100%;height:auto;border-radius:10px;" />
 <figcaption style="font-size:0.85em;color:#888;margin-top:8px;">タンスを開けるのに何年もかかった——それくらい大事なものだから、出口も丁寧に選びたい。</figcaption>
@@ -215,7 +215,7 @@ related:
 <p style="margin:0 0 14px 0;">「どうせ値がつかないかも」くらいの気持ちで大丈夫。<strong>運ばず・洗わず・そのまま</strong>、プロに1点ずつ見てもらってください。出張も査定もキャンセルも無料です。</p>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AUKEE2+35HU+60OXE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;margin-bottom:12px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">👘 着物が主役なら｜女性査定士を呼べる 福ちゃん（全国）　▶</a>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1VU1+FUYQOQ+5O4W+HV7V6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 14px rgba(26,188,156,0.42);">🏠 遺品・家まるごとなら｜出張買取 ウリエル　▶</a>
-<p style="margin:12px 0 0 0;font-size:0.82em;color:#777;">※ウリエルは関東・東海・関西＋岡山のエリア限定です。エリア外の方や着物中心の方は、全国対応の福ちゃんへ。いずれも出張・査定無料。</p>
+<p style="margin:12px 0 0 0;font-size:0.82em;color:#777;">※ウリエルは関東・東海・関西など一部エリア限定です（対象地域は公式サイトでご確認を）。エリア外の方や着物中心の方は、全国対応の福ちゃんへ。いずれも出張・査定無料。</p>
 <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPX+AUKEE2+35HU+60OXE" alt="">
 <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1VU1+FUYQOQ+5O4W+HV7V6" alt="">
 </div>
@@ -330,7 +330,7 @@ related:
 <p style="margin:0 0 14px 0;"><strong>タンス整理の着物10点が数千円のことも、大島紬数点が数十万円のことも、どちらも現実です。</strong>どちらにしても「捨てずに済んだ」が残ります。出張・査定・キャンセルすべて無料。<strong>あなたに合う方から、まずは仕分けを頼んでみてください。</strong></p>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AUKEE2+35HU+60OXE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;margin-bottom:12px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">👘 着物が主役なら｜女性査定士を呼べる 福ちゃん（全国）　▶</a>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1VU1+FUYQOQ+5O4W+HV7V6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:15px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 14px rgba(26,188,156,0.42);">🏠 遺品・家まるごとなら｜出張買取 ウリエル　▶</a>
-<p style="margin:12px 0 0 0;font-size:0.82em;color:#777;">※ウリエルは関東・東海・関西＋岡山のエリア限定です。エリア外の方や着物中心の方は、全国対応の福ちゃんへ。いずれも出張・査定無料。</p>
+<p style="margin:12px 0 0 0;font-size:0.82em;color:#777;">※ウリエルは関東・東海・関西など一部エリア限定です（対象地域は公式サイトでご確認を）。エリア外の方や着物中心の方は、全国対応の福ちゃんへ。いずれも出張・査定無料。</p>
 <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPX+AUKEE2+35HU+60OXE" alt="">
 <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1VU1+FUYQOQ+5O4W+HV7V6" alt="">
 </div>
