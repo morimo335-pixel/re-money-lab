@@ -9,3 +9,4 @@
 
 # 重複公開事故の修正（2026-06-11 Satoshi指摘・Finder複製"  2.md"がコミットされ-2 URLが生成された）
 /brand-takuhai-kaitori-2/  /brand-takuhai-kaitori/  301
+/brand-takuhai-kaitori-2  /brand-takuhai-kaitori/  301
