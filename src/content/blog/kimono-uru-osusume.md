@@ -109,7 +109,8 @@ related:
 <p>押し買いの被害については、別記事で詳しく解説しています。</p>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:0 8px 8px 0;padding:16px 22px;margin:24px 0;color:#3E2723;line-height:1.85;">
 <strong style="color:#1E3A5F;font-size:1.05em;">▶ あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:600;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a>
+<a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:600;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a><br>
+<a href="/haha-no-kimono-shobun/" style="color:#1E3A5F;text-decoration:none;font-weight:600;">母の着物、捨てられない…処分で後悔しない手放し方（形見の仕分け方）</a>
 </div>
 <div style="border:2px solid #1E3A5F;border-radius:12px;overflow:hidden;margin:32px 0;background:#fff;box-shadow:0 4px 16px rgba(0,0,0,0.08);"><div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 24px;display:flex;justify-content:space-between;align-items:center;"><span style="font-weight:bold;font-size:0.95em;">🎯 大量の着物を一度に手放したい方へ</span><span style="font-size:0.75em;background:rgba(255,255,255,0.2);padding:3px 10px;border-radius:12px;">PR</span></div><div style="padding:24px 28px;"><a class="gold-cta-shine" href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" rel="sponsored nofollow noopener" target="_blank" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:20px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);margin:0;">福ちゃんで無料出張査定を申し込む　▶</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1SPX+AZBV8A+35HU+2N9KIA" alt="" style="display:block;margin:0;"></div></div>
 <h3>方法②：宅配買取｜数枚だけ・忙しい方向け</h3>

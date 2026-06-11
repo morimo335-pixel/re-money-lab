@@ -70,6 +70,7 @@ related:
 <li><a href="/jikka-seiri-shucchou-kaitori/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">実家整理で出張買取が"処分費まで軽くする"理由と業者選び</a></li>
 <li><a href="/ihinseiri-gyousha-hikaku/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">遺品整理の業者比較｜失敗しない選び方と料金相場</a></li>
 <li><a href="/ihinseiri-osaka-souba/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">大阪の遺品整理 相場は？親の家を片付ける前に損しない順番を解説</a></li>
+<li><a href="/haha-no-kimono-shobun/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">母の着物、捨てられない…処分で後悔しない手放し方と売り先</a></li>
 </ul>
 </div>
 
