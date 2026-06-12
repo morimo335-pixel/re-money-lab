@@ -74,6 +74,7 @@ related:
 <li><a href="/ihinseiri-osaka-souba/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">大阪の遺品整理 相場は？親の家を片付ける前に損しない順番を解説</a></li>
 <li><a href="/ihinseiri-mitsumori-hikaku/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">遺品整理の見積もり、なぜ2倍違う？見積書の読み方</a></li>
 <li><a href="/ihinseiri-kyoto-souba/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">京都の遺品整理はいくら？町家の費用相場と損しない順番を解説</a></li>
+<li><a href="/kosen-shobun/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">古銭の処分、捨てる前に｜売れる5つの選択肢と買取相場</a></li>
 </ul>
 </div>
 

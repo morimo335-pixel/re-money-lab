@@ -182,6 +182,7 @@ related:
 <li><a href="/konyaku-yubiwa-uru/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">古い指輪・婚約指輪は売れる？地金で値がつく仕組み</a></li>
 <li><a href="/film-camera-boom-shuryou/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">古いフィルムカメラ・レンズの買取はいま狙い目？</a></li>
 <li><a href="/omocha-kaitori-souba/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">押し入れの古いおもちゃ・レトロ玩具の買取相場</a></li>
+<li><a href="/kosen-shobun/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">古銭の処分、捨てる前に｜売れる5つの選択肢と買取相場</a></li>
 </ul>
 </div>
 

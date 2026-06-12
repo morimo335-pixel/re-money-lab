@@ -70,6 +70,7 @@ related:
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/jikka-seiri-shucchou-kaitori/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">実家整理で出張買取が"処分費まで軽くする"理由と業者選び</a></li>
 <li><a href="/katami-tokei-uru-doko/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">形見の時計、どこで売る？損しない業者選び</a></li>
+<li><a href="/kosen-shobun/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">古銭の処分、捨てる前に｜売れる5つの選択肢と買取相場</a></li>
 </ul>
 </div>
 
