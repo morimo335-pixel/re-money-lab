@@ -499,6 +499,12 @@ related:
 
 <p>家財整理と建物処分はセットで考えると効率的です。多くの不動産買取業者は<strong>「家財ごとそのままで買い取る（現状有姿）」</strong>を可能にしています。査定で「家ごと買い取れます」と提示されれば、家財整理費＋解体費がまるごと不要になる可能性も。少なくとも査定額を見てから片付けを進めれば、無駄な動きを最小限にできます。</p>
 
+<!-- ハックベリーズ役割分担CTA（2026-06-12差し込み・もしもp_id7447） -->
+<div style="background:#F1F8E9;border:1px solid #AED581;border-radius:8px;padding:14px 18px;margin:18px 0;">
+<p style="margin:0;line-height:1.85;font-size:0.96em;">出口は物件の状態で分けると迷いません。<strong>借地・再建築不可など「訳あり」なら前述の専門買取</strong>へ。逆に<strong>東京都・埼玉県にある、普通に売れる相続した実家</strong>なら、相続に特化した会社へまとめて相談すると、登記などの手続きから売却まで一括で前に進みます。→ <a href="//af.moshimo.com/af/c/click?a_id=5603503&p_id=7447&pc_id=21494&pl_id=93524&url=https%3A%2F%2Freal-estate.hackberrys.net%2Fsouzoku-lp-for-af%3Frd_code%3D%7B%7BCODE%7D%7D%26utm_source%3Daffiliate%26utm_medium%3Dbanner%26utm_campaign%3Dmoshimo" rel="sponsored nofollow" referrerpolicy="no-referrer-when-downgrade" target="_blank" style="color:#558B2F;font-weight:bold;text-decoration:underline;">相続不動産の無料相談（東京・埼玉／要事前予約）</a></p>
+<img src="//i.moshimo.com/af/i/impression?a_id=5603503&p_id=7447&pc_id=21494&pl_id=93524" width="1" height="1" style="border:none;" alt="" loading="lazy">
+</div>
+
 <!-- ===== H2-7 ===== -->
 <h2>2026年の落とし穴4つ｜相続登記義務化・住所変更登記・管理不全空き家・補助金</h2>
 

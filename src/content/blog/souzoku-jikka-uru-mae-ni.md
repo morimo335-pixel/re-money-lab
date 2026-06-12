@@ -303,6 +303,12 @@ related:
 <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3YV9+BIDQL6+5TF6+5ZEMP" alt="">
 </div>
 
+<!-- ハックベリーズ役割分担CTA（2026-06-12差し込み・もしもp_id7447） -->
+<div style="background:#F1F8E9;border:1px solid #AED581;border-radius:8px;padding:14px 18px;margin:18px 0;">
+<p style="margin:0;line-height:1.85;font-size:0.94em;">一方、<strong>「訳あり」ではなく普通に売れる実家を相続した方で、物件が東京都・埼玉県にある</strong>なら、相続不動産に特化した会社へまとめて相談すると、①仲介・②買取の見極めから登記などの手続きまで一括で前に進みます。→ <a href="//af.moshimo.com/af/c/click?a_id=5603503&p_id=7447&pc_id=21494&pl_id=93524&url=https%3A%2F%2Freal-estate.hackberrys.net%2Fsouzoku-lp-for-af%3Frd_code%3D%7B%7BCODE%7D%7D%26utm_source%3Daffiliate%26utm_medium%3Dbanner%26utm_campaign%3Dmoshimo" rel="sponsored nofollow" referrerpolicy="no-referrer-when-downgrade" target="_blank" style="color:#558B2F;font-weight:bold;text-decoration:underline;">相続不動産の無料相談（東京・埼玉／要事前予約）</a></p>
+<img src="//i.moshimo.com/af/i/impression?a_id=5603503&p_id=7447&pc_id=21494&pl_id=93524" width="1" height="1" style="border:none;" alt="" loading="lazy">
+</div>
+
 <p style="font-size:0.86em;color:#555;background:#F4F1EE;border-left:3px solid #6D4C41;padding:8px 12px;">💬 関東以外の方や、まずは家の中の片付け・買取から進めたい方は、上で紹介した<strong>全国対応の出張買取</strong>と<strong>遺品整理の業者比較</strong>から始めるのが確実です。</p>
 
 <!-- ===== H2-7 まとめ ===== -->
