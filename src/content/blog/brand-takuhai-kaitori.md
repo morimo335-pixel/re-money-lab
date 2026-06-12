@@ -69,6 +69,7 @@ related:
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/brand-bag-uru-souba/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">ブランドバッグ買取はいくら？高く売るコツ5選</a></li>
 <li><a href="/takuhai-kaitori-trouble/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">宅配買取は危険？トラブル5選と回避術を買取8年が解説</a></li>
+<li><a href="/brand-shucchou-kaitori/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">実家のブランド品を出張買取で売る方法｜運べない・宅配が不安な人へ</a></li>
 </ul>
 </div>
 

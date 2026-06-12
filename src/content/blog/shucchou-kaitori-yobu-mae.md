@@ -156,6 +156,7 @@ related:
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/jikka-seiri-shucchou-kaitori/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">実家整理で出張買取が"処分費まで軽くする"理由と業者選び</a></li>
 <li><a href="/takuhai-kaitori-trouble/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">宅配買取は危険？買取8年が暴くトラブル5選と回避術</a></li>
+<li><a href="/brand-shucchou-kaitori/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">実家のブランド品を出張買取で売る方法｜運べない人へ</a></li>
 </ul>
 </div>
 

@@ -608,7 +608,8 @@ related:
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/brandoff-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ブランドオフ宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー</a></p>
+  <p style="margin:0 0 8px;"><a href="https://re-money-lab.com/brandoff-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ブランドオフ宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/brand-shucchou-kaitori/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">実家のブランド品を出張買取で売る方法｜運べない・宅配が不安な人へ</a></p>
 </div>
 
 <!-- ===== 内部リンクカード ===== -->
