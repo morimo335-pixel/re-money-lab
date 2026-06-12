@@ -418,7 +418,8 @@ related:
 <hr />
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:0 8px 8px 0;padding:16px 22px;margin:24px 0;color:#3E2723;line-height:1.85;">
 <strong style="color:#1E3A5F;font-size:1.05em;">▶ あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/kimono-kaitori-koukai/" style="color:#1E3A5F;text-decoration:none;font-weight:600;">着物買取で後悔した5つの失敗パターン｜買取営業8年の自衛術</a>
+<a href="https://re-money-lab.com/kimono-kaitori-koukai/" style="color:#1E3A5F;text-decoration:none;font-weight:600;">着物買取で後悔した5つの失敗パターン｜買取営業8年の自衛術</a><br>
+<a href="https://re-money-lab.com/furisode-shobun/" style="color:#1E3A5F;text-decoration:none;font-weight:600;">振袖は売れる？処分する前に知ってほしい、切らずに手放す方法</a>
 </div>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:0 8px 8px 0;padding:16px 22px;margin:24px 0;color:#3E2723;line-height:1.85;">
 <strong style="color:#1E3A5F;font-size:1.05em;">▶ あわせて読みたい</strong><br>

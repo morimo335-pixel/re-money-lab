@@ -269,7 +269,8 @@ related:
 <p>着物買取についての全体像をまずつかみたい方は、こちらのハブ記事もご参照ください。</p>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="/sell-unwanted-items/">不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法</a>
+<a href="/sell-unwanted-items/">不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法</a><br>
+<a href="/furisode-shobun/">振袖は売れる？処分する前に知ってほしい、切らずに手放す方法</a>
 </div>
 <hr />
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">

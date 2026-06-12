@@ -75,6 +75,7 @@ related:
 <p style="margin:0 0 10px 0;font-weight:bold;color:#1E3A5F;font-size:0.98em;">▶ あわせて読みたい（実家の片付けで手が止まったら）</p>
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/oya-ihin-suterarenai/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">親の遺品が捨てられない…罪悪感との向き合い方と手放す手順</a></li>
+<li><a href="/furisode-shobun/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">振袖は売れる？処分する前に知ってほしい、切らずに手放す方法</a></li>
 <li><a href="/souzoku-jikka-uru-mae-ni/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">相続した実家、売る前にやること｜家まるごと整理の進め方</a></li>
 </ul>
 </div>
