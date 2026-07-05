@@ -193,49 +193,8 @@ re-money-lab.com の運営・記事執筆は **時間をかけても品質を最
 
 ## 🖼️ ⑤全画像のLightbox（拡大表示）は必須
 
-re-money-lab.com の**全画像**は本文内でクリックすると**拡大表示（Lightbox）** される状態で投稿。**例外なし**。
+re-money-lab.com の**全画像**（アイキャッチ以外の図解・表・グラフ・インフォグラフィック・箸休め絵すべて）は本文内でクリックすると**拡大表示** される状態で公開。**例外なし・imgタグ単独/aタグなし/後回しは禁止**。
 
-### 対象
-全記事（A・B・C・D・E・F〜）／アイキャッチ以外の全画像／図解・表・グラフ・インフォグラフィック・箸休め絵すべて
-
-### 実装方法
-imgタグを**aタグで包む**：
-```html
-<a href="画像URL">
-  <img src="画像URL" alt="画像の説明" class="wp-image-XX" />
-</a>
-```
-CocoonのLightboxプラグイン（baguetteBox）が自動で拡大動作を付与。Cocoon設定でLightboxがONになっていることを事前確認。
-
-### Gutenbergブロックの場合
-```
-<!-- wp:image {"linkDestination":"media"} -->
-```
-`linkDestination: "media"` ＝リンク先＝メディアファイル、で自動aタグラップ。
-
-### JavaScript一括適用（後付け）
-```javascript
-const blocks = wp.data.select('core/block-editor').getBlocks();
-const flatten = (arr) => arr.reduce((a,b) => a.concat(b.innerBlocks ? [b,...flatten(b.innerBlocks)] : [b]), []);
-const imgBlocks = flatten(blocks).filter(b => b.name === 'core/image');
-for (const block of imgBlocks) {
-  wp.data.dispatch('core/block-editor').updateBlockAttributes(
-    block.clientId,
-    { linkDestination: 'media', href: block.attributes.url }
-  );
-}
-```
-
-### Why
-- **スマホ読者が多数**（綾子さん42歳主婦はスマホ中心）→画面小さく、図解の数字・文字が読めない
-- **詳細情報へのアクセス担保**（クーリングオフ書面テンプレ、統計、マトリクス表）
-- **ユーザビリティ向上 → 回遊率・滞在時間UP**
-- **記事A/Bで既に実装済みのため統一性維持**
-
-### 禁止事項
-- imgタグ単独投稿禁止
-- aタグなしで画像を貼る禁止
-- 「後でやる」「面倒だから省略」禁止
-
-### 違反時の対応
-記事公開前のエレナ最終5軸レビューで「全画像クリックで拡大するか」チェック項目に組み込み。
+- **Why**：スマホ読者が多数（画面が小さく図解の数字が読めない）＋クーリングオフ書面・統計表など詳細情報へのアクセス担保＋回遊率/滞在時間UP。
+- **実装**：現行はAstro。画像を拡大表示するラッパー（旧WordPress/Cocoon baguetteBox実装は移管2026-05-09で廃止）。実装詳細は現行テンプレ `re-money-lab-astro/` を正とする。
+- 公開前のエレナ最終レビューで「全画像がクリックで拡大するか」を必ずチェック。

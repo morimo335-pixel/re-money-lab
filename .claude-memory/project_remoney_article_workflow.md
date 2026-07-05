@@ -357,15 +357,13 @@ grep -n "公開済み[0-9]\?記事\|公開済み1[0-9]記事\|集客:キラー�
 | **🆕 詳細ルール集（H2並び順／1記事1焦点／6ルール／漢語→和語／専門用語／AI臭／KW実測詳細）** | **`project_remoney_writing_rules.md`** |
 | ペルソナ詳細 | `project_remoney_persona.md` |
 | A8案件詳細 | `project_remoney_a8_programs.md` |
-| KW実測過去データ | `project_remoney_keywords.md` |
 | 戦略全体像 | `project_remoney_roadmap.md` |
 | 法務4鉄則 | `project_remoney_legal_rules.md` |
 | HTMLテンプレ各種 | `feedback_internal_link_card_style.md`／`feedback_affiliate_card_style.md`／`feedback_eyecatch_format.md`／`feedback_profile_two_locations.md`／`feedback_article_intro_what_you_learn.md` |
 | アフィリ規約 | `feedback_a8_link_rules.md` |
 | 公開前チェック | `feedback_pre_publish_cleanup.md` |
 | 業界用語 | `project_remoney_terminology.md` |
-| WP環境 | `project_remoney_wordpress.md` |
-| リベ大全ノウハウ | `reference_libeblog.md`／`reference_libeblog_checklist.md` |
+| リベ大全ノウハウ | `reference_libeblog.md` |
 
 ---
 
