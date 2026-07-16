@@ -123,7 +123,7 @@ related:
 <div style="padding:24px 24px 12px 24px;">
 <h3 style="margin:0 0 14px 0;font-size:1.4em;color:#1E3A5F;">福ちゃん 切手買取</h3>
 <p style="margin:0 0 16px 0;color:#666;font-size:0.95em;line-height:1.7;">テレビCMでもおなじみの大手買取専門店。普通切手・記念切手・お年玉切手・中国切手まで、専門査定士が市場相場を即座に反映。希少なシート切手の正確な価値判定が強み。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZXAU2+35HU+BWVTE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ 福ちゃんで無料査定してみる</a></div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZXAU2+35HU+BWVTE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ 福ちゃんで無料査定してみる</a><img src="https://www18.a8.net/0.gif?a8mat=4B1SPX+AZXAU2+35HU+BWVTE" alt="" width="1" height="1" class="a8-pixel" style="border:0;" /></div>
 </div>
 
 <!-- ===== H2-3 ===== -->
@@ -278,7 +278,7 @@ related:
 <div style="padding:24px 24px 12px 24px;">
 <h3 style="margin:0 0 14px 0;font-size:1.4em;color:#1E3A5F;">福ちゃん 切手買取</h3>
 <p style="margin:0 0 16px 0;color:#666;font-size:0.95em;line-height:1.7;">専門査定士が市場相場を即座に反映する切手特化型の買取サービス。中国切手・文化大革命毛主席系・初期お年玉切手など希少品の高額買取実績が豊富。査定料・出張料・キャンセル料すべて無料。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZXAU2+35HU+BWVTE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ 福ちゃんで切手の無料査定を申し込む</a></div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZXAU2+35HU+BWVTE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ 福ちゃんで切手の無料査定を申し込む</a><img src="https://www18.a8.net/0.gif?a8mat=4B1SPX+AZXAU2+35HU+BWVTE" alt="" width="1" height="1" class="a8-pixel" style="border:0;" /></div>
 </div>
 
 <!-- 内部リンクカード L -->
@@ -333,7 +333,7 @@ related:
 <div style="padding:24px 24px 12px 24px;">
 <h3 style="margin:0 0 14px 0;font-size:1.4em;color:#1E3A5F;">遺品整理110番</h3>
 <p style="margin:0 0 16px 0;color:#666;font-size:0.95em;line-height:1.7;">切手以外の遺品も含めて家全体を整理する場合に。切手の価値判別と並行して、不要品の適切な処分も依頼できる優良業者紹介サービス。見積りのみの利用OK。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ 遺品整理110番で無料見積りを依頼</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ 遺品整理110番で無料見積りを依頼</a><img src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" alt="" width="1" height="1" class="a8-pixel" style="border:0;" />
 </div>
 </div>
 
@@ -379,7 +379,7 @@ related:
 <tr><td style="padding:8px 0;border-bottom:1px solid #EEE;color:#888;">満足度</td><td style="padding:8px 0;border-bottom:1px solid #EEE;">価格満足度業界1位（複数調査・4年連続）</td></tr>
 <tr><td style="padding:8px 0;color:#888;">こんな人に</td><td style="padding:8px 0;">親世代の切手シート・中国切手・古いお年玉切手を売りたい人</td></tr>
 </table>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZXAU2+35HU+BWVTE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ 福ちゃんで無料査定を申し込む（公式サイト）</a></div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZXAU2+35HU+BWVTE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#B8884D);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:16px;box-shadow:0 4px 12px rgba(212,165,116,0.35);">▶ 福ちゃんで無料査定を申し込む（公式サイト）</a><img src="https://www18.a8.net/0.gif?a8mat=4B1SPX+AZXAU2+35HU+BWVTE" alt="" width="1" height="1" class="a8-pixel" style="border:0;" /></div>
 </div>
 
 
