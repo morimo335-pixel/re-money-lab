@@ -17,9 +17,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ ===== -->
-<p style="display:inline-block;background:#E8F5E9;color:#2E7D32;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #2E7D32;margin-bottom:20px;">⏱ 読了目安 約10分</p>
-
 <!-- ===== リード文 ===== -->
 <p>親の介護施設入居が決まったあと、最初にぶつかるのは「片付け方が分からない」ではありません。<strong>「何を、どの順番でやればいいのか分からない」</strong>という壁です。</p>
 
@@ -283,8 +280,6 @@ related:
 <li><strong>古いカメラ・レンズ・フィルムカメラ</strong>：動作不良でも部品取りで査定対象</li>
 <li><strong>古い掛軸・絵画・陶器・人形</strong>：埃まみれの方が業者は本来価値を評価しやすい</li>
 </ul>
-
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 中盤A8カード①：福ちゃん総合 ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

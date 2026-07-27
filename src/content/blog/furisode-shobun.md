@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：紅梅レッド #B23A55） ===== -->
-<p style="display:inline-block;background:#FBEAEE;color:#B23A55;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #B23A55;margin-bottom:20px;">⏱ 読了目安 約8分</p>
 
 <!-- ===== リード文 ===== -->
 <p>成人式で一度だけ着た振袖。あるいは「いつか娘に」と何十年も大切にしまってきた振袖——。<strong>「もう着ないけど、◯十万円もしたし、思い出もあるし…」と、処分に踏み切れずにいませんか。</strong>結論から言うと、振袖は捨てなくて大丈夫。状態が良ければ、ちゃんと次の人に渡せます。</p>
@@ -284,7 +283,6 @@ related:
 </div>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 2社並列CTA（中盤・目的別） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -323,7 +321,6 @@ related:
 <p><strong>「もう着ないし二束三文かも」と思っていた振袖が、次の成人式を待つ誰かの一着になるかもしれません。</strong>切る前に・捨てる前に、まずは価値を確かめてみてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 2社並列CTA（末尾） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

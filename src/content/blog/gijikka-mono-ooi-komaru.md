@@ -18,9 +18,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ ===== -->
-<p style="display:inline-block;background:#FCE4EC;color:#8E1538;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:2px solid #8E1538;margin-bottom:20px;">⏱ 読了目安 約10分</p>
-
 <!-- ===== リード文 ===== -->
 <p>「義実家に帰省するたびに、足の踏み場がない部屋を見て息が詰まる——でも嫁の立場で『捨てて』なんて言えない」</p>
 
@@ -300,8 +297,6 @@ related:
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;font-size:0.95em;">▶ あわせて読みたい</p>
 <a href="/kin-kaitori-chuiten/" style="text-decoration:none;color:#1E3A5F;font-weight:600;font-size:0.95em;display:block;">義実家から金製品が出てきた方へ：金買取の注意点7選｜元業界人8年が教える損しない自衛術</a>
 </div>
-
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 中盤A8カード①：福ちゃん総合 ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

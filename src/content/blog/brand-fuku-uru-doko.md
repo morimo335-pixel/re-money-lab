@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：ディープローズ #AD1457・アパレル/女性） ===== -->
-<p style="display:inline-block;background:#FCE4EC;color:#AD1457;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #AD1457;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>クローゼットの奥で眠っている、着なくなったブランド服。「もったいないけど、もう着ない」——そんな状態で止まっていませんか。</p>
@@ -219,7 +218,6 @@ related:
 </div>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- CTA mybest風カード：RIBLA（もしも・中盤・収益エンジン）※リンクは後で差込 -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -313,7 +311,6 @@ related:
 <p>大切なのは、<strong>"何でも屋"にまとめて投げないこと</strong>。まずは無料の宅配キットで、あなたの服の本当の価値を確かめるところから始めてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- CTA mybest風カード：RIBLA（もしも・末尾）※リンクは後で差込 -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

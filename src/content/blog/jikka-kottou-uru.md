@@ -16,9 +16,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ（配色：藍紺 #2B4865） ===== -->
-<p style="display:inline-block;background:#EAEEF3;color:#2B4865;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #2B4865;margin-bottom:20px;">⏱ 読了目安 約13分</p>
-
 <!-- ===== リード文 ===== -->
 <p>親の遺品や実家の片付けで、押し入れや蔵の奥から出てきた古い壺、掛軸、黒ずんだ鉄瓶、桐箱に入った茶碗。手に取って、こんな気持ちになっていないでしょうか。</p>
 
@@ -445,7 +442,6 @@ related:
 <p>「捨てる」と決める前に、ほんのひと手間。あなたが現状のまま査定に出した古い物は、ゴミになるのではなく、<strong>次の持ち主のもとで再び輝きます</strong>。まずは、無料の査定で「価値があるかどうか」だけ、確かめてみてください。</p>
 
 <!-- ===== 末尾PR表記（A8前・B-8対策） ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：福ちゃん骨董（末尾メインCTA・全国・安心役/価値だけ確認） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

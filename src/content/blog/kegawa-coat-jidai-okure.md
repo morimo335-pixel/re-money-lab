@@ -59,7 +59,6 @@ related:
 </div>
 
 <!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">相場の一覧を見る前に、手元の1着が今いくらなのかだけ知りたい方へ。査定だけの利用もできます。</p>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ ミンク・フォックスの買取価格を無料で調べる</a>

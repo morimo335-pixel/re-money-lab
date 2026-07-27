@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：ネイビー×ゴールド #1E3A5F） ===== -->
-<p style="display:inline-block;background:#EAF0F6;color:#1E3A5F;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #1E3A5F;margin-bottom:20px;">⏱ 読了目安 約11分</p>
 
 <!-- ===== リード文 ===== -->
 <p>親の家を片付けていたら、クローゼットの奥から母のブランドバッグや財布、父の古い腕時計が出てきた——。「売れば値段がつくかもしれない」と思っても、<strong>重くて店まで運べない、かといって宅配は「送って本当にお金が返ってくるの？」と不安</strong>で、結局そのまま箱に戻していませんか。</p>
@@ -187,7 +186,6 @@ related:
 </div>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== ウリエル単独CTA（中盤） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -309,7 +307,6 @@ related:
 </ol>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== ウリエル単独CTA（末尾） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

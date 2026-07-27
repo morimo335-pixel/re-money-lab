@@ -17,9 +17,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ（配色：インディゴ #3F51B5） ===== -->
-<p style="display:inline-block;background:#E8EAF6;color:#3F51B5;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #3F51B5;margin-bottom:20px;">⏱ 読了目安 約9分</p>
-
 <!-- ===== リード文 ===== -->
 <p>親をやっと説得して実家の片付けを始めた——そう思った矢先に、今度は<strong>兄弟や夫と揉めて手が止まる</strong>。40-50代の方からいちばん多く聞く悩みです。</p>
 
@@ -326,7 +323,6 @@ related:
 <p>大事なのは、実家整理を「家族が壊れる危機」ではなく<strong>「これからの家族関係を整え直すきっかけ」</strong>に変えること。一人で全部背負って限界を迎える前に、まずは無料の相談に1本電話するところから始めてみてください。<strong>家族だけで話すと感情で平行線になりがちですが、査定額という「数字」が入るだけで判断はぐっと前に進みます。</strong>第三者の力を借りるのは、<strong>家族の縁を守るための賢い選択</strong>です。</p>
 
 <!-- ===== 中盤PR表記（A8前・B-8対策） ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== A8 mybest風カード：遺品整理110番（templates/mybest-card.html準拠・集客記事 末尾CTA1本のみ） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

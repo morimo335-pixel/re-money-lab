@@ -16,9 +16,7 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:8px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ ===== -->
 <div style="display:inline-block;background:#F8F4E6;border:1px solid #D4A574;border-radius:20px;padding:6px 16px;margin-bottom:20px;font-size:0.9em;color:#1E3A5F;">
-  ⏱ 読了時間の目安：<strong>約10分</strong>
 </div>
 
 <!-- ===== リード文 ===== -->
@@ -302,7 +300,6 @@ related:
   </div>
 </div>
 
-
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
@@ -340,6 +337,5 @@ related:
 </ul>
 </div>
 </div>
-
 
 </div>

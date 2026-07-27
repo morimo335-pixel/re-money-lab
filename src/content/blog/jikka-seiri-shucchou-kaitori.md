@@ -19,9 +19,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ（配色：深緑 #2E5E4E） ===== -->
-<p style="display:inline-block;background:#E7F1EC;color:#2E5E4E;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #2E5E4E;margin-bottom:20px;">⏱ 読了目安 約13分</p>
-
 <!-- ===== リード文 ===== -->
 <p>親の家を片付け始めて、いちばん最初にぶつかる壁。それは<strong>「物が多すぎて、どこから手をつけて、誰に頼めばいいのか分からない」</strong>ことです。40-50代の方から、こんな声をよく聞きます。</p>
 
@@ -479,7 +476,6 @@ related:
 <p>物を手放すのは、寂しさや罪悪感を伴う作業です。でも、あなたが大切に査定に出した物は、捨てられるのではなく、<strong>次に必要とする人のもとで、また使われていきます</strong>。それは、親の思いを未来へ渡すことでもある。一人で抱え込んで限界を迎える前に、まずは<strong>無料の査定を1本、申し込んでみる</strong>ところから始めてみてください。</p>
 
 <!-- ===== 末尾PR表記（A8前・B-8対策） ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード②：福ちゃん総合出張（末尾メインCTA・templates準拠） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

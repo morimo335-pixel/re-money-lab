@@ -16,9 +16,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p>※当記事はアフィリエイト広告を含みます。</p>
 
-<!-- ===== 読了時間バッジ ===== -->
-<p style="display:inline-block;background:#F8F4E6;color:#1E3A5F;padding:6px 14px;border-radius:16px;font-size:0.9em;border:1px solid #D4A574;">⏱ 読了目安：約10分</p>
-
 <!-- ===== リード文 ===== -->
 <p>「離婚で婚約指輪が手元に残ってしまった」「親の形見の指輪、どう処分すべき？」「婚約破棄で受け取った指輪は返すべきか売るべきか」——婚約指輪の扱いに悩む方が、2026年に入って急増しています。</p>
 
@@ -61,7 +58,6 @@ related:
 H2-1：婚約指輪を売る人の3パターン｜あなたはどれ？
 ============================================================ -->
 <!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">売るかどうかはまだ決めていなくても、金額を知ってから考えることはできます。</p>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 婚約指輪の無料査定を申し込む</a>

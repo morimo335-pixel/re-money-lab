@@ -16,9 +16,6 @@ related:
 <!-- ===== PR表記（ファーストビュー・全広告主が掲載必須） ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ（配色：深緑 #1B5E20・本/知性系） ===== -->
-<p style="display:inline-block;background:#E8F5E9;color:#1B5E20;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #1B5E20;margin-bottom:20px;">⏱ 読了目安 約13分</p>
-
 <!-- ===== リード文（感情フック） ===== -->
 <p>子どもの受験が終わって部屋に積まれたままの赤本やテキスト。大学を卒業して使わなくなった分厚い専門書。実家を片付けていたら出てきた、親の蔵書の山——。こんなふうに、手が止まっていないでしょうか。</p>
 
@@ -125,7 +122,6 @@ related:
 </div>
 
 <!-- ===== 早見表直後CTA（読者の「どこに送る？」が最大化する地点・種類別の無料査定） ===== -->
-<p style="font-size:0.85em;color:#666;margin:18px 0 6px 0;">※当記事はアフィリエイト広告を含みます</p>
 <div style="background:#EDF3ED;border:2px solid #1B5E20;border-radius:10px;padding:18px 20px;margin:8px 0 24px 0;">
 <p style="margin:0 0 12px 0;font-weight:bold;color:#1B5E20;font-size:1em;">📌 送り先が決まった方へ｜種類別・無料査定はこちら</p>
 <div style="display:flex;flex-wrap:wrap;gap:8px;">
@@ -297,7 +293,6 @@ related:
 
 <!-- A8 mybest風カード：専門書アカデミー（中盤・大学教科書/専門書のメイン窓口） -->
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
 <div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 大学教科書・専門書を売るなら：宅配買取【専門書アカデミー】無料</div>
@@ -446,7 +441,6 @@ related:
 <p>大切なのは、<strong>「全部まとめて1社」で安く手放さないこと</strong>。種類別に分けるだけで、結果は大きく変わります。まずは無料査定で、あなたの本の価値を確かめるところから始めてください。</p>
 
 <!-- ===== 末尾PR表記（A8前・B-8対策） ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：学参プラザ（末尾メインCTA・受験終了の最大ボリューム層） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

@@ -14,9 +14,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ ===== -->
-<p style="display:inline-block;background:#F4ECD8;color:#8B6914;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;margin-bottom:20px;">⏱ 読了時間 約10分</p>
-
 <!-- ===== リード文 ===== -->
 <p>「母が大事にしてた毛皮のコート、実家のクローゼットから出てきた——でも今着る勇気もないし、捨てるのは申し訳ない…」</p>
 
@@ -82,7 +79,6 @@ related:
 </div>
 
 <!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">捨てる前に、その1着に値段がつくかどうかだけ先に確かめられます。</p>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 捨てる前に無料査定を申し込む</a>

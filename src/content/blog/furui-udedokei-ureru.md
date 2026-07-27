@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：ディープオリーブ #5B6B3C） ===== -->
-<p style="display:inline-block;background:#EFF2E6;color:#5B6B3C;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #5B6B3C;margin-bottom:20px;">⏱ 読了目安 約8分</p>
 
 <!-- ===== リード文 ===== -->
 <p>実家の片付けで出てきた、父や祖父の古い腕時計——<strong>「こんな何十年も前のもの、売れるわけない」と捨てるのは、ちょっと待ってください。</strong>時計の世界では、<strong>「古いほど価値が上がる」逆転現象</strong>が起きることがあります。本体だけの古いキングセイコーに4万6千円、社外ベルトに替わった古いチュードルに70万円の実例もあるのです。</p>
@@ -306,7 +305,6 @@ related:
 </div>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（中盤・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -367,7 +365,6 @@ related:
 <p><strong>「ただの古時計」と思っていた一本が、世界のコレクターが探していた一本かもしれません。</strong>捨てる前に、まずは価値を確かめてみてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（末尾・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

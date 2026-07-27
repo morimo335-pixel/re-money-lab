@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：藍 #1F3A5F・大阪/落ち着き） ===== -->
-<p style="display:inline-block;background:#E8EEF6;color:#1F3A5F;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #1F3A5F;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>大阪の実家を片付けることになった。親が施設に入った、あるいは亡くなって、誰も住まなくなった家。「業者に頼むといくらかかるの？」と検索して、こんな不安で止まっていませんか。</p>
@@ -268,7 +267,6 @@ related:
 <p style="font-size:0.92em;color:#004D40;background:#E0F2F1;border-left:4px solid #00695C;padding:10px 14px;margin:16px 0;">💡 <strong>ハルのワンポイント：</strong>下で紹介する福ちゃんは、<strong>大阪府全域（大阪市・堺市・東大阪・北摂・南大阪など）に無料の出張査定で対応</strong>しています。遠方の業者を呼ぶ不安がなく、申し込みから訪問までスムーズです。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：福ちゃん骨董（中盤・買取相殺・収益エンジン） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -363,7 +361,6 @@ related:
 <p>とはいえ、<strong>家一軒まるごとを家族だけで片付けるのは、現実的に難しいケース</strong>も多いものです。その場合は1社の言い値で決めず、<strong>複数の業者を比べて高額請求を避けながら頼む</strong>のが、いちばん損のない方法です。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：遺品整理110番（末尾・まるごとの一括見積もり） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

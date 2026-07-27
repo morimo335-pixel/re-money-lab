@@ -16,9 +16,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ（配色：ボルドー #6E2B3E） ===== -->
-<p style="display:inline-block;background:#F7ECEF;color:#6E2B3E;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #6E2B3E;margin-bottom:20px;">⏱ 読了目安 約12分</p>
-
 <!-- ===== リード文 ===== -->
 <p>親の遺品や実家の片付けで、引き出しの奥から出てきた高級時計。手に取った瞬間、こんな気持ちが入り混じるのではないでしょうか。</p>
 
@@ -417,7 +414,6 @@ related:
 <p>「売る」ことに罪悪感を抱く必要はありません。あなたが大切に査定に出した時計は、捨てられるのではなく、<strong>次の持ち主の腕の上で再び時を刻んでいきます</strong>。まずは、無料の査定を1本申し込んでみるところから始めてみてください。</p>
 
 <!-- ===== 末尾PR表記（A8前・B-8対策） ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：ラクーダ一括査定（末尾メインCTA・全国・自宅から出さず最高値） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

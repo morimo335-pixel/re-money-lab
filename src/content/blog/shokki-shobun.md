@@ -16,9 +16,7 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:8px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ ===== -->
 <div style="display:inline-block;background:#F8F4E6;border:1px solid #D4A574;border-radius:20px;padding:6px 16px;margin-bottom:20px;font-size:0.9em;color:#1E3A5F;">
-  ⏱ 読了時間の目安：<strong>約10分</strong>
 </div>
 
 <!-- ===== リード文 ===== -->
@@ -433,7 +431,6 @@ related:
 <a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜買取営業8年が教える準備術 →</a>
 </div>
 
-
 <!-- 内部リンク水色カード（記事24・古いお酒・5/8追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
@@ -468,6 +465,5 @@ related:
 </ul>
 </div>
 </div>
-
 
 </div>

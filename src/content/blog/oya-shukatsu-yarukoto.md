@@ -20,9 +20,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ ===== -->
-<p style="display:inline-block;background:#F8F4E6;color:#1E3A5F;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:2px solid #D4A574;margin-bottom:20px;">⏱ 読了目安 約10分</p>
-
 <!-- ===== リード文 ===== -->
 <p>「お母さんに『片付けようよ』って言ったら、急に黙り込んでしまった」</p>
 

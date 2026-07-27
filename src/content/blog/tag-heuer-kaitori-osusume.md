@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：レーシンググリーン #1A4D2E） ===== -->
-<p style="display:inline-block;background:#E7F0EA;color:#1A4D2E;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #1A4D2E;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>夫が若い頃に奮発して買った、あるいは父が大切にしていたタグホイヤーのカレラやアクアレーサー——。実家の片付けや遺品整理で引き出しの奥から出てきて、「これ、売れるのかな」と調べはじめて、こんなふうに迷っていませんか。</p>
@@ -225,7 +224,6 @@ related:
 <p>とくに<strong>「店をいくつも回る時間はない／でも一番高く売りたい」</strong>——この条件にいちばんハマるのが一括査定のラクーダです。<strong>査定結果が出るまで数日かかる</strong>のはデメリットですが、そのぶん業者間で価格競争が起きやすく、結果的に高値が出やすくなります。すぐに現金化したいなら、その場で買い取ってくれるコメ兵やウリエルが向きます。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（中盤・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -329,7 +327,6 @@ related:
 <p>迷ったら、<strong>自宅から出さず複数社の最高値を引き出せるラクーダの無料一括査定</strong>を先に取るのが、損の少ない順番です。引き出しに眠ったタグホイヤーの価値を、まずは確かめてみてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（末尾・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

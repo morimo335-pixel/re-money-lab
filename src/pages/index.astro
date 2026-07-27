@@ -4,7 +4,6 @@ import { Image } from 'astro:assets';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
-import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 const allPosts = (await getCollection('blog')).sort(
@@ -561,9 +560,6 @@ const archive = allPosts.slice(6); // 残り
 						<article class="showcase-card">
 							<a href={`/${post.id}/`}>
 								<div class="body">
-									<div class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</div>
 									<h3>{post.data.title}</h3>
 									<span class="read">続きを読む</span>
 								</div>
@@ -630,9 +626,6 @@ const archive = allPosts.slice(6); // 残り
 										)}
 									</div>
 									<div class="body">
-										<div class="date">
-											<FormattedDate date={post.data.pubDate} />
-										</div>
 										<h3>{post.data.title}</h3>
 									</div>
 								</a>

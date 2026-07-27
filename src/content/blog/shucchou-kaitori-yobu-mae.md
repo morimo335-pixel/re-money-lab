@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：信頼ブルー #0277BD・安心/安全） ===== -->
-<p style="display:inline-block;background:#E1F5FE;color:#0277BD;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #0277BD;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>家の不用品や実家の片付けで「出張買取を頼んでみようかな」と思いつつ、最後の一歩で止まっていませんか。</p>
@@ -192,7 +191,6 @@ related:
 <p>初めての方が業者選びで見るべきは、この<strong>3条件</strong>だけ。<strong>①女性査定士を指名できるか ②玄関先査定に対応してくれるか ③古物商の許可番号を公開しているか</strong>。これを満たす大手なら、まず安心です。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：福ちゃん総合（中盤・女性査定士指名・収益エンジン） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -332,7 +330,6 @@ related:
 <p>大切なのは、<strong>「呼んでも、売るかどうかはあなたが決める」</strong>こと。まずは無料の査定で、いくらになるかを確かめるところから始めてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：遺品整理110番（末尾・まるごとの一括見積もり） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：温かいブラウン #6D4C41・実家/ぬくもり） ===== -->
-<p style="display:inline-block;background:#EFEBE9;color:#6D4C41;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #6D4C41;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>親から相続した実家。「そろそろ売らないと」と思いつつ、こんな状態で止まっていませんか。</p>
@@ -88,7 +87,6 @@ related:
 </div>
 
 <!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">家の中を先に片付けたい方は、出張査定で買取と処分をまとめて相談できます。</p>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9ZXV" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 実家の出張査定を無料で申し込む</a>
@@ -220,7 +218,6 @@ related:
 <p>コツは<strong>「不用品回収のトラックを呼ぶ前に、先に買取査定を入れる」</strong>こと。順番が逆だと、価値ある物まで二束三文で持っていかれます。骨董・着物・時計・貴金属などを<strong>まとめて見てくれる出張買取</strong>なら、実家にいながら一気に査定・現金化でき、その額が片付け費用の負担を軽くしてくれます。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：福ちゃん総合（買取相殺・収益エンジン） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -343,7 +340,6 @@ related:
 <p>大切なのは、<strong>焦って中身ごと手放さないこと</strong>。まずは無料の査定で、実家に眠る価値を確かめるところから始めてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：遺品整理110番（末尾・実家まるごとの一括見積もり） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

@@ -14,9 +14,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p>※当記事はアフィリエイト広告を含みます。</p>
 
-<!-- ===== 読了時間バッジ ===== -->
-<p style="display:inline-block;background:#F8F4E6;color:#1E3A5F;padding:6px 14px;border-radius:16px;font-size:0.9em;border:1px solid #D4A574;">⏱ 読了目安：約10分</p>
-
 <!-- ===== リード文 ===== -->
 <p>「祖母の遺品整理で出てきた市松人形、捨てるには忍びないけど飾る場所もない」「娘が成長して飾らなくなった雛人形、どうしたらいいか分からない」「母が大切にしていた西洋人形、価値があるのか心配」——日本人形を手放す場面は人それぞれですが、業者選びを誤ると価値ある作品が数千円で買い叩かれる世界です。</p>
 
@@ -68,7 +65,6 @@ related:
 H2-1：日本人形を売る人の3パターン
 ============================================================ -->
 <!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">供養か買取かで迷っている方も、値段を知ってから決めることができます。</p>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+2IHXI2+5BZE+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 日本人形の無料査定を申し込む</a>

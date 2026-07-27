@@ -24,7 +24,7 @@ A8案件：古銭・古紙幣・金貨・記念コイン【福ちゃん】(15-05
 a8mat：4B1SPX+B2WGUY+35HU+ZQ80I（pixel www13・EPC 50以上・確定率80.16%）
 ============================================================ -->
 
-<!-- 読了時間バッジ＋PR表記 -->
+<!-- ===== PR表記 ===== -->
 <div style="display:flex;gap:10px;align-items:center;margin:0 0 18px 0;flex-wrap:wrap;">
 <span style="background:#FFF3E0;border:1px solid #FFB74D;color:#E65100;padding:5px 14px;border-radius:20px;font-size:0.85em;font-weight:bold;">📖 約10分で読める</span>
 <span style="background:#F5F5F5;border:1px solid #BDBDBD;color:#616161;padding:5px 14px;border-radius:20px;font-size:0.8em;">※本記事はPR（広告）を含みます</span>
@@ -73,7 +73,6 @@ a8mat：4B1SPX+B2WGUY+35HU+ZQ80I（pixel www13・EPC 50以上・確定率80.16%�
 H2-1：古銭の価値を見極める5つのチェックポイント
 ============================================================ -->
 <!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">捨てる前に、手元の古銭に値段がつくかどうかだけ先に確かめられます。</p>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B2WGUY+35HU+ZQ80I" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 古銭の無料査定を申し込む</a>
@@ -468,7 +467,6 @@ H2-11：まとめ
 ▶ <strong>あわせて読みたい</strong><br>
 <a href="https://re-money-lab.com/tetsubin-mikiwakekata/">鉄瓶の真贋を見分ける7つのポイント｜元業界人8年が教える</a>
 </div>
-
 
 <!-- 内部リンク水色カード（記事26・おもちゃ買取本音相場・2026-05-10追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">

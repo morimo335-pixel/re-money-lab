@@ -12,13 +12,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p>※当記事はアフィリエイト広告を含みます。</p>
 
-<!-- ===== 読了時間バッジ ===== -->
-<p style="display:inline-block;background:#F8F4E6;color:#1E3A5F;padding:6px 14px;border-radius:16px;font-size:0.9em;border:1px solid #D4A574;">⏱ 読了目安：約10分</p>
-
-
-
-
-
 <p>「子供がバッシュ卒業して、玄関の靴箱がパンパン…」「夫の古いスニーカー、捨てるのもったいないけどメルカリは面倒くさい」「ニューバランスやヴァンズも売れるの？」</p>
 
 <p>そんなお悩み、よくわかります。私は買取業界の営業として8年・累計3万点超の査定をしてきましたが、<strong>スニーカー・バッシュは「ただの中古靴」ではなく、知らないと数万円損する世界</strong>なんです。</p>
@@ -62,7 +55,6 @@ related:
 <hr style="border:0;border-top:1px solid #D4A574;margin:32px 0;" />
 
 <!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">箱やタグが残っていなくても値段がつくことがあります。まず一足だけでも見てもらえます。</p>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+8WWOM2+3CAA+HWXLD" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ スニーカーの買取価格を無料で調べる</a>

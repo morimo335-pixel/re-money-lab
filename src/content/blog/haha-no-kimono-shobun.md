@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：桑染紫 #6B4A6F） ===== -->
-<p style="display:inline-block;background:#F1EAF2;color:#6B4A6F;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #6B4A6F;margin-bottom:20px;">⏱ 読了目安 約8分</p>
 
 <!-- ===== リード文 ===== -->
 <p>実家のタンスを開けるたびに、目に入る母の着物——<strong>「処分しなきゃ」と思いながら、何年も手が止まっていませんか。</strong>捨てるのは、母の人生をゴミに出すようで罰当たりな気がする。かといって、自分は着ないし、タンス一棹分を抱えてはいられない。</p>
@@ -94,7 +93,6 @@ related:
 </div>
 
 <!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">手放すかどうかは、まだ決めなくて大丈夫です。値段だけ先に知ることができます。</p>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AUKEE2+35HU+60OXE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 着物の無料査定を申し込む</a>
@@ -215,7 +213,6 @@ related:
 <p>実際、形見の大島紬を売った方が「査定士さんが織りの技術を丁寧に説明してくれて、納得して手放せた。そのお金で母と祖母を偲ぶ食事に行けた」と語っている公開体験談もあります。<strong>「捨てるしかないと思っていたけど、誰かに着てもらえるなら気持ちが楽になった」</strong>——現場で、そう言っていただくことは本当に多いんです。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 2社並列CTA（中盤・H2-3ハイブリッド解決法の直後） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -330,7 +327,6 @@ related:
 <p><strong>「ウールばかりだから」とタンスごと処分業者に出してしまう前に、一度だけプロの目を通してください。</strong>母の普段着に見えた1枚が、誰かの探していた1枚かもしれません。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 2社並列CTA（末尾） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

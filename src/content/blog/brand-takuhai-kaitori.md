@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：チャコールグレー #37474F・上質/ブランド） ===== -->
-<p style="display:inline-block;background:#ECEFF1;color:#37474F;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #37474F;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>クローゼットの奥で眠ったままのブランドバッグや財布、時計——。「売りたいけど、お店に持ち込むのは面倒」。そこで宅配買取を調べはじめて、こんなふうに迷っていませんか。</p>
@@ -204,7 +203,6 @@ related:
 <p>とくに<strong>「忙しくて店に行く時間がない」「梱包資材を用意するのも億劫」「でも手取りは一円でも多くしたい」</strong>——この条件にいちばんハマるのがリクロです。次の章で、その理由を具体的に見ていきます。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：リクロ（中盤・主役・宅配/委託） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -315,7 +313,6 @@ related:
 <p>迷ったら、<strong>梱包の手間がなく、委託で手取りを最大化できるリクロの無料査定</strong>から試すのが、いちばん安全な始め方です。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：リクロ（末尾・最終CTA） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

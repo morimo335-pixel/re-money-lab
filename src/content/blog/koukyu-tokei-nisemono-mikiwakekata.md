@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：インディゴ #34418C） ===== -->
-<p style="display:inline-block;background:#EDEFFA;color:#34418C;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #34418C;margin-bottom:20px;">⏱ 読了目安 約8分</p>
 
 <!-- ===== リード文 ===== -->
 <p><strong>「父の高級時計、本物か分からない」——その状態でメルカリに出すのは、ちょっと待ってください。</strong>もし偽物だと、知らないうちに思わぬトラブルにつながることもあります。でも安心してください、<strong>ご自分で見分ける必要はありません</strong>。触らず・現状のまま無料査定に出すのが、いちばん安全で損のない方法です。</p>
@@ -190,7 +189,6 @@ related:
 </div>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（中盤・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -281,7 +279,6 @@ related:
 <p>迷ったら、<strong>自宅から出さず複数社の目で一度に見てもらえるラクーダの無料一括査定</strong>から試すのが、いちばん失敗のない第一歩です。<strong>「偽物かもしれないから」と引き出しに眠らせていた時計が、本物で思わぬ高値になることも珍しくありません。</strong>まずは"確かめるだけ"から始めてみてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（末尾・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

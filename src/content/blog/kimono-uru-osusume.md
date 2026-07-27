@@ -63,7 +63,6 @@ related:
 </ul>
 <p>これらが分かって、業者と対等に話せる準備が整います。</p>
 <p>母や祖母が大切にしてきた着物に、ふさわしい敬意と価格で次の持ち主を見つけてあげましょう。</p>
-<p style="background:#F8F4E6;border-left:4px solid #D4A574;padding:10px 16px;margin:16px 0;font-size:0.95em;color:#5C4A2D;">⏱️ <strong>この記事は約11分で読めます</strong>（5,500字）</p>
 <div style="background:#F8F4E6;border-radius:12px;padding:24px;margin:24px 0;text-align:center;">
 <img loading="lazy" decoding="async" width="1024" height="1024" src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:280px;height:280px;display:block;margin:0 auto;" srcset="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg 1024w, https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e-300x300.jpg 300w, https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e-150x150.jpg 150w, https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
 <p style="margin: 16px 0 0 0; font-weight: bold; font-size: 1.1em;">筆者　ハル</p>
@@ -462,7 +461,5 @@ related:
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
   <p style="margin:0;"><a href="https://re-money-lab.com/fukuchan-shucchou-kaitori/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">福ちゃん出張買取の評判｜元業界人8年が3つのお得ポイント解説</a></p>
 </div>
-
-
 
 </div>

@@ -16,9 +16,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ（配色：エスプレッソブラウン #3E2723） ===== -->
-<p style="display:inline-block;background:#EFE9E6;color:#3E2723;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #3E2723;margin-bottom:20px;">⏱ 読了目安 約12分</p>
-
 <!-- ===== リード文 ===== -->
 <p>相続した父のデイトナ、離婚を機に手放す一本、買い替えで眠ったままの一本——ロレックスを「そろそろ売ろうか」と思ったとき、こんな迷いが出てきませんか。</p>
 
@@ -353,7 +350,6 @@ related:
 <p>大切に使ってきた一本だからこそ、最後は<strong>納得できる金額で、次の持ち主へ</strong>。まずは現在地を知るところから、ゆっくり始めてください。</p>
 
 <!-- ===== 末尾PR表記（A8前・B-8対策） ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：ラクーダ一括査定（末尾メインCTA・複数社で現在地を知る） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

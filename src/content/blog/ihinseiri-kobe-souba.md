@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：ハーバーネイビー #15607A・神戸/港町） ===== -->
-<p style="display:inline-block;background:#E2EEF2;color:#15607A;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #15607A;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>神戸の実家を片付けることになった。坂の上の古い家や、代々続く家に、親が遺した家財がそのまま——。「業者に頼むといくら？」と検索して、こんな不安で止まっていませんか。</p>
@@ -231,7 +230,6 @@ related:
 <p>神戸の旧家のお宝は、<strong>食器棚や蔵で大切に保管され、状態が良いまま残っている</strong>ことが多く、海外コレクター向けの販路を持つ専門店なら、世界の需要に合った高い査定が付きやすい。とくに今は<strong>円安で、舶来の洋食器やブランド品の海外需要が高騰中</strong>。以前なら「数百円の処分対象」だった食器が、数万円になることも珍しくありません。<strong>埃まみれのままでOK</strong>。素人判断で捨てる前に、目利きのできる出張買取にまとめて見てもらうのが、神戸では特に効きます。<strong>買取額が片付け費を上回り、自己負担がぐっと軽くなるケースもある</strong>ほどです。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：福ちゃん骨董（中盤・買取相殺・収益エンジン） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -368,7 +366,6 @@ related:
 <p>大切なのは、<strong>焦って中身ごと丸投げしないこと</strong>。まずは無料の査定で、神戸の旧家に眠る価値を確かめるところから始めてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：遺品整理110番（末尾・まるごとの一括見積もり） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：ディープグリーン #1B5E4F・料金/信頼） ===== -->
-<p style="display:inline-block;background:#E6F0EC;color:#1B5E4F;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #1B5E4F;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>実家の片付けで何社か見積もりを取ったら、同じ家なのに「12万円」と「28万円」——。そんな価格差を前に、こんなふうに固まっていませんか。</p>
@@ -86,7 +85,6 @@ related:
 </div>
 
 <!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">見積書の読み方に入る前に、複数社の金額を並べて比べておきたい方へ。</p>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B2B196+35HU+15OK2A" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 遺品整理の一括見積もりを取る</a>
@@ -255,7 +253,6 @@ related:
 <p><strong>「何社も別々に呼ぶのは大変…」</strong>と感じるなら、まず出張買取で売れる物だけ引き取ってもらい、残ったゴミの量をもとに遺品整理業者へ見積もりを頼む——この<strong>2ステップ</strong>なら、面倒な調整なしに費用を抑えやすくなります。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：福ちゃん骨董（中盤・買取相殺・収益エンジン） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -358,7 +355,6 @@ related:
 <p>大切なのは、<strong>焦って安い1社に飛びつかないこと</strong>。まずは無料の査定で"お金になる物"を確かめ、内訳の見える業者を複数比べるところから始めてください。家一軒まるごとで自分では手に負えないときは、複数業者の一括見積もりを使うのが手っ取り早く安全です。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：遺品整理110番（末尾・まるごとの一括見積もり） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

@@ -13,6 +13,9 @@ related:
 
 <div class="article-content">
 
+<!-- ===== PR表記 ===== -->
+<p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
+
 <style>
 .gold-cta-shine {
   position: relative;
@@ -46,7 +49,6 @@ related:
 }
 </style>
 
-<p>※本記事は広告（PR）を含みます。</p>
 <p>「実家の片付けをしていたら、母のブランドバッグや貴金属が出てきた」<br />
 「引越し前にクローゼットを整理したら、結構いいものが眠っていた」<br />
 ——そんなとき、手軽に使えると話題なのが<strong>コメ兵の宅配買取</strong>です。</p>
@@ -84,7 +86,6 @@ related:
 
 <hr />
 <!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">宅配と店頭のどちらが高いか迷っている方は、まず宅配の査定額を見てから決められます。</p>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9H5F6I+3VEM+686ZM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ コメ兵の宅配買取を無料で試す</a>

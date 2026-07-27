@@ -18,9 +18,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ ===== -->
-<p style="display:inline-block;background:#E8EEF6;color:#1B3A6F;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #1B3A6F;margin-bottom:20px;">⏱ 読了目安 約12分</p>
-
 <!-- ===== リード文 ===== -->
 <p>親が施設に入居したあと、あるいは相続で実家を引き継いだあと、多くの方が直面するのが「実家じまい」という重い課題です。片付けるだけでも大変なのに、<strong>解体するのか、売却するのか、それとも空き家のまま持ち続けるのか</strong>——出口の選び方ひとつで、最終的な持ち出し費用が数十万円から数百万円まで大きく変わります。</p>
 
@@ -690,8 +687,6 @@ related:
 <h3>きっかけ③｜地主・隣地との代理交渉を依頼する</h3>
 
 <p>借地権で地主が非協力的、共有持分で兄弟がまとまらない、隣地境界で揉めている——こうした「人間関係の障害」を抱えるご家庭が、自分で交渉して動かなくなるパターンがほとんどです。借地権・訳あり物件専門の買取業者は、<strong>無料相談・現地調査・査定・売買契約・地主との代理交渉までワンストップで対応</strong>するため、施主が直接交渉する必要がありません。</p>
-
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== A8 mybest風カード：訳あり物件買取センター（記事46準拠） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

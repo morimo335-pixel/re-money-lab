@@ -17,9 +17,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ ===== -->
-<p style="display:inline-block;background:#E8EAF6;color:#1A237E;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:2px solid #1A237E;margin-bottom:20px;">⏱ 読了目安 約10分</p>
-
 <!-- ===== リード文 ===== -->
 <p>「特養の相談員から『来週月曜に入所手続き、再来週には入居してください』と連絡が来た——母の人生40年分が詰まった4LDKを、私が一人で片付けるのか？」</p>
 
@@ -373,8 +370,6 @@ related:
 <h3>考え方③｜女性査定士の指定で親世代の心理的ハードルを軽くする</h3>
 
 <p>電話予約時に「女性査定士でお願いします」と一言伝えるだけで、親世代の警戒心がぐっと下がります。特に女性親（実母・義母）にとっては、男性査定士より女性査定士の方が婚礼タンスや着物を「ゴミに見られる」感覚が薄れ、思い出話まで聞いてもらえる安心感に繋がります。多くの大手業者は無料で指定対応してくれます。</p>
-
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 中盤A8カード①：福ちゃん総合 ===== -->
 <div style="border:2px solid #1A237E;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(26,35,126,0.15);">

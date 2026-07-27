@@ -16,9 +16,6 @@ related:
 <!-- ===== PR表記（ファーストビュー・全広告主が掲載必須） ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ（配色：プラム #5B2C6F・音楽/管楽器系） ===== -->
-<p style="display:inline-block;background:#F3E5F5;color:#5B2C6F;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #5B2C6F;margin-bottom:20px;">⏱ 読了目安 約10分</p>
-
 <!-- ===== リード文（感情フック） ===== -->
 <p>実家を片付けていたら、押し入れの奥から出てきた古い楽器ケース。開けてみると、子どもが中学・高校の吹奏楽部で使っていたサックスやトランペット、フルート——。ホコリをかぶって、もう何年も音を出していない。そんな楽器を前に、手が止まっていないでしょうか。</p>
 
@@ -124,7 +121,6 @@ related:
 </div>
 
 <!-- ===== 早見表直後CTA（読者の「どこに売る？」が最大化する地点・上ミニCTA） ===== -->
-<p style="font-size:0.85em;color:#666;margin:18px 0 6px 0;">※当記事はアフィリエイト広告を含みます</p>
 <div style="background:#F6EEF8;border:2px solid #5B2C6F;border-radius:10px;padding:18px 20px;margin:8px 0 24px 0;">
 <p style="margin:0 0 12px 0;font-weight:bold;color:#5B2C6F;font-size:1em;">📌 管楽器・ギターが決まった方へ｜無料の出張査定はこちら</p>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+5FA7YY+5VHC+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;text-align:center;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;padding:14px 18px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:0.98em;box-shadow:0 4px 14px rgba(26,188,156,0.45);">🎷 楽器の買取屋さん｜出張・見積もり・相談すべて無料で査定</a>
@@ -353,7 +349,6 @@ related:
 
 <!-- A8 mybest風カード：楽器の買取屋さん（中盤・本命・中フルCTA） -->
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
 <div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 管楽器・ギターを売るなら：出張買取【楽器の買取屋さん】無料</div>
@@ -467,7 +462,6 @@ related:
 <p>大切なのは、<strong>「楽器も何もかも、まとめて1社に安く引き取らせないこと」</strong>。管楽器を専門店に分けて出すだけで、結果は大きく変わります。まずは無料査定で、あなたの楽器の価値を確かめるところから始めてください。</p>
 
 <!-- ===== 末尾PR表記（A8前・B-8対策） ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：楽器の買取屋さん（末尾メインCTA・下フル） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

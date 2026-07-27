@@ -22,7 +22,7 @@ slug: furui-record-shobun
 タイトル型：完全保存版型（G-3以来）／字数：25
 ============================================================ -->
 
-<!-- 読了時間バッジ＋PR表記 -->
+<!-- ===== PR表記 ===== -->
 <div style="display:flex;gap:10px;align-items:center;margin:0 0 18px 0;flex-wrap:wrap;">
 <span style="background:#FFF3E0;border:1px solid #FFB74D;color:#E65100;padding:5px 14px;border-radius:20px;font-size:0.85em;font-weight:bold;">📖 約8分で読める</span>
 <span style="background:#F5F5F5;border:1px solid #BDBDBD;color:#616161;padding:5px 14px;border-radius:20px;font-size:0.8em;">※本記事はPR（広告）を含みます</span>
@@ -384,7 +384,6 @@ H2-10：まとめ｜捨てる前にまず査定を
 <img class="a8-pixel" border="0" src="https://www18.a8.net/0.gif?a8mat=4B3JAH+EDZ5UI+2QOI+2HBG6A" alt="">
 </div>
 
-
 <!-- 内部リンク水色カード（記事24・古いお酒・5/8追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
@@ -411,6 +410,5 @@ H2-10：まとめ｜捨てる前にまず査定を
 </ul>
 </div>
 </div>
-
 
 </div>

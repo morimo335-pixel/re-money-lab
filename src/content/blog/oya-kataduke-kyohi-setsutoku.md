@@ -16,9 +16,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ ===== -->
-<p style="display:inline-block;background:#FCE4EC;color:#B33951;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #B33951;margin-bottom:20px;">⏱ 読了目安 約9分</p>
-
 <!-- ===== リード文 ===== -->
 <p>実家を片付けようとした瞬間、親に「触るな」と怒鳴られて動けなくなる——40-50代の方からよく聞く悩みです。</p>
 
@@ -296,7 +293,6 @@ related:
 <p>親の判断力が比較的健在な「今この瞬間」が、円満な生前整理を実行できるラストチャンスです。家族では限界を感じたら、専門業者の無料相談に1本電話するところから始めてみてください。第三者の力を借りるのは「逃げ」ではなく<strong>「親子関係を守る賢い選択」</strong>です。</p>
 
 <!-- ===== 中盤PR表記（B-8対策） ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== A8 mybest風カード：ライフリセット（templates/mybest-card.html準拠・末尾CTA1本のみ） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

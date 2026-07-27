@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：アンティークブロンズ #6B4A2E） ===== -->
-<p style="display:inline-block;background:#F1EBE2;color:#6B4A2E;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #6B4A2E;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>夫が若い頃に憧れて買った、あるいは父の遺品から出てきた、大きくてゴツいパネライのルミノール——。「こんなデカい時計、今どき売れるの？」「もう流行ってないって聞くし」と、引き出しの奥で眠らせたままになっていませんか。</p>
@@ -93,7 +92,6 @@ related:
 </div>
 
 <!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">28万円差の話に入る前に、手元の一本が今いくらかを押さえておけます。</p>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9UUE3E+2OUY+HVFKY" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ パネライの査定額を複数社で比べる</a>
@@ -243,7 +241,6 @@ related:
 <p>とくに<strong>「店を回る時間はないけど、パネライを一番高く売りたい」</strong>——この条件にいちばんハマるのが一括査定のラクーダです。<strong>結果が出るまで数日かかる</strong>のは難点ですが、そのぶん「パネライに強い店」が自然と競り勝つ仕組み。今日中に現金化したいなら、その場で買うコメ兵やウリエルを選びましょう。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（中盤・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -327,7 +324,6 @@ related:
 <p>迷ったら、<strong>自宅から出さず複数社の最高値を引き出せるラクーダの無料一括査定</strong>から試すのが、失敗の少ない第一歩です。<strong>「もう流行ってないし二束三文かも」と思っていた時計が、予想を超える額がつくこともあります。</strong>引き出しに眠ったパネライの価値を、まずは確かめてみてください。高級時計を手放すときに後悔しないための考え方は、<a href="/rolex-uru-doko/" style="color:#6B4A2E;font-weight:600;">ロレックスを売って後悔しないための店選び</a>でも詳しく書いています。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（末尾・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

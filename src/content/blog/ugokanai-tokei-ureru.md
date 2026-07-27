@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：テラコッタ #B85C38） ===== -->
-<p style="display:inline-block;background:#F8ECE6;color:#B85C38;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #B85C38;margin-bottom:20px;">⏱ 読了目安 約8分</p>
 
 <!-- ===== リード文 ===== -->
 <p><strong>引き出しの奥で、何年も止まったままの腕時計——それ、捨てる前にちょっと待ってください。</strong>「動かない時計なんてゴミでしょ」というのは、実は一番もったいない思い込みです。<strong>ガラスが割れて止まったロレックスに15万円</strong>がついた実例もあります。</p>
@@ -95,7 +94,6 @@ related:
 </div>
 
 <!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">動かないまま置いてある時計に値段がつくかどうかは、査定だけでも確かめられます。</p>
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9UUE3E+2OUY+HV7V6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 止まった時計の査定額を無料で調べる</a>
@@ -287,7 +285,6 @@ related:
 </div>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（中盤・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -350,7 +347,6 @@ related:
 <p><strong>「動かないから二束三文」と思っていた時計が、家族の旅行代になることもあります。</strong>引き出しで眠らせたまま鉄くずにしてしまう前に、まずは価値を確かめてみてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（末尾・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

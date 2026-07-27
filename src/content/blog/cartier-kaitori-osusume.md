@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：ディープクリムゾン #8E1B2E・カルティエレッド） ===== -->
-<p style="display:inline-block;background:#F7E8EB;color:#8E1B2E;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #8E1B2E;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>若い頃に手に入れた、あるいは母から受け継いだカルティエのタンクやサントス——。使わなくなって引き出しで眠ったまま、「そろそろ売ろうかな」と調べはじめて、こんなふうに迷っていませんか。</p>
@@ -196,7 +195,6 @@ related:
 <p>とくに<strong>「店をいくつも回る時間はない／でも一番高く売りたい」</strong>——この条件にいちばんハマるのが一括査定のラクーダです。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（中盤・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -298,7 +296,6 @@ related:
 <p>迷ったら、<strong>自宅から出さず複数社の最高値を引き出せるラクーダの無料一括査定</strong>に出すところから始めてください。引き出しに眠ったカルティエの価値を、まずは確かめてみてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（末尾・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

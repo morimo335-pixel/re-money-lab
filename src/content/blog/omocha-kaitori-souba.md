@@ -25,7 +25,7 @@ a8mat（テキスト）：4B1SPX+AWY4T6+35HU+2BD44I（pixel www18・EPC 5%以上
 a8mat（バナー）：4B1SPX+AWY4T6+35HU+2BFWFL（pixel www11）
 規約注意：出張・店頭のみ対象（宅配×）／NG地域7県／モデルガン・エアガン×／中尾夫妻リスティング×／未成年19歳以下×
 ============================================================ -->
-<!-- 読了時間バッジ＋PR表記 -->
+<!-- ===== PR表記 ===== -->
 <div style="display:flex;gap:10px;align-items:center;margin:0 0 18px 0;flex-wrap:wrap;">
 <span style="background:#FFF3E0;border:1px solid #FFB74D;color:#E65100;padding:5px 14px;border-radius:20px;font-size:0.85em;font-weight:bold;">📖 約10分で読める</span>
 <span style="background:#F5F5F5;border:1px solid #BDBDBD;color:#616161;padding:5px 14px;border-radius:20px;font-size:0.8em;">※本記事はPR（広告）を含みます</span>

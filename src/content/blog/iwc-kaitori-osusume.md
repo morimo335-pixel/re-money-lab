@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：ヴィンテージブロンズ #5D4037） ===== -->
-<p style="display:inline-block;background:#F0EAE4;color:#5D4037;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #5D4037;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>父が一生モノとして奮発した、あるいは結婚記念に選んだIWC（インターナショナル・ウォッチ・カンパニー）のポルトギーゼやパイロット・ウォッチ——。実家の片付けや遺品整理で引き出しの奥から出てきて、「これ、売れるのかな」と調べはじめて、こんなふうに迷っていませんか。</p>
@@ -225,7 +224,6 @@ related:
 <p>IWCは前述のとおり、海外販路の有無で20万円超も差が出るため、<strong>複数社を競わせる効果がとくに大きいブランド</strong>。「店を回る時間はないけど高く売りたい」なら一括査定のラクーダが最適です。<strong>結果が出るまで数日かかる</strong>のは難点ですが、そのぶん価格競争で高値が出やすい。今日中に現金化したいなら、その場で買うコメ兵やウリエルを選びましょう。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（中盤・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -329,7 +327,6 @@ related:
 <p>迷ったら、<strong>自宅から出さず複数社の最高値を引き出せるラクーダの無料一括査定</strong>に出しておくのが、後悔しない順番です。<strong>捨てようと思っていた時計に、思わぬ値段がつくこともあります。</strong>引き出しに眠ったIWCの価値を、まずは確かめてみてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（末尾・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

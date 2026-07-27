@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：ペトロールブルー #1F5673） ===== -->
-<p style="display:inline-block;background:#E5EEF3;color:#1F5673;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #1F5673;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>夫が「ロレックスは手が出ないから」と選んだチューダーのブラックベイ。あるいは、亡くなったお父様の遺品から出てきた「チュードル」と書かれた古い時計——。引き出しの奥で眠っているのを見つけて、「これ、売れるのかな」と調べはじめて、こんなふうに迷っていませんか。</p>
@@ -228,7 +227,6 @@ related:
 <p>とくに<strong>「店を回る時間はないけど、買い叩かれたくない」</strong>——この条件にいちばんハマるのが一括査定のラクーダです。<strong>結果が出るまで数日かかる</strong>のは難点ですが、そのぶん「チューダーに強い店」が自然と競り勝つ仕組み。今日中に現金化したいなら、その場で買うコメ兵やウリエルを選びましょう。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（中盤・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -314,7 +312,6 @@ related:
 <p>迷ったら、<strong>自宅から出さず複数社の最高値を引き出せるラクーダの無料一括査定</strong>を先に押さえるのが、遠回りしない順番です。<strong>「弟分だから二束三文かも」と思っていた時計が、想像より高い値がつくこともあります。</strong>引き出しに眠ったチューダーの価値を、まずは確かめてみてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 3社並列CTA（末尾・目的別・各社へ均等送客） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

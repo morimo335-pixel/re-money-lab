@@ -17,7 +17,6 @@ related:
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 読了バッジ（配色：京紫 #6A4C9C・京都/雅） ===== -->
-<p style="display:inline-block;background:#EFEAF6;color:#6A4C9C;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #6A4C9C;margin-bottom:20px;">⏱ 読了目安 約9分</p>
 
 <!-- ===== リード文 ===== -->
 <p>京都の実家を片付けることになった。古い町家や代々の家で、親が遺した家財がそのまま——。「業者に頼むといくら？」と検索して、こんな不安で止まっていませんか。</p>
@@ -232,7 +231,6 @@ related:
 <p>京都の旧家のお宝は、<strong>土蔵や桐箪笥で大切に保管され、状態が良いまま残っている</strong>ことが多く、祇園などの老舗骨董店や海外コレクター向けの販路を持つ専門店なら、世界の需要に合った高い査定が付きやすい。<strong>埃まみれのままでOK</strong>。素人判断で捨てる前に、目利きのできる出張買取にまとめて見てもらうのが、京都では特に効きます。京都の旧家整理では、<strong>買取額が片付け費を上回り、自己負担がほぼゼロになるケースもある</strong>ほど。その買取額が、片付け費の負担を軽くしてくれます。</p>
 
 <!-- ===== 中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：福ちゃん骨董（中盤・買取相殺・収益エンジン） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
@@ -351,7 +349,6 @@ related:
 <p>大切なのは、<strong>焦って中身ごと丸投げしないこと</strong>。まずは無料の査定で、京都の旧家に眠る価値を確かめるところから始めてください。</p>
 
 <!-- ===== 末尾PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：遺品整理110番（末尾・まるごとの一括見積もり） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

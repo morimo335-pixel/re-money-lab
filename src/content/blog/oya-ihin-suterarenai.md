@@ -18,9 +18,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ ===== -->
-<p style="display:inline-block;background:#E8D5B7;color:#2C5F2D;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;margin-bottom:20px;">⏱ 読了目安 約10分</p>
-
 <!-- ===== リード文 ===== -->
 <p>「お父さんの形見の腕時計、もう3年押し入れに眠ってる——でも捨てるなんて絶対にできない」</p>
 
@@ -214,8 +211,6 @@ related:
 <p>実家整理で詰まる原因の多くは「品目別に業者を変える手間」です。腕時計は時計専門店、着物は着物専門店、骨董は骨董専門店——とやっていると、3社・4社の連絡だけで疲れ果てます。</p>
 
 <p>業界人が現場経験で勧めるのは<strong>多品目同時査定の出張買取</strong>。腕時計・ブランド品・骨董・着物・毛皮・貴金属・酒類まで一度に査定できる業者なら、半日で実家の片付けがぐっと進みます。査定料・出張費・キャンセル料が完全無料で、女性査定員も指名できる業者を選ぶと、玄関を上げる心理的ハードルも下がります。</p>
-
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== A8カード①：福ちゃん総合出張買取 ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

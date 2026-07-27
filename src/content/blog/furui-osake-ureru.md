@@ -24,7 +24,7 @@ A8案件：お酒【福ちゃん】(20-0413・s00000014709010・¥4,000＋Wチ�
 a8mat：4B1SPX+AV5TZU+35HU+1NJK7M（pixel www11）
 ============================================================ -->
 
-<!-- 読了時間バッジ＋PR表記 -->
+<!-- ===== PR表記 ===== -->
 <div style="display:flex;gap:10px;align-items:center;margin:0 0 18px 0;flex-wrap:wrap;">
 <span style="background:#FFF3E0;border:1px solid #FFB74D;color:#E65100;padding:5px 14px;border-radius:20px;font-size:0.85em;font-weight:bold;">📖 約9分で読める</span>
 <span style="background:#F5F5F5;border:1px solid #BDBDBD;color:#616161;padding:5px 14px;border-radius:20px;font-size:0.8em;">※本記事はPR（広告）を含みます</span>
@@ -469,7 +469,6 @@ H2-9：業界人コラム：2026年酒税法改正と古酒市場の未来
 <a href="https://re-money-lab.com/kosen-shobun/">古銭の処分は捨てる前に！元業界人8年が教える売れる5つの選択肢</a>
 </div>
 
-
 <!-- 内部リンク水色カード（記事26・おもちゃ買取本音相場・2026-05-10追加） -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
@@ -490,6 +489,5 @@ H2-9：業界人コラム：2026年酒税法改正と古酒市場の未来
 </ul>
 </div>
 </div>
-
 
 </div>

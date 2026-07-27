@@ -17,9 +17,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p>※アフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ ===== -->
-<p style="display:inline-block;background:#F8F4E6;color:#1E3A5F;padding:6px 14px;border-radius:16px;font-size:0.9em;border:1px solid #D4A574;">⏱ 読了目安：約10分</p>
-
 <!-- ===== リード文 ===== -->
 <p>ロレックスを売るかどうかで迷っているなら、先に結論からお伝えします。</p>
 
@@ -40,7 +37,6 @@ related:
 <p>この記事では、相場の話より先に「売って後悔しない判断」を扱います。査定前に確認しておくこと、相続や税金で見落としやすい点、そしてご自身に合った売却先の選び方まで、順に並べました。</p>
 
 <!-- ===== リード内ミニCTA ===== -->
-<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
   <p style="margin:0 0 12px;font-size:0.95em;">まずは金額の目安だけ知りたい方は、1回の入力で複数の買取店に査定を出せるサービスから始めると、比べる手間が減ります。</p>
   <a href="https://af.moshimo.com/af/c/click?a_id=5533260&p_id=5634&pc_id=15507&pl_id=72760" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 高級時計の無料一括査定を見る</a>
@@ -199,7 +195,6 @@ H2-2：売る前に確認したい4つのこと
 </div>
 
 <!-- ===== A8カード①（H2-2の後） ===== -->
-<p style="font-size:0.85em;color:#888;margin:28px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
 <div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 まとめて査定を出したい方へ：PREMIER VALUE</div>
 <div style="padding:20px;">
@@ -320,7 +315,6 @@ H2-4：後悔しない査定の取り方
 </div>
 
 <!-- ===== A8カード②（H2-4の後） ===== -->
-<p style="font-size:0.85em;color:#888;margin:28px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
 <div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 対面で相談しながら決めたい方へ：コメ兵</div>
 <div style="padding:20px;">
@@ -373,7 +367,6 @@ H2-5：売却先の選び方
 
 <p>荷物を持ち出すのが難しい、店に行く時間が取りにくい、という場合は宅配が向きます。ただし宅配は、返送の送料負担・輸送中の補償・キャンセルの期限が会社ごとに違います。<strong>申し込む前にこの3点を確認しておくと、あとで困りません。</strong></p>
 
-<p style="font-size:0.85em;color:#888;margin:28px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
 <div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 自宅から送って査定を受けたい方へ：ブランドオフ</div>
 <div style="padding:20px;">
@@ -398,7 +391,6 @@ H2-5：売却先の選び方
 
 <p>大手と1軒だけを比べるのではなく、<strong>大手の査定を1つ持ったうえで、こうした専門店にも見てもらう</strong>という使い方が現実的です。</p>
 
-<p style="font-size:0.85em;color:#888;margin:28px 0 6px;">※アフィリエイト広告を含みます</p>
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
 <div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">🏆 古い時計も見てほしい方へ：米田屋WEBSHOP</div>
 <div style="padding:20px;">

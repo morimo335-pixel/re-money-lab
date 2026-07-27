@@ -17,9 +17,6 @@ related:
 <!-- ===== PR表記 ===== -->
 <p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます</p>
 
-<!-- ===== 読了時間バッジ（配色：墨青 #37474F） ===== -->
-<p style="display:inline-block;background:#ECEFF1;color:#37474F;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #37474F;margin-bottom:20px;">⏱ 読了目安 約14分</p>
-
 <!-- ===== リード文 ===== -->
 <p>親の遺品整理や実家じまいで、いざ業者に頼もうと検索したものの——こんな不安で手が止まっていないでしょうか。</p>
 
@@ -271,7 +268,6 @@ related:
 
 <!-- A8 mybest風カード：福ちゃん総合（買取相殺・収益エンジン・安心役） -->
 <!-- ===== 末尾でない中盤PR表記 ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">
 <div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 20px;font-weight:bold;font-size:1.1em;">💰 処分費を相殺するなら：買取も対応の出張査定【福ちゃん】無料</div>
@@ -477,7 +473,6 @@ related:
 <p>大切なのは、<strong>焦って1社で決めないこと</strong>。まずは無料で複数社を比べ、相場と候補を知るところから始めてください。それが、後悔しない遺品整理への一番の近道です。</p>
 
 <!-- ===== 末尾PR表記（A8前・B-8対策） ===== -->
-<p style="font-size:0.85em;color:#666;margin:24px 0 8px 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- A8 mybest風カード：遺品整理110番（末尾メインCTA・複数優良業者の一括見積もり＝比較記事の締め） -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

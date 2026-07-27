@@ -16,7 +16,6 @@ related:
 <div class="article-content">
 
 <p>※本記事は広告（PR）を含みます。</p>
-<p style="display:inline-block;background:#FFF8E1;color:#A77620;padding:6px 14px;border-radius:20px;font-size:0.9em;font-weight:bold;border:3px solid #C8923A;margin-bottom:20px;">⏱ 読了目安 約13分</p>
 <p>「実家の片付けで出てきた古いブランド品や着物…これって売れるの？」<br>
 「親の遺品整理で大量の不用品が出た。何が価値があって何が捨ててOKなのか分からない…」<br>
 「断捨離したいけど、業者に買い叩かれるのも怖い…」</p>
@@ -561,9 +560,7 @@ related:
 <h2>H2-6：まとめ｜あなたに合う売り方への次のアクション</h2>
 <figure class="wp-block-image size-large aligncenter"><a href="https://re-money-lab.com/wp-content/uploads/2026/04/08-next-action-3routes.png"><img src="https://re-money-lab.com/wp-content/uploads/2026/04/08-next-action-3routes.png" alt="次のアクション3ルート" class="wp-image-69"/></a></figure>
 
-
 <p>長い記事を最後までお読みいただき、ありがとうございました。</p>
-
 
 <h3>📚 本記事のおさらい</h3>
 <ul>
@@ -611,6 +608,5 @@ related:
 </ul>
 </div>
 </div>
-
 
 </div>
