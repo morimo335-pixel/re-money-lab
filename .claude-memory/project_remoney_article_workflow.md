@@ -3,6 +3,7 @@ name: 【★最優先】re-money-lab.com 記事執筆 1ページ完結フロー�
 description: 新記事を企画〜公開する時、まず最初にこのファイルだけ見れば迷わず実行できるシングルソース。装飾・型・禁止事項などの詳細ルールは project_remoney_writing_rules.md 参照。
 type: project
 originSessionId: 2026-05-06-workflow-split-core
+modified: 2026-07-24T12:15:11.979Z
 ---
 
 # 🎯 新記事を書く時はこのファイル1つだけ見ろ（コア手順）
@@ -25,15 +26,8 @@ originSessionId: 2026-05-06-workflow-split-core
 
 ## 🎯 ステップ1：ジャンル即決（議論不要）
 
-### A8提携済み × 既存記事マッピング表
-
-| 業者 | 提携済み案件 | 既存記事 | 未開拓 |
-|---|---|---|---|
-| ブランドオフ | 宅配¥10,000 | D（宅配買取の評判） | 出張・店頭・各品目別 |
-| コメ兵 | 店頭¥7,800／宅配¥5,000 | E・I（梅田店頭） | 心斎橋・あべの等 |
-| ラクーダ | 一括¥7,000 | H（一括査定の評判） | — |
-| **福ちゃん** | 14品目（金/出張/切手/毛皮/カメラ/骨董等） | 16・17・18・19・20・21 | 食器・レコード・お酒・古銭(規約NG多) |
-| 遺品整理110番 | ¥6,000 | L（業者トラブル） | — |
+### A8提携済み × 既存記事マッピング
+**提携状況・案件ID・報酬・未開拓品目の一覧は [[project_remoney_a8_programs]] を正とする**（ここに転記すると二重管理で古くなる）。既存記事の有無は `ls src/content/blog/` で実地確認。
 
 ### 🚫 即却下ジャンル
 - なんぼや・バイセル → A8審査中（**福ちゃん着物は2026/04/24提携済み・EPC379×88.65%・¥4,000＝執筆可**）
@@ -79,7 +73,7 @@ Vol 100-1000・competition「低」・感情検索系・個人ブログ参入余
 | ④Google検索本体 | Claude (WebSearch) | 上位10サイト中身まで確認（詳細→rules.md ⑦）|
 | ⑤Search Console | カーター | 公開後実測クエリでリライト判断 |
 
-**🔒 2026-05-07 確定ルール**：Phase 1企画フェーズはClaude側でプランナー実測まで完遂。Satoshi手動扱いに逃げない。詳細→`feedback_a8_links_check_first.md`
+**🔒 2026-05-07 確定ルール**：Phase 1企画フェーズはClaude側でプランナー実測まで完遂。Satoshi手動扱いに逃げない。詳細→`feedback_a8_link_rules.md`
 
 ### 合格基準（8つ全クリア）
 - [ ] ラッコ関連語10個以上
@@ -118,7 +112,7 @@ for f in *.md; do grep -m1 '^title:' "$f" | sed "s|^title:|$f :|"; done | grep -
 
 ## 🔬 ステップ5.5：実買取データ・トレンド・体験談リサーチ（2026-05-14 Satoshi指示・自動化必須）
 
-**Why:** 2026-05-14、自動運営化のためにSatoshiが今までGeminiでやってた「実買取商品・金額・体験談・最近のトレンド調査」を**Claude側で執筆前に毎回実施**する方針確定。記事の信憑性・一次情報の濃さ・リベ大型の「実購入体験」要件を満たすために必須。
+**Why:** 2026-05-14確定。実買取商品・金額・体験談・トレンド調査を執筆前に毎回実施する（一次情報の濃さ＝リベ大型の核）。
 
 ### 🎯 リサーチ項目（執筆前に毎回収集・5項目必須）
 
@@ -148,15 +142,10 @@ for f in *.md; do grep -m1 '^title:' "$f" | sed "s|^title:|$f :|"; done | grep -
 5. **Gemini結果＋WebSearch実測を「執筆素材リスト」として統合**してPhase 2着手
 
 ### 🚫 NGパターン
-
-- ❌ **Geminiリサーチを飛ばしてWebSearchだけで済ます**（2026-05-18 Satoshi激怒事案・「毎日忘れてる」＝同ミス連続再発）
-- ❌ リサーチ省略してテンプレだけで書く（記事28・30はリサーチ済だが今後の量産記事でリサーチ抜けると一次情報薄い記事になる）
-- ❌ Gemini調査結果をSatoshiが手動でClaudeに渡す（自動運営の意味なし）
-- ❌ 実買取金額の具体数字が出せない記事（一次情報の濃さがリベ大型の核）
+❌ Geminiリサーチを飛ばしWebSearchだけで済ます（2026-05-18 激怒事案）／❌ リサーチ省略しテンプレだけで書く／❌ 実買取金額の具体数字が出せない記事
 
 ### 🤖 Captain Rotor との連携
-
-Captain Rotor が毎朝の候補3本生成時に**実買取データの初期リサーチも実行**して、CANDIDATES_YYYY-MM-DD.md に「主要モデル別買取相場サンプル3件＋トレンド1行」を含める方向で次回以降拡張。
+候補3本生成時に実買取相場サンプル3件＋トレンド1行も含める構想（未実装）。
 
 ---
 
@@ -251,18 +240,6 @@ Captain Rotor が毎朝の候補3本生成時に**実買取データの初期リ
 - [ ] **a8mat と a8ejpredirect のLP URLが一致**（コピペ時の書き換え漏れ防止）
 - 福ちゃん各品目LP：カメラ→`fuku-chan.info/camera/` ／楽器→`/gakki/` ／毛皮→`/kegawa/` ／金→`/kingaku/` ／切手→`fuku-chan.jp/kitte/?page=asp` ／骨董→`/kottou/?page=asp`
 
-### 既存テンプレ系チェック（11）
-- [ ] md構造残骸削除（リード文H2・# タイトル等）
-- [ ] 「📖 この記事で分かる事」D-2タブ
-- [ ] A8リンク自動監査
-- [ ] rel="sponsored nofollow" 全付与
-- [ ] 内部リンクカード3個以上配置
-- [ ] プロフィール2箇所配置（180px＋130px）
-- [ ] CTA配置（フル1個＋ミニ複数）
-- [ ] mybest風A8カード
-- [ ] 結論ボックス（H2直下）
-- [ ] バックリンク（公開後Phase 5）
-
 ### Phase 4チームレビュー
 ビクター（A〜D）／エイミー（E）／エレナ（B〜F）／**Gemini-2.5-pro セカンドオピニオン（`~/Library/Scripts/gemini-review.sh <article>` 実行→①数字事実確認②タイトル添削3案③メタ添削1案）**／Satoshi承認
 
@@ -305,19 +282,7 @@ Captain Rotor が毎朝の候補3本生成時に**実買取データの初期リ
 - HTTP 200 確認
 
 ### 📱 スマホClaude用 Gist 自動同期（公開後・必ず実行）
-
-記事公開＋handoff.md/コンテンツマップ更新が完了したら、**必ず最後に下記を実行**：
-
-```bash
-~/Library/Scripts/sync-mobile-gist.sh
-```
-
-このスクリプトが5ファイル（handoff・workflow・writing_rules・eyecatch_format・article_principles）をスマホClaude用Gist（`d9748ddcd020705289cfb3f908e70aff`）に自動同期する。
-
-**Why:** Satoshiがスマホ Claude.ai アプリでも作業継続できるよう、最新ルール・進捗を1分以内に反映させる仕組み。
-
-**Gist URL（Satoshiスマホ用）**：
-https://gist.github.com/morimo335-pixel/d9748ddcd020705289cfb3f908e70aff
+記事公開＋handoff更新が終わったら**必ず最後に** `~/Library/Scripts/sync-mobile-gist.sh` を実行。5ファイル（handoff/workflow/writing_rules/eyecatch_format/article_principles）をスマホClaude用Gistへ同期する。Gist IDとURLは [[project_remoney_handoff]] 記載。
 
 ### 公開直後（Chrome MCP自動実行・Satoshi手動扱い禁止）
 - [ ] **Search Console URL検査→インデックス登録リクエスト**
@@ -351,25 +316,9 @@ grep -n "公開済み[0-9]\?記事\|公開済み1[0-9]記事\|集客:キラー�
 ---
 
 ## 🔗 詳細リファレンス
-
-| カテゴリ | ファイル |
-|---|---|
-| **🆕 詳細ルール集（H2並び順／1記事1焦点／6ルール／漢語→和語／専門用語／AI臭／KW実測詳細）** | **`project_remoney_writing_rules.md`** |
-| ペルソナ詳細 | `project_remoney_persona.md` |
-| A8案件詳細 | `project_remoney_a8_programs.md` |
-| 戦略全体像 | `project_remoney_roadmap.md` |
-| 法務4鉄則 | `project_remoney_legal_rules.md` |
-| HTMLテンプレ各種 | `feedback_internal_link_card_style.md`／`feedback_affiliate_card_style.md`／`feedback_eyecatch_format.md`／`feedback_profile_two_locations.md`／`feedback_article_intro_what_you_learn.md` |
-| アフィリ規約 | `feedback_a8_link_rules.md` |
-| 公開前チェック | `feedback_pre_publish_cleanup.md` |
-| 業界用語 | `project_remoney_terminology.md` |
-| リベ大全ノウハウ | `reference_libeblog.md` |
+最重要＝**`project_remoney_writing_rules.md`**（H2並び順／1記事1焦点／リベ大6ルール／漢語→和語／専門用語／AI臭／KW実測詳細）。
+装飾HTMLテンプレは `templates/` から差替のみ。**その他の参照先は MEMORY.md 索引を見る**（ここに一覧を持つと二重管理になるため置かない）。
 
 ---
 
-**運用フロー**：
-1. 新記事企画開始時、まず本ファイルを開く
-2. ステップ0〜10を順番に消化
-3. 装飾・型・禁止事項などの詳細は `project_remoney_writing_rules.md` 参照
-4. 本ファイルで決まらない時のみPhase1全員で再議論
-5. 新パターン・新ミスが出たら本ファイル or rules.md に即追記
+**運用フロー**：企画開始時に本ファイルを開き、ステップ0〜10を順番に消化。決まらない時のみPhase1全員で再議論。新パターン・新ミスは本ファイル or rules.md に即追記。

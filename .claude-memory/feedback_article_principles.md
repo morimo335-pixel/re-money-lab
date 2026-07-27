@@ -1,8 +1,9 @@
 ---
 name: 記事執筆の大原則（統合版）
-description: 読者貢献最優先・リベ大ベース・平易な日本語・品質最優先・Lightbox必須。re-money-lab全記事に適用される執筆大原則の統合。
+description: 読者貢献最優先・リベ大ベース・平易な日本語・品質最優先・Lightbox必須。re-money-lab全記事に適用される執筆大原則の統合。 ＋新記事は直近成功記事をcp複製して開始・Satoshi発言は字面通り解釈（勝手な補完/一括書き換え禁止）。
 type: feedback
 originSessionId: 1a47d746-600d-45a0-b736-7ef92b1243b7
+modified: 2026-07-24T12:17:12.515Z
 ---
 # 記事執筆の大原則【全記事・絶対遵守】
 
@@ -75,7 +76,7 @@ re-money-lab.com の戦略・記事構成・執筆方針・収益化判断はす
 
 ### 🆕【全記事必須】リベ大チェックリスト点検を毎回実施【2026-04-30追加】
 
-**ルール**：記事執筆完了後、公開前に必ず `reference_libeblog_checklist.md` の Phase 3〜5 を全項目点検する。**Satoshiから聞かれる前に、自発的に毎回実施**。
+**ルール**：記事執筆完了後、公開前に必ず `feedback_pre_publish_cleanup.md` のリベ大17項目チェックを全項目点検する（旧`reference_libeblog_checklist.md`は2026-05-19にreference_libeblog.mdへ統合済・運用版はこちら）。**Satoshiから聞かれる前に、自発的に毎回実施**。
 
 **実施タイミング**：
 - 本文ドラフト完成後（最低1回）
@@ -93,7 +94,7 @@ re-money-lab.com の戦略・記事構成・執筆方針・収益化判断はす
 - 「リベ基準オッケー？」とSatoshiから聞かれる前に、執筆完了時点で自発的にレポートを出す
 - エレナのQAレビュー前にライラ自身でも一度通す（二重チェック）
 
-**関連メモリ**：[reference_libeblog.md](reference_libeblog.md) / [reference_libeblog_checklist.md](reference_libeblog_checklist.md) / [feedback_pre_publish_cleanup.md](feedback_pre_publish_cleanup.md)
+**関連メモリ**：[reference_libeblog.md](reference_libeblog.md) / [feedback_pre_publish_cleanup.md](feedback_pre_publish_cleanup.md)
 
 ---
 
@@ -198,3 +199,19 @@ re-money-lab.com の**全画像**（アイキャッチ以外の図解・表・�
 - **Why**：スマホ読者が多数（画面が小さく図解の数字が読めない）＋クーリングオフ書面・統計表など詳細情報へのアクセス担保＋回遊率/滞在時間UP。
 - **実装**：現行はAstro。画像を拡大表示するラッパー（旧WordPress/Cocoon baguetteBox実装は移管2026-05-09で廃止）。実装詳細は現行テンプレ `re-money-lab-astro/` を正とする。
 - 公開前のエレナ最終レビューで「全画像がクリックで拡大するか」を必ずチェック。
+
+---
+
+## 【統合】直近記事をcp複製して開始＋字面通り解釈
+# 新記事前に直近記事を実地確認＋字面解釈
+
+**Why:** 2026-05-07/05-14、記憶やテンプレ感覚で組み立て→プロフィール自作・装飾崩れ・Satoshi発言の逆解釈で全記事を逆方向に一括修正（revert）等の暴走が連発。「なんでこんな阿呆なの」「文脈読んでや」と激怒。
+
+**How to apply（durableルール）：**
+
+1. **直近記事を実地確認してから書く**：新記事は `cp src/content/blog/[直近成功slug].md [新slug].md` で複製して書き始める（[[project_remoney_article_workflow]]）。リード文・プロフィール・「分かる事」ボックス・H2並び・装飾は**直近記事＋ templates/ を文字単位で踏襲**。自作・記憶頼みNG。（※WPは廃止＝Astro git repoが実体・[[feedback_verify_reality_first]]）
+2. **Satoshi発言は字面通り・勝手な補完禁止**：「最後を比較に」「入れ替えて」等の指示語は該当箇所を1つに特定。曖昧なら**1回だけ**「○○でOK？」と確認してから動く。推測で複数箇所を一気に書き換えない。
+3. **スクショを送ってきたら原則「正規装飾の参考＝目標」と解釈**：「治ってない/色が違う」=スクショが目標、「これじゃない」=スクショが正解。
+4. **一括展開の前に必ず1記事だけ直してSatoshiに見せて承認→OK後に全体へ**（逆方向暴走の三重損失を防ぐ）。
+
+詳細の装飾テンプレ運用は templates/差替のみ（MEMORY.md冒頭5/27ルール／CLAUDE.md #6）。A8規約は [[feedback_a8_link_rules]] 6項目。
