@@ -40,7 +40,7 @@ related:
 </ul>
 </div>
 
-<p>こんにちは、買取業界8年・<strong>累計査定3万点超の筆者ハル</strong>です。現場で何度も見てきたのが、「動かないから」とリサイクルショップで数百円のジャンク扱いにされたり、処分されたりした時計が、<strong>本当は数万〜数十万円の価値を持っていた</strong>ケース。動かない時計こそ、出す場所で結果が一番変わるんです。</p>
+<p>こんにちは、買取業界8年・<strong>累計査定3万点超の筆者ハル</strong>です。現場で何度も起きていたのが、「動かないから」とリサイクルショップで数百円のジャンク扱いにされたり、処分されたりした時計が、<strong>本当は数万〜数十万円の価値を持っていた</strong>ケース。動かない時計こそ、出す場所で結果が一番変わるんです。</p>
 
 <p>この記事は<strong>「動かない・壊れた時計を、修理せず・損せず手放す」</strong>ことに絞って、8分でお伝えします。</p>
 
@@ -92,6 +92,14 @@ related:
 <li>放置すると「数万円が鉄くず」になる理由（液漏れ・サビ）</li>
 </ul>
 </div>
+</div>
+
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">動かないまま置いてある時計に値段がつくかどうかは、査定だけでも確かめられます。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9UUE3E+2OUY+HV7V6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 止まった時計の査定額を無料で調べる</a>
+  <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9UUE3E+2OUY+HV7V6" alt="">
 </div>
 
 <!-- ===== H2-1 売れる理由＋実例 ===== -->
@@ -174,7 +182,7 @@ related:
 
 <div style="background:#E0F2F1;border:4px solid #00695C;border-radius:8px;padding:18px 22px;margin:28px 0;">
 <p style="margin:0 0 10px 0;"><strong style="color:#004D40;">💡 業界人ワンポイント</strong></p>
-<p style="margin:0;line-height:1.85;">いちばん怖いのは故障ではなく<strong>「放置」</strong>です。電池切れのクォーツ時計をそのまま置いておくと、高い確率で<strong>電池が液漏れして電子基板を溶かし、再起不能</strong>になります。ゼンマイ式も、油が乾いた状態で湿気を吸うと歯車がサビて固着します。つまり<strong>「数万円の値がつく時計」が、引き出しの中で静かに「鉄くず」に変わっていく</strong>——現場で何度も見てきた、いちばんもったいないパターンです。手放すか迷っている段階でも、状態が良いうちに査定だけ受けておく価値があります。</p>
+<p style="margin:0;line-height:1.85;">いちばん怖いのは故障ではなく<strong>「放置」</strong>です。電池切れのクォーツ時計をそのまま置いておくと、高い確率で<strong>電池が液漏れして電子基板を溶かし、再起不能</strong>になります。ゼンマイ式も、油が乾いた状態で湿気を吸うと歯車がサビて固着します。つまり<strong>「数万円の値がつく時計」が、引き出しの中で静かに「鉄くず」に変わっていく</strong>——現場でいちばん多かった、もったいないパターンです。手放すか迷っている段階でも、状態が良いうちに査定だけ受けておく価値があります。</p>
 </div>
 
 <!-- ===== 箸休めイラスト（実写・H2-2末） ===== -->

@@ -28,7 +28,7 @@ related:
 <li>「兄弟は遠方で口だけ。夫から『いつまで実家に縛られるの』と冷たい目」</li>
 </ul>
 
-<p>こんにちは、買取業界8年・<strong>累計査定3万点超の筆者ハル</strong>です。生前整理・遺品整理の現場で「親が捨てさせてくれない」相談に何百件も立ち会ってきました。<strong>親の拒否は頑固ではなく、加齢に伴う「自分を守る防衛反応」</strong>。これを知らずに正論で押すほど、親の防衛は固くなって関係も壊れます。</p>
+<p>こんにちは、買取業界8年・<strong>累計査定3万点超の筆者ハル</strong>です。生前整理・遺品整理の現場で「親が捨てさせてくれない」相談を何百件も受けてきました。<strong>親の拒否は頑固ではなく、加齢に伴う「自分を守る防衛反応」</strong>。これを知らずに正論で押すほど、親の防衛は固くなって関係も壊れます。</p>
 
 <p>この記事は<strong>「拒否されたあとの突破口」</strong>に絞った内容です。行動経済学と心理学の知見で、親の5つの心理／NGワード5つ／会話術3ステップ／第三者の効果まで9分でお伝えします。</p>
 
@@ -99,7 +99,7 @@ related:
 
 <div style="background:#E0F2F1;border:4px solid #00695C;border-radius:8px;padding:18px 22px;margin:28px 0;">
 <p style="margin:0 0 10px 0;"><strong style="color:#004D40;">💡 業界人ワンポイント</strong></p>
-<p style="margin:0;line-height:1.85;">現場で見てきた事実として、<strong>親が物を捨てない時期と物を重複して買う時期がほぼ重なる</strong>傾向があります。「同じ調味料が3本」「タオルが押し入れに20枚」はMCIの初期サイン。気づいたら片付けより<strong>認知機能チェック</strong>を優先してください。意思能力を失うと不動産売却や家財処分の契約が無効になるリスクがあります。</p>
+<p style="margin:0;line-height:1.85;">現場で分かった事実として、<strong>親が物を捨てない時期と物を重複して買う時期がほぼ重なる</strong>傾向があります。「同じ調味料が3本」「タオルが押し入れに20枚」はMCIの初期サイン。気づいたら片付けより<strong>認知機能チェック</strong>を優先してください。意思能力を失うと不動産売却や家財処分の契約が無効になるリスクがあります。</p>
 </div>
 
 <!-- ===== H2-2 ===== -->
@@ -322,7 +322,7 @@ related:
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;" />
 <div style="flex:1;min-width:200px;">
 <p style="margin:0 0 6px 0;font-weight:bold;font-size:1.1em;color:#B33951;">筆者　ハル</p>
-<p style="margin:0;font-size:0.93em;line-height:1.75;">買取業界で計8年勤務・累計査定3万点超・古物商許可保有・廃品回収業実務経験あり。生前整理・遺品整理の現場で、親が物を捨てたがらない・実家整理を拒否する場面に何百件と立ち会ってきました。</p>
+<p style="margin:0;font-size:0.93em;line-height:1.75;">買取業界で計8年勤務・累計査定3万点超・古物商許可保有・廃品回収業実務経験あり。生前整理・遺品整理の現場で、親が物を捨てたがらない・実家整理を拒否する場面に、何百件と付き添ってきました。</p>
 </div>
 </div>
 

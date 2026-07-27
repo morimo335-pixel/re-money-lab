@@ -62,7 +62,7 @@ related:
 
 <p><strong>でも、結論から言います。金買取の失敗は「事前準備」で9割防げます。</strong></p>
 
-<p>私は買取業界の営業を8年やってきました。貴金属の査定だけで累計3万点以上を見てきた中で、金買取で損をする人には必ず「共通する見落とし」があると気付きました。逆に言えば、その7つを押さえるだけで、買い叩かれるリスクは劇的に下がります。</p>
+<p>私は買取業界の営業を8年やってきました。貴金属の査定だけで累計3万点以上を扱った中で、金買取で損をする人には必ず「共通する見落とし」があると気付きました。逆に言えば、その7つを押さえるだけで、買い叩かれるリスクは劇的に下がります。</p>
 
 <p>この記事では、金買取で絶対に外せない注意点7つと、業者が隠したがる手数料のカラクリ、そして信頼できる業者の見極め方を、業界の裏側からお伝えします。</p>
 
@@ -91,6 +91,14 @@ related:
 <li>査定額が変わる「事前準備」のコツ</li>
 </ul>
 </div>
+</div>
+
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">注意点を読む前に、今の相場でいくらになるかだけ先に知っておきたい方へ。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AYQFMI+35HU+HV7V6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 金・貴金属の無料査定を申し込む</a>
+  <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1SPX+AYQFMI+35HU+HV7V6" alt="">
 </div>
 
 <h2>【業界人が断言】金買取で失敗する人の共通点</h2>

@@ -60,6 +60,14 @@ related:
 </div>
 </div>
 
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">相場の話に入る前に、手元の一台が今いくらなのかを知りたい方へ。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AWCP7E+35HU+1THW9E" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ フィルムカメラの査定額を無料で調べる</a>
+  <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+AWCP7E+35HU+1THW9E" alt="">
+</div>
+
 <!-- ===== H2-3 ===== -->
 <h2>【2026年最新】機種別フィルムカメラ買取相場一覧</h2>
 
@@ -158,7 +166,7 @@ related:
 
 <h3>選択肢②：リサイクルショップに持ち込み</h3>
 
-<p>近所のリサイクルショップは手軽ですが、カメラ専門知識がなく「型番だけで安価査定」になりがち。CONTAXやLeicaなどの名機を二束三文で取られた事例を業界では多く見てきました。</p>
+<p>近所のリサイクルショップは手軽ですが、カメラ専門知識がなく「型番だけで安価査定」になりがち。CONTAXやLeicaなどの名機を二束三文で取られた事例は、業界では珍しくありません。</p>
 
 <h3>選択肢③：メルカリ・ヤフオクで自分で売る</h3>
 
@@ -237,7 +245,7 @@ related:
 <p>Leicaやハッセルブラッドなど高級機なら、修理前提でも価値が残ります。1990年代の電子コンパクトカメラ（CONTAX T2など）は基板故障で修理不能なケースもあるため、査定額は本来の数分の一になる可能性があります。</p>
 
 <div style="background:#E0F2F1;border-left:4px solid #00695C;padding:15px 20px;margin:25px 0;border-radius:4px;">
-  <p style="margin:0;"><strong style="color:#1E3A5F;">📌 業界人の本音：</strong>「動かないし、ゴミだろう」と勝手に判断して捨てる前に、一度は査定を受けてください。私自身、現役時代に「壊れているから無料で持ってって」と渡されたカメラが、実は数万円の価値があったケースを何度も目にしてきました。</p>
+  <p style="margin:0;"><strong style="color:#1E3A5F;">📌 業界人の本音：</strong>「動かないし、ゴミだろう」と勝手に判断して捨てる前に、一度は査定を受けてください。私自身、現役時代に「壊れているから無料で持ってって」と渡されたカメラが、実は数万円の価値があった、ということが何度もありました。</p>
 </div>
 
 <!-- ===== H2-Column 業界人コラム（統合版・ブーム終了は誤解） ===== -->

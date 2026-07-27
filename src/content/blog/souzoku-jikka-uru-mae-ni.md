@@ -31,7 +31,7 @@ related:
 <!-- ===== 結論1行 ===== -->
 <p style="background:#FFF3D6;border:2px solid #C8923A;border-radius:8px;padding:14px 18px;margin:20px 0;font-weight:bold;color:#6D4C41;font-size:1.06em;line-height:1.7;">💡 結論：相続した実家は「<strong style="color:#C8923A;">いきなり売る・いきなり解体</strong>」が一番損します。正しいのは<strong style="color:#C8923A;">「権利の確認 → 中身の片付け → 価値ある物を買取 → 最後に建物の出口」</strong>の順番。これだけで手取りが数十万円変わります。</p>
 
-<p>こんにちは、買取業界8年・<strong>累計査定3万点超の筆者ハル</strong>です。実家じまいや遺品整理の現場で、「中身が片付かないまま不動産屋に持ち込んで買い叩かれた」「焦って解体したら税金が跳ね上がった」というご家族を何度も見てきました。<strong>順番を1つ間違えるだけで、数十万円単位で損をする</strong>のが実家の売却です。</p>
+<p>こんにちは、買取業界8年・<strong>累計査定3万点超の筆者ハル</strong>です。実家じまいや遺品整理の現場で、「中身が片付かないまま不動産屋に持ち込んで買い叩かれた」「焦って解体したら税金が跳ね上がった」というご家族が、実際に何組もいました。<strong>順番を1つ間違えるだけで、数十万円単位で損をする</strong>のが実家の売却です。</p>
 
 <p>この記事は<strong>「相続した実家を、損せず・揉めず・正しい順番で手放す」</strong>ことに絞って、9分でお伝えします。放置のリスク／やりがちな2大失敗／正しい5ステップ／捨てる前に売れる物／兄弟と揉めない方法／建物の出口3つの選び方まで。</p>
 
@@ -85,6 +85,14 @@ related:
 <li>兄弟と揉めない・罪悪感を手放すコツと、建物の出口3つの選び方</li>
 </ul>
 </div>
+</div>
+
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">家の中を先に片付けたい方は、出張査定で買取と処分をまとめて相談できます。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AZBV8A+35HU+2N9ZXV" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 実家の出張査定を無料で申し込む</a>
+  <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+AZBV8A+35HU+2N9ZXV" alt="">
 </div>
 
 <!-- ===== H2-1 放置リスク（危機感） ===== -->
@@ -252,7 +260,7 @@ related:
 </ul>
 </div>
 
-<p>実家の処分が進まない一番の理由は、物量ではなく<strong>「気持ち」</strong>です。2つの壁を、現場で見てきた方法で越えましょう。</p>
+<p>実家の処分が進まない一番の理由は、物量ではなく<strong>「気持ち」</strong>です。2つの壁を、現場で通用した方法で越えましょう。</p>
 
 <p><strong>① 兄弟で揉めない</strong>：実家は物理的に分けられないので、現物で分けようとすると揉めます。<strong>家を売って現金にし、費用を全部精算してから1円単位で山分けする「換価分割」</strong>を、早い段階で合意しておくのが一番円満です。「誰が片付けるか」問題も、費用を売却代金から出すと決めておけば角が立ちません（→<a href="/jikka-seiri-kyodai-momeru/" style="color:#6D4C41;font-weight:600;">兄弟で揉める原因と防ぎ方</a>）。</p>
 

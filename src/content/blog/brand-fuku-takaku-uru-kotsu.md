@@ -17,7 +17,7 @@ related:
 <p>「クローゼットに眠っているブランド服、いくらで売れるんだろう？」</p>
 <p>そう思ってお店に持ち込んだら、想像の半額以下で査定された——。そんな経験、ありませんか。</p>
 <p>実は、<strong>ブランド服の査定額は「売り方のコツ」ひとつで3万円以上変わる</strong>ことも珍しくありません。</p>
-<p>私は買取営業として8年、累計1万件以上のブランド品を査定してきました。その現場で見てきたのは、「同じ服でも知ってる人と知らない人で、こんなに値段が違うのか」という現実です。</p>
+<p>私は買取営業として8年、累計1万件以上のブランド品を査定してきました。その現場で突きつけられたのは、「同じ服でも知ってる人と知らない人で、こんなに値段が違うのか」という現実です。</p>
 <div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:24px;margin:28px 0;text-align:center;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <img loading="lazy" decoding="async" width="1024" height="1024" src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:280px;height:280px;display:block;margin:0 auto;border-radius:50%;object-fit:cover;" srcset="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg 1024w, https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e-300x300.jpg 300w, https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e-150x150.jpg 150w, https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
 <p style="margin: 16px 0 0 0; font-weight: bold; font-size: 1.1em;">筆者　ハル</p>

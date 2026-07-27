@@ -83,6 +83,14 @@ related:
 </div>
 
 <hr />
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">宅配と店頭のどちらが高いか迷っている方は、まず宅配の査定額を見てから決められます。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9H5F6I+3VEM+686ZM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ コメ兵の宅配買取を無料で試す</a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B1SPX+9H5F6I+3VEM+686ZM" alt="">
+</div>
+
 <h2>H2-1：コメ兵宅配買取とは？業界内での位置づけ</h2>
 <p>コメ兵は、<strong>東証スタンダード市場上場・創業70年超</strong>の株式会社コメ兵が運営する<strong>日本最大級のリユースデパート</strong>です。出張買取・店頭買取・宅配買取・LINE査定の4ルートを揃え、その中の<strong>宅配買取</strong>が今回のテーマ。</p>
 <h3>💡 業界人が知る「コメ兵の強み」の構造的理由</h3>

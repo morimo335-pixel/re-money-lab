@@ -61,6 +61,14 @@ related:
 
 <hr style="border:0;border-top:1px solid #D4A574;margin:32px 0;" />
 
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">箱やタグが残っていなくても値段がつくことがあります。まず一足だけでも見てもらえます。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+8WWOM2+3CAA+HWXLD" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ スニーカーの買取価格を無料で調べる</a>
+  <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1SPX+8WWOM2+3CAA+HWXLD" alt="">
+</div>
+
 <h2>スニーカー・バッシュ買取の本音相場｜ブランド別×状態別マトリックス</h2>
 
 <div style="background:#FFF8E1;border-left:5px solid #D4A574;padding:14px 20px;margin:20px 0;border-radius:4px;">

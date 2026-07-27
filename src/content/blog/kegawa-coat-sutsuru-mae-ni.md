@@ -81,6 +81,14 @@ related:
 </div>
 </div>
 
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">捨てる前に、その1着に値段がつくかどうかだけ先に確かめられます。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B1461M+35HU+1HL85U" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 捨てる前に無料査定を申し込む</a>
+  <img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4B1SPX+B1461M+35HU+1HL85U" alt="">
+</div>
+
 <!-- ===== H2-1 ===== -->
 <h2>毛皮コートが「捨てるに捨てられない」3つの理由</h2>
 
@@ -222,7 +230,7 @@ related:
 
 <h3>毛皮買取に強い専門業者の選び方</h3>
 
-<p>業界人として現場で見てきた結論をお伝えすると、毛皮はリサイクルショップやブランド品買取店では正確な査定がつきません。<strong>毛皮専門の査定士が在籍し、海外への流通経路を持つ業者</strong>を選ぶことで、適正額が見えます。福ちゃんは毛皮買取の専門ラインを持ち、出張査定無料・キャンセル無料で全国対応。査定だけ受けて売らない選択も自由なので、まず相場を知るだけでも気軽に依頼できます。</p>
+<p>現場に立った側の結論をお伝えすると、毛皮はリサイクルショップやブランド品買取店では正確な査定がつきません。<strong>毛皮専門の査定士が在籍し、海外への流通経路を持つ業者</strong>を選ぶことで、適正額が見えます。福ちゃんは毛皮買取の専門ラインを持ち、出張査定無料・キャンセル無料で全国対応。査定だけ受けて売らない選択も自由なので、まず相場を知るだけでも気軽に依頼できます。</p>
 
 <!-- ===== A8カード（mybest風・ネイビー帯＋ゴールドCTA） ===== -->
 <div style="border:2px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:24px 0;box-shadow:0 4px 12px rgba(30,58,95,0.15);">

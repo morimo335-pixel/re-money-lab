@@ -93,6 +93,14 @@ related:
 
 <hr>
 
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">相場表を見る前に、手元のバッグの実際の査定額を知っておくと比べやすくなります。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9H5F6I+3VEM+5YJRM" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ ブランドバッグの無料査定を申し込む</a>
+  <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9H5F6I+3VEM+5YJRM" alt="">
+</div>
+
 <h2>ブランドバッグの売る相場【2026年最新ベンチマーク】</h2>
 
 <p><strong>結論：状態Aランク（中古良品）の相場目安は、エルメスで100万円超、シャネル・ヴィトンで5〜40万円です。</strong></p>

@@ -62,7 +62,7 @@ related:
 
 <p><strong>でも、結論から言います。遺品整理のトラブルは、業者選びの段階で9割防げます。</strong></p>
 
-<p>私は買取業界の営業を8年やってきました。その間、遺品整理業者から「査定だけ手伝ってほしい」と現場に呼ばれた経験が何度もあります。だからこそ、業界の裏側で何が起きているかを、内側から見てきました。</p>
+<p>私は買取業界の営業を8年やってきました。その間、遺品整理業者から「査定だけ手伝ってほしい」と現場に呼ばれた経験が何度もあります。だからこそ、業界の裏側で何が起きているかを、内側から知る立場にいました。</p>
 
 <p>この記事では、現場で実際に起きているトラブル7選と、悪質業者を見抜く5つのチェックポイント、そして信頼できる業者の探し方を、業界人の視点でお伝えします。</p>
 
@@ -94,6 +94,14 @@ related:
 </div>
 </div>
 
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">業者選びで迷っている方は、複数社の見積もりを並べるところから始めると安全です。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 遺品整理業者の無料見積もりを比べる</a>
+  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1SPX+9HQUSA+39GM+5MFLEA" alt="">
+</div>
+
 <h2>【業界人が証言】遺品整理で実際に起きるトラブル7選</h2>
 <div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:0 8px 8px 0;padding:16px 22px;margin:24px 0;color:#3E2723;line-height:1.85;">
 <strong style="color:#C8923A;font-size:1.05em;">💡 結論</strong><br>
@@ -116,7 +124,7 @@ related:
 
 <h3>③ 価値ある遺品を不当に安く査定される</h3>
 
-<p>これは私が現役時代、遺品整理業者の現場で何度も見てきた光景です。古物商許可を持たない業者が、価値も分からず「これはゴミですね」と言って引き取り、後日リサイクルショップで数万円で売りさばく、というケースが実際にあります。</p>
+<p>これは私が現役時代、遺品整理業者の現場で、何度も繰り返された光景です。古物商許可を持たない業者が、価値も分からず「これはゴミですね」と言って引き取り、後日リサイクルショップで数万円で売りさばく、というケースが実際にあります。</p>
 
 <p>骨董品・貴金属・ブランド品・古い着物などは、見た目では価値が分かりません。<strong>査定する人間に専門知識があるかどうか</strong>で、結果は10倍以上変わることもあります。</p>
 

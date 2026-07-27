@@ -92,6 +92,14 @@ related:
 </div>
 </div>
 
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">手元に置いたままにするか迷っている方は、金額が分かると判断しやすくなります。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 結婚指輪の無料査定を申し込む</a>
+  <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
+</div>
+
 <h2>離婚後の結婚指輪、約4割が「売る」を選んでいる</h2>
 
 <p>「指輪を売るなんて、なんとなく後ろめたい」と思う方もいるかもしれません。でも実は、離婚を経験した女性の<strong>約4割が「売却」を選んでいる</strong>のが現実です。</p>
@@ -135,7 +143,7 @@ related:
 
 <h3>業界人の現場感覚：離婚時の婚約指輪は9割以上が売却</h3>
 
-<p>私が現場で見てきた離婚に伴う指輪売却の現場感覚として、「婚約指輪を元配偶者に返した」というケースはほぼゼロです。理由はシンプルで、<strong>高価な物（30〜100万円が多い）を返すより、自分の再出発資金に充てたい心理が圧倒的</strong>だからです。</p>
+<p>離婚に伴う指輪売却を実際に担当した感覚で言うと、「婚約指輪を元配偶者に返した」というケースはほぼゼロです。理由はシンプルで、<strong>高価な物（30〜100万円が多い）を返すより、自分の再出発資金に充てたい心理が圧倒的</strong>だからです。</p>
 
 <p>元配偶者側も「返してほしい」と言うケースは稀。こだわって揉めるより穏便に手放す方が多い、というのが正直なところです。</p>
 

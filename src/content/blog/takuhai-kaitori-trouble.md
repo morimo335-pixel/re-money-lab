@@ -140,7 +140,7 @@ related:
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>①発送前の完全証拠化 ②古物商許可番号の確認 ③返送料完全無料の業者だけ選ぶ ④査定の透明性確認 ⑤即決を迫られたら一度断る——この5つでほぼ全てのトラブルは防げます。</p>
 </div>
-<p>ここからは、私が現場で見てきたトラブル全パターンを踏まえた、<strong>確実に身を守る5つのプロセス</strong>です。</p>
+<p>ここからは、私が現場で処理したトラブル全パターンを踏まえた、<strong>確実に身を守る5つのプロセス</strong>です。</p>
 <h3>ステップ① 発送前の「完全証拠化」</h3>
 <p>トラブル発生時に唯一の盾になるのが「客観的な記録」です。</p>
 <ul>

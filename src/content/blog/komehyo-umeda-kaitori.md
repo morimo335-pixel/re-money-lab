@@ -57,6 +57,14 @@ related:
 </div>
 </div>
 
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">店舗に足を運ぶ前に、今の買取価格の目安だけ先に確認しておきたい方へ。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ コメ兵の無料査定ページを見る</a>
+  <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" alt="">
+</div>
+
 <h2>コメ兵 梅田店の基本情報｜OSAKA UK・GATEの3階全体が買取専用</h2>
 
 <p>まずは梅田店がどんな店舗なのか、ざっくり押さえましょう。</p>
@@ -355,7 +363,7 @@ related:
 
 <p>「使わないブランド品が眠っている」「現金化したい」と思った日が、行動するベストタイミング。時間とともに価値が下がる前に、まずは一度足を運んでみることをおすすめします。</p>
 
-<p>タンスの奥で眠っていたバッグや、何年も袖を通していない着物が、想像以上の金額で家計の味方に変わる——私は現役時代、そんな瞬間に立ち会うたびにご家族の表情がふっと明るくなるのを見てきました。査定で得たお金で、ずっと我慢していた自分へのご褒美を買う方もいれば、お子さんの進学費用や家族旅行の足しにする方もいます。<strong>「使わない物」が「次の楽しみ」に変わる感覚</strong>を、ぜひコメ兵 梅田店で体験してみてください。</p>
+<p>タンスの奥で眠っていたバッグや、何年も袖を通していない着物が、想像以上の金額で家計の味方に変わる——私は現役時代、そんな瞬間に立ち会うたびにご家族の表情がふっと明るくなりました。査定で得たお金で、ずっと我慢していた自分へのご褒美を買う方もいれば、お子さんの進学費用や家族旅行の足しにする方もいます。<strong>「使わない物」が「次の楽しみ」に変わる感覚</strong>を、ぜひコメ兵 梅田店で体験してみてください。</p>
 
 <div style="border:1px solid #E0E0E0;border-radius:12px;margin:40px 0;box-shadow:0 4px 16px rgba(0,0,0,0.08);overflow:hidden;background:#fff;">
 <div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 24px;display:flex;justify-content:space-between;align-items:center;">

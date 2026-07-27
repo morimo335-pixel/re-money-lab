@@ -41,6 +41,14 @@ related:
 </div>
 </div>
 <hr />
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">出品し直す前に、まとめて査定に出すといくらになるのかを比べてみる手もあります。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 売れ残った服をまとめて無料査定に出す</a>
+  <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
+</div>
+
 <h2>メルカリで服が売れない7つの構造的原因</h2>
 <p>多くの初心者は、メルカリのアルゴリズムと購入者心理に逆行する出品をしています。代表的な7つを順に見ていきましょう。</p>
 <ol>
@@ -53,7 +61,7 @@ related:
 <li><strong>再出品せず放置している</strong>：2〜3日伸びない商品は埋もれていく一方です</li>
 </ol>
 <div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
-<strong>💡 業界人ワンポイント：</strong>私が現場で見てきた限り、売れない理由の7割は「写真とタイトル」です。商品の質より、<strong>見せ方で勝負がつく</strong>んですよ。
+<strong>💡 業界人ワンポイント：</strong>現場に立った実感で言うと、売れない理由の7割は「写真とタイトル」です。商品の質より、<strong>見せ方で勝負がつく</strong>んですよ。
 </div>
 <hr />
 <h2>【業界人視点】売れる服 vs 売れない服の見極め方</h2>
@@ -229,7 +237,7 @@ related:
 </div>
 <hr />
 <h2>それでも売れない服の出口戦略</h2>
-<p>ここまでの7条を実践しても、正直「売れない服」は存在します。買取現場で年間3,000着見てきた立場から、シビアな話をさせてください。</p>
+<p>ここまでの7条を実践しても、正直「売れない服」は存在します。買取現場で年間3,000着に触れた立場から、シビアな話をさせてください。</p>
 <h3>労働対価のシビアな現実</h3>
 <p>メルカリの純利益はこう計算します。</p>
 <pre><code>純利益 = 販売価格 −（販売価格 × 0.10）− 配送料 − 梱包資材費
@@ -240,7 +248,7 @@ related:
 <p>しかも初心者の場合、撮影・出品・質問対応・梱包・発送まで合計<strong>1時間前後</strong>かかるのが普通。<strong>時給換算で475円相当</strong>です。2026年4月現在、最低賃金の全国加重平均は<strong>1,121円</strong>（厚生労働省公示）ですから、<strong>その半分以下</strong>というのが現実です。</p>
 <h3>服のジャンル別「賢い売り方」</h3>
 <p>そこで、ジャンル別に売り方を変えるのが業界人の発想です。</p>
-<p>特にノースフェイス・ヴィトンなどの高単価ブランドは、メルカリで数万〜数十万円つく一方、撮影・質問対応・梱包の手間も比例して増えます。<strong>時間を時給換算すると、専門買取業者の方が結果的にお得</strong>というケースは買取現場でも多く見てきました。</p>
+<p>特にノースフェイス・ヴィトンなどの高単価ブランドは、メルカリで数万〜数十万円つく一方、撮影・質問対応・梱包の手間も比例して増えます。<strong>時間を時給換算すると、専門買取業者の方が結果的にお得</strong>というケースは、買取現場でも珍しくありません。</p>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
 <p><a href="https://re-money-lab.com/brandoff-evaluation/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 ブランドオフ宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー →</a>

@@ -38,7 +38,7 @@ related:
 <ul>
 <li>買取業界の営業として複数社で計8年勤務（<strong>ブランドバッグ・宝飾</strong>・時計・貴金属・着物等）</li>
 <li><strong>累計査定3万点超</strong>（ルイ・ヴィトン・シャネル・エルメス等のブランドバッグを多数査定）</li>
-<li>廃品回収業界での実務経験もあり（遺品整理・実家じまいの現場で数百個のブランドバッグを見てきた）</li>
+<li>廃品回収業界での実務経験もあり（遺品整理・実家じまいの現場で数百個のブランドバッグを担当）</li>
 <li><strong>古物商許可保有</strong></li>
 </ul>
 
@@ -442,7 +442,7 @@ H2-8：まとめ
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;">
 <div style="flex:1;min-width:240px;">
 <p style="margin:0 0 8px 0;font-weight:bold;font-size:1.1em;">筆者　ハル</p>
-<p style="margin:0;font-size:0.95em;line-height:1.7;">買取業界8年・<strong>累計査定3万点超</strong>（ブランドバッグ・宝飾・時計・貴金属・着物等）。ルイ・ヴィトン・シャネル・エルメス等のバッグを多数査定し、廃品回収業界での実務経験から遺品整理・実家じまいの現場も数多く見てきた現場目線で解説しています。<strong>古物商許可保有</strong>。</p>
+<p style="margin:0;font-size:0.95em;line-height:1.7;">買取業界8年・<strong>累計査定3万点超</strong>（ブランドバッグ・宝飾・時計・貴金属・着物等）。ルイ・ヴィトン・シャネル・エルメス等のバッグを多数査定し、廃品回収業界での実務経験から遺品整理・実家じまいの現場にも数多く立った経験から解説しています。<strong>古物商許可保有</strong>。</p>
 </div>
 </div>
 

@@ -31,7 +31,7 @@ related:
 <!-- ===== 結論1行 ===== -->
 <p style="background:#FFF3D6;border:2px solid #C8923A;border-radius:8px;padding:14px 18px;margin:20px 0;font-weight:bold;color:#1B5E4F;font-size:1.06em;line-height:1.7;">💡 結論：遺品整理の見積もりは「<strong style="color:#C8923A;">総額の安さ</strong>」で選ぶと損します。正しいのは<strong style="color:#C8923A;">「見積書の"内訳"を同じ土俵で比べる → 許可と追加料金の有無を書面で確認 → 売れる物は先に査定して相殺」</strong>の順番。これだけで支払いも当日のトラブルも変わる場合があります。</p>
 
-<p>こんにちは、買取業界8年・<strong>累計査定3万点超の筆者ハル</strong>です。廃品回収の現場も見てきた立場で言うと、<strong>遺品整理の見積もりは「金額」より「内訳の書き方」を見れば、その業者が信用できるかがかなり見えてきます</strong>。逆に、総額しか書いていない見積書ほど、当日に追加請求の注意点が隠れています。</p>
+<p>こんにちは、買取業界8年・<strong>累計査定3万点超の筆者ハル</strong>です。廃品回収の現場も踏んだ立場で言うと、<strong>遺品整理の見積もりは「金額」より「内訳の書き方」を見れば、その業者が信用できるかがかなり見えてきます</strong>。逆に、総額しか書いていない見積書ほど、当日に追加請求の注意点が隠れています。</p>
 
 <p>この記事は<strong>「遺品整理の見積もりを、損せず・騙されず比べる」</strong>ことに絞って、9分でお伝えします。なぜ同じ家で2倍違うのか／見積書の内訳の読み方／サービス別の料金の出方／追加料金トラップの見抜き方／相見積もりの正しい比べ方まで。</p>
 
@@ -83,6 +83,14 @@ related:
 <li>追加料金トラップの見抜き方と、損しない相見積もりの比べ方</li>
 </ul>
 </div>
+</div>
+
+<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
+<p style="font-size:0.85em;color:#888;margin:24px 0 6px;">※アフィリエイト広告を含みます</p>
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
+  <p style="margin:0 0 12px;font-size:0.95em;">見積書の読み方に入る前に、複数社の金額を並べて比べておきたい方へ。</p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+B2B196+35HU+15OK2A" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ 遺品整理の一括見積もりを取る</a>
+  <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+B2B196+35HU+15OK2A" alt="">
 </div>
 
 <!-- ===== H2-1 まず何を見る ===== -->
