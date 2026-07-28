@@ -197,13 +197,13 @@ related:
 
 <p>1点だけより、3〜5点まとめた方が「総額」での交渉余地が出ます。「全部まとめて買うので少し色つけてください」と言いやすい状況を、こちらから作るのがポイント。</p>
 
-<h3>⑤ キャンペーン期間を狙う（2026年GW開催中）</h3>
+<h3>⑤ キャンペーン期間を狙う</h3>
 
-<p>コメ兵は定期的に買取強化キャンペーンを行っています。<strong>2026年5月時点で狙い目</strong>なのは：</p>
+<p>コメ兵は定期的に買取強化キャンペーンを行っています。過去にはこんな企画が実施されました。</p>
 
 <div style="background:#FFF3E0;border:2px solid #FF6F00;border-radius:8px;padding:18px 22px;margin:20px 0;">
-<div style="font-size:13px;color:#FF6F00;font-weight:bold;margin-bottom:8px;">🎯 開催中｜2026年5月時点</div>
-<p style="margin:0;"><strong>GOLDEN WEEK 買取祭</strong>（2026年4月18日〜5月6日）<br>全ブランド対象の買取強化期間。GW中に来店すれば対象になります。</p>
+<div style="font-size:13px;color:#FF6F00;font-weight:bold;margin-bottom:8px;">📌 過去に実施されたキャンペーン例</div>
+<p style="margin:0;"><strong>GOLDEN WEEK 買取祭</strong>（2026年4月18日〜5月6日）<br>全ブランド対象の買取強化期間。期間中に来店した分が対象になる形式でした。</p>
 <p style="margin:8px 0 0 0;font-size:0.8em;color:#999;">※キャンペーン内容・期間は時期により変更されます。最新情報はコメ兵公式サイト・LINEで必ずご確認ください。</p>
 </div>
 
