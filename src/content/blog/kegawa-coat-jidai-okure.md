@@ -18,9 +18,9 @@ related:
 <div style="border:3px solid #C8923A;border-radius:0 10px 10px 10px;padding:22px 28px;background:#fff;">
 <ul style="margin:0;padding-left:1.5em;line-height:2;">
 <li>「毛皮は時代遅れ」と言われる本当の理由と、それでも値段がつく理由</li>
-<li>親から譲り受けた毛皮の5つの選択肢</li>
-<li>素材別の最新買取相場（セーブル〜ラビット）</li>
+<li>素材別・ブランドタグ別の最新買取相場（セーブル〜ラビット）</li>
 <li>毛皮を少しでも高く売る5つのコツ</li>
+<li>親から譲り受けた毛皮の5つの選択肢（リメイク費用・捨て方も）</li>
 <li>福ちゃん毛皮買取の評判と、業界人がイチオシする理由</li>
 </ul>
 </div>
@@ -103,13 +103,13 @@ related:
 
 <p>まずは、その相場から見ていきましょう。</p>
 
-<!-- ===== H2-2 ===== -->
-<h2>【素材別】2026年最新 毛皮買取相場一覧</h2>
+<!-- ===== H2-2（2026-07-29 Phase4：旧H2-2「素材別相場」＋旧H2-3「ミンク相場」を統合。H2を9本→7本へ）===== -->
+<h2>毛皮の買取相場｜素材別とミンクの本音価格</h2>
 
 <!-- 📷 TODO画像②：H2-2直下／素材別の買取相場表を1枚の画像に要約（セーブル/チンチラ/ミンク/フォックス/ラビットの金額帯） -->
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
-  <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>ロシアンセーブルなら最大13万円超、ミンク・チンチラも数万円〜10万円規模。ラビット系は数千円が現実です。</p>
+  <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>ロシアンセーブルなら最大13万円超、ミンク・チンチラも数万円〜10万円規模。ラビット系は数千円が現実です。ミンクは<strong>SAGA MINKタグの有無で1.5〜3倍</strong>変わります。</p>
 </div>
 
 <h3>素材別の買取相場【早見表】</h3>
@@ -141,14 +141,7 @@ related:
 
 <p style="font-size:0.85em;color:#666;background:#f5f5f5;padding:10px 15px;border-radius:4px;margin:15px 0;">※掲載の買取相場は2026年5月時点の参考値です。実際の価格は<strong>素材・タグ・状態・業者・市場動向</strong>により変動します。</p>
 
-<!-- ===== H2-3 ===== -->
-<h2>ミンクのコートはいくらで売れる？2026年最新相場</h2>
-
-<!-- 📷 TODO画像③：H2-3直下／SAGA MINKのメタルタグが縫い付けられている位置（襟元・裏地）を示す図解 -->
-
-<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
-  <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>SAGA MINK 上物なら8〜12万円、SOBOL最上級なら15万円超も。タグ無しや状態によっては数千円〜2万円が現実です。</p>
-</div>
+<p>ここからは、いちばん相談の多いミンクを掘り下げます。</p>
 
 <p>母の形見のミンクが、いくらで売れるのか。</p>
 
@@ -217,7 +210,7 @@ related:
 <!-- ===== H2-4 ===== -->
 <h2>毛皮を高く売る5つのコツ｜業界人の本音</h2>
 
-<!-- 📷 TODO画像④：H2-4直下／「高く売る5つのコツ」を①〜⑤のアイコン付きで1枚にまとめた図 -->
+<!-- 📷 TODO画像③：H2-4直下／「高く売る5つのコツ」を①〜⑤のアイコン付きで1枚にまとめた図 -->
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>「ブラッシング・付属品・まとめ売り・季節選び・複数業者比較」——この5つで査定額は変わります。</p>
@@ -262,7 +255,7 @@ related:
 <!-- ===== H2-5 ===== -->
 <h2>親の毛皮どうする？5つの選択肢</h2>
 
-<!-- 📷 TODO画像⑤：H2-5直下／「売る・着続ける・リメイク・譲る・処分」の5択を分岐フローで示した図 -->
+<!-- 📷 TODO画像④：H2-5直下／「売る・着続ける・リメイク・譲る・処分」の5択を分岐フローで示した図 -->
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>「売る・着続ける・リメイク・譲る・処分」の5択。状態と素材で最適解が変わります。</p>
@@ -306,7 +299,29 @@ related:
 
 <p>コートのままでは着づらくても、バッグやストールに作り替えれば日常で使えます。</p>
 
-<p>費用の目安は後半の「売る以外の選択肢」でまとめました。</p>
+<table style="width:100%;border-collapse:collapse;margin:20px 0;">
+  <thead>
+    <tr style="background:#1E3A5F;color:#fff;">
+      <th style="padding:10px;border:1px solid #ddd;text-align:left;">リメイクアイテム</th>
+      <th style="padding:10px;border:1px solid #ddd;text-align:center;">費用目安</th>
+      <th style="padding:10px;border:1px solid #ddd;text-align:left;">活用</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding:10px;border:1px solid #ddd;">バッグ</td><td style="padding:10px;border:1px solid #ddd;text-align:center;">40,700円〜</td><td style="padding:10px;border:1px solid #ddd;">普段使い</td></tr>
+    <tr style="background:#f8f9fa;"><td style="padding:10px;border:1px solid #ddd;">ベスト</td><td style="padding:10px;border:1px solid #ddd;text-align:center;">121,000円〜</td><td style="padding:10px;border:1px solid #ddd;">袖を無くして実用的に</td></tr>
+    <tr><td style="padding:10px;border:1px solid #ddd;">ストール・マフラー</td><td style="padding:10px;border:1px solid #ddd;text-align:center;">47,300円〜</td><td style="padding:10px;border:1px solid #ddd;">パーティー・和装小物</td></tr>
+    <tr style="background:#f8f9fa;"><td style="padding:10px;border:1px solid #ddd;">クッション</td><td style="padding:10px;border:1px solid #ddd;text-align:center;">16,500円〜</td><td style="padding:10px;border:1px solid #ddd;">インテリア</td></tr>
+  </tbody>
+</table>
+
+<p>三越などの百貨店で、毛皮リメイクの相談会が定期的に開かれています。</p>
+
+<p>納期は3ヶ月ほどが目安です。</p>
+
+<p>決める前に、<span style="background:linear-gradient(transparent 58%,#FCE9A8 58%);font-weight:bold;">「売ったらいくらか」と「リメイク代はいくらか」を必ず比べてください。</span></p>
+
+<p>査定が3万円でリメイク代が4万円なら、売って新しいものを買った方が合理的なケースもあります。</p>
 
 <h3>④ 譲る｜必要としている家族・知人がいるなら</h3>
 
@@ -318,7 +333,11 @@ related:
 
 <p>毛抜けやカビがひどく、値段がつかない1着もあります。</p>
 
-<p>その場合の捨て方は、後半で具体的に説明します。</p>
+<p>その場合は、<strong>「燃えるゴミ」として処分</strong>できます。</p>
+
+<p>ゴミ袋に入らない大きさなら、ハサミで小分けにするか粗大ゴミとして申し込んでください。</p>
+
+<p>いずれもお住まいの自治体のルールに従ってください。</p>
 
 <!-- A8カード①：福ちゃん毛皮（H2-5末尾ミニ／2026-07-29 添削：見出しタグ h3 を div に変更・目次から除外）-->
 <div style="border:1px solid #E0E0E0;border-radius:12px;margin:40px 0;box-shadow:0 4px 16px rgba(0,0,0,0.08);overflow:hidden;background:#fff;">
@@ -336,7 +355,7 @@ related:
 <!-- ===== H2-6 ===== -->
 <h2>福ちゃん毛皮買取の評判｜業界人イチオシの3つの理由</h2>
 
-<!-- 📷 TODO画像⑥：H2-6直下／福ちゃんの3つの強み（査定実績・女性査定士・状態難OK）を1枚に要約した図。※公式LPのスクショ流用はNG -->
+<!-- 📷 TODO画像⑤：H2-6直下／福ちゃんの3つの強み（査定実績・女性査定士・状態難OK）を1枚に要約した図。※公式LPのスクショ流用はNG -->
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>福ちゃんは「ミンク・セーブルに強い」「女性査定士指名可能」「ネーム入りでも対応」の3点で他社より頭一つ抜けています。</p>
@@ -396,7 +415,7 @@ related:
 <!-- ===== H2-7 ===== -->
 <h2>なぜ売れない毛皮がある？4つのNG要因</h2>
 
-<!-- 📷 TODO画像⑦：H2-7直下／買取不可になる4つの状態（硬化・黄変・カビ臭・ワシントン条約）を1枚に要約した図 -->
+<!-- 📷 TODO画像⑥：H2-7直下／買取不可になる4つの状態（硬化・黄変・カビ臭・ワシントン条約）を1枚に要約した図 -->
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>「皮の硬化・黄変・カビ臭・ワシントン条約該当」——この4つが買取不可・大幅減額の主要因です。</p>
@@ -432,49 +451,6 @@ related:
 
 <p><strong>諦める前に、まず無料査定で確認してみてください。</strong></p>
 
-<!-- ===== H2-8 ===== -->
-<h2>売る以外の選択肢｜リメイクと処分</h2>
-
-<!-- 📷 TODO画像⑧：H2-8直下／毛皮リメイクのビフォーアフター（コート→バッグ・ストール）を1枚にまとめた図 -->
-
-<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
-  <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>思い出を残したいならリメイク。バッグ4万円台、ストール4.7万円台から作れます。</p>
-</div>
-
-<h3>リメイクにかかる費用の目安</h3>
-
-<table style="width:100%;border-collapse:collapse;margin:20px 0;">
-  <thead>
-    <tr style="background:#1E3A5F;color:#fff;">
-      <th style="padding:10px;border:1px solid #ddd;text-align:left;">リメイクアイテム</th>
-      <th style="padding:10px;border:1px solid #ddd;text-align:center;">費用目安</th>
-      <th style="padding:10px;border:1px solid #ddd;text-align:left;">活用</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td style="padding:10px;border:1px solid #ddd;">バッグ</td><td style="padding:10px;border:1px solid #ddd;text-align:center;">40,700円〜</td><td style="padding:10px;border:1px solid #ddd;">普段使い</td></tr>
-    <tr style="background:#f8f9fa;"><td style="padding:10px;border:1px solid #ddd;">ベスト</td><td style="padding:10px;border:1px solid #ddd;text-align:center;">121,000円〜</td><td style="padding:10px;border:1px solid #ddd;">袖を無くして実用的に</td></tr>
-    <tr><td style="padding:10px;border:1px solid #ddd;">ストール・マフラー</td><td style="padding:10px;border:1px solid #ddd;text-align:center;">47,300円〜</td><td style="padding:10px;border:1px solid #ddd;">パーティー・和装小物</td></tr>
-    <tr style="background:#f8f9fa;"><td style="padding:10px;border:1px solid #ddd;">クッション</td><td style="padding:10px;border:1px solid #ddd;text-align:center;">16,500円〜</td><td style="padding:10px;border:1px solid #ddd;">インテリア</td></tr>
-  </tbody>
-</table>
-
-<p>三越などの百貨店で、毛皮リメイクの相談会が定期的に開かれています。</p>
-
-<p>納期は3ヶ月ほどが目安です。</p>
-
-<p>決める前に、<span style="background:linear-gradient(transparent 58%,#FCE9A8 58%);font-weight:bold;">「売ったらいくらか」と「リメイク代はいくらか」を必ず比べてください。</span></p>
-
-<p>査定が3万円でリメイク代が4万円なら、売って新しいものを買った方が合理的なケースもあります。</p>
-
-<h3>買取もリメイクも無理なときの捨て方</h3>
-
-<p>状態が悪くてどちらも難しい場合は、<strong>「燃えるゴミ」として処分</strong>できます。</p>
-
-<p>ゴミ袋に入らない大きさなら、ハサミで小分けにするか粗大ゴミとして申し込んでください。</p>
-
-<p>いずれもお住まいの自治体のルールに従ってください。</p>
-
 <!-- A8カード③：福ちゃん毛皮（まとめH2の直前／2026-07-29 Phase4：下CTAはまとめの前ルールに準拠・h3→div）-->
 <div style="border:1px solid #E0E0E0;border-radius:12px;margin:40px 0;box-shadow:0 4px 16px rgba(0,0,0,0.08);overflow:hidden;background:#fff;">
 <div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 24px;display:flex;justify-content:space-between;align-items:center;">
@@ -491,7 +467,7 @@ related:
 <!-- ===== H2-9 ===== -->
 <h2>まとめ｜母の毛皮、あなたの正解はどれ？</h2>
 
-<!-- 📷 TODO画像⑨：H2-9直下／記事全体の要点（時代遅れ≠無価値／5つの選択肢／相場）を1枚に要約したまとめ図 -->
+<!-- 📷 TODO画像⑦：H2-9直下／記事全体の要点（時代遅れ≠無価値／5つの選択肢／相場）を1枚に要約したまとめ図 -->
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>まず無料査定で価値を知る→納得できれば売る、思い出重視ならリメイク、状態悪なら処分。順序を間違えなければ後悔しません。</p>
