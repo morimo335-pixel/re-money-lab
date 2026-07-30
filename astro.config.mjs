@@ -7,7 +7,25 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://re-money-lab.com',
-	integrations: [mdx(), sitemap()],
+	// noindex 記事はサイトマップからも除外する（載せると「出すな」と「見に来い」で矛盾する）
+	// ここを更新したら、対象記事の frontmatter の noindex: true とセットで管理すること
+	integrations: [
+		mdx(),
+		sitemap({
+			filter: (page) =>
+				![
+					'kimono-uru-osusume',
+					'kimono-kaitori-koukai',
+					'haha-no-kimono-shobun',
+					'furisode-shobun',
+					'ihinseiri-osaka-souba',
+					'ihinseiri-kyoto-souba',
+					'ihinseiri-kobe-souba',
+					'sell-unwanted-items',
+					'brand-fuku-takaku-uru-kotsu',
+				].some((slug) => page === `https://re-money-lab.com/${slug}/`),
+		}),
+	],
 	fonts: [
 		{
 			provider: fontProviders.local(),

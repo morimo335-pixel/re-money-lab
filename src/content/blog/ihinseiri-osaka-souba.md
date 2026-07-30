@@ -2,6 +2,7 @@
 title: '親の家を片付ける前に｜大阪の遺品整理 相場と損しない順番を解説'
 description: '大阪の遺品整理相場を、間取り別・追加費用・悪質業者対策まで買取8年が解説。親の家を片付ける前に知りたい順番、大阪市・堺市の粗大ごみの使い方、仏壇じまいの費用までまとめました。'
 pubDate: '2026-06-03'
+noindex: true  # 2026-07-30 SC実測で表示ゼロ圏→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/ihinseiri-osaka-souba.jpg'
 related:
   - ihinseiri-gyousha-hikaku

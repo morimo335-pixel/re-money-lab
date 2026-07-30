@@ -2,6 +2,7 @@
 title: '着物買取で後悔した5つの失敗パターン｜買取営業8年の自衛術'
 description: '着物買取で後悔した5つの失敗パターン｜買取営業8年の自衛術'
 pubDate: '2026-04-27'
+noindex: true  # 2026-07-30 SC実測で表示ゼロ圏→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/kimono-kaitori-koukai.jpg'
 related:
   - ng-actions-5

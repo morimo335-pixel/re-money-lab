@@ -2,6 +2,7 @@
 title: '不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法'
 description: '不用品やいらない物をどこで売れば最も得か悩んでいませんか？買取営業8年・廃品回収勤務4年目の業界人が、ジャンル別・ペルソナ別に本当に得する5つの売り方を徹底解説。買い叩かれない選び方とNG行動も完全網羅。'
 pubDate: '2026-04-20'
+noindex: true  # 2026-07-30 SC実測で表示ゼロ圏→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/sell-unwanted-items.jpg'
 related:
   - kangakki-uru-doko

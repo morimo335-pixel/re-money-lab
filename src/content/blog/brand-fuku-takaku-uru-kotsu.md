@@ -2,6 +2,7 @@
 title: 'ブランド服を高く売るコツ7選｜買取営業8年が業界の裏側から教える'
 description: 'ブランド服は売り方ひとつで査定額が3万円以上変わる。買取営業8年が、円安・サステナで追い風の今、損せず高く売るコツ7選を業界の裏側から解説。フリマvs買取業者の使い分けも具体例で紹介。'
 pubDate: '2026-04-28'
+noindex: true  # 2026-07-30 SC実測で表示ゼロ圏→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/brand-fuku-takaku-uru-kotsu.jpg'
 related:
   - raise-appraisal

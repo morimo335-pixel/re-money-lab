@@ -15,6 +15,9 @@ const blog = defineCollection({
 			updatedDate: z.coerce.date().optional(),
 			heroImage: z.optional(image()),
 			related: z.array(z.string()).optional(),  // 関連記事slug配列（サイドバー動的表示用）
+			// true にすると検索エンジンのインデックスから外す（URL・内部リンクは生きたまま）
+			// 用途＝表示が伸びない低品質記事をサイト評価から切り離す。戻す時はこの行を消すだけ
+			noindex: z.boolean().optional(),
 		}),
 });
 

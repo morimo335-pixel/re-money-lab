@@ -2,6 +2,7 @@
 title: '着物を売るならどこ？買取営業8年が本気でおすすめする業者の選び方'
 description: '着物を売るならどこ？買取営業8年が本気でおすすめする業者の選び方'
 pubDate: '2026-04-27'
+noindex: true  # 2026-07-30 SC実測で表示ゼロ圏→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/kimono-uru-osusume.jpg'
 related:
   - kimono-kaitori-koukai

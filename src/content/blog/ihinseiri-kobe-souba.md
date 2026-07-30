@@ -2,6 +2,7 @@
 title: '親の家を片付ける前に｜神戸の遺品整理 相場と坂の街で損しない順番'
 description: '神戸の遺品整理相場を間取り別に解説。六甲・北野など坂の街で費用が高くなる理由、神戸市のごみ制度、マイセン等の洋食器査定で損しない順番まで買取8年がまとめました。'
 pubDate: '2026-06-04'
+noindex: true  # 2026-07-30 SC実測で表示ゼロ圏→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/ihinseiri-kobe-souba.jpg'
 related:
   - ihinseiri-osaka-souba

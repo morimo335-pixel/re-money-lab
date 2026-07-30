@@ -2,6 +2,7 @@
 title: '京都の遺品整理はいくら？町家の費用相場と損しない順番｜買取8年'
 description: '京都の遺品整理はいくら？町家や旧家の費用相場、仏壇じまい、茶道具や掛軸を捨てる前に売るコツ、悪質業者を避ける順番まで買取8年が解説します。'
 pubDate: '2026-06-03'
+noindex: true  # 2026-07-30 SC実測で表示ゼロ圏→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/ihinseiri-kyoto-souba.jpg'
 related:
   - ihinseiri-osaka-souba
