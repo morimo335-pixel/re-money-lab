@@ -2,6 +2,7 @@
 title: '【実家整理】捨てる前に！買取8年が見たお金になる物と業者選び'
 description: '実家整理で「全部捨てるしかない」と悩んでいませんか？買取業界8年・査定3万点超の筆者が、出張買取で処分費を軽くする方法、価値が残りやすい物、業者選びの注意点を現場目線で解説。押し買い対策や女性が安心して頼むコツまでまとめました。'
 pubDate: '2026-05-30'
+noindex: true  # 2026-08-01 SC実測で表示/日0.5未満→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/jikka-seiri-shucchou-kaitori.jpg'
 related:
   - kangakki-uru-doko

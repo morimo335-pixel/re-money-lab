@@ -2,6 +2,7 @@
 title: 'なぜ実家整理は兄弟で揉める？買取8年が見た泥沼と防ぎ方'
 description: '実家の片付け・遺品整理・相続で兄弟が揉める4つの原因と、揉めない進め方3ルールを買取8年が解説。夫が協力しない時の動かし方、空き家6倍増税という交渉カード、第三者の使い方まで。'
 pubDate: '2026-05-29'
+noindex: true  # 2026-08-01 SC実測で表示/日0.5未満→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/jikka-seiri-kyodai-momeru.jpg'
 related:
   - souzoku-jikka-uru-mae-ni

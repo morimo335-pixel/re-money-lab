@@ -2,6 +2,7 @@
 title: '実家じまいの費用はいくら？関東での手順と安く進めるコツ'
 description: '実家じまいの費用相場、進め方、片付け・買取・処分・解体の順番を分かりやすく解説。関東で対応できる業者選びのポイントも紹介します。'
 pubDate: '2026-05-27'
+noindex: true  # 2026-08-01 SC実測で表示/日0.5未満→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/jikka-jimai-kanto-deguchi.jpg'
 related:
   - souzoku-jikka-uru-mae-ni

@@ -2,6 +2,7 @@
 title: '親を老人ホームに入れる罪悪感｜実家整理で立替金を抑える方法'
 description: '親を老人ホームに入れる罪悪感に悩む40-50代の方へ。入所前の実家整理の順番、出張買取で費用を抑える考え方、兄弟トラブル・空き家リスク対策まで、買取業界8年の現場目線で10分で本音解説します。'
 pubDate: '2026-05-25'
+noindex: true  # 2026-08-01 SC実測で表示/日0.5未満→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/oya-rojinhome-zaiakukan.jpg'
 related:
   - oya-kataduke-kyohi-setsutoku

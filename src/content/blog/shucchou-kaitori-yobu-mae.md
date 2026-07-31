@@ -2,6 +2,7 @@
 title: '出張買取は怖い？当日の流れと女性1人の断り方・安全対策｜買取8年'
 description: '出張買取の当日の流れ、女性1人でも安心な安全対策、査定だけで断る言い方、クーリングオフや押し買い対策まで。呼ぶ前に知っておきたいポイントを買取8年が解説します。'
 pubDate: '2026-06-04'
+noindex: true  # 2026-08-01 SC実測で表示/日0.5未満→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/shucchou-kaitori-yobu-mae.jpg'
 related:
   - fukuchan-shucchou-kaitori

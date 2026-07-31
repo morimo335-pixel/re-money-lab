@@ -2,6 +2,7 @@
 title: 'ブランド服を売るならどこ？レディースは専門の宅配買取が正解｜買取8年'
 description: 'レディースのブランド服を売るならどこがいい？総合店・メルカリ・専門宅配を買取8年が本音で比較。高く・手間なく売るコツ、返送料や自動承認の注意点まで解説します。'
 pubDate: '2026-06-03'
+noindex: true  # 2026-08-01 SC実測で表示/日0.5未満→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/brand-fuku-uru-doko.jpg'
 related:
   - brand-fuku-takaku-uru-kotsu

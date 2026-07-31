@@ -2,6 +2,7 @@
 title: '実家のブランド品を出張買取で売る方法。運べない人へ｜買取8年'
 description: '実家・遺品・形見のブランドバッグや時計、重くて運べない・宅配は不安で止まっていませんか？買取8年が、出張買取で損せず手放す方法を解説。自宅でまとめて査定、押し買いを防ぐ8日間の権利、相見積もりで査定を引き上げるコツまで。'
 pubDate: '2026-06-13'
+noindex: true  # 2026-08-01 SC実測で表示/日0.5未満→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/brand-shucchou-kaitori.jpg'
 related:
   - brand-takuhai-kaitori

@@ -2,6 +2,7 @@
 title: '教科書・専門書を売るならどこ？買取8年が本の種類別におすすめ4社を本音比較'
 description: '教科書や専門書を売るならどこがいい？赤本・大学教科書・医学書を本の種類別におすすめ4社で比較。送料無料の条件や書き込みありの可否、損しない送り方まで買取8年が本音で解説します。'
 pubDate: '2026-06-01'
+noindex: true  # 2026-08-01 SC実測で表示/日0.5未満→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/kyoukasho-kaitori-osusume.jpg'
 related:
   - jikka-seiri-shucchou-kaitori

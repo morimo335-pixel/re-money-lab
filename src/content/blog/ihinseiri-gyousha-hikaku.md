@@ -2,6 +2,7 @@
 title: '遺品整理の業者比較｜失敗しない選び方と料金相場を買取8年が解説'
 description: '高額請求や誤廃棄が怖い人へ。遺品整理の業者比較、間取り別の料金相場、許認可の確認、先に買取で費用を下げる方法まで、買取業界8年の筆者が本音で解説します。'
 pubDate: '2026-05-31'
+noindex: true  # 2026-08-01 SC実測で表示/日0.5未満→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/ihinseiri-gyousha-hikaku.jpg'
 related:
   - souzoku-jikka-uru-mae-ni

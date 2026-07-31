@@ -2,6 +2,7 @@
 title: 'IWCを売るなら？同じ時計で22万円差・古くても売れる3社比較｜買取8年'
 description: 'IWCを売るならどこ？買取おすすめ3社（ラクーダ・コメ兵・ウリエル）を目的別に比較。ポルトギーゼ・パイロットの2026年買取相場、同じ時計で22万円差がつく理由、永久修理で古い・不動のIWCでも売れる仕組み、保証書なしの減額まで買取8年が解説します。'
 pubDate: '2026-06-08'
+noindex: true  # 2026-08-01 SC実測で表示/日0.5未満→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/iwc-kaitori-osusume.jpg'
 related:
   - katami-tokei-uru-doko

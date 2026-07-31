@@ -2,6 +2,7 @@
 title: '親を施設に入れる前に！後で困らない実家整理チェックリスト'
 description: '親の介護施設入居が決まった40-50代の方へ。実家整理を順番通りに進める8項目のチェックリストを業界人8年が解説。書類の探し方・3分けルール・出張査定の呼び方・家族との共有まで実務目線で10分整理します。'
 pubDate: '2026-05-26'
+noindex: true  # 2026-08-01 SC実測で表示/日0.5未満→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/oya-shisetsu-nyuuyo-checklist.jpg'
 related:
   - oya-kataduke-kyohi-setsutoku

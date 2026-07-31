@@ -2,6 +2,7 @@
 title: '親が実家整理を拒否する時の会話術｜捨てられない心理と伝え方'
 description: '親が実家整理を拒否する5つの心理と、言ってはいけないNGワード、拒否された後の会話術を解説。第三者を入れる効果や兄弟分担のコツも紹介します。'
 pubDate: '2026-05-28'
+noindex: true  # 2026-08-01 SC実測で表示/日0.5未満→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/oya-kataduke-kyohi-setsutoku.jpg'
 related:
   - jikka-seiri-shucchou-kaitori
