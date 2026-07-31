@@ -60,8 +60,6 @@ related:
 
 <p>この記事では、<strong>離婚後の結婚指輪・婚約指輪の売却相場、刻印あっても売れる理由、査定額を最大化する7コツ、おすすめ業者3社の比較</strong>まで、業界人の視点で完全解説します。</p>
 
-<p style="font-size:0.95em;color:#888;text-align:center;margin:12px 0 24px 0;">📖 約10分で読めます</p>
-
 <div style="margin:36px 0 28px 0;filter:drop-shadow(0 4px 12px rgba(200,146,58,0.18));">
 <div style="background:linear-gradient(135deg,#E8B658 0%,#C8923A 50%,#A77620 100%);color:#fff;display:inline-block;padding:11px 24px;border-radius:8px 8px 0 0;font-weight:bold;font-size:1.08em;letter-spacing:0.04em;text-shadow:0 1px 2px rgba(0,0,0,0.15);box-shadow:inset 0 1px 0 rgba(255,255,255,0.35);">📖 この記事で分かる事</div>
 <div style="border:3px solid #C8923A;border-radius:0 10px 10px 10px;padding:22px 28px;background:#fff;">

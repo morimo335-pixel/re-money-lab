@@ -60,8 +60,6 @@ related:
 
 <p>この記事では、<strong>福ちゃん出張買取の流れ・レディースプランの実態・良い評判と悪い評判・損しないための業界人視点のコツ・バイセルとの違い</strong>まで、業界人の視点で完全解説します。</p>
 
-<p style="font-size:0.95em;color:#888;text-align:center;margin:12px 0 24px 0;">📖 約10分で読めます</p>
-
 <div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:24px;margin:28px 0;text-align:center;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:280px;height:280px;display:block;margin:0 auto;border-radius:50%;object-fit:cover;" />
 <p style="margin: 16px 0 0 0; font-weight: bold; font-size: 1.1em;">筆者　ハル</p>
@@ -410,7 +408,5 @@ related:
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
   <p style="margin:0;"><a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法</a></p>
 </div>
-
-
 
 </div>
