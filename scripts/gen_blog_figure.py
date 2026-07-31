@@ -28,11 +28,13 @@ FONT_BOLD = "/System/Library/Fonts/ヒラギノ角ゴシック W7.ttc"
 FONT_MED = "/System/Library/Fonts/ヒラギノ角ゴシック W6.ttc"
 FONT_REG = "/System/Library/Fonts/ヒラギノ角ゴシック W4.ttc"
 
-# スマホで拡大せず読める下限（1200px幅に対して）
-SZ_TITLE = 54
-SZ_SUB = 40
-SZ_BODY = 32
-SZ_CONC = 36
+# スマホ実寸で読める下限。
+# 幅375pxのスマホで本文16px相当にするには 1200px画像内で 16*1200/375 = 51px 必要。
+# 1枚の項目は3つまで（詰め込むと文字を小さくせざるを得なくなる）。
+SZ_TITLE = 72
+SZ_SUB = 58
+SZ_BODY = 51
+SZ_CONC = 54
 
 
 def font(path, size):
@@ -73,8 +75,8 @@ def measure(spec):
     # 本体
     h += 36
     for it in spec["items"]:
-        sl = wrap(dummy, it["head"], f_sub, W - pad * 2 - 120)
-        bl = wrap(dummy, it.get("body", ""), f_body, W - pad * 2 - 120)
+        sl = wrap(dummy, it["head"], f_sub, W - pad * 2 - 140)
+        bl = wrap(dummy, it.get("body", ""), f_body, W - pad * 2 - 140)
         h += len(sl) * int(SZ_SUB * 1.4) + 12 + len(bl) * int(SZ_BODY * 1.55) + 44
     h += 20
     # フッター
@@ -109,9 +111,9 @@ def render(spec, out_path):
     body_top = y
     bh = 36
     for it in spec["items"]:
-        bh += len(wrap(d, it["head"], f_sub, W - pad * 2 - 120)) * int(SZ_SUB * 1.4)
+        bh += len(wrap(d, it["head"], f_sub, W - pad * 2 - 140)) * int(SZ_SUB * 1.4)
         bh += 12
-        bh += len(wrap(d, it.get("body", ""), f_body, W - pad * 2 - 120)) * int(SZ_BODY * 1.55)
+        bh += len(wrap(d, it.get("body", ""), f_body, W - pad * 2 - 140)) * int(SZ_BODY * 1.55)
         bh += 44
     rounded(d, (pad, body_top, W - pad, body_top + bh - 20), 16, WHITE, GOLD, 3)
     yy = y + 36
@@ -120,19 +122,19 @@ def render(spec, out_path):
             d.line((pad + 40, yy - 22, W - pad - 40, yy - 22), fill=LINE, width=2)
         # 金の番号バッジ
         bx, by = pad + 40, yy + 4
-        d.ellipse((bx, by, bx + 52, by + 52), fill=GOLD)
+        d.ellipse((bx, by, bx + 68, by + 68), fill=GOLD)
         num = str(i)
-        nf = font(FONT_BOLD, 30)
+        nf = font(FONT_BOLD, 40)
         nw = d.textlength(num, font=nf)
-        d.text((bx + 26 - nw / 2, by + 9), num, font=nf, fill=WHITE)
+        d.text((bx + 34 - nw / 2, by + 12), num, font=nf, fill=WHITE)
         # 小見出し（紺）
-        tx = pad + 40 + 72
-        for ln in wrap(d, it["head"], f_sub, W - pad * 2 - 120):
+        tx = pad + 40 + 92
+        for ln in wrap(d, it["head"], f_sub, W - pad * 2 - 140):
             d.text((tx, yy), ln, font=f_sub, fill=NAVY)
             yy += int(SZ_SUB * 1.4)
         yy += 12
         # 説明（墨）
-        for ln in wrap(d, it.get("body", ""), f_body, W - pad * 2 - 120):
+        for ln in wrap(d, it.get("body", ""), f_body, W - pad * 2 - 140):
             d.text((tx, yy), ln, font=f_body, fill=INK)
             yy += int(SZ_BODY * 1.55)
         yy += 44
