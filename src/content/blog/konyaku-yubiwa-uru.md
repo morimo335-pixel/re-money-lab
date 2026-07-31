@@ -14,8 +14,6 @@ related:
 <div class="article-content">
 
 <!-- ===== PR表記 ===== -->
-<p>※当記事はアフィリエイト広告を含みます。</p>
-
 <!-- ===== リード文 ===== -->
 <p>「離婚で婚約指輪が手元に残ってしまった」「親の形見の指輪、どう処分すべき？」「婚約破棄で受け取った指輪は返すべきか売るべきか」——婚約指輪の扱いに悩む方が、2026年に入って急増しています。</p>
 
@@ -24,20 +22,6 @@ related:
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>2026年5月時点でK18金は1g約19,500円・Pt900プラチナは1g約10,000円。5年前比で金+270%・プラチナ+50%超の<strong>歴史的高水準</strong>です。どのパターンでも法的に売却OK・3社使い分けで損しない売り方が分かります。</p>
 </div>
-
-<!-- ===== 筆者プロフィール①（リード文末・280px・公式テンプレ） ===== -->
-<div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:24px;margin:28px 0;text-align:center;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:280px;height:280px;display:block;margin:0 auto;border-radius:50%;object-fit:cover;">
-<p style="margin: 16px 0 0 0; font-weight: bold; font-size: 1.1em;">筆者　ハル</p>
-</div>
-
-<p>📌 <strong>この記事の筆者</strong></p>
-<ul>
-<li>買取業界の営業として複数社で計8年勤務（<strong>ブランド品</strong>・貴金属・着物等）</li>
-<li><strong>累計査定3万点超</strong></li>
-<li>廃品回収業界での実務経験もあり</li>
-<li><strong>古物商許可保有</strong></li>
-</ul>
 
 <!-- ===== 「📖 この記事で分かる事」D-2ゴールド光沢タブ ===== -->
 <div style="margin:35px 0;filter:drop-shadow(0 4px 12px rgba(200,146,58,0.18));">
@@ -137,7 +121,6 @@ H2-2：婚約指輪を売る判断基準5選
 <p><strong>ブランド別 実勢買取相場（2026年）</strong></p>
 
 <img src="/blog-images/konyaku/k2-h3c.webp" alt="ブランド別 実勢買取相場" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
-
 
 <p style="font-size:0.85em;color:#666;background:#f5f5f5;padding:10px 15px;border-radius:4px;margin:15px 0;">※相場は2026年5月時点の参考値です。実際の査定額は状態・付属品・業者・市場動向により変動します。</p>
 
@@ -415,5 +398,7 @@ H2-6：まとめ
 <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
 <p style="margin:0;"><a href="https://re-money-lab.com/kikinzoku-kaitori-tokyo/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">東京23区の貴金属買取は出張査定が正解｜買取8年の本音解説</a></p>
 </div>
+
+<p style="font-size:0.78em;color:#999;text-align:center;margin:34px 0 8px;">※当記事はアフィリエイト広告を含みます。</p>
 
 </div>

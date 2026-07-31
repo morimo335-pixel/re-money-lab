@@ -46,8 +46,6 @@ related:
 }
 </style>
 
-<p>※当記事はアフィリエイト広告を含みます。</p>
-
 <p>「離婚することになった。タンスにしまったままの結婚指輪、どうしよう…」</p>
 
 <p>「捨てるのはもったいないけど、ずっと持っているのも辛い」</p>
@@ -63,20 +61,6 @@ related:
 <p>この記事では、<strong>離婚後の結婚指輪・婚約指輪の売却相場、刻印あっても売れる理由、査定額を最大化する7コツ、おすすめ業者3社の比較</strong>まで、業界人の視点で完全解説します。</p>
 
 <p style="font-size:0.95em;color:#888;text-align:center;margin:12px 0 24px 0;">📖 約10分で読めます</p>
-
-<div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:24px;margin:28px 0;text-align:center;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:280px;height:280px;display:block;margin:0 auto;border-radius:50%;object-fit:cover;" />
-<p style="margin: 16px 0 0 0; font-weight: bold; font-size: 1.1em;">筆者　ハル</p>
-</div>
-
-<p>📌 <strong>この記事の筆者</strong></p>
-
-<ul>
-<li>買取業界の営業として複数社で計8年勤務（<strong>ブランド品</strong>・貴金属・着物等）</li>
-<li><strong>貴金属・時計・ブランドの累計査定3万点超</strong></li>
-<li>離婚を機に指輪を持ち込まれる女性のお客様の対応経験多数</li>
-<li><strong>古物商許可保有</strong></li>
-</ul>
 
 <div style="margin:36px 0 28px 0;filter:drop-shadow(0 4px 12px rgba(200,146,58,0.18));">
 <div style="background:linear-gradient(135deg,#E8B658 0%,#C8923A 50%,#A77620 100%);color:#fff;display:inline-block;padding:11px 24px;border-radius:8px 8px 0 0;font-weight:bold;font-size:1.08em;letter-spacing:0.04em;text-shadow:0 1px 2px rgba(0,0,0,0.15);box-shadow:inset 0 1px 0 rgba(255,255,255,0.35);">📖 この記事で分かる事</div>
@@ -501,7 +485,6 @@ related:
 <a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法 →</a>
 </div>
 
-
 <div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:10px;padding:22px 22px 10px;margin:32px 0;">
 <p style="margin:0 0 16px;font-weight:bold;font-size:1.05em;color:#1E3A5F;">💍 タイプ別・もう一度おさらい</p>
 <div style="border:1px solid #E0E0E0;border-radius:10px;padding:16px 18px;margin:0 0 14px;background:#fff;"><p style="margin:0 0 4px;font-weight:bold;color:#1E3A5F;">ブランドオフ</p><p style="margin:0 0 12px;font-size:0.92em;color:#666;">ティファニー・カルティエなどブランド指輪をお持ちの方</p><a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:14px 18px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">ブランドオフで無料査定を申し込む　▶</a><img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt=""></div>
@@ -536,6 +519,6 @@ related:
   <p style="margin:0;"><a href="https://re-money-lab.com/brand-bag-uru-souba/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ブランドバッグはいくらで売れる？買取8年が教える高く売るコツ5選</a></p>
 </div>
 
-
+<p style="font-size:0.78em;color:#999;text-align:center;margin:34px 0 8px;">※当記事はアフィリエイト広告を含みます。</p>
 
 </div>
