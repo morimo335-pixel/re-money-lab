@@ -351,6 +351,11 @@ related:
 </div>
 
 <!-- ===== まとめ ===== -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<p style="margin:0;"><a href="https://re-money-lab.com/haha-jewelry-tsukawanai/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 使わない母のジュエリーはどうする？手放す判断と値段のつき方 →</a></p>
+</div>
+
 <h2>まとめ｜「捨てる」と「取っておく」の二択を、卒業する</h2>
 
 <p>親の遺品が捨てられないのは優柔不断ではなく、罪悪感・物理的占有・情報不足の3層が重なっているからでした。10分でお伝えした内容を最後にまとめます。</p>

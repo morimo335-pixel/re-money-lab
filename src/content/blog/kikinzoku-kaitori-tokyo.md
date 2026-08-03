@@ -382,6 +382,11 @@ H2-7：FAQ
 <!-- ============================================================
 H2-8：まとめ
 ============================================================ -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<p style="margin:0;"><a href="https://re-money-lab.com/haha-jewelry-tsukawanai/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 使わない母のジュエリーはどうする？手放す判断と値段のつき方 →</a></p>
+</div>
+
 <h2>まとめ｜東京23区の貴金属は「相場が高い今」「出張買取」で手放す</h2>
 
 <p>引き出しの奥で眠っている指輪やネックレス、片方だけのピアス、いつの間にか溜まった金歯——どれも、あなたが思っているより確かな価値を持っています。2026年の今、金は1gあたり25,000円超え、プラチナも史上最高値圏。眠らせておくのは、現金を引き出しにしまい込んでいるのと同じことです。</p>
