@@ -77,7 +77,7 @@ related:
 
 <p>手放していいかどうかは、金額でも、もらった経緯でもありません。</p>
 
-<p><strong>これから使う場面が思い浮かぶか</strong>、その一点です。</p>
+<p><span style="background:linear-gradient(transparent 58%,#FCE9A8 58%);"><strong>これから使う場面が思い浮かぶか</strong></span>、その一点です。</p>
 
 <img src="/blog-images/haha-jewelry/j1-h2.webp" alt="使わないジュエリーを手放していいケース・残した方がいいケース・決められないとき" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
@@ -647,11 +647,14 @@ related:
 
 <p style="margin:0 0 10px;"><span style="color:#C0392B;font-weight:bold;">引き出しの中身をまとめて見てほしい方は、ウリエルの無料査定から。</span></p>
 
-<!-- ===== 3社横並びバナー ===== -->
-<div style="display:flex;gap:12px;flex-wrap:wrap;margin:20px 0 30px;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1VU2+8C40Q+5O4W+2BDBU9" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:240px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 14px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">💎 ウリエル 出張査定<br><span style="font-size:0.85em;font-weight:normal;">家から出ずにまとめて</span></a>
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AYQFMI+35HU+HV7V6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:240px;display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 14px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">💍 福ちゃん 金・貴金属<br><span style="font-size:0.85em;font-weight:normal;">女性査定士を指定可</span></a>
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="flex:1;min-width:240px;display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:18px 14px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 14px rgba(26,188,156,0.42);">🏬 コメ兵 店頭買取<br><span style="font-size:0.85em;font-weight:normal;">対面で説明を聞ける</span></a>
+<!-- ===== ウリエル主軸＋サブ2社 ===== -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1VU2+8C40Q+5O4W+2BDBU9" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:26px 20px;border-radius:12px;text-decoration:none;font-weight:bold;font-size:1.25em;margin:20px 0 14px;box-shadow:0 6px 18px rgba(200,146,58,0.45);">💎 ウリエルの無料査定を申し込む<br><span style="font-size:0.72em;font-weight:normal;display:inline-block;margin-top:6px;">引き出しの中身をまとめて見てもらえます</span></a>
+
+<p style="text-align:center;font-size:0.86em;color:#888;margin:16px 0 10px;">ほかの選択肢も見たい方はこちら</p>
+
+<div style="display:flex;gap:10px;flex-wrap:wrap;margin:0 0 30px;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+AYQFMI+35HU+HV7V6" rel="sponsored nofollow" target="_blank" style="flex:1;min-width:150px;display:block;background:#FAF7F0;border:1px solid #D4A574;color:#8A6A2F;text-align:center;padding:13px 10px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:0.93em;">💍 福ちゃん<br><span style="font-size:0.82em;font-weight:normal;">金・プラチナに強い</span></a>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" style="flex:1;min-width:150px;display:block;background:#F3FAF8;border:1px solid #9FD5C8;color:#16806B;text-align:center;padding:13px 10px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:0.93em;">🏬 コメ兵<br><span style="font-size:0.82em;font-weight:normal;">対面で説明を聞ける</span></a>
 </div>
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1VU2+8C40Q+5O4W+2BDBU9" alt="">
 <img class="a8-pixel" border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1SPX+AYQFMI+35HU+HV7V6" alt="">

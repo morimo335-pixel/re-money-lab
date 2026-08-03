@@ -6,6 +6,32 @@
 .gold-cta-shine {
 	position: relative;
 	overflow: hidden;
+	animation: ctaFloat 2.8s ease-in-out infinite;
+	will-change: transform;
+}
+
+/* ボタン本体がふわっと浮き沈みする（流し見でも目に留まる） */
+@keyframes ctaFloat {
+	0% {
+		transform: translateY(0) scale(1);
+	}
+	50% {
+		transform: translateY(-4px) scale(1.012);
+	}
+	100% {
+		transform: translateY(0) scale(1);
+	}
+}
+
+/* 動きが苦手な人の設定を尊重する */
+@media (prefers-reduced-motion: reduce) {
+	.gold-cta-shine {
+		animation: none;
+	}
+	.gold-cta-shine::before {
+		animation: none;
+		opacity: 0;
+	}
 }
 
 .gold-cta-shine::before {
@@ -21,24 +47,39 @@
 		rgba(255, 255, 255, 0.45) 50%,
 		transparent 75%
 	);
-	animation: goldShine 6s infinite;
+	animation: goldShine 3.4s cubic-bezier(0.45, 0, 0.35, 1) infinite;
 	pointer-events: none;
+	opacity: 0;
 }
 
 @keyframes goldShine {
 	0% {
 		left: -100%;
+		opacity: 0;
 	}
-	55% {
+	12% {
+		opacity: 0.35;
+	}
+	40% {
+		opacity: 1;
+	}
+	68% {
+		opacity: 0.35;
+	}
+	78% {
 		left: 150%;
+		opacity: 0;
 	}
 	100% {
 		left: 150%;
+		opacity: 0;
 	}
 }
 
+/* 触れている間は揺れを止めて、少し持ち上げる */
 .gold-cta-shine:hover {
-	transform: translateY(-1px);
+	animation-play-state: paused;
+	transform: translateY(-3px) scale(1.015);
 	transition: transform 0.2s;
 }
 
