@@ -391,6 +391,11 @@ related:
 </div>
 
 <!-- ===== H2-9 まとめ ===== -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<p style="margin:0;"><a href="https://re-money-lab.com/sobo-katami-yubiwa/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 祖母の形見の指輪、どう受け継ぐ？3つの道と決める前に知ること →</a></p>
+</div>
+
 <h2>まとめ｜形見の時計は「売る」でなく「価値を次へ渡す」</h2>
 
 <!-- 💡 解決策（結論） -->
