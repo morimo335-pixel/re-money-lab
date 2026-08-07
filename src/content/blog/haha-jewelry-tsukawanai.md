@@ -729,6 +729,11 @@ related:
 <p style="margin:0;"><a href="https://re-money-lab.com/gibo-yubiwa-uru/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">義母の指輪、使わないなら売っていい｜夫への伝え方と値段のつき方</a></p>
 </div>
 
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
+<p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
+<p style="margin:0;"><a href="https://re-money-lab.com/jewelry-danshari-dekinai/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ジュエリーの断捨離ができない｜捨てる前に、迷ったものだけ分けてください</a></p>
+</div>
+
 <p style="font-size:0.78em;color:#999;text-align:center;margin:34px 0 8px;">※当記事はアフィリエイト広告を含みます。</p>
 
 </div>

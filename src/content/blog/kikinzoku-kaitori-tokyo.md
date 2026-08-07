@@ -415,6 +415,11 @@ H2-8：まとめ
 </ul>
 </div>
 
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
+<p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
+<p style="margin:0;"><a href="https://re-money-lab.com/jewelry-danshari-dekinai/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ジュエリーの断捨離ができない｜捨てる前に、迷ったものだけ分けてください</a></p>
+</div>
+
 <!-- ===== 筆者プロフィール②（記事末・130px横並び） ===== -->
 <div style="background:#E8F5E9;border:1px solid #2E7D32;border-radius:8px;padding:20px;margin:40px 0 20px 0;display:flex;flex-wrap:wrap;align-items:center;gap:20px;">
 <img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;">
