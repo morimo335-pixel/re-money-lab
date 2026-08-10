@@ -325,10 +325,6 @@ related:
   <p style="margin:0;">見た目で決めつけない方がいい、という一例です。</p>
 </div>
 
-<img src="/blog-images/gibo/g3-jitsubutsu.webp" alt="実際に13万円で買い取った蛇の螺旋リング｜K18で8〜9グラムある太いデザイン" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
-
-<p style="text-align:center;font-size:0.86em;color:#888;margin:-8px 0 22px;">実際に持ち込まれた蛇の螺旋リング。K18で8〜9グラムありました。</p>
-
 <hr />
 
 <!-- ============ H2-4 ============ -->
