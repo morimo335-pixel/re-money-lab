@@ -84,7 +84,11 @@ related:
 </div>
 
 <!-- ===== H2-1 ===== -->
+<img src="/blog-images/gijikka/j0-lead.webp" alt="義実家の片付け、もう悩まない｜嫁姑関係を壊さないたった1つの正解" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <h2>義実家の物が多くて困る…40代嫁が抱える5つの本音</h2>
+
+<img src="/blog-images/gijikka/j1-h2.webp" alt="義実家の物が多くて困る｜40代の嫁が抱える5つの本音" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- 💡 結論 -->
 <div style="background:#FFF5F8;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
@@ -101,6 +105,8 @@ related:
 <h3>①将来の遺品整理コストと空き家問題への危機感</h3>
 
 <p>義両親が倒れた時、結局あの大量の物を片付けるのは自分たち夫婦。空き家解体費は数百万、遺品整理は数十万円が上乗せされます。これは「義母の問題」ではなく、いずれ夫経由で家計に直撃する現実的な家計リスクです。</p>
+
+<img src="/blog-images/gijikka/j1a.webp" alt="思い出がいっぱいで捨てられない気持ちと、将来の解体費という現実" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <h3>②「もったいない」価値観のズレが生む精神的疲弊</h3>
 
@@ -127,6 +133,8 @@ related:
 <!-- ===== H2-2 ===== -->
 <h2>義実家から出る「売れやすい5品目」と買取相場（3グレード別）</h2>
 
+<img src="/blog-images/gijikka/j2-h2.webp" alt="義実家から出る売れやすい5品目｜切手・茶道具・ブランドバッグ・着物・骨董" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <!-- 💡 結論 -->
 <div style="background:#FFF5F8;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
 <p style="margin:0 0 8px 0;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
@@ -140,6 +148,8 @@ related:
 <p>義実家を「物が多くて困る」と捉えると気が重くなりますが、視点を変えると「眠っている価値の倉庫」でもあります。実際に2026年最新のリユース市場で売買されている5品目と相場を、現場の査定実績ベースで紹介します。</p>
 
 <h3>義実家から出やすい売れやすい5品目（2026年実買取例）</h3>
+
+<img src="/blog-images/gijikka/j2a.webp" alt="ゴミの山ではなく、実は価値の倉庫かもしれない" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <div style="overflow-x:auto;margin:24px 0;">
 <table style="border-collapse:collapse;width:100%;font-size:0.93em;">
@@ -205,6 +215,8 @@ related:
 
 <p>同じカテゴリでも、保存状態と作家物かどうかで価格が大きく変わります。義実家の物を見る時の参考にしてください。</p>
 
+<img src="/blog-images/gijikka/j2-souba.webp" alt="同じ品目でも状態で3段階に分かれる｜作家物・普通品・状態不良の相場" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <div style="overflow-x:auto;margin:24px 0;">
 <table style="border-collapse:collapse;width:100%;font-size:0.9em;">
 <thead>
@@ -264,6 +276,8 @@ related:
 <!-- ===== H2-3 ===== -->
 <h2>嫁姑関係を壊さない「業界人が勧める1つの方法」</h2>
 
+<img src="/blog-images/gijikka/j3-h2.webp" alt="片付けるのではなく、プロの査定を呼ぶ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <!-- 💡 結論 -->
 <div style="background:#FFF5F8;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
 <p style="margin:0 0 8px 0;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
@@ -282,15 +296,21 @@ related:
 
 <p>査定士の「次に大切にしてくれる人へ繋ぐ」という言葉が、義母にとっては「自分が大切にしてきた人生が、まだ続いている」という感覚に変わるのです。これは家族が言っても伝わらない、第三者だからこそ届くメッセージです。</p>
 
+<img src="/blog-images/gijikka/j3a.webp" alt="捨てる＝人生の否定、次へ繋ぐ＝人生の肯定" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <h3>嫁の役割は「査定の手配」と「夫の背中を押す」だけ</h3>
 
 <p>嫁が直接動くのではなく、夫に「お義母さんも体力的に大変だろうし、押し入れの整理だけでもプロに見てもらえないかな？査定だけなら無料の業者もあるよ」と提案するのが鉄則です。夫から義母に話してもらえば、義母にとっては「息子が母を気遣ってくれた」と受け取れて、嫁姑の角は立ちません。</p>
 
 <p>嫁の仕事は3つだけです。①信頼できる業者を1社選んで夫に渡す ②査定当日にお茶を出すなどソフトに支援する ③義母が査定額に納得できるよう「やっぱりお義母さんが大切にしてきたものは価値があるんですね」と一言添える。これで実家整理は驚くほど前に進みます。</p>
 
+<img src="/blog-images/gijikka/j3b.webp" alt="嫁が直接言うとNG｜夫から親への気遣いとして提案させるとOK" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <h3>多品目同時査定なら半日完結（出張買取の利点）</h3>
 
 <p>食器も着物も貴金属もバッグも骨董も、一度の出張査定でまとめて見てもらえるのが「多品目対応の出張買取」の最大の利点です。義母を何度も呼び出す必要がなく、体力的にも心理的にも負担が小さい——これが店頭持込型ではなく出張型を強く勧める理由です。</p>
+
+<img src="/blog-images/gijikka/j6-route.webp" alt="徹底的にコストを抑える2段階ルート｜先に売って、残りだけ捨てる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- ===== 水色内部リンクカード②：金・貴金属関連 ===== -->
 <div style="background:#E3F2FD;border:3px solid #1E3A5F;border-radius:8px;padding:14px 18px;margin:24px 0;">
@@ -319,6 +339,8 @@ related:
 
 <!-- ===== H2-4 ===== -->
 <h2>実例3つ｜プロ査定が嫁姑問題を丸く収めた話</h2>
+
+<img src="/blog-images/gijikka/j4-h2.webp" alt="業者を選んで夫に渡す・当日笑顔でお茶を出す・義母のモノの価値を褒める" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- 💡 結論 -->
 <div style="background:#FFF5F8;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
@@ -350,6 +372,8 @@ related:
 
 <p>査定士が膨大なガラクタの中から、京都の有名鉄瓶屋「龍文堂」の江戸期作の古い鉄瓶を特定し、<strong>その場で78,900円の査定価格を提示</strong>。家族に激震が走ります。さらに古銭にも豊富な鑑定知識で、額面を遥かに超える査定総額が算出されました。それまで投げやりだった夫は「実家のガラクタに確かな資産価値がある」ことを可視化されたことで、生前整理へのモチベーションが劇的に変化。以降は自ら主体的に義父母とコミュニケーションを取り、実家全体の片付けを妻と協力して推進するようになったそうです。</p>
 
+<img src="/blog-images/gijikka/j4a.webp" alt="実例が証明する想像以上のハッピーエンド" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <div style="background:#E0F2F1;border:4px solid #00695C;border-radius:8px;padding:18px 22px;margin:28px 0;">
 <p style="margin:0 0 10px 0;"><strong style="color:#004D40;">💡 業界人ワンポイント</strong></p>
 <p style="margin:0;line-height:1.85;">3例とも共通しているのは「<strong>家族だけでは動かなかったものが、プロが入った瞬間に動き出す</strong>」という事実です。これは私自身が査定の現場で何百回も経験してきた現象でもあります。「片付けて」と言われ続けて閉じていた義母の心が、第三者の「価値がありますよ」「次の方に大切に使ってもらえますよ」の一言で開く——これが業界人として強く勧める理由です。</p>
@@ -357,6 +381,8 @@ related:
 
 <!-- ===== H2-5 ===== -->
 <h2>押し買い対策＋NG/OKワード集｜義両親を守る伝え方</h2>
+
+<img src="/blog-images/gijikka/j5-ngok.webp" alt="義母を傷つけない言い換え｜同じことを伝えても受け取られ方が変わる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- 💡 結論 -->
 <div style="background:#FFF5F8;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
@@ -373,6 +399,8 @@ related:
 <h3>押し買い詐欺の現状（PIO-NET相談件数推移）</h3>
 
 <p>国民生活センターに寄せられる「訪問購入トラブル」の相談件数は、依然として年7,000〜8,000件規模で推移しています。高齢者を狙った悪質手口は減っていないという現実があります。</p>
+
+<img src="/blog-images/gijikka/j5-oshigai.webp" alt="押し買いの相談件数は毎年8千件前後｜国民生活センターPIO-NET" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <div style="overflow-x:auto;margin:24px 0;">
 <table style="border-collapse:collapse;width:100%;font-size:0.93em;">
@@ -471,6 +499,8 @@ related:
 <p>「義実家の物が多くて困る」——この悩みは、嫁の越権行為ではなく、家計と家族の安全を守ろうとする正当な感覚です。そして解決策は意外なほどシンプルで、「<strong>夫経由でプロの出張査定だけ呼んでもらう</strong>」この1点に尽きます。</p>
 
 <p>第三者である査定士が「価値があります」「次の方に大切に使ってもらえます」と一言添えるだけで、義母の心の中で「捨てる罪悪感」が「次に活かす満足感」へと変わります。家族が何年言っても動かなかったものが、たった1回の査定で動き出す——査定の現場では、何百回と繰り返されてきた光景です。</p>
+
+<img src="/blog-images/gijikka/j6-matome.webp" alt="いつかを今に変えよう｜今日から始める角の立たない実家整理" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <p>動く順番は3ステップだけです。</p>
 
