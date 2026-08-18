@@ -85,7 +85,11 @@ related:
 </div>
 
 <!-- ===== H2-1 ===== -->
+<img src="/blog-images/katami-tokei/t0-lead.webp" alt="形見の時計、しまい込む前に｜損せず後悔せず価値を次へつなぐ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <h2>形見の時計は、しまい込む前に「どこで売るか」を決める</h2>
+
+<img src="/blog-images/katami-tokei/t1-h2.webp" alt="暗い引き出しの中は、時計の寿命を縮めています" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
@@ -109,6 +113,8 @@ related:
 <!-- ===== H2-2 ===== -->
 <h2>親や家族の時計ほど、手放す判断がむずかしい理由</h2>
 
+<img src="/blog-images/katami-tokei/t2-h2.webp" alt="大切なものをお金に換える迷いは、ごく自然なことです" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
 <p style="margin:0 0 8px 0;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
@@ -123,10 +129,16 @@ related:
 
 <p>でも、ここで発想を変えてみてください。<strong>時計は、使われてこそ生きる道具</strong>です。引き出しの奥で止まり続けるより、その時計を本当に欲しい誰かのもとへ渡り、再び腕の上で時を刻む——それは「処分」ではなく、<strong>価値のバトンタッチ</strong>です。形見としての役割を十分に果たした時計を次の人へ手渡すことは、故人の所有物を再び社会で輝かせる、とても建設的な行為だと捉え直せます。</p>
 
+<img src="/blog-images/katami-tokei/t2b.webp" alt="父の時計が家族の新しい思い出に姿を変える" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<img src="/blog-images/katami-tokei/t2a.webp" alt="時計は使われてこそ生きる道具｜処分ではなく価値のバトンタッチ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <p>実際、終活や実家整理で形見の時計を手放した方が、その査定額を<strong>「孫と温泉やテーマパークに行く資金」</strong>に変えた、という声もあります。父の遺した時計が、家族の新しい笑顔と思い出に姿を変える。罪悪感だったものが、前向きな価値に昇華される瞬間です。「捨てる」でも「ただ売る」でもなく、<strong>「親が大切にした価値を、家族の未来へつなぐ」</strong>。この感覚が、手放す判断をぐっと楽にしてくれます。</p>
 
 <!-- ===== H2-3 ===== -->
 <h2>形見の時計は意外と高い？ブランド別の価値目安と「修理せず売る」鉄則</h2>
+
+<img src="/blog-images/katami-tokei/t3-h2.webp" alt="動かないから修理するは赤字の罠｜修理してから売るとトータル赤字になる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
@@ -178,6 +190,8 @@ related:
 
 <p>注意したいのが<strong>「動かないから、まず修理してから売ろう」という発想</strong>です。これは多くの場合、損をします。たとえば電池交換やオーバーホールに数千円〜数万円かけても、その費用が査定の上乗せ額を上回り、トータルで赤字になるケースがほとんど。<strong>動かない時計は、現状のまま査定に出すのが最も合理的</strong>です。買取店は自社や提携工房でメンテナンスして再販できるため、止まっていても問題なく買い取れます。</p>
 
+<img src="/blog-images/katami-tokei/t3a.webp" alt="箱や保証書がなくても、プロの目利きは時計そのものを見抜きます" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <p>また、<strong>箱や保証書（ギャランティカード）がなくても売れます</strong>。あれば査定額が上がる要因にはなりますが、保証書はメーカーが再発行できないため、欠品していても、査定スキルの高い店なら内部のムーブメントや刻印を直接確認して真贋を見極められます。「付属品がないから」と諦める必要はありません。</p>
 
 <!-- ===== 水色内部リンクカード（H2-3・ブランド別の詳しい売り方へ送客・A8とは離す） ===== -->
@@ -200,6 +214,8 @@ related:
 
 <!-- ===== H2-4【方法比較】 ===== -->
 <h2>形見の時計はどこで売る？4つの方法と向き不向き</h2>
+
+<img src="/blog-images/katami-tokei/t4-h2.webp" alt="4つの手放し方｜店頭買取・一括査定・出張買取・宅配買取の向き不向き" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
@@ -274,6 +290,8 @@ related:
 <!-- ===== H2-5【業者タイプの使い分け】 ===== -->
 <h2>時計専門店と総合買取、どっちに頼む？タイプ別の使い分け</h2>
 
+<img src="/blog-images/katami-tokei/t5-h2.webp" alt="時計だけか実家丸ごとかで、選ぶべき業者は変わります" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
 <p style="margin:0 0 8px 0;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
@@ -325,6 +343,8 @@ related:
 <!-- ===== H2-7【信頼の核：不安解消】 ===== -->
 <h2>「偽物扱い」「押し買い」が怖い人へ｜不安をなくす4つの知識</h2>
 
+<img src="/blog-images/katami-tokei/t7-h2.webp" alt="買い叩かれる・偽物だったらという不安は、知識で跳ね返せる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
 <p style="margin:0 0 8px 0;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
@@ -340,6 +360,8 @@ related:
 <p><strong>① 安く買い叩かれそう</strong>：最大の防御は<strong>相見積もり</strong>です。無料査定の店を複数選び、事前にLINE査定などで上限相場を把握しておく。現場で「他店では◯円でした」と伝えるだけで、業者はライバルを意識して適正額に近づけてきます。最初の提示額が異常に低いと感じたら、即決せず持ち帰るのが鉄則です。</p>
 
 <p><strong>② 偽物だったら恥ずかしい・通報されそう</strong>：<strong>故意に偽物を本物と偽って売ろうとしない限り、知らずに持ち込んだだけで罪に問われることは一切ありません</strong>。鑑定料も無料で、万一の真贋結果が「対象外」でも、店側は「当社の基準では買取対象外です」と穏やかに伝えるだけ。気後れする必要はまったくありません。</p>
+
+<img src="/blog-images/katami-tokei/t7a.webp" alt="法律があなたを守る｜不招請勧誘の禁止と8日間のクーリング・オフ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <p><strong>③ 強引に即決させられそう（押し買い）</strong>：訪問購入には<strong>特定商取引法</strong>が適用され、<strong>頼んでいない品の勧誘（不招請勧誘）は禁止</strong>。「時計の査定」で呼んだのに「金や貴金属はないか」としつこく居座る行為は違法です。毅然と「今日はありません」と断って構いません。</p>
 
@@ -368,6 +390,8 @@ related:
 
 <!-- ===== H2-8【家族・実家整理導線】 ===== -->
 <h2>形見の時計は、家族で・実家整理と一緒に考えると揉めない</h2>
+
+<img src="/blog-images/katami-tokei/t8-h2.webp" alt="資産価値が高いからこそ、1人で決めず家族全員でテーブルを囲む" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
@@ -398,6 +422,8 @@ related:
 
 <h2>まとめ｜形見の時計は「売る」でなく「価値を次へ渡す」</h2>
 
+<img src="/blog-images/katami-tokei/t9-h2.webp" alt="損をせず、後悔しないための3つのステップ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
 <p style="margin:0 0 8px 0;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
@@ -417,6 +443,8 @@ related:
 </ol>
 
 <p>「売る」ことに罪悪感を抱く必要はありません。あなたが大切に査定に出した時計は、捨てられるのではなく、<strong>次の持ち主の腕の上で再び時を刻んでいきます</strong>。まずは、無料の査定を1本申し込んでみるところから始めてみてください。</p>
+
+<img src="/blog-images/katami-tokei/t9-matome.webp" alt="あなたの大切な時計は、次の持ち主のもとでまた時を刻み始めます" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- ===== 末尾PR表記（A8前・B-8対策） ===== -->
 
