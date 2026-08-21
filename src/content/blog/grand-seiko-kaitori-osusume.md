@@ -92,7 +92,11 @@ related:
 </div>
 
 <!-- ===== H2-1 実際の買取金額＋安定して高く売れる ===== -->
+<img src="/blog-images/grandseiko/g0-lead.webp" alt="グランドセイコー売却の正解｜同じ時計で33万円損しないための図解ガイド" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <h2>グランドセイコーは実際いくら？買取実績と値崩れしにくさ</h2>
+
+<img src="/blog-images/grandseiko/g1-h2.webp" alt="同じSBGA203で33万5千円の差｜時計の状態と買取店の販路の違い" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
@@ -107,6 +111,10 @@ related:
 <p>グランドセイコーは2017年にセイコーから独立したブランドになって以降、海外コレクターからの評価が一気に高まりました。「雪白（スノーフレーク）」に代表される、信州や岩手の自然を写しとった文字盤は、スイスの高級時計にはない独自の魅力として世界中で人気です。<strong>ロレックスのように投機で乱高下するのではなく、実用高級時計として長期的に値崩れしにくい——これがグランドセイコー最大の強み</strong>。さらに2026年は円安と海外人気が重なり、売り手に有利な相場が続いています。</p>
 
 <p>まずは「実際いくらで売れているのか」を、各買取店の公開実績から見てみましょう。</p>
+
+<img src="/blog-images/grandseiko/g1b.webp" alt="最大の罠はとりあえず近所の店へ｜海外需要が価格に反映されない" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<img src="/blog-images/grandseiko/g1a.webp" alt="なぜグランドセイコーは安売り厳禁なのか｜独立ブランド化・唯一無二の文字盤・暴落リスクが低い" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- 視覚①：実買取実績テーブル（出典つき・新標準・同型番33万差を可視化） -->
 <div style="overflow-x:auto;margin:24px 0;">
@@ -177,6 +185,8 @@ related:
 <!-- ===== H2-2 おすすめ3社を目的別に比較 ===== -->
 <h2>グランドセイコーを売るならどこ？おすすめ3社を目的別に比較</h2>
 
+<img src="/blog-images/grandseiko/g2-h2.webp" alt="どこに売るかは、あなたの目的で決まる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
 <p style="margin:0 0 8px 0;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
@@ -223,6 +233,14 @@ related:
 
 <p>とくに<strong>「店をいくつも回る時間はない／でも一番高く売りたい」</strong>——この条件にいちばんハマるのが一括査定のラクーダです。<strong>査定結果が出るまで数日かかる</strong>のはデメリットですが、そのぶん業者間で価格競争が起きやすく、結果的に高値が出やすくなります。すぐに現金化したいなら、その場で買い取ってくれるコメ兵やウリエルが向きます。</p>
 
+<img src="/blog-images/grandseiko/g2d.webp" alt="スピード重視か、丁寧な寄り添いか" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<img src="/blog-images/grandseiko/g2c.webp" alt="最高値を狙うなら一括査定｜複数のプロ業者が裏で価格競争を起こす" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<img src="/blog-images/grandseiko/g2b.webp" alt="目的別の買取店 診断マトリックス｜最高額・スピード・丁寧な対応" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<img src="/blog-images/grandseiko/g2a.webp" alt="受け継いだ時計だからこそ接客力で選ぶ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <!-- ===== 中盤PR表記 ===== -->
 
 <!-- ===== 3社並列CTA（中盤・目的別・各社へ均等送客） ===== -->
@@ -242,6 +260,8 @@ related:
 
 <!-- ===== H2-3 グランドセイコー特有のコツ ===== -->
 <h2>グランドセイコー特有のコツ｜電池切れでも、保証書なしでも売れる</h2>
+
+<img src="/blog-images/grandseiko/g3a.webp" alt="鉄則①引き出しの奥の数十万円を探す｜保証書・純正の箱・余りコマ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
@@ -263,10 +283,16 @@ related:
 
 <p>もうひとつ知っておきたいのが、<strong>グランドセイコーは「接客力」で店を選ぶ価値がある</strong>ということ。形見や遺品の時計を手放すのは、金額だけの話ではありません。実際に「冷たい対応が一切なく、亡き家族が大切にしていた思い出話にまで耳を傾けてくれた」という声も多く、<strong>納得して見送れたかどうかが、後の満足度を大きく左右します</strong>。</p>
 
+<img src="/blog-images/grandseiko/g3c.webp" alt="鉄則③グランドセイコーに神経質な売り時はない｜手放そうと思ったその時が最良" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<img src="/blog-images/grandseiko/g3b.webp" alt="鉄則②止まっていてもそのまま売るが正解｜自分で修理に出すと赤字" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <p>とくに自宅まで来てもらう出張買取は、はじめてだと不安なもの。<a href="/shucchou-kaitori-yobu-mae/" style="color:#2C5F7C;font-weight:600;">出張買取を呼ぶ前にやっておきたい準備とマナー</a>も合わせて読んでおくと、当日あわてずに済みます。</p>
 
 <!-- ===== H2-4 売る前のNG ===== -->
 <h2>売る前にやってはいけない3つのNG</h2>
+
+<img src="/blog-images/grandseiko/g4-h2.webp" alt="査定に出す前の宝探しチェックリスト" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
@@ -300,6 +326,8 @@ related:
 <!-- ===== H2-5 まとめ ===== -->
 <h2>まとめ｜グランドセイコーは「目的で売り先を選ぶ」だけで損が消える</h2>
 
+<img src="/blog-images/grandseiko/g5-h2.webp" alt="後悔ゼロの売却を叶える価値の公式｜付属品の完全発掘×目的別の最適な買取店" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <!-- 💡 解決策（結論） -->
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
 <p style="margin:0 0 8px 0;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
@@ -319,6 +347,8 @@ related:
 </ol>
 
 <p>迷ったら、<strong>自宅から出さず複数社の最高値を引き出せるラクーダの無料一括査定</strong>を先に押さえるのが、遠回りしない順番です。引き出しに眠ったグランドセイコーの価値を、まずは確かめてみてください。</p>
+
+<img src="/blog-images/grandseiko/g5-cta.webp" alt="引き出しに眠る価値を、まずは確かめてみませんか" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- ===== 末尾PR表記 ===== -->
 
