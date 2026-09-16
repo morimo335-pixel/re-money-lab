@@ -1,0 +1,394 @@
+---
+// PC＝追尾サイドバー目次 ／ スマホ＝右下ボタンで目次ポップアップ
+// 本文内の TableOfContents.astro が組んだ目次を複製して使う（見出し抽出の二重実装を避ける）
+// 2026-09-14 添削会：「トップへ戻る」ボタンは離脱の元。押したら目次が開く形にする。
+---
+
+<style is:global>
+	/* ===== PC：追尾サイドバーの目次 ===== */
+	.sb-toc {
+		background: #fff;
+		border: 1px solid #E5E9F0;
+		border-top: 4px solid #E57373;
+		border-radius: 6px;
+		padding: 12px 14px 14px;
+		margin-bottom: 24px;
+		font-family: system-ui, -apple-system, 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', sans-serif;
+	}
+	.sb-toc-head {
+		font-weight: 700;
+		color: #1E3A5F;
+		font-size: 0.95em;
+		padding-bottom: 8px;
+		margin-bottom: 8px;
+		border-bottom: 1px solid #EEE;
+	}
+	.sb-toc-scroll {
+		max-height: calc(100vh - 220px);
+		overflow-y: auto;
+		overscroll-behavior: contain;
+	}
+	.sb-toc ol {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		counter-reset: stoc-h2;
+	}
+	.sb-toc .toc-h2 {
+		counter-increment: stoc-h2;
+		counter-reset: stoc-h3;
+		padding: 5px 0;
+		font-size: 0.86em;
+		line-height: 1.5;
+	}
+	.sb-toc .toc-h2::before {
+		content: counter(stoc-h2);
+		display: inline-block;
+		min-width: 20px;
+		padding: 0 5px;
+		margin-right: 7px;
+		background: #E57373;
+		color: #fff;
+		font-size: 0.85em;
+		font-weight: 700;
+		text-align: center;
+		border-radius: 3px;
+		vertical-align: 1px;
+	}
+	.sb-toc .toc-h2 > a {
+		color: #333;
+		text-decoration: none;
+		font-weight: 500;
+	}
+	.sb-toc ol ol {
+		margin: 2px 0 0 0;
+		padding-left: 1.9em;
+	}
+	.sb-toc .toc-h3 {
+		counter-increment: stoc-h3;
+		padding: 3px 0;
+		font-size: 0.82em;
+		line-height: 1.45;
+	}
+	.sb-toc .toc-h3::before {
+		content: counter(stoc-h2) "." counter(stoc-h3);
+		color: #AAA;
+		margin-right: 6px;
+		font-size: 0.9em;
+	}
+	.sb-toc .toc-h3 > a {
+		color: #666;
+		text-decoration: none;
+	}
+	.sb-toc a:hover {
+		color: #1565C0;
+		text-decoration: underline;
+	}
+	.sb-toc a.is-current {
+		color: #C0392B;
+		font-weight: 700;
+	}
+
+	/* ===== スマホ：右下の目次ボタン ===== */
+	.toc-fab {
+		position: fixed;
+		right: 16px;
+		bottom: 18px;
+		width: 54px;
+		height: 54px;
+		border-radius: 50%;
+		border: none;
+		background: #1E3A5F;
+		color: #fff;
+		font-size: 11px;
+		font-weight: 700;
+		line-height: 1.2;
+		font-family: inherit;
+		box-shadow: 0 4px 14px rgba(0, 0, 0, 0.28);
+		cursor: pointer;
+		z-index: 9990;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		gap: 1px;
+		padding: 0;
+	}
+	.toc-fab span.fab-icon {
+		font-size: 17px;
+		line-height: 1;
+	}
+	.toc-fab:active {
+		transform: scale(0.94);
+	}
+
+	.toc-sheet {
+		position: fixed;
+		inset: 0;
+		z-index: 9991;
+		display: none;
+	}
+	.toc-sheet.is-open {
+		display: block;
+	}
+	.toc-sheet-bg {
+		position: absolute;
+		inset: 0;
+		background: rgba(0, 0, 0, 0.45);
+	}
+	.toc-sheet-panel {
+		position: absolute;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background: #fff;
+		border-radius: 14px 14px 0 0;
+		max-height: 78vh;
+		display: flex;
+		flex-direction: column;
+		box-shadow: 0 -6px 24px rgba(0, 0, 0, 0.2);
+		animation: tocSheetUp 0.22s ease-out;
+	}
+	@keyframes tocSheetUp {
+		from { transform: translateY(18px); opacity: 0.6; }
+		to { transform: translateY(0); opacity: 1; }
+	}
+	.toc-sheet-head {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		padding: 13px 16px;
+		border-bottom: 1px solid #EEE;
+		font-weight: 700;
+		color: #1E3A5F;
+		flex-shrink: 0;
+	}
+	.toc-sheet-close {
+		background: #F1F3F5;
+		border: none;
+		border-radius: 6px;
+		color: #555;
+		font-size: 0.86em;
+		padding: 6px 12px;
+		cursor: pointer;
+		font-family: inherit;
+	}
+	.toc-sheet-body {
+		overflow-y: auto;
+		overscroll-behavior: contain;
+		-webkit-overflow-scrolling: touch;
+		padding: 10px 16px 6px;
+	}
+	.toc-sheet-body ol {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		counter-reset: mtoc-h2;
+	}
+	.toc-sheet-body .toc-h2 {
+		counter-increment: mtoc-h2;
+		counter-reset: mtoc-h3;
+		padding: 9px 0;
+		font-size: 0.95em;
+		line-height: 1.5;
+		border-bottom: 1px solid #F4F4F4;
+	}
+	.toc-sheet-body .toc-h2::before {
+		content: counter(mtoc-h2);
+		display: inline-block;
+		min-width: 22px;
+		padding: 1px 6px;
+		margin-right: 9px;
+		background: #E57373;
+		color: #fff;
+		font-size: 0.82em;
+		font-weight: 700;
+		text-align: center;
+		border-radius: 3px;
+		vertical-align: 1px;
+	}
+	.toc-sheet-body .toc-h2 > a {
+		color: #222;
+		text-decoration: none;
+		font-weight: 600;
+	}
+	.toc-sheet-body ol ol {
+		margin: 4px 0 0 0;
+		padding-left: 2em;
+	}
+	.toc-sheet-body .toc-h3 {
+		counter-increment: mtoc-h3;
+		padding: 7px 0;
+		font-size: 0.89em;
+		border-bottom: none;
+	}
+	.toc-sheet-body .toc-h3::before {
+		content: counter(mtoc-h2) "." counter(mtoc-h3);
+		color: #AAA;
+		margin-right: 7px;
+		font-size: 0.9em;
+	}
+	.toc-sheet-body .toc-h3 > a {
+		color: #555;
+		text-decoration: none;
+	}
+	.toc-sheet-foot {
+		border-top: 1px solid #EEE;
+		padding: 11px 16px calc(11px + env(safe-area-inset-bottom, 0px));
+		flex-shrink: 0;
+	}
+	.toc-sheet-foot button {
+		width: 100%;
+		background: #F8F9FA;
+		border: 1px solid #E5E9F0;
+		border-radius: 8px;
+		padding: 11px;
+		color: #1E3A5F;
+		font-size: 0.9em;
+		font-weight: 600;
+		font-family: inherit;
+		cursor: pointer;
+	}
+
+	/* PCではボタンを出さない（サイドバーに目次があるため） */
+	@media (min-width: 1024px) {
+		.toc-fab, .toc-sheet { display: none !important; }
+	}
+	/* スマホではサイドバー目次を出さない（本文内の目次＋ボタンで足りる） */
+	@media (max-width: 1023px) {
+		.sb-toc { display: none !important; }
+	}
+	body.toc-sheet-lock {
+		overflow: hidden;
+	}
+</style>
+
+<script is:inline>
+	(function () {
+		function buildExtras() {
+			var src = document.getElementById('toc-list');
+			if (!src || src.children.length === 0) return;
+
+			// --- 共通：目次リストの複製（id を落として重複を避ける） ---
+			function cloneList() {
+				var clone = src.cloneNode(true);
+				clone.removeAttribute('id');
+				clone.classList.remove('collapsed');
+				return clone;
+			}
+
+			// --- PC：追尾サイドバー ---
+			var sbSlot = document.getElementById('sb-toc');
+			if (sbSlot) {
+				var head = document.createElement('div');
+				head.className = 'sb-toc-head';
+				head.textContent = '📋 目次';
+				var scroll = document.createElement('div');
+				scroll.className = 'sb-toc-scroll';
+				scroll.appendChild(cloneList());
+				sbSlot.appendChild(head);
+				sbSlot.appendChild(scroll);
+				sbSlot.hidden = false;
+			}
+
+			// --- スマホ：右下ボタン＋ポップアップ ---
+			var fab = document.createElement('button');
+			fab.type = 'button';
+			fab.className = 'toc-fab';
+			fab.setAttribute('aria-label', '目次を開く');
+			fab.innerHTML = '<span class="fab-icon">📋</span><span>目次</span>';
+
+			var sheet = document.createElement('div');
+			sheet.className = 'toc-sheet';
+			sheet.setAttribute('role', 'dialog');
+			sheet.setAttribute('aria-modal', 'true');
+			sheet.setAttribute('aria-label', '目次');
+			sheet.innerHTML =
+				'<div class="toc-sheet-bg" data-toc-close></div>' +
+				'<div class="toc-sheet-panel">' +
+				'<div class="toc-sheet-head"><span>📋 目次</span>' +
+				'<button type="button" class="toc-sheet-close" data-toc-close>閉じる</button></div>' +
+				'<div class="toc-sheet-body"></div>' +
+				'<div class="toc-sheet-foot"><button type="button" data-toc-top>⬆ ページの先頭へ</button></div>' +
+				'</div>';
+			sheet.querySelector('.toc-sheet-body').appendChild(cloneList());
+
+			document.body.appendChild(fab);
+			document.body.appendChild(sheet);
+
+			function open() {
+				sheet.classList.add('is-open');
+				document.body.classList.add('toc-sheet-lock');
+			}
+			function close() {
+				sheet.classList.remove('is-open');
+				document.body.classList.remove('toc-sheet-lock');
+			}
+
+			fab.addEventListener('click', open);
+			sheet.addEventListener('click', function (e) {
+				var t = e.target;
+				if (t.closest('[data-toc-close]')) { close(); return; }
+				if (t.closest('[data-toc-top]')) {
+					close();
+					var from = window.pageYOffset;
+					window.scrollTo({ top: 0, behavior: 'smooth' });
+					// スムーススクロールが効かない端末・設定のときの保険
+					setTimeout(function () {
+						if (Math.abs(window.pageYOffset - from) < 2) window.scrollTo(0, 0);
+					}, 400);
+					return;
+				}
+				if (t.closest('a')) { close(); }
+			});
+			document.addEventListener('keydown', function (e) {
+				if (e.key === 'Escape' && sheet.classList.contains('is-open')) close();
+			});
+
+			// --- PC：今どこを読んでいるかをサイドバー目次でハイライト ---
+			if (sbSlot) {
+				var links = sbSlot.querySelectorAll('a[href^="#"]');
+				if (links.length) {
+					var targets = [];
+					Array.prototype.forEach.call(links, function (a) {
+						var el = document.getElementById(decodeURIComponent(a.getAttribute('href').slice(1)));
+						if (el) targets.push({ a: a, el: el });
+					});
+					var ticking = false;
+					var current = null;
+					function spy() {
+						ticking = false;
+						var hit = null;
+						for (var i = 0; i < targets.length; i++) {
+							if (targets[i].el.getBoundingClientRect().top <= 120) hit = targets[i];
+							else break;
+						}
+						if (hit === current) return;
+						if (current) current.a.classList.remove('is-current');
+						current = hit;
+						if (current) current.a.classList.add('is-current');
+					}
+					window.addEventListener('scroll', function () {
+						if (!ticking) { ticking = true; window.requestAnimationFrame(spy); }
+					}, { passive: true });
+					spy();
+				}
+			}
+		}
+
+		// 本文の目次が組み上がってから複製する
+		document.addEventListener('toc:built', buildExtras);
+		if (document.readyState === 'loading') {
+			document.addEventListener('DOMContentLoaded', function () {
+				// toc:built が来なかった場合の保険
+				setTimeout(function () {
+					if (!document.querySelector('.toc-fab')) buildExtras();
+				}, 300);
+			});
+		} else {
+			setTimeout(function () {
+				if (!document.querySelector('.toc-fab')) buildExtras();
+			}, 300);
+		}
+	})();
+</script>

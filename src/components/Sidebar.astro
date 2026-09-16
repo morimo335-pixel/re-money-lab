@@ -29,6 +29,9 @@ const sidebarTitle = '📚 あわせて読みたい';
 ---
 
 <aside class="sidebar">
+  <!-- PC用・追尾目次（TocExtras.astro が中身を入れる） -->
+  <div class="sb-toc" id="sb-toc" hidden></div>
+
   <div class="sb-title">{sidebarTitle}</div>
   <div class="sb-grid">
     {pickupPosts.map(post => post && (

@@ -239,6 +239,9 @@
 			tocToggle.textContent = isCollapsed ? '[開く]' : '[閉じる]';
 			tocToggle.setAttribute('aria-expanded', String(!isCollapsed));
 		});
+
+		// 追尾サイドバー目次・スマホの目次ポップアップへ通知（TocExtras.astro）
+		document.dispatchEvent(new CustomEvent('toc:built'));
 	}
 
 	// DOMContentLoaded 後（または既に loaded なら即実行）で TOC 構築
