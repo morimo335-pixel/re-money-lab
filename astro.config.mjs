@@ -38,13 +38,6 @@ export default defineConfig({
 					'brand-shucchou-kaitori',
 					'kyoukasho-kaitori-osusume',
 					'iwc-kaitori-osusume',
-					'ihin-kikinzoku-kyoudai-wakekata',
-					// 2026-08-03 SC実測：7〜17位に入っているのに28日で表示10前後＝検索需要そのものが無い（KW選定失敗）
-					'shokki-shobun',
-					'audio-kaitori-tokyo',
-					'tetsubin-mikiwakekata',
-					'koukyu-tokei-nisemono-mikiwakekata',
-					'tudor-kaitori-osusume',
 				].some((slug) => page === `https://re-money-lab.com/${slug}/`),
 		}),
 	],
