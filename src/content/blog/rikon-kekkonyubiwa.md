@@ -1,6 +1,6 @@
 ---
-title: '離婚で結婚指輪・婚約指輪を売る7つのコツ｜買取8年が刻印も解説'
-description: '離婚で結婚指輪・婚約指輪を売る7つのコツを買取8年が本音解説。刻印あり指輪の処分方法、ダイヤ・プラチナの2026年最新相場、業者選びの注意点まで網羅。離婚経験者4割が売却を選ぶ理由と高値で売れる業者の選び方が分かります。'
+title: '離婚した結婚指輪・婚約指輪はいくら？4割が売る理由'
+description: '離婚で残った結婚指輪・婚約指輪はいくらになるのか。買取8年が、実際の重さ2〜3グラムで今日の相場から計算しました。約4割が売却を選んでいる現実と、刻印があっても売れる理由、損しない売り方まで。'
 pubDate: '2026-05-02'
 heroImage: '../../assets/blog/rikon-kekkonyubiwa.jpg'
 related:
@@ -81,9 +81,187 @@ related:
   <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
 </div>
 
-<h2>査定額を最大化する7つのコツ【業界裏ワザ】</h2>
+<h2>離婚後の結婚指輪、約4割が「売る」を選んでいる</h2>
 
-<img src="/blog-images/rikon/r4-h2.webp" alt="査定額を最大化する7つのコツ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+<img src="/blog-images/rikon/r1-h2.webp" alt="離婚後の結婚指輪、約4割が「売る」を選んでいる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<p>「指輪を売るなんて、なんとなく後ろめたい」と思う方もいるかもしれません。でも実は、同じ場面で「売る」を選ぶ人がいちばん多いというのが現実です。</p>
+
+<p>株式会社クオーレが離婚経験者を対象に行った調査でも、最も多い選択肢は「売却」でした。次いで「保管」「廃棄」「リフォーム」と続きます（内訳は上の図のとおりです）。</p>
+
+<h3>売却を選んだ人の本音</h3>
+
+<ul>
+<li><strong>「捨てるのはもったいない」</strong> — 金やプラチナの素材価値があるのに捨てるのは経済的損失</li>
+<li><strong>「再出発の資金にしたい」</strong> — 引越し・離婚費用・新生活の準備にあてたい</li>
+<li><strong>「過去の清算の儀式」</strong> — 物理的に手放すことで気持ちの区切りをつけたい</li>
+</ul>
+
+<p>40代女性のお客様で、「売ったお金で普段は行かない高級レストランに行って、過去をきれいに清算した」と話してくれた方がいました。指輪を売却することは、<strong>「過去との決別」と「未来への投資」を同時に手に入れる行為</strong>でもあります。</p>
+
+<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
+<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
+<div>離婚後の結婚指輪売却は「もう一度自分らしく生きるための合理的な選択」。同じ判断をしている人がいちばん多い。</div>
+</div>
+
+<h2>離婚した結婚指輪はいくらになる？2〜3グラムで計算した買取相場</h2>
+
+<img src="/blog-images/rikon/r3-h2.webp" alt="離婚した結婚指輪はいくらになる？2〜3グラムで計算した買取相場" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<p>「実際にいくらで売れるの？」が一番気になるところですよね。2026年は<strong>金・プラチナの価格が歴史的な高値圏</strong>にあり、5年前と比べて買取額が大幅にアップしています。</p>
+
+<h3>素材別の買取相場（2026年10月5日時点）</h3>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:20px 0;">
+<table style="min-width:480px;width:100%;border-collapse:collapse;">
+<thead>
+<tr style="background:#1E3A5F;color:#fff;"><th style="padding:10px;border:1px solid #ccc;">素材</th><th style="padding:10px;border:1px solid #ccc;">2026年買取相場（円/g）</th><th style="padding:10px;border:1px solid #ccc;">特徴</th></tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px;border:1px solid #ccc;"><strong>K24（純金）</strong></td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">約22,900円</td><td style="padding:10px;border:1px solid #ccc;">資産価値最高クラス</td></tr>
+<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;"><strong>K18（18金）</strong></td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">約17,100円</td><td style="padding:10px;border:1px solid #ccc;">結婚指輪で最も多い素材</td></tr>
+<tr><td style="padding:10px;border:1px solid #ccc;"><strong>Pt950</strong></td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">約8,800円</td><td style="padding:10px;border:1px solid #ccc;">高純度プラチナ・人気高い</td></tr>
+<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;"><strong>Pt900</strong></td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">約8,300円</td><td style="padding:10px;border:1px solid #ccc;">結婚指輪の定番</td></tr>
+</tbody>
+</table>
+</div>
+<p style="font-size:0.85em;color:#666;margin-top:-8px;">※田中貴金属公表の店頭買取価格（2026年10月5日時点）を基準に純度比例で算出。実際の業者買取は素材価値の80〜90%程度が一般的。相場は日々変動するため、最新値は各業者公式サイトでご確認ください。</p>
+
+<img src="/blog-images/rikon/r-keisan.webp" alt="査定額はこの掛け算で決まる｜今日の相場×重さ×店ごとの掛け目" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<p><strong>ここで大事なのが、指輪の重さです。</strong></p>
+
+<p>査定していると、結婚指輪はだいたい<strong>1個2〜3グラム</strong>に収まります。</p>
+
+<p>見た目より軽いので、思っていた金額と差が出るのはここです。</p>
+
+<div style="overflow-x:auto;margin:18px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:0.95em;">
+<tr style="background:#F8F4E6;">
+<th style="padding:10px;border:1px solid #ccc;">素材</th>
+<th style="padding:10px;border:1px solid #ccc;">2グラムなら</th>
+<th style="padding:10px;border:1px solid #ccc;">3グラムなら</th>
+</tr>
+<tr><td style="padding:10px;border:1px solid #ccc;"><strong>K18</strong></td><td style="padding:10px;border:1px solid #ccc;">約27,000〜31,000円</td><td style="padding:10px;border:1px solid #ccc;"><strong>約41,000〜46,000円</strong></td></tr>
+<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;"><strong>Pt900</strong></td><td style="padding:10px;border:1px solid #ccc;">約13,000〜15,000円</td><td style="padding:10px;border:1px solid #ccc;"><strong>約20,000〜23,000円</strong></td></tr>
+</table>
+</div>
+
+<p style="font-size:0.85em;color:#666;">※業者の買取は素材価値の80〜90%程度が一般的なため、その幅で記載しています。</p>
+
+<p>これが地金としての目安です。これに「ブランド料」や「ダイヤモンドの価値」が加算されます。</p>
+
+<h3>ブランド・ダイヤモンドが加算されるケース</h3>
+
+<img src="/blog-images/rikon/r3-h3a.webp" alt="ブランド・ダイヤモンドが加算されるケース" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<p>ティファニー・カルティエ・ブルガリなどのハイブランド指輪は、<strong>素材価値に加えて「ブランド料」が大きく加算</strong>されます。中古市場でそのまま再販されるため、状態が良ければ素材だけの価格の2〜5倍になることも珍しくありません。</p>
+
+<p>婚約指輪のダイヤモンドは「4C」（カラット・カラー・クラリティ・カット）で評価され、<strong>0.3カラット以上は鑑定書（GIA・CGL等）の有無で査定額が10〜20%変わります</strong>。鑑定書は捨てずに必ず一緒に出しましょう。</p>
+
+<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
+<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
+<div>結婚指輪は2〜3グラムが実際のところ。K18なら2〜4万円台、Pt900なら1〜2万円台が地金としての目安です。ブランドとダイヤが付くと、ここに上乗せされます。</div>
+</div>
+
+<h3>「刻印があるから売れない」は誤解｜業界の真実</h3>
+
+<img src="/blog-images/rikon/r3-h3b.webp" alt="「刻印があるから売れない」は誤解｜業界の真実" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<p>「指輪の内側に2人のイニシャルや結婚記念日が刻まれているから、売れないだろう…」と諦めている方、本当に多いです。</p>
+
+<p>でも、これは<strong>業界の常識から見ると完全な誤解</strong>です。</p>
+
+<h3>刻印があっても売れる3つの理由</h3>
+
+<p><strong>① 専門技術で刻印は消せる</strong>：レーザー溶接や研磨技術で、指輪の形状を損なわずに刻印を消去できます。買取業者は再販前にこれを行うのが標準です。</p>
+
+<img src="/blog-images/rikon/r-kokuin.webp" alt="刻印があっても売れる3つの理由" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<p><strong>② 素材価値は刻印では下がらない</strong>：金・プラチナ・ダイヤの素材としての価値は、刻印の有無で変わりません。仮に再販不可でも、溶かして地金として再利用できます。</p>
+
+<p><strong>③ 刻印消去のコストは限定的</strong>：刻印の深さによっては5,000〜20,000円の減額になることはありますが、<strong>素材価値そのものを下回ることはありません</strong>。</p>
+
+<p>現役時代、お客様から「私の指輪は刻印があって売れないと思います…」とおずおず差し出された結婚指輪を査定して、<strong>5万円以上の値段がついて喜ばれた</strong>ことが何度もあります。「捨てなくて良かった」と何度も言ってくれた方の表情は、今でも覚えています。</p>
+
+<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
+<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
+<div>刻印・傷・変形・石の取れ — どれも素材価値はゼロにならない。「もう価値ない」と思って捨てるのが一番損。</div>
+</div>
+
+<h2>婚約指輪は離婚で売る？返す？元業界人の結論</h2>
+
+<img src="/blog-images/rikon/r2-h2.webp" alt="婚約指輪は離婚で売る？返す？元業界人の結論" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<p>結婚指輪の話をしてきましたが、<strong>婚約指輪はどうすればいいの？</strong>と迷われる方が非常に多いポイントです。「婚約指輪 売る 離婚」というキーワードは検索でもよく見られる頻出問題。結論からお伝えします。</p>
+
+<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
+<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
+<div>婚約指輪は法的には<strong>「妻への贈与」扱いが原則</strong>で、婚姻が成立した後の離婚なら<strong>返還義務はなし・売却OK</strong>。現場感覚では離婚時の婚約指輪の<strong>9割以上が売却</strong>を選択。ただし、揉めそうな場合は弁護士に相談するのが安全。</div>
+</div>
+
+<h3>法律上：婚約指輪は「贈与」扱いが原則</h3>
+
+<img src="/blog-images/rikon/r2-h3a.webp" alt="法律上：婚約指輪は「贈与」扱いが原則" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<p>民法上、婚約指輪は「<strong>将来の婚姻成立を条件とした贈与</strong>」とされてきました。婚姻が成立した（一度でも入籍した）後の離婚なら、<strong>返還義務は原則ありません</strong>。例外として、結婚式前の婚約破棄（婚姻不成立）の場合のみ返還義務が生じます。</p>
+
+<p>※民法解釈は一般的な見解です。具体的なケースで揉めそうな場合は弁護士に相談してください。</p>
+
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<p style="margin:0;"><a href="https://re-money-lab.com/konyaku-yubiwa-uru/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 婚約指輪を売るならどこ？買取8年が相場と判断基準5選解説（形見・婚約破棄も対応） →</a></p>
+</div>
+
+<h3>業界人の現場感覚：離婚時の婚約指輪は9割以上が売却</h3>
+
+<p>離婚に伴う指輪売却を実際に担当した感覚で言うと、「婚約指輪を元配偶者に返した」というケースはほぼゼロです。理由はシンプルで、<strong>高価な物（30〜100万円が多い）を返すより、自分の再出発資金に充てたい心理が圧倒的</strong>だからです。</p>
+
+<img src="/blog-images/rikon/r-9wari.webp" alt="離婚時の婚約指輪は9割以上が売却" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<p>元配偶者側も「返してほしい」と言うケースは稀。こだわって揉めるより穏便に手放す方が多い、というのが正直なところです。</p>
+
+<h3>「売る」「返す」「保管」「譲る」4つの選択肢</h3>
+
+<table style="width:100%;border-collapse:collapse;margin:18px 0;font-size:0.95em;">
+<thead>
+<tr style="background:#1E3A5F;color:#fff;">
+<th style="padding:10px;border:1px solid #ddd;text-align:left;">選択肢</th>
+<th style="padding:10px;border:1px solid #ddd;text-align:left;">推奨度</th>
+<th style="padding:10px;border:1px solid #ddd;text-align:left;">向いている人</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px;border:1px solid #ddd;"><strong>売る</strong></td><td style="padding:10px;border:1px solid #ddd;">⭐⭐⭐⭐⭐</td><td style="padding:10px;border:1px solid #ddd;">再出発資金を作りたい・物理的に手放したい</td></tr>
+<tr style="background:#F5F5F5;"><td style="padding:10px;border:1px solid #ddd;">返す</td><td style="padding:10px;border:1px solid #ddd;">⭐</td><td style="padding:10px;border:1px solid #ddd;">元配偶者と良好な関係・気持ちの整理を優先</td></tr>
+<tr><td style="padding:10px;border:1px solid #ddd;">保管</td><td style="padding:10px;border:1px solid #ddd;">⭐⭐</td><td style="padding:10px;border:1px solid #ddd;">娘に将来譲る予定がある</td></tr>
+<tr style="background:#F5F5F5;"><td style="padding:10px;border:1px solid #ddd;">寄付・譲渡</td><td style="padding:10px;border:1px solid #ddd;">⭐⭐⭐</td><td style="padding:10px;border:1px solid #ddd;">お金より気持ちの清算を優先</td></tr>
+</tbody>
+</table>
+
+<h3>売る場合に押さえておきたい3つのポイント</h3>
+
+<ul>
+<li>婚約指輪は<strong>購入時の保証書・鑑定書</strong>があると査定額が1.5倍に</li>
+<li>ダイヤモンドの<strong>カラット数・グレード・カット情報</strong>をスマホで撮影</li>
+<li>査定額に不満なら無理に売らずキャンセル可能（<strong>複数業者で相見積もり</strong>が鉄則）</li>
+</ul>
+
+<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
+<strong>💡 業界人ワンポイント：</strong>婚約指輪の返還義務について揉めそうな場合は、弁護士に相談するのが安全です。ただ、私の現場感覚では「返してほしい」と元配偶者から言われるケースは1割未満。ほとんどは穏便に売却で清算されています。
+</div>
+
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:28px 0;">
+  <p style="margin:0 0 12px;font-size:0.95em;">返さずに売ると決めた方は、先に今の価値を知っておくと迷いがなくなります。</p>
+
+<img src="/blog-images/rikon/r-4sentaku.webp" alt="売る・返す・保管・譲る 4つの選択肢の選び方" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ ブランドオフで婚約指輪の無料査定を申し込む</a>
+  <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
+</div>
+
+<h2>離婚した指輪を高く売る7つのコツ</h2>
+
+<img src="/blog-images/rikon/r4-h2.webp" alt="離婚した指輪を高く売る7つのコツ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <p>結論から入ります。同じ指輪でも、準備と業者選びで査定額は変わります。私が現役時代に「これやってる人は得してるな」と感じた7つを、先にまとめて共有します。</p>
 
@@ -133,156 +311,6 @@ related:
   <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
 </div>
 
-<h2>離婚後の結婚指輪、約4割が「売る」を選んでいる</h2>
-
-<img src="/blog-images/rikon/r1-h2.webp" alt="離婚後の結婚指輪、約4割が「売る」を選んでいる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
-
-<p>「指輪を売るなんて、なんとなく後ろめたい」と思う方もいるかもしれません。でも実は、同じ場面で「売る」を選ぶ人がいちばん多いというのが現実です。</p>
-
-<p>株式会社クオーレが離婚経験者を対象に行った調査でも、最も多い選択肢は「売却」でした。次いで「保管」「廃棄」「リフォーム」と続きます（内訳は上の図のとおりです）。</p>
-
-<h3>売却を選んだ人の本音</h3>
-
-<ul>
-<li><strong>「捨てるのはもったいない」</strong> — 金やプラチナの素材価値があるのに捨てるのは経済的損失</li>
-<li><strong>「再出発の資金にしたい」</strong> — 引越し・離婚費用・新生活の準備にあてたい</li>
-<li><strong>「過去の清算の儀式」</strong> — 物理的に手放すことで気持ちの区切りをつけたい</li>
-</ul>
-
-<p>40代女性のお客様で、「売ったお金で普段は行かない高級レストランに行って、過去をきれいに清算した」と話してくれた方がいました。指輪を売却することは、<strong>「過去との決別」と「未来への投資」を同時に手に入れる行為</strong>でもあります。</p>
-
-<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
-<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
-<div>離婚後の結婚指輪売却は「もう一度自分らしく生きるための合理的な選択」。同じ判断をしている人がいちばん多い。</div>
-</div>
-
-<h2>婚約指輪は離婚で売る？返す？元業界人の結論</h2>
-
-<img src="/blog-images/rikon/r2-h2.webp" alt="婚約指輪は離婚で売る？返す？元業界人の結論" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
-
-<p>結婚指輪の話をしてきましたが、<strong>婚約指輪はどうすればいいの？</strong>と迷われる方が非常に多いポイントです。「婚約指輪 売る 離婚」というキーワードは検索でもよく見られる頻出問題。結論からお伝えします。</p>
-
-<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
-<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
-<div>婚約指輪は法的には<strong>「妻への贈与」扱いが原則</strong>で、婚姻が成立した後の離婚なら<strong>返還義務はなし・売却OK</strong>。現場感覚では離婚時の婚約指輪の<strong>9割以上が売却</strong>を選択。ただし、揉めそうな場合は弁護士に相談するのが安全。</div>
-</div>
-
-<h3>法律上：婚約指輪は「贈与」扱いが原則</h3>
-
-<img src="/blog-images/rikon/r2-h3a.webp" alt="法律上：婚約指輪は「贈与」扱いが原則" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
-
-<p>民法上、婚約指輪は「<strong>将来の婚姻成立を条件とした贈与</strong>」とされてきました。婚姻が成立した（一度でも入籍した）後の離婚なら、<strong>返還義務は原則ありません</strong>。例外として、結婚式前の婚約破棄（婚姻不成立）の場合のみ返還義務が生じます。</p>
-
-<p>※民法解釈は一般的な見解です。具体的なケースで揉めそうな場合は弁護士に相談してください。</p>
-
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<p style="margin:0;"><a href="https://re-money-lab.com/konyaku-yubiwa-uru/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 婚約指輪を売るならどこ？買取8年が相場と判断基準5選解説（形見・婚約破棄も対応） →</a></p>
-</div>
-
-<h3>業界人の現場感覚：離婚時の婚約指輪は9割以上が売却</h3>
-
-<p>離婚に伴う指輪売却を実際に担当した感覚で言うと、「婚約指輪を元配偶者に返した」というケースはほぼゼロです。理由はシンプルで、<strong>高価な物（30〜100万円が多い）を返すより、自分の再出発資金に充てたい心理が圧倒的</strong>だからです。</p>
-
-<p>元配偶者側も「返してほしい」と言うケースは稀。こだわって揉めるより穏便に手放す方が多い、というのが正直なところです。</p>
-
-<h3>「売る」「返す」「保管」「譲る」4つの選択肢</h3>
-
-<table style="width:100%;border-collapse:collapse;margin:18px 0;font-size:0.95em;">
-<thead>
-<tr style="background:#1E3A5F;color:#fff;">
-<th style="padding:10px;border:1px solid #ddd;text-align:left;">選択肢</th>
-<th style="padding:10px;border:1px solid #ddd;text-align:left;">推奨度</th>
-<th style="padding:10px;border:1px solid #ddd;text-align:left;">向いている人</th>
-</tr>
-</thead>
-<tbody>
-<tr><td style="padding:10px;border:1px solid #ddd;"><strong>売る</strong></td><td style="padding:10px;border:1px solid #ddd;">⭐⭐⭐⭐⭐</td><td style="padding:10px;border:1px solid #ddd;">再出発資金を作りたい・物理的に手放したい</td></tr>
-<tr style="background:#F5F5F5;"><td style="padding:10px;border:1px solid #ddd;">返す</td><td style="padding:10px;border:1px solid #ddd;">⭐</td><td style="padding:10px;border:1px solid #ddd;">元配偶者と良好な関係・気持ちの整理を優先</td></tr>
-<tr><td style="padding:10px;border:1px solid #ddd;">保管</td><td style="padding:10px;border:1px solid #ddd;">⭐⭐</td><td style="padding:10px;border:1px solid #ddd;">娘に将来譲る予定がある</td></tr>
-<tr style="background:#F5F5F5;"><td style="padding:10px;border:1px solid #ddd;">寄付・譲渡</td><td style="padding:10px;border:1px solid #ddd;">⭐⭐⭐</td><td style="padding:10px;border:1px solid #ddd;">お金より気持ちの清算を優先</td></tr>
-</tbody>
-</table>
-
-<h3>売る場合に押さえておきたい3つのポイント</h3>
-
-<ul>
-<li>婚約指輪は<strong>購入時の保証書・鑑定書</strong>があると査定額が1.5倍に</li>
-<li>ダイヤモンドの<strong>カラット数・グレード・カット情報</strong>をスマホで撮影</li>
-<li>査定額に不満なら無理に売らずキャンセル可能（<strong>複数業者で相見積もり</strong>が鉄則）</li>
-</ul>
-
-<div style="background:#E0F2F1;border-left:4px solid #00695C;color:#004D40;padding:16px 22px;margin:22px 0;border-radius:4px;">
-<strong>💡 業界人ワンポイント：</strong>婚約指輪の返還義務について揉めそうな場合は、弁護士に相談するのが安全です。ただ、私の現場感覚では「返してほしい」と元配偶者から言われるケースは1割未満。ほとんどは穏便に売却で清算されています。
-</div>
-
-<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:28px 0;">
-  <p style="margin:0 0 12px;font-size:0.95em;">返さずに売ると決めた方は、先に今の価値を知っておくと迷いがなくなります。</p>
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ ブランドオフで婚約指輪の無料査定を申し込む</a>
-  <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
-</div>
-
-<h2>2026年の結婚指輪・婚約指輪 最新買取相場</h2>
-
-<img src="/blog-images/rikon/r3-h2.webp" alt="2026年の結婚指輪・婚約指輪 最新買取相場" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
-
-<p>「実際にいくらで売れるの？」が一番気になるところですよね。2026年は<strong>金・プラチナの価格が歴史的な高値圏</strong>にあり、5年前と比べて買取額が大幅にアップしています。</p>
-
-<h3>素材別の買取相場（2026年5月時点）</h3>
-
-<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:20px 0;">
-<table style="min-width:480px;width:100%;border-collapse:collapse;">
-<thead>
-<tr style="background:#1E3A5F;color:#fff;"><th style="padding:10px;border:1px solid #ccc;">素材</th><th style="padding:10px;border:1px solid #ccc;">2026年買取相場（円/g）</th><th style="padding:10px;border:1px solid #ccc;">特徴</th></tr>
-</thead>
-<tbody>
-<tr><td style="padding:10px;border:1px solid #ccc;"><strong>K24（純金）</strong></td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">約25,000円</td><td style="padding:10px;border:1px solid #ccc;">資産価値最高クラス</td></tr>
-<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;"><strong>K18（18金）</strong></td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">約18,800円</td><td style="padding:10px;border:1px solid #ccc;">結婚指輪で最も多い素材</td></tr>
-<tr><td style="padding:10px;border:1px solid #ccc;"><strong>Pt950</strong></td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">約10,200円</td><td style="padding:10px;border:1px solid #ccc;">高純度プラチナ・人気高い</td></tr>
-<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;"><strong>Pt900</strong></td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">約9,600円</td><td style="padding:10px;border:1px solid #ccc;">結婚指輪の定番</td></tr>
-</tbody>
-</table>
-</div>
-<p style="font-size:0.85em;color:#666;margin-top:-8px;">※田中貴金属公表の店頭買取価格（2026年5月1日時点）を基準に純度比例で算出。実際の業者買取は素材価値の80〜90%程度が一般的。相場は日々変動するため、最新値は各業者公式サイトでご確認ください。</p>
-
-<p>たとえば<strong>Pt950の結婚指輪（5g）なら 約40,000〜48,000円</strong>、<strong>K18の指輪（4g）なら約60,000〜70,000円</strong>が地金としての目安です。これに「ブランド料」や「ダイヤモンドの価値」が加算されます。</p>
-
-<h3>ブランド・ダイヤモンドが加算されるケース</h3>
-
-<img src="/blog-images/rikon/r3-h3a.webp" alt="ブランド・ダイヤモンドが加算されるケース" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
-
-<p>ティファニー・カルティエ・ブルガリなどのハイブランド指輪は、<strong>素材価値に加えて「ブランド料」が大きく加算</strong>されます。中古市場でそのまま再販されるため、状態が良ければ素材だけの価格の2〜5倍になることも珍しくありません。</p>
-
-<p>婚約指輪のダイヤモンドは「4C」（カラット・カラー・クラリティ・カット）で評価され、<strong>0.3カラット以上は鑑定書（GIA・CGL等）の有無で査定額が10〜20%変わります</strong>。鑑定書は捨てずに必ず一緒に出しましょう。</p>
-
-<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
-<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
-<div>K18・Pt950の結婚指輪なら数万円、ブランド＋ダイヤ婚約指輪なら数十万円も視野に入る。今は売り時。</div>
-</div>
-
-<h3>「刻印があるから売れない」は誤解｜業界の真実</h3>
-
-<img src="/blog-images/rikon/r3-h3b.webp" alt="「刻印があるから売れない」は誤解｜業界の真実" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
-
-<p>「指輪の内側に2人のイニシャルや結婚記念日が刻まれているから、売れないだろう…」と諦めている方、本当に多いです。</p>
-
-<p>でも、これは<strong>業界の常識から見ると完全な誤解</strong>です。</p>
-
-<h3>刻印があっても売れる3つの理由</h3>
-
-<p><strong>① 専門技術で刻印は消せる</strong>：レーザー溶接や研磨技術で、指輪の形状を損なわずに刻印を消去できます。買取業者は再販前にこれを行うのが標準です。</p>
-
-<p><strong>② 素材価値は刻印では下がらない</strong>：金・プラチナ・ダイヤの素材としての価値は、刻印の有無で変わりません。仮に再販不可でも、溶かして地金として再利用できます。</p>
-
-<p><strong>③ 刻印消去のコストは限定的</strong>：刻印の深さによっては5,000〜20,000円の減額になることはありますが、<strong>素材価値そのものを下回ることはありません</strong>。</p>
-
-<p>現役時代、お客様から「私の指輪は刻印があって売れないと思います…」とおずおず差し出された結婚指輪を査定して、<strong>5万円以上の値段がついて喜ばれた</strong>ことが何度もあります。「捨てなくて良かった」と何度も言ってくれた方の表情は、今でも覚えています。</p>
-
-<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
-<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
-<div>刻印・傷・変形・石の取れ — どれも素材価値はゼロにならない。「もう価値ない」と思って捨てるのが一番損。</div>
-</div>
-
 <h2>結婚指輪の買取おすすめ3社｜タイプ別の使い分け</h2>
 
 <img src="/blog-images/rikon/r5-h2.webp" alt="結婚指輪の買取おすすめ3社｜タイプ別の使い分け" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
@@ -299,6 +327,8 @@ related:
 <div style="padding:24px 28px 0 28px;text-align:center;">
 <h3 style="font-size:1.7em;margin:0;color:#1E3A5F;border:none;padding:0;">ブランドオフ宅配買取</h3>
 <p style="margin:8px 0 0 0;color:#666;font-size:0.95em;">世界65店舗のグローバル販路で高価買取／報酬¥10,000</p>
+
+<img src="/blog-images/rikon/r-3type.webp" alt="結婚指輪の売り先は3タイプで選ぶ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 </div>
 <div style="padding:20px 28px;">
 <a class="gold-cta-shine" href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:18px 24px;border-radius:10px;text-decoration:none;font-weight:bold;font-size:1.15em;box-shadow:0 4px 12px rgba(200,146,58,0.35);">無料査定はこちら　▶</a>
@@ -399,9 +429,9 @@ related:
 <a href="https://re-money-lab.com/brandoff-evaluation/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 ブランドオフ宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー →</a>
 </div>
 
-<h2>よくある質問FAQ</h2>
+<h2>離婚と指輪の売却でよくある質問</h2>
 
-<img src="/blog-images/rikon/r6-h2.webp" alt="よくある質問FAQ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+<img src="/blog-images/rikon/r6-h2.webp" alt="離婚と指輪の売却でよくある質問" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <p>離婚時の結婚指輪・婚約指輪売却で、お客様から実際によく聞かれる質問7つにお答えします。</p>
 
@@ -453,9 +483,9 @@ related:
   <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
 </div>
 
-<h2>まとめ｜売却で「過去の清算」と「再出発の資金」を同時に手に入れる</h2>
+<h2>まとめ｜離婚した指輪は、金額を知ってから決めていい</h2>
 
-<img src="/blog-images/rikon/r7-h2.webp" alt="まとめ｜売却で「過去の清算」と「再出発の資金」を同時に手に入れる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+<img src="/blog-images/rikon/r7-h2.webp" alt="まとめ｜離婚した指輪は、金額を知ってから決めていい" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <p>離婚後の結婚指輪・婚約指輪の売却について、最後に整理します。</p>
 
