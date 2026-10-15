@@ -156,104 +156,6 @@ H2-1：婚約破棄の指輪は売っていい？返す義務と「返して」�
 <!-- ============================================================
 H2-2：売る以外の道もある
 ============================================================ -->
-<h2>売る以外の道もある｜リメイク・しまっておく・そのまま使う</h2>
-
-<p>買取の人間がこう書くのも変な話ですが、<strong>手放すことだけが正解ではありません。</strong></p>
-
-<p>ここを飛ばして「売りましょう」と進める記事が多いので、先に3つの道を並べておきます。読んだうえで売ると決めた方が、後で迷いません。</p>
-
-<img src="/blog-images/konyaku/kB-h2.webp" alt="婚約破棄の指輪は売る以外にリメイク・保管・そのまま使うという道がある" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
-
-<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
-  <p style="margin:0 0 8px;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
-  <ul style="margin:0;padding-left:1.4em;line-height:1.9;">
-  <li>✅ ブランド品なら、<strong>リメイクする前に一度査定を受ける</strong>（加工すると値段が大きく変わります）</li>
-  <li>✅ 気持ちが固まっていないなら、無理に決めずしまっておく</li>
-  <li>✅ 「見るたびにしんどい」なら、手放す方が回復は早いです</li>
-  </ul>
-</div>
-
-<h3>① リメイクする</h3>
-
-<p>ダイヤを外して作り替える方法です。人気はありますが、先に知っておいてほしいことがあります。</p>
-
-<img src="/blog-images/konyaku/kN-remake.webp" alt="リメイクする前に知っておくこと｜ブランド価値が消える・費用がかかる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
-
-<p>ダイヤを外してネックレスやファッションリングに作り替える方法です。思い入れのある石を残せるので、人気のある選択肢ではあります。</p>
-
-<p>ただし現場の立場から、正直に言っておきたいことが2つあります。</p>
-
-<p>ひとつは<span style="background:linear-gradient(transparent 58%,#FCE9A8 58%);"><strong>ブランド価値が消えること。</strong></span>カルティエやティファニーの指輪をバラしてしまうと、そこから先は「石と地金」としての評価になります。ブランドのケースや保証書とセットで残っているからこその金額なので、加工した瞬間に数十万円単位で価値が変わることもあります。</p>
-
-<p>もうひとつは<strong>費用です。</strong>デザインや石の数によりますが、リメイクは数万円から十数万円かかります。「売っても大した額にならないと思ったからリメイクした」という方が、後から査定額を知って驚くケースが実際にあります。</p>
-
-<p>発言小町のトピックでも、<strong>ブランド品をリメイクすると地金と石だけの値段になってしまう、という指摘</strong>が複数寄せられていました（出典：<a href="https://komachi.yomiuri.co.jp/topics/id/1198290/" target="_blank" rel="noopener">発言小町</a>）。</p>
-
-<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
-  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
-  <p style="margin:0;">リメイクを考えている方こそ、<strong>先に査定だけ受けてみてください。</strong>「この金額なら売る」「この金額ならリメイクする」が数字で比べられます。査定を受けたからといって売る義務はありません。</p>
-</div>
-
-<h3>② しまっておく</h3>
-
-<p>実のところ、これがいちばん多い選択です。</p>
-
-<p>売ると決めたわけでもない。捨てられるわけでもない。引き出しを開けて、少し見て、また閉める。それを何ヶ月も繰り返しているうちに、指輪のことを考える回数だけがゆっくり減っていく——そういう手放し方もあります。</p>
-
-<p><strong>それは逃げでも先延ばしでもありません。</strong>気持ちが追いつく前に決めてしまうと、あとで後悔するのは売った側です。決めないという判断は、ちゃんとした判断です。</p>
-
-<img src="/blog-images/konyaku-yubiwa-uru-illust.jpg" alt="引き出しを開けて指輪ケースを見つめたまま、手が止まっている様子" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:26px 0;">
-
-<p>ただ、2つだけ知っておいてください。</p>
-
-<p>ひとつは<strong>地金の相場が動くこと。</strong>金やプラチナは今が高い水準にあります。数年寝かせている間に下がることもあれば、上がることもある。つまり「待つ」ことにもリスクがあります。</p>
-
-<p>もうひとつは<strong>紛失です。</strong>引っ越しや実家の片づけで行方不明になる指輪を、現場では何度も相談されました。しまうと決めたなら、保管場所だけははっきりさせておいてください。</p>
-
-<h3>③ そのまま使う</h3>
-
-<p>「カルティエの指輪」「ハリー・ウィンストンの指輪」として、右手のファッションリングにする。これも実際にある選択です。</p>
-
-<p>自分で選んで、欲しくてもらったものです。相手との縁が切れたからといって、その指輪を好きだった気持ちまで無効になるわけではありません。使い続けて悪いことは何もありません。</p>
-
-<p>ただ、発言小町では<span style="color:#C0392B;font-weight:bold;">「新しい相手ができたときに、その指輪の存在を嫌がられるのでは」</span>という懸念の声がかなり多く挙がっていました。リメイクしたとしても同じことを言われるのでは、という厳しい意見もありました。</p>
-
-<p>正直に言うと、これは他人が決められる話ではありません。</p>
-
-<p>指輪を見て「きれいだな」と思えるなら使えばいいし、胸のあたりが重くなるなら、それは体が答えを出しています。<strong>まわりの正解ではなく、自分の反応で決めてください。</strong></p>
-
-<h3>💬 実際に悩んだ人の声</h3>
-
-<p>同じ場面で迷った方が、どんな言葉で悩んでいたのか。公開されている相談から拾いました。</p>
-
-<img src="/blog-images/konyaku/kQ-honne.webp" alt="実際に悩んだ人の本音｜刻印を消して使う・揉め事の種は持ちたくない" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
-
-<p>売るかどうか迷った方が、実際にどんな言葉で悩んでいるのか。公開されている相談から要約して紹介します。</p>
-
-<ul style="line-height:2;">
-<li>「デザインが気に入って選んでもらったものだから、イニシャルの刻印だけ消して使うか、使わないなら売るかのどちらかだと思う」（<a href="https://komachi.yomiuri.co.jp/topics/id/1198290/" target="_blank" rel="noopener">発言小町</a>・要約）</li>
-<li>「新しい人ができたら、正直いらないと感じると思う。揉め事の種になるものを持っておきたくない」（同上・要約）</li>
-<li>「100万円で買ったものが100万円で売れるわけではない。それでも身に着けて嬉しいなら使えばいい」（同上・要約）</li>
-<li>「国内ブランドやノーブランドで50万円のものなら、フリマでうまくいって10万円ちょっと。買取店なら5万円くらい、状態によっては地金の値段だけになることもある」（<a href="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11314225211" target="_blank" rel="noopener">Yahoo!知恵袋</a>・要約）</li>
-<li>「アフターサービスの無料期間内なら、売る前に店舗で刻印を消してもらった方がいい」（同上・要約）</li>
-</ul>
-
-<p>最後の2つは、現場の感覚ともほぼ一致しています。<strong>購入価格と買取価格の差は、多くの方が思っているより大きいです。</strong>そこを先に知っておくと、査定額を聞いたときのショックが減ります。</p>
-
-<hr />
-
-<!-- ===== 中盤CTA（単独・内部リンクと隣接させない） ===== -->
-<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:28px 0;">
-  <p style="margin:0 0 12px;font-size:0.95em;">リメイクと売却、どちらが得かは金額を並べないと比べられません。流れは3ステップだけで、途中でやめられます。</p>
-  <img src="/blog-images/konyaku/kE-cta.webp" alt="査定を受けても売らなくて大丈夫。概算を聞く・現物を送る・断って返却の3ステップ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:8px;margin:0 0 14px;">
-  <p style="margin:0 0 10px;"><span style="color:#C0392B;font-weight:bold;">リメイクで迷っている方は、ブランドオフの無料査定で先に金額を。</span></p>
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ ブランドオフで婚約指輪の無料査定を申し込む</a>
-  <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
-</div>
-
-<!-- ============================================================
-H2-3：婚約破棄の指輪はいくらで売れる？
-============================================================ -->
 <h2>婚約破棄の指輪はいくらで売れる？素材別・ブランド別の相場</h2>
 
 <p>婚約指輪の買取価格は、<strong>「地金の値段」＋「石の値段」＋「ブランドの値段」</strong>の足し算で決まります。</p>
@@ -275,7 +177,7 @@ H2-3：婚約破棄の指輪はいくらで売れる？
 
 <p>買取店が実際にどう計算しているのかを、そのまま出します。</p>
 
-<img src="/blog-images/konyaku/kO-model.webp" alt="たとえばPt900・4グラム・ダイヤ0.3カラットの指輪ならこう計算する" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+<img src="/blog-images/konyaku/kO-model.webp" alt="たとえばPt900・3グラム・ダイヤ0.3カラットの指輪ならこう計算する" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <p>「思っていたより安かった」という声が集中するのは、この内訳を知らないまま査定を受けたときです。</p>
 
@@ -300,15 +202,21 @@ H2-3：婚約破棄の指輪はいくらで売れる？
 
 <p>まず、どの指輪にも必ず付く「地金の値段」から見ます。</p>
 
-<img src="/blog-images/konyaku/k2-h3b.webp" alt="K18・Pt900・K24の1グラムあたりの単価と5グラムの指輪に換算した地金価値" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+<img src="/blog-images/konyaku/k2-h3b.webp" alt="K18・Pt900・K24の1グラムあたりの単価と2〜3グラムの指輪に換算した地金価値" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <p>金もプラチナも、いまは高い水準にあります。</p>
 
-<p>田中貴金属の年平均で見ると、5年前の2021年は金が1グラム6,402円、プラチナが3,927円でした（いずれも税抜）。2026年8月時点では<strong>金がおよそ3倍、プラチナがおよそ2倍</strong>になっています。</p>
+<p>田中貴金属の年平均で見ると、5年前の2021年は金が1グラム6,402円、プラチナが3,927円でした（いずれも税抜）。2026年10月15日時点では金の買取価格が1グラム22,884円、プラチナが8,733円です。2026年8月時点では<strong>金がおよそ3倍、プラチナがおよそ2倍</strong>になっています。</p>
 
 <p>ただし、相場は毎日動きます。<span style="background:linear-gradient(transparent 58%,#FCE9A8 58%);"><strong>この記事に書く金額は、あとでがっかりしないように低めの目安にしています。</strong></span>実際の査定はこれより上に出ることの方が多いです。</p>
 
-<p>素材ごとの1グラム単価と、5グラムの指輪に換算した地金の価値は上の図のとおりです。</p>
+<p><strong>ここで先に知っておいてほしいのが、指輪の重さです。</strong></p>
+
+<p>査定していると、婚約指輪はだいたい<strong>1個2〜3グラム</strong>に収まります。</p>
+
+<p>見た目より軽いので、思っていた金額と差が出るのはここです。</p>
+
+<p>素材ごとの1グラム単価と、2〜3グラムで換算した地金の価値は上の図のとおりです。</p>
 
 <p>ここで押さえてほしいのは、<span style="background:linear-gradient(transparent 58%,#FCE9A8 58%);"><strong>ノーブランドの婚約指輪でも、地金だけで数万円になる</strong></span>という点です。「安物だから」と処分してしまう方がいますが、もったいない判断です。</p>
 
@@ -547,6 +455,104 @@ H2-5：婚約破棄の指輪はどこで売る？3社の使い分け
 <!-- ============================================================
 H2-6：よくある質問
 ============================================================ -->
+<h2>売る以外の道もある｜リメイク・しまっておく・そのまま使う</h2>
+
+<p>買取の人間がこう書くのも変な話ですが、<strong>手放すことだけが正解ではありません。</strong></p>
+
+<p>ここを飛ばして「売りましょう」と進める記事が多いので、先に3つの道を並べておきます。読んだうえで売ると決めた方が、後で迷いません。</p>
+
+<img src="/blog-images/konyaku/kB-h2.webp" alt="婚約破棄の指輪は売る以外にリメイク・保管・そのまま使うという道がある" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
+  <p style="margin:0 0 8px;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
+  <ul style="margin:0;padding-left:1.4em;line-height:1.9;">
+  <li>✅ ブランド品なら、<strong>リメイクする前に一度査定を受ける</strong>（加工すると値段が大きく変わります）</li>
+  <li>✅ 気持ちが固まっていないなら、無理に決めずしまっておく</li>
+  <li>✅ 「見るたびにしんどい」なら、手放す方が回復は早いです</li>
+  </ul>
+</div>
+
+<h3>① リメイクする</h3>
+
+<p>ダイヤを外して作り替える方法です。人気はありますが、先に知っておいてほしいことがあります。</p>
+
+<img src="/blog-images/konyaku/kN-remake.webp" alt="リメイクする前に知っておくこと｜ブランド価値が消える・費用がかかる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<p>ダイヤを外してネックレスやファッションリングに作り替える方法です。思い入れのある石を残せるので、人気のある選択肢ではあります。</p>
+
+<p>ただし現場の立場から、正直に言っておきたいことが2つあります。</p>
+
+<p>ひとつは<span style="background:linear-gradient(transparent 58%,#FCE9A8 58%);"><strong>ブランド価値が消えること。</strong></span>カルティエやティファニーの指輪をバラしてしまうと、そこから先は「石と地金」としての評価になります。ブランドのケースや保証書とセットで残っているからこその金額なので、加工した瞬間に数十万円単位で価値が変わることもあります。</p>
+
+<p>もうひとつは<strong>費用です。</strong>デザインや石の数によりますが、リメイクは数万円から十数万円かかります。「売っても大した額にならないと思ったからリメイクした」という方が、後から査定額を知って驚くケースが実際にあります。</p>
+
+<p>発言小町のトピックでも、<strong>ブランド品をリメイクすると地金と石だけの値段になってしまう、という指摘</strong>が複数寄せられていました（出典：<a href="https://komachi.yomiuri.co.jp/topics/id/1198290/" target="_blank" rel="noopener">発言小町</a>）。</p>
+
+<div style="background:#E0F2F1;border-left:4px solid #00695C;border-radius:6px;padding:18px;margin:20px 0;">
+  <p style="margin:0 0 8px 0;font-weight:bold;color:#004D40;">💡 業界人ワンポイント</p>
+  <p style="margin:0;">リメイクを考えている方こそ、<strong>先に査定だけ受けてみてください。</strong>「この金額なら売る」「この金額ならリメイクする」が数字で比べられます。査定を受けたからといって売る義務はありません。</p>
+</div>
+
+<h3>② しまっておく</h3>
+
+<p>実のところ、これがいちばん多い選択です。</p>
+
+<p>売ると決めたわけでもない。捨てられるわけでもない。引き出しを開けて、少し見て、また閉める。それを何ヶ月も繰り返しているうちに、指輪のことを考える回数だけがゆっくり減っていく——そういう手放し方もあります。</p>
+
+<p><strong>それは逃げでも先延ばしでもありません。</strong>気持ちが追いつく前に決めてしまうと、あとで後悔するのは売った側です。決めないという判断は、ちゃんとした判断です。</p>
+
+<img src="/blog-images/konyaku-yubiwa-uru-illust.jpg" alt="引き出しを開けて指輪ケースを見つめたまま、手が止まっている様子" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:26px 0;">
+
+<p>ただ、2つだけ知っておいてください。</p>
+
+<p>ひとつは<strong>地金の相場が動くこと。</strong>金やプラチナは今が高い水準にあります。数年寝かせている間に下がることもあれば、上がることもある。つまり「待つ」ことにもリスクがあります。</p>
+
+<p>もうひとつは<strong>紛失です。</strong>引っ越しや実家の片づけで行方不明になる指輪を、現場では何度も相談されました。しまうと決めたなら、保管場所だけははっきりさせておいてください。</p>
+
+<h3>③ そのまま使う</h3>
+
+<p>「カルティエの指輪」「ハリー・ウィンストンの指輪」として、右手のファッションリングにする。これも実際にある選択です。</p>
+
+<p>自分で選んで、欲しくてもらったものです。相手との縁が切れたからといって、その指輪を好きだった気持ちまで無効になるわけではありません。使い続けて悪いことは何もありません。</p>
+
+<p>ただ、発言小町では<span style="color:#C0392B;font-weight:bold;">「新しい相手ができたときに、その指輪の存在を嫌がられるのでは」</span>という懸念の声がかなり多く挙がっていました。リメイクしたとしても同じことを言われるのでは、という厳しい意見もありました。</p>
+
+<p>正直に言うと、これは他人が決められる話ではありません。</p>
+
+<p>指輪を見て「きれいだな」と思えるなら使えばいいし、胸のあたりが重くなるなら、それは体が答えを出しています。<strong>まわりの正解ではなく、自分の反応で決めてください。</strong></p>
+
+<h3>💬 実際に悩んだ人の声</h3>
+
+<p>同じ場面で迷った方が、どんな言葉で悩んでいたのか。公開されている相談から拾いました。</p>
+
+<img src="/blog-images/konyaku/kQ-honne.webp" alt="実際に悩んだ人の本音｜刻印を消して使う・揉め事の種は持ちたくない" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<p>売るかどうか迷った方が、実際にどんな言葉で悩んでいるのか。公開されている相談から要約して紹介します。</p>
+
+<ul style="line-height:2;">
+<li>「デザインが気に入って選んでもらったものだから、イニシャルの刻印だけ消して使うか、使わないなら売るかのどちらかだと思う」（<a href="https://komachi.yomiuri.co.jp/topics/id/1198290/" target="_blank" rel="noopener">発言小町</a>・要約）</li>
+<li>「新しい人ができたら、正直いらないと感じると思う。揉め事の種になるものを持っておきたくない」（同上・要約）</li>
+<li>「100万円で買ったものが100万円で売れるわけではない。それでも身に着けて嬉しいなら使えばいい」（同上・要約）</li>
+<li>「国内ブランドやノーブランドで50万円のものなら、フリマでうまくいって10万円ちょっと。買取店なら5万円くらい、状態によっては地金の値段だけになることもある」（<a href="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11314225211" target="_blank" rel="noopener">Yahoo!知恵袋</a>・要約）</li>
+<li>「アフターサービスの無料期間内なら、売る前に店舗で刻印を消してもらった方がいい」（同上・要約）</li>
+</ul>
+
+<p>最後の2つは、現場の感覚ともほぼ一致しています。<strong>購入価格と買取価格の差は、多くの方が思っているより大きいです。</strong>そこを先に知っておくと、査定額を聞いたときのショックが減ります。</p>
+
+<hr />
+
+<!-- ===== 中盤CTA（単独・内部リンクと隣接させない） ===== -->
+<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:28px 0;">
+  <p style="margin:0 0 12px;font-size:0.95em;">リメイクと売却、どちらが得かは金額を並べないと比べられません。流れは3ステップだけで、途中でやめられます。</p>
+  <img src="/blog-images/konyaku/kE-cta.webp" alt="査定を受けても売らなくて大丈夫。概算を聞く・現物を送る・断って返却の3ステップ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:8px;margin:0 0 14px;">
+  <p style="margin:0 0 10px;"><span style="color:#C0392B;font-weight:bold;">リメイクで迷っている方は、ブランドオフの無料査定で先に金額を。</span></p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ ブランドオフで婚約指輪の無料査定を申し込む</a>
+  <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1SPX+9VFTP6+56WW+5YRHE" alt="">
+</div>
+
+<!-- ============================================================
+H2-3：婚約破棄の指輪はいくらで売れる？
+============================================================ -->
 <h2>婚約破棄の指輪を売るときのよくある質問15問</h2>
 
 <p>査定の現場と、公開されている相談で特に多かった疑問をまとめました。</p>
@@ -556,8 +562,12 @@ H2-6：よくある質問
 <h3>Q1：相手の同意なく売っても法的に問題ありませんか？</h3>
 <p>相手が「返さなくていい」と言っている、あるいは合意ができているなら問題ないとされます。<strong>話がついていない状態で売ってしまうと、後から返還を求められたときに現物を戻せません。</strong>先に意思確認をしてから動くのが安全です。</p>
 
+<img src="/blog-images/konyaku/kR-faq1.webp" alt="売っていいのか不安なときの答え｜同意・バレない・慰謝料との関係" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
 <h3>Q2：イニシャルや日付の刻印が入っていても売れますか？</h3>
 <p>売れます。主要な買取店は刻印を消す技術を持っていて、減額は数％程度に収まることがほとんどです。<strong>購入店のアフターサービス期間内なら、無料で消してもらえる場合もあります。</strong>売る前に確認してみてください。</p>
+
+<img src="/blog-images/konyaku/kS-faq2.webp" alt="刻印・傷・古さが値段に与える影響" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <h3>Q3：鑑定書をなくしてしまいました。買い取ってもらえますか？</h3>
 <p>買い取ってもらえます。コメ兵や福ちゃんには有資格の鑑定士がいるので、鑑定書がなくても石のグレードは判定できます。ただし<strong>鑑定書がある方が10〜20％高くなる</strong>ので、探せるなら探した方がお得です。</p>
@@ -579,6 +589,8 @@ H2-6：よくある質問
 
 <h3>Q9：ダイヤだけ外して売ることはできますか？</h3>
 <p>できますが、<strong>おすすめしません。</strong>ブランド指輪は「セットの状態」で価値が付いています。外した時点でブランドの上乗せが消えるので、多くの場合そのまま売った方が高くなります。</p>
+
+<img src="/blog-images/konyaku/kT-faq3.webp" alt="ダイヤと売り方のよくある誤解" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <h3>Q10：小さなダイヤでも値段は付きますか？</h3>
 <p>石そのものに値段が付くのは、<strong>おおむね1カラット以上から</strong>です。それ未満だと石単体ではほとんど評価されません。</p>
