@@ -13,6 +13,8 @@ related:
 
 <div class="article-content">
 
+<p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます。</p>
+
 <style>
 .gold-cta-shine {
   position: relative;
@@ -63,8 +65,6 @@ related:
 <li>貴金属・時計・ブランドの累計査定3万点超</li>
 </ul>
 <p>買取業者の査定マニュアル・営業評価制度・販売ルートまで知っている業界人が、消費者目線で「業者から買い叩かれない方法」を発信しています。</p>
-
-
 
 <p>📌 <strong>特にこんな方におすすめ</strong><br />
 - 結婚記念や若い頃のブランドバッグ・時計をタンスに眠らせている方<br />
@@ -310,7 +310,5 @@ related:
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
   <p style="margin:0;"><a href="https://re-money-lab.com/rolex-uru-doko/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ロレックスを売るならどこ？買取8年が後悔しないコツ5選解説</a></p>
 </div>
-
-
 
 </div>

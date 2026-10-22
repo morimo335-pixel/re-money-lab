@@ -13,6 +13,8 @@ related:
 
 <div class="article-content">
 
+<p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます。</p>
+
 <!-- ============================================================
 記事24：山崎18年が9万円！？家の古いお酒は売れる？元業界人8年の7つのコツ
 slug: furui-osake-ureru

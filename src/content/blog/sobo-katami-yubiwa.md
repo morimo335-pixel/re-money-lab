@@ -13,6 +13,8 @@ related:
 
 <div class="article-content">
 
+<p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます。</p>
+
 <!-- ===== この記事で分かる事 ===== -->
 <div style="margin:0 0 35px;filter:drop-shadow(0 4px 12px rgba(200,146,58,0.18));">
 <div style="background:linear-gradient(135deg,#E8B658 0%,#C8923A 50%,#A77620 100%);color:#fff;display:inline-block;padding:11px 24px;border-radius:8px 8px 0 0;font-weight:bold;font-size:1.08em;letter-spacing:0.04em;text-shadow:0 1px 2px rgba(0,0,0,0.15);box-shadow:inset 0 1px 0 rgba(255,255,255,0.35);">📖 この記事で分かる事</div>
@@ -658,7 +660,5 @@ related:
 <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
 <p style="margin:0;"><a href="https://re-money-lab.com/jewelry-danshari-dekinai/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ジュエリーの断捨離ができない｜捨てる前に、迷ったものだけ分けてください</a></p>
 </div>
-
-<p style="font-size:0.78em;color:#999;text-align:center;margin:34px 0 8px;">※当記事はアフィリエイト広告を含みます。</p>
 
 </div>

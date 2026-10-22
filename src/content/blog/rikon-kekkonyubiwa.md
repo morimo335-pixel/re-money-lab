@@ -13,6 +13,8 @@ related:
 
 <div class="article-content">
 
+<p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます。</p>
+
 <style>
 .gold-cta-shine {
   position: relative;
@@ -546,7 +548,5 @@ related:
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
   <p style="margin:0;"><a href="https://re-money-lab.com/brand-bag-uru-souba/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ブランドバッグはいくらで売れる？買取8年が教える高く売るコツ5選</a></p>
 </div>
-
-<p style="font-size:0.78em;color:#999;text-align:center;margin:34px 0 8px;">※当記事はアフィリエイト広告を含みます。</p>
 
 </div>

@@ -13,6 +13,8 @@ related:
 
 <div class="article-content">
 
+<p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます。</p>
+
 <!-- ============================================================
 記事23：【完全保存版】古いレコードの処分で損しない7つの鉄則
 slug: furui-record-shobun

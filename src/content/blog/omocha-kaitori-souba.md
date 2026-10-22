@@ -13,6 +13,8 @@ related:
 
 <div class="article-content">
 
+<p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます。</p>
+
 <!-- ============================================================
 記事26：おもちゃ買取の本音相場5選｜買取8年がトミカ・LEGO解説
 slug: omocha-shobun-houhou

@@ -12,6 +12,8 @@ related:
 
 <div class="article-content">
 
+<p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます。</p>
+
 <!-- ===== 「📖 この記事で分かる事」＝記事の最上部（2026-07-29 添削：読者が最初に見る場所へ移動） ===== -->
 <div style="margin:0 0 32px 0;">
 <div style="background:linear-gradient(135deg,#E8B658 0%,#C8923A 50%,#A77620 100%);color:#fff;display:inline-block;padding:11px 24px;border-radius:8px 8px 0 0;font-weight:bold;font-size:1.08em;letter-spacing:0.04em;text-shadow:0 1px 2px rgba(0,0,0,0.15);box-shadow:inset 0 1px 0 rgba(255,255,255,0.35);">📖 この記事で分かる事</div>
@@ -60,7 +62,6 @@ related:
 <h2>毛皮のコートは時代遅れ？着るかどうかより大事なこと</h2>
 
 <img src="/blog-images/kegawa/k1-h2.webp" alt="毛皮のコートは時代遅れ？「売れない」は誤解です" width="1200" height="1661" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
-
 
 <p><strong>毛皮のコートが時代遅れかどうかは、着る側の気持ちで決めていい話です。</strong></p>
 
@@ -145,7 +146,6 @@ related:
 
 <img src="/blog-images/kegawa/k2-h2.webp" alt="毛皮の買取相場｜素材別とミンクの本音価格" width="1200" height="1543" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
 
-
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>ロシアンセーブルなら最大13万円超、ミンク・チンチラも数万円〜10万円規模。ラビット系は数千円が現実です。ミンクは<strong>SAGA MINKタグの有無で1.5〜3倍</strong>変わります。</p>
 </div>
@@ -153,8 +153,6 @@ related:
 <h3>素材別の買取相場【早見表】</h3>
 
 <img src="/blog-images/kegawa/k2-h3a.webp" alt="素材別の買取相場【早見表】" width="1200" height="1295" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
-
-
 
 <h3>査定額を左右する「品質保証タグ」</h3>
 
@@ -178,7 +176,6 @@ related:
 
 <img src="/blog-images/kegawa/k2-h3c.webp" alt="SAGA MINKタグの有無で査定額が1.5〜3倍違う" width="1200" height="1033" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
 
-
 <p>同じミンクでも、襟元や裏地に縫い付けられた<strong>「SAGA MINK」のメタルタグ</strong>があるかどうかで、査定額は大きく変わります。</p>
 
 <p>SAGA MINKは、フィンランド・ノルウェー・スウェーデンなど北欧産の高品質なミンクだけに付けられる認定タグです。</p>
@@ -197,16 +194,13 @@ related:
 
 <img src="/blog-images/kegawa/k2-h3d.webp" alt="ブランドタグ別 買取相場一覧" width="1200" height="1139" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
 
-
 <h3>状態別の査定例（業界8年の現場目線）</h3>
 
 <img src="/blog-images/kegawa/k2-h3e.webp" alt="状態別の査定例（業界8年の現場目線）" width="1200" height="956" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
 
-
 <h3>バブル期100万円のミンクが、2026年は数万円という現実</h3>
 
 <img src="/blog-images/kegawa/k2-h3f.webp" alt="バブル期100万円のミンクが、2026年は数万円という現実" width="1200" height="1189" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
-
 
 <p>80〜90年代のバブル期、ミンクのコートは高級品の代名詞でした。</p>
 
@@ -228,13 +222,11 @@ related:
 
 <img src="/blog-images/kegawa/k3-h2.webp" alt="毛皮を高く売る5つのコツ｜業界人の本音" width="1200" height="2026" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
 
-
 <p><strong>「ブラッシング・付属品・まとめ売り・季節選び・複数業者比較」——この5つで査定額は変わります。</strong></p>
 
 <h3>① ブラッシングで毛並みを整える</h3>
 
 <img src="/blog-images/kegawa/k3-h3a.webp" alt="① ブラッシングで毛並みを整える" width="1200" height="1165" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
-
 
 <p>埃を払って毛並みを整えるだけで、査定士の第一印象が変わります。</p>
 
@@ -246,7 +238,6 @@ related:
 
 <img src="/blog-images/kegawa/k3-h3b.webp" alt="② 付属品をそろえる" width="1200" height="1750" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
 
-
 <p>保証書・品質タグ・予備のボタンを、できるだけ一緒に出してください。</p>
 
 <p>特に「SAGA MINK」のタグは、あるかないかで数万円の差になります。</p>
@@ -255,7 +246,6 @@ related:
 
 <img src="/blog-images/kegawa/k3-h3c.webp" alt="③ 他の品物とまとめて売る" width="1200" height="899" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
 
-
 <p>ブランドバッグ・貴金属・着物と一緒に出すと、総額が上がりやすくなります。</p>
 
 <p>業者としても、1回の訪問で扱う点数が多いほどありがたいからです。</p>
@@ -263,7 +253,6 @@ related:
 <h3>④ 秋から冬に売る</h3>
 
 <img src="/blog-images/kegawa/k3-h3d.webp" alt="④ 秋から冬に売る" width="1200" height="1020" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
-
 
 <p>9月〜12月は、毛皮の需要が高まる時期です。</p>
 
@@ -274,7 +263,6 @@ related:
 <h3>⑤ 2〜3社を比べる</h3>
 
 <img src="/blog-images/kegawa/k3-h3e.webp" alt="⑤ 2〜3社を比べる" width="1200" height="1033" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
-
 
 <p>最低でも2〜3社に見てもらってください。</p>
 
@@ -287,10 +275,7 @@ related:
 
 <img src="/blog-images/kegawa/k4-h2.webp" alt="親の毛皮どうする？5つの選択肢" width="1200" height="1907" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
 
-
 <p><strong>「売る・着続ける・リメイク・譲る・処分」の5択。状態と素材で最適解が変わります。</strong></p>
-
-
 
 <h3>① 売る｜まずここから試すのが正解</h3>
 
@@ -318,7 +303,6 @@ related:
 
 <img src="/blog-images/kegawa/k4-h3c.webp" alt="③ リメイクする｜思い出を形を変えて残す" width="1200" height="1479" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
 
-
 <p>コートのままでは着づらくても、バッグやストールに作り替えれば日常で使えます。</p>
 
 <p>三越などの百貨店で、毛皮リメイクの相談会が定期的に開かれています。</p>
@@ -340,7 +324,6 @@ related:
 <h3>⑤ 処分する｜買取もリメイクも難しいとき</h3>
 
 <img src="/blog-images/kegawa/k4-h3e.webp" alt="⑤ 処分する｜買取もリメイクも難しいとき" width="1200" height="821" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
-
 
 <p>毛抜けやカビがひどく、値段がつかない1着もあります。</p>
 
@@ -367,7 +350,6 @@ related:
 <h2>福ちゃん毛皮買取の評判｜業界人イチオシの3つの理由</h2>
 
 <img src="/blog-images/kegawa/k5-h2.webp" alt="福ちゃん毛皮買取の評判｜業界人イチオシの3つの理由" width="1200" height="1553" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
-
 
 <p><strong>福ちゃんは「ミンク・セーブルに強い」「女性査定士指名可能」「ネーム入りでも対応」の3点で他社より頭一つ抜けています。</strong></p>
 
@@ -433,13 +415,11 @@ related:
 
 <img src="/blog-images/kegawa/k6-h2.webp" alt="なぜ売れない毛皮がある？4つのNG要因" width="1200" height="1750" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
 
-
 <p><strong>「皮の硬化・黄変・カビ臭・ワシントン条約該当」——この4つが買取不可・大幅減額の主要因です。</strong></p>
 
 <h3>① 皮が硬くなっている（経年劣化）</h3>
 
 <img src="/blog-images/kegawa/k6-h3a.webp" alt="① 皮が硬くなっている（経年劣化）" width="1200" height="1337" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
-
 
 <p>毛皮は年月が経つと、皮の脂分が抜けて硬くなります。</p>
 
@@ -450,7 +430,6 @@ related:
 <h3>② 白い毛皮が黄ばんでいる</h3>
 
 <img src="/blog-images/kegawa/k6-h3b.webp" alt="② 白い毛皮が黄ばんでいる" width="1200" height="821" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
-
 
 <p>紫外線や酸化で、白系の毛皮は黄色く変色します。</p>
 
@@ -467,7 +446,6 @@ related:
 <h3>④ ワシントン条約に当てはまる</h3>
 
 <img src="/blog-images/kegawa/k6-h3d.webp" alt="④ ワシントン条約に当てはまる" width="1200" height="1475" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
-
 
 <p>ヒョウ・トラ・チーター・カンガルーなどは、売買そのものが禁止されています。</p>
 
@@ -494,7 +472,6 @@ related:
 <h2>まとめ｜母の毛皮、あなたの正解はどれ？</h2>
 
 <img src="/blog-images/kegawa/k7-h2.webp" alt="まとめ｜母の毛皮、あなたの正解はどれ？" width="1200" height="1838" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
-
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
   <p style="margin:0;"><strong style="color:#C8923A;">💡 結論：</strong>まず無料査定で価値を知る→納得できれば売る、思い出重視ならリメイク、状態悪なら処分。順序を間違えなければ後悔しません。</p>
@@ -532,7 +509,6 @@ related:
 </div>
 
 <!-- ===== PR表記（記事末尾・プロフィール直上）===== -->
-<p style="font-size:0.85em;color:#666;margin:30px 0 0 0;">※当記事はアフィリエイト広告を含みます</p>
 
 <!-- ===== 筆者プロフィール（記事末尾に一本化／2026-07-29 添削：リード内のアイコン画像＋経歴リストを削除）===== -->
 <div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:20px;margin:35px 0 20px 0;display:flex;align-items:center;gap:20px;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
@@ -550,6 +526,5 @@ related:
 
 <!-- ===== ピクセル ===== -->
 <img src="https://www17.a8.net/0.gif?a8mat=4B1SPX+B1461M+35HU+1HL85U" width="1" height="1" alt="" style="border:0;display:none;" />
-
 
 </div>

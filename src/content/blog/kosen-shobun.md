@@ -13,6 +13,8 @@ related:
 
 <div class="article-content">
 
+<p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます。</p>
+
 <!-- ============================================================
 記事25：古銭の処分は捨てる前に！元業界人8年が教える売れる5つの選択肢
 slug: kosen-shobun
