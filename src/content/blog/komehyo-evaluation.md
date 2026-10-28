@@ -1,6 +1,6 @@
 ---
-title: 'コメ兵の買取は安い？査定員の答えと安くなる品・高くなる品'
-description: 'コメ兵の買取は安いのか。買取店で毎日査定している私の答えは「特別安い店ではない」です。金額を決めるのは店の在庫と世間の人気。安くなりやすい品・高くなりやすい品、金買取・宅配・LINE査定の口コミ、安く売らないための比べ方まで。'
+title: 'コメ兵の買取は安い？現役査定員が教える安い品4つ・高い品3つ'
+description: '「コメ兵の買取は安い？」に、買取店で毎日査定している現役査定員が答えます。結論は特別安くありません。安くなる品4つ・高くなる品3つ、口コミが割れる理由、金買取・宅配・LINE査定の評判、損しない比べ方まで解説します。'
 pubDate: '2026-04-26'
 updatedDate: '2026-10-18'
 heroImage: '../../assets/blog/komehyo-evaluation.jpg'
@@ -55,7 +55,7 @@ related:
 
 <p>読み終わるころには、あなたの品物がコメ兵向きかどうかと、損しない比べ方が分かります。</p>
 
-<img src="/blog-images/komehyo-eval/k01.webp" alt="コメ兵の買取は安い？査定員の答えと安くなる品・高くなる品" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+<img src="/blog-images/komehyo-eval/k01.webp" alt="コメ兵の買取は安い？現役査定員が教える安い品4つ・高い品3つ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
 <!-- ===== リード内CTA ===== -->
 <div style="background:#fff;border:3px solid #1B6B50;border-radius:10px;padding:18px 20px;margin:0 0 28px;box-shadow:0 2px 8px rgba(27,107,80,0.14);">

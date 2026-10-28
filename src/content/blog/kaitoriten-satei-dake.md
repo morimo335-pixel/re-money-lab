@@ -619,7 +619,7 @@ related:
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
 <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-<p style="margin:0;"><a href="https://re-money-lab.com/komehyo-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">コメ兵の買取は安い？元査定員が正直に話す弱み3つと強み3つ</a></p>
+<p style="margin:0;"><a href="https://re-money-lab.com/komehyo-evaluation/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">コメ兵の買取は安い？現役査定員が教える安い品4つ・高い品3つ</a></p>
 </div>
 
 </div>
