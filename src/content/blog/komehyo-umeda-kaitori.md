@@ -1,415 +1,569 @@
 ---
-title: 'コメ兵 梅田店の評判は悪い？買取レビューと損しない売り方｜買取8年'
-description: 'コメ兵 梅田店の買取レビュー。評判は悪い？元業界人が実際の口コミ・査定の特徴・向いている人を本音で解説。ブランド品や時計を梅田で少しでも高く売るコツも紹介します。'
+title: 'コメ兵 梅田店のレビューは良い？現役査定員が教える行く前の5つ'
+description: 'コメ兵 梅田店のレビューは良い声が多めです。不満は金額に集まりますが、金額は店の在庫と需要で決まるので、2〜3社で比べれば損をしません。現役査定員が、場所・営業時間・予約・駐車場と、買取の流れまでまとめました。'
 pubDate: '2026-05-01'
+updatedDate: '2026-10-30'
 heroImage: '../../assets/blog/komehyo-umeda-kaitori.jpg'
 related:
   - komehyo-evaluation
-  - raise-appraisal
-  - sell-unwanted-items
-  - rolex-uru-doko
+  - kaitoriten-satei-dake
   - tenpo-kaitori-kotsu
+  - raise-appraisal
+  - brand-takuhai-kaitori
 ---
 
 <div class="article-content">
 
-<p>※当記事はアフィリエイト広告を含みます。</p>
+<p style="font-size:0.85em;color:#666;margin-bottom:15px;">※当記事はアフィリエイト広告を含みます。</p>
 
-<p>「梅田にコメ兵があるけど、実際どうなん？」</p>
-
-<p>「ブランドバッグやアクセサリー、家にずっと眠ってる…でも、安く買い叩かれたら嫌やし」</p>
-
-<p>「梅田に持っていくの、ちょっと勇気いるなあ…」</p>
-
-<p>そんな気持ちで、この記事にたどり着いたんじゃないでしょうか。</p>
-
-<p><strong>結論から言います。コメ兵 梅田店は、大阪で買取を考えるなら「最初に入れておくべき1社」です。</strong></p>
-
-<p>私は買取業界の営業を8年やってきました。元業界人として、コメ兵の査定額は<strong>業界全体の「相場の基準」</strong>として扱われていました。他社が「コメ兵がいくら付けるか」を見て、自社の値段を決めていた、と言えば伝わるでしょうか。</p>
-
-<p>この記事では、コメ兵 梅田店の<strong>口コミの本音・査定額を上げる7つのコツ・買取不可になる5つのケース・来店から支払いまでの全手順</strong>を、業界の裏側から本気でレビューします。</p>
-
-<div style="background:#F8F4E6;border-left:5px solid #D4A574;border-radius:6px;padding:24px;margin:28px 0;text-align:center;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" class="wp-image-125" style="width:280px;height:280px;display:block;margin:0 auto;border-radius:50%;object-fit:cover;" />
-<p style="margin: 16px 0 0 0; font-weight: bold; font-size: 1.1em;">筆者　ハル</p>
-</div>
-
-<p>📌 <strong>この記事の筆者</strong></p>
-
-<ul>
-<li>買取業界の営業として複数社で計8年勤務（<strong>ブランド品</strong>・貴金属・着物等）</li>
-<li><strong>貴金属・時計・ブランドの累計査定3万点超</strong></li>
-<li>大阪在住・関西エリアの買取事情に詳しい</li>
-<li><strong>古物商許可保有</strong></li>
-</ul>
-
-<div style="margin:36px 0 28px 0;filter:drop-shadow(0 4px 12px rgba(200,146,58,0.18));">
-<div style="background:linear-gradient(135deg,#E8B658 0%,#C8923A 50%,#A77620 100%);color:#fff;display:inline-block;padding:11px 24px;border-radius:8px 8px 0 0;font-weight:bold;font-size:1.08em;letter-spacing:0.04em;text-shadow:0 1px 2px rgba(0,0,0,0.15);box-shadow:inset 0 1px 0 rgba(255,255,255,0.35);">📖 この記事で分かる事</div>
+<!-- ===== この記事で分かる事 ===== -->
+<div style="margin:0 0 35px;filter:drop-shadow(0 4px 12px rgba(200,146,58,0.18));">
+<div style="background:linear-gradient(135deg,#E8B658 0%,#C8923A 50%,#A77620 100%);color:#fff;display:inline-block;padding:11px 24px;border-radius:8px 8px 0 0;font-weight:bold;font-size:1.08em;letter-spacing:0.04em;text-shadow:0 1px 2px rgba(0,0,0,0.15);">📖 この記事で分かる事</div>
 <div style="border:3px solid #C8923A;border-radius:0 10px 10px 10px;padding:22px 28px;background:#fff;">
 <ul style="margin:0;padding-left:1.5em;line-height:2;">
-<li>コメ兵 梅田店の基本情報（場所・営業時間・買取専用フロア）</li>
-<li>実際の口コミの本音（業界人視点で良い点・悪い点を分析）</li>
-<li>業界の相場基準とコメ兵の買取実績例（楽器・着物・カメラ等の幅広い品目）</li>
-<li>査定額を最大化する7つのコツ（業界裏側）</li>
-<li>知らないと損する買取不可・大幅減額になる5ケース</li>
-<li>来店から支払いまでの3ステップと持ち物リスト</li>
+<li>コメ兵 梅田店のレビューは<strong>良い声が多く、不満は金額に集まる</strong></li>
+<li>同じ品でも金額が人によって違うのは<strong>「在庫」と「需要」</strong>で決まるから</li>
+<li>行く前に知っておきたい<strong>場所・営業時間・予約・駐車場</strong></li>
+<li>受付から支払いまでの<strong>買取の流れと持ち物</strong></li>
+<li>梅田店で<strong>損しない売り方</strong>（2〜3社で比べる方法）</li>
 </ul>
 </div>
 </div>
 
-<!-- ===== リード内ミニCTA（2026-07-27 Clarity実測スクロール28.6%に基づき前方へ設置） ===== -->
-<div style="background:#F8F4E6;border:1px solid #D4A574;border-radius:8px;padding:16px 18px;margin:0 0 28px;">
-  <p style="margin:0 0 12px;font-size:0.95em;">店舗に足を運ぶ前に、今の買取価格の目安だけ先に確認しておきたい方へ。</p>
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:15px 20px;border-radius:8px;text-decoration:none;font-weight:bold;box-shadow:0 4px 14px rgba(200,146,58,0.42);">▶ コメ兵の無料査定ページを見る</a>
+<!-- ===== リード文 ===== -->
+<p>梅田でブランド品を売るなら、まず名前が浮かぶのがコメ兵です。</p>
+
+<p>でも、行く前にレビューを見ておきたい。</p>
+
+<p>「評判は悪くないのか」「安く買われたりしないか」が気になって、調べているのではないでしょうか。</p>
+
+<p>先に結論をお伝えします。</p>
+
+<p><span style="background:linear-gradient(transparent 58%,#FCE9A8 58%);"><strong>コメ兵 梅田店のレビューは良い声が多く、不満が出るのは金額だけです。</strong></span></p>
+
+<p>Googleの<strong>コメ兵 梅田店のレビュー</strong>は、<strong>929件で平均4.8</strong>あります（2026年10月30日時点）。</p>
+
+<p>接客や店の落ち着きを悪く言う声は、ほとんど見当たりません。</p>
+
+<p>一方で金額は、品物によって「思ったより高い」と「思ったほどつかない」に分かれます。</p>
+
+<p><span style="background:linear-gradient(transparent 58%,#FCE9A8 58%);"><strong>だから梅田店の金額を1社目の基準にして、もう1社と比べるのが損しない売り方です。</strong></span></p>
+
+<p>この記事では、<strong>コメ兵 梅田店の評判</strong>と、行く前に知っておきたいことを、買取店で毎日査定している私が説明します。</p>
+
+<p>読み終わるころには、梅田店に何を持って行き、どう比べればいいかが分かります。</p>
+
+<img src="/blog-images/komehyo-umeda/u01.webp" alt="コメ兵 梅田店のレビューは良い？現役査定員が教える行く前の5つ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<!-- ===== リード内CTA（コメ兵 来店予約） ===== -->
+<div style="background:#fff;border:3px solid #8E2B4A;border-radius:10px;padding:18px 20px;margin:0 0 28px;box-shadow:0 2px 8px rgba(142,43,74,0.14);">
+  <p style="margin:0 0 6px;font-size:0.95em;">梅田店に行くと決めたなら、先に来店予約をしておくと着いてすぐ査定が始まります。</p>
+  <p style="margin:0 0 12px;font-size:0.95em;">査定・キャンセル・手数料は無料なので、金額を聞いてから売るかどうか決められます。</p>
+  <p style="margin:0 0 10px;"><span style="color:#C0392B;font-weight:bold;">コメ兵 梅田店の来店予約は、電話かWEBでできます。</span></p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="wine-cta-shine" style="display:block;background:linear-gradient(135deg,#8E2B4A,#B33A5E);color:#fff;text-align:center;padding:15px;border-radius:8px;font-weight:bold;text-decoration:none;font-size:1.05em;">コメ兵 梅田店の来店予約をする</a>
   <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" alt="">
 </div>
 
-<h2>コメ兵 梅田店の基本情報｜OSAKA UK・GATEの3階全体が買取専用</h2>
+<hr />
 
-<p>まずは梅田店がどんな店舗なのか、ざっくり押さえましょう。</p>
+<!-- ============ H2-1 ============ -->
+<h2>コメ兵 梅田店のレビューまとめ｜良い声が多く、不満は金額に集まる</h2>
 
-<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:20px 0;">
-<table style="min-width:480px;width:100%;border-collapse:collapse;">
-<thead>
-<tr style="background:#1E3A5F;color:#fff;"><th style="padding:10px;border:1px solid #ccc;">項目</th><th style="padding:10px;border:1px solid #ccc;">詳細</th></tr>
-</thead>
-<tbody>
-<tr><td style="padding:10px;border:1px solid #ccc;">所在地</td><td style="padding:10px;border:1px solid #ccc;">大阪市北区芝田2-2-1 OSAKA UK・GATE 1F〜3F</td></tr>
-<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;">フロア構成</td><td style="padding:10px;border:1px solid #ccc;">1F・2F：販売／<strong>3F：買取専用カウンター</strong></td></tr>
-<tr><td style="padding:10px;border:1px solid #ccc;">延床面積</td><td style="padding:10px;border:1px solid #ccc;">約398坪（西日本最大級）</td></tr>
-<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;">営業時間</td><td style="padding:10px;border:1px solid #ccc;">11:00〜20:00</td></tr>
-<tr><td style="padding:10px;border:1px solid #ccc;">定休日</td><td style="padding:10px;border:1px solid #ccc;">第1・第3水曜日（祝日は営業）</td></tr>
-<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;">最寄駅</td><td style="padding:10px;border:1px solid #ccc;">阪急「大阪梅田駅」徒歩2分／JR「大阪駅」徒歩8分</td></tr>
-</tbody>
-</table>
+<p><strong>コメ兵 梅田店のレビューは良い声が多く、不満は金額に集まっています。</strong></p>
+
+<p>Google・Yahoo!マップ・エキテンのレビューを読み、3つに分けてまとめました。</p>
+
+<img src="/blog-images/komehyo-umeda/u02.webp" alt="コメ兵 梅田店のレビューまとめ｜良い声が多く、不満は金額に集まる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
+  <p style="margin:0 0 8px;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
+  <ul style="margin:0;padding-left:1.4em;line-height:1.9;">
+  <li>✅ <strong>接客と店の雰囲気は安心してよい</strong>。Googleで929件・平均4.8</li>
+  <li>✅ <strong>金額は品物しだい</strong>。高い声も、つかなかった声もある</li>
+  <li>✅ <strong>1社で決めず、もう1社と比べてから売る</strong></li>
+  </ul>
 </div>
 
-<p>注目すべきは <strong>「3階全体が買取専用フロア」</strong> という点です。1階・2階の販売エリアとは完全に分かれているので、売却目的で来た人が、ショッピング客の喧騒に巻き込まれることがありません。</p>
+<h3>Googleのレビューは929件で平均4.8</h3>
 
-<p>百貨店のような落ち着いた雰囲気の中で、プライバシーが確保されたブースで査定を受けられます。これは関西の他のリユース店と比べても、明確な強みです。</p>
+<p>Googleマップの<strong>KOMEHYO梅田店</strong>は、<strong>929件で平均4.8</strong>です（2026年10月30日時点）。</p>
 
-<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
-<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
-<div>梅田店は「買取専用フロア」を独立して持つ西日本最大級の旗艦店。人目を気にせず査定できる。</div>
-</div>
+<p>レビューの数が多い店で、ここまで平均が高いのは珍しい部類です。</p>
 
-<h2>コメ兵 梅田店の口コミ・評判は本当？元業界人が忖度なく分析</h2>
+<p>ただし、梅田店は1階と2階が販売のフロアです。</p>
 
-<p>Google Mapやエキテンの口コミは、星の数だけ見ても本質はわかりません。<strong>「なぜそう感じたのか」</strong>の構造を見ないと、自分にとって良い店かは判断できないからです。</p>
+<p>レビューには、<strong>買い物をした人の声も多く混ざっています</strong>。</p>
 
-<p>ここでは口コミを「良い」「悪い」の両面で分解して、業界人の解説を加えます。</p>
+<p>売る側として読むときは、買取について書かれた声だけを拾うのがコツです。</p>
 
-<h3>良い口コミ｜信頼とスピード</h3>
+<img src="/blog-images/komehyo-umeda/u03.webp" alt="Googleのレビューは929件で平均4.8" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<h3>良いレビュー｜対応が早く、落ち着いて売れる</h3>
+
+<p>買取について書かれたレビューを要約すると、次のような声がありました。</p>
 
 <ul>
-<li><strong>「百貨店みたいな店内で安心」</strong>…清潔感・接客の質が高評価。スーツ姿の鑑定士が丁寧に対応してくれる</li>
-<li><strong>「査定が早い」</strong>…品物を預けて外出可能（「お預かり証」発行）。梅田で買い物してる間に査定完了</li>
-<li><strong>「大手で安心」</strong>…盗品リスクや不当な買い叩きの不安が少ない</li>
+<li>「20点ほど買い取ってもらった。親切に対応してくれて、思った以上の金額だった」（Yahoo!マップ・2024年7月）</li>
+<li>「ジュエリーの買取を頼んだら、対応が早くて気持ちよかった」（エキテン・2019年）</li>
+<li>「地元の店や心斎橋の店にも持って行ったが、値段が全然違った。流行りの服も高く買ってくれる」（エキテン・2018年）</li>
+<li>「大手なので価格が大きくぶれず、安心できる。ミナミほど観光客が多くなく落ち着いている」（エキテン・2018年）</li>
 </ul>
 
-<p>業界人視点で言うと、これらは <strong>「コメ兵の組織力」</strong> の表れです。鑑定士は全国に680名以上、データベースで価格を共有しているので、極端な担当者ガチャが起きにくい仕組みです。</p>
+<p>良い声は、<strong>対応の早さ</strong>と<strong>大手ならではの安心感</strong>に集まっています。</p>
 
-<h3>悪い口コミ｜価格と一部の対応</h3>
+<p>エキテンの声は数年前のものなので、雰囲気の参考として読んでください。</p>
+
+<h3>気になるレビュー｜金額が思ったほどつかない</h3>
+
+<p>梅田店に限ると、<strong>はっきり悪いレビューはほとんど見つかりません</strong>でした。</p>
+
+<p>ただ、Googleのレビューをまとめた説明には「ブランド品や状態によっては、期待ほどの金額がつかない」「他の店と見比べる人もいる」とあります。</p>
+
+<p>コメ兵全体で見ると、「他の店のほうが高かった」という口コミは一定数あります。</p>
+
+<p>どんな品で差が出やすいかは、<a href="/komehyo-evaluation/">コメ兵の買取は安い？現役査定員が教える安い品4つ・高い品3つ</a>に詳しく書きました。</p>
+
+<p>不満の中身は、<strong>接客ではなく金額</strong>です。</p>
+
+<p>次の章で、金額が人によって違う理由を説明します。</p>
+
+<img src="/blog-images/komehyo-umeda/u04.webp" alt="気になるレビュー｜金額が思ったほどつかない" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<hr />
+
+<!-- ============ H2-2 ============ -->
+<h2>コメ兵 梅田店の金額が人によって違う理由｜在庫と需要で決まる</h2>
+
+<p><strong>コメ兵 梅田店の金額が人によって違うのは、店の在庫と世間の需要で決まるから</strong>です。</p>
+
+<p>これは店の良し悪しではなく、買取という仕事の仕組みの話です。</p>
+
+<img src="/blog-images/komehyo-umeda/u05.webp" alt="コメ兵 梅田店の金額が人によって違う理由｜在庫と需要で決まる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<h3>コメ兵も「在庫と需要を見て決める」と書いている</h3>
+
+<p>コメ兵は公式サイトのよくある質問で、査定の決め方をこう説明しています。</p>
+
+<p>「参考上代や中古品相場をもとに、当社の在庫状況や需要などを加味したうえで、実際に販売する価格を想定して決めている」（要約）。</p>
+
+<p>つまり、<strong>同じ品でも、コメ兵に在庫が多い時期は金額が下がり、少ない時期は上がります</strong>。</p>
+
+<p>私も買取店で毎日査定していますが、どの店も考え方は同じです。</p>
+
+<p>私から見て、コメ兵が特別安い店だとは思いません。</p>
+
+<p>高く買えるのは、<strong>自分の店に在庫がなく、世間で人気のある品</strong>です。</p>
+
+<img src="/blog-images/komehyo-umeda/u06.webp" alt="コメ兵も「在庫と需要を見て決める」と書いている" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<h3>梅田店の在庫はネットで先に見られる</h3>
+
+<p>コメ兵の公式サイトには、<strong>「KOMEHYO梅田店の在庫を見る」</strong>というページがあります。</p>
+
+<p>ジュエリー・時計・バッグ・服に分けて、梅田店に並んでいる品を見られます。</p>
+
+<p>売りたい品と同じ型が<strong>たくさん並んでいれば、金額は伸びにくい</strong>と考えてください。</p>
+
+<p>反対に、ほとんど並んでいなければ、梅田店に持って行く価値があります。</p>
+
+<p>行く前に5分だけ見ておくと、金額を聞いたときに納得しやすくなります。</p>
+
+<img src="/blog-images/komehyo-umeda/u07.webp" alt="梅田店の在庫はネットで先に見られる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<h3>他の店の金額を知っているのは、売る本人だけ</h3>
+
+<p>私の店で、お客様が他の店の金額を話すことは、まずありません。</p>
+
+<p>コメ兵に行った話を聞くこともありません。</p>
+
+<p>店の側は、<strong>あなたが他の店でいくらと言われたかを知らない</strong>ということです。</p>
+
+<p>コメ兵も公式サイトで「他店の価格は参考にするが、高く買うことは約束できない」と書いています。</p>
+
+<p>比べられるのは、<strong>売る本人だけ</strong>です。</p>
+
+<p>2つの金額を並べて、高いほうに売る。</p>
+
+<p>これがいちばん確実な、損しないやり方です。</p>
+
+<img src="/blog-images/komehyo-umeda/u08.webp" alt="他の店の金額を知っているのは、売る本人だけ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<hr />
+
+<!-- ============ H2-3 ============ -->
+<h2>コメ兵 梅田店に行く前に知っておくこと5つ｜場所・営業時間・予約</h2>
+
+<p><strong>コメ兵 梅田店に行く前に知っておきたいのは、場所・営業時間・予約・駐車場・近くの店の5つ</strong>です。</p>
+
+<p>どれもコメ兵の公式サイトで確かめた内容です（2026年10月30日時点）。</p>
+
+<img src="/blog-images/komehyo-umeda/u09.webp" alt="コメ兵 梅田店に行く前に知っておくこと5つ｜場所・営業時間・予約" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<h3>① 場所｜梅田駅5番出口から歩いて2分、買取は3階</h3>
+
+<p>コメ兵 梅田店は、<strong>大阪市北区芝田2-2-1 OSAKA UK・GATEの1階〜3階</strong>にあります。</p>
+
+<p>ヨドバシカメラ梅田の北側です。</p>
 
 <ul>
-<li><strong>「他店の半額だった」</strong>…初期提示額が低めに出ることがある</li>
-<li><strong>「査定理由の説明が薄かった」</strong>…なぜその金額になったのかの説明が不足するケース</li>
-<li><strong>「担当者によって対応に差がある」</strong>…大規模店舗ゆえの教育のばらつき</li>
+<li><strong>地下鉄御堂筋線 梅田駅</strong>：5番出口から歩いて2分</li>
+<li><strong>阪急 大阪梅田駅</strong>：茶屋町口から歩いて2分</li>
+<li><strong>JR大阪駅</strong>：御堂筋出口から歩いて8分</li>
 </ul>
 
-<p>これも業界の内側から見ると、理由が見えてきます。コメ兵は<strong>「最初は保守的に提示する」</strong>傾向があり、こちらが他店査定額を出すと引き上がるケースが少なくありません。つまり<strong>「最初の金額＝最終金額」ではない</strong>ので、すぐに諦めて帰るのは損です。</p>
+<p>1階と2階は販売のフロアで、<strong>買取の受付は3階</strong>です。</p>
 
-<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
-<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
-<div>梅田店の口コミは「信頼性◎・初期金額は保守的」の二面性。交渉前提で行けば最大化できる。</div>
-</div>
+<p>エレベーターがあるので、重い品を持っていても3階まで上がれます。</p>
 
-<h2>業界の「相場基準」と言われる根拠｜2026年の買取実績例</h2>
+<img src="/blog-images/komehyo-umeda/u10.webp" alt="① 場所｜梅田駅5番出口から歩いて2分、買取は3階" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
-<p>冒頭で「コメ兵の査定額は業界の相場基準」とお伝えしました。実際にどれくらいの金額が動いているのか、2026年にコメ兵で公表されている主要ブランドの買取実績をまとめます。</p>
+<h3>② 営業時間｜11時〜20時、休みは公式のお知らせで確かめる</h3>
 
-<h3>ハイブランド・高級時計の買取実績例</h3>
+<p>営業時間は<strong>11:00〜20:00</strong>です。</p>
 
-<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:20px 0;">
-<table style="min-width:480px;width:100%;border-collapse:collapse;">
-<thead>
-<tr style="background:#1E3A5F;color:#fff;"><th style="padding:10px;border:1px solid #ccc;">ブランド・モデル</th><th style="padding:10px;border:1px solid #ccc;">買取実績額</th></tr>
-</thead>
-<tbody>
-<tr><td style="padding:10px;border:1px solid #ccc;">エルメス バーキン25（W刻印）</td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">1,918,500円</td></tr>
-<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;">ロレックス GMTマスター 16700</td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">1,800,000円</td></tr>
-<tr><td style="padding:10px;border:1px solid #ccc;">ロレックス サブマリーナデイト 16610</td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">680,000〜1,450,000円</td></tr>
-<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;">シャネル マトラッセ23</td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">945,500円</td></tr>
-<tr><td style="padding:10px;border:1px solid #ccc;">ルイ・ヴィトン モノグラム プティパレPM（M45900）</td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">212,000円</td></tr>
-<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;">オメガ シーマスター（2103042200100）</td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">580,000円</td></tr>
-</tbody>
-</table>
-</div>
+<p>公式サイトの店舗ページには、決まった定休日が書かれていません。</p>
 
-<p style="font-size:0.85em;color:#666;margin-top:-8px;">※ 2026年時点でコメ兵公式サイト等で公表されている取引事例の一例です。<strong>実際の査定額は状態・付属品の有無・市場相場により大きく変動します</strong>。同条件での買取を保証するものではありません。</p>
+<p>休みは「営業に関するお知らせ」で案内されるので、<strong>行く日の前に公式サイトか電話（06-6375-0388）で確かめてください</strong>。</p>
 
-<p>「うちのバッグはここまでの値段にならないかも…」と思われるかもしれません。でも大事なのは、<strong>業界の相場基準を知ることが、安く買い叩かれない第一歩</strong>になるということ。同じ品物でも、相場を知って交渉するかどうかで、最終的な手取りは数万円単位で変わってきます。</p>
+<h3>③ 来店予約｜予約すると、着いてすぐ査定が始まる</h3>
 
-<h3>「えっ、こんなものまで！？」コメ兵の珍しい買取事例</h3>
+<p>コメ兵 梅田店は、<strong>電話かWEBで来店予約</strong>ができます。</p>
 
-<p>コメ兵は「ブランド品の店」というイメージが強いですが、実は取り扱い品目はとても幅広いんです。ブランド品以外でも、楽器・着物・カメラ・革靴など、家庭に眠っているさまざまな品目が買取対象になっています。</p>
+<p>公式サイトでは「来店してすぐ査定が始められるように予約を受け付けている」と説明しています。</p>
 
-<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:20px 0;">
-<table style="min-width:480px;width:100%;border-collapse:collapse;">
-<thead>
-<tr style="background:#1E3A5F;color:#fff;"><th style="padding:10px;border:1px solid #ccc;">品目</th><th style="padding:10px;border:1px solid #ccc;">取扱状況・取引事例</th></tr>
-</thead>
-<tbody>
-<tr><td style="padding:10px;border:1px solid #ccc;">ギブソン レスポール・スタンダード（エレキギター）</td><td style="padding:10px;border:1px solid #ccc;font-weight:bold;color:#C8923A;">75,000円程度で取引された事例も</td></tr>
-<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;">着物・振袖（総刺繍など）</td><td style="padding:10px;border:1px solid #ccc;">買取対象（状態・作家により高額になるケースも）</td></tr>
-<tr><td style="padding:10px;border:1px solid #ccc;">高級コンパクトカメラ（パナソニック DC-TX2 等）</td><td style="padding:10px;border:1px solid #ccc;">買取対象</td></tr>
-<tr style="background:#FAF7F0;"><td style="padding:10px;border:1px solid #ccc;">本格英国紳士靴（エドワード・グリーン 等）</td><td style="padding:10px;border:1px solid #ccc;">買取対象</td></tr>
-</tbody>
-</table>
-</div>
+<p>予約なしでも行けますが、混んでいる日は待つことがあります。</p>
 
-<p style="font-size:0.85em;color:#666;margin-top:-8px;">※ 上記はコメ兵で過去に報告されている取引事例の一例です。状態・付属品・市場相場により金額は変動するため、同条件での査定額を保証するものではありません。</p>
+<p>土日や、品物が多いときは<strong>予約してから行くと待ち時間を減らせます</strong>。</p>
 
-<p>主婦の方なら、ご主人が若い頃に弾いていたギブソンのギターが<strong>7万円台で取引された事例もある</strong>と聞いたら、驚きじゃないでしょうか。タンスの奥に眠っている振袖、ご主人のクローゼットの英国製革靴、子どもが昔使っていた高級コンパクトデジカメ——コメ兵はこうした<strong>ブランド品以外の幅広い品目も買取対象</strong>にしているので、家族全員の不用品をまとめて1か所で査定できるのが、梅田店の旗艦店ならではの強みです。</p>
+<img src="/blog-images/komehyo-umeda/u11.webp" alt="③ 来店予約｜予約すると、着いてすぐ査定が始まる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
-<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
-<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
-<div>コメ兵は「ブランド品 × 楽器・着物・カメラ・革靴」まで一括対応。家族全員の不用品をまとめて持ち込める。</div>
-</div>
+<h3>④ 車で行くなら｜売った金額しだいで提携駐車場が無料</h3>
 
-<h2>梅田店で査定額を最大化する7つのコツ【業界裏側】</h2>
+<p>コメ兵 梅田店の提携駐車場は、<strong>ヤンマー本社ビル駐車場（大阪市北区茶屋町1-32）</strong>です。</p>
 
-<p>同じ品物でも、準備の仕方で査定額は<strong>10〜30%変わることがあります</strong>。私が現役時代に「これやってる人は得してるな」と思った7つを共有します。</p>
+<ul>
+<li>売った金額が<strong>1万円以上</strong>：1時間無料</li>
+<li>売った金額が<strong>3万円以上</strong>：2時間無料</li>
+</ul>
 
-<h3>① ギャランティーカード・箱・保存袋を揃える</h3>
+<p>駐車券をスタッフに見せると、スタンプを押してもらえます。</p>
 
-<p>シャネル・プラダなどは、ギャランティーの有無で<strong>数万円単位の差</strong>が出ます。バッグなら保存袋、時計なら余りコマも必須。「家のどこかにあったはず」レベルでも、探して持参する価値があります。</p>
+<p>前払い式の打ち切り料金で停めた場合は、この無料サービスは使えません。</p>
 
-<h3>② 持ち込む前に軽く清掃する</h3>
+<h3>⑤ 梅田店が混んでいたら｜梅田の近くにもコメ兵がある</h3>
 
-<p>バッグの内側のホコリ、時計の隙間の汚れ、指紋を拭き取るだけで印象が変わります。<strong>鑑定士も人間です</strong>。「大切に使われていた品」と「雑に扱われていた品」では、同じ状態ランクでも提示額が変わるのが現実です。</p>
+<p>梅田のまわりには、コメ兵の買取の窓口がほかにもあります。</p>
 
-<h3>③ 香水・タバコ・防虫剤のニオイを取る</h3>
+<ul>
+<li><strong>KOMEHYO 買取センター大阪駅前第4ビル</strong>：10:00〜19:00</li>
+<li><strong>andRELAY BY KOMEHYO</strong>（阪急うめだ本店8階）：10:00〜20:00（買取の最終受付19:00）</li>
+<li><strong>KOMEHYO 買取センター南森町</strong>：10:00〜19:00</li>
+</ul>
 
-<p>これは <strong>大幅な減額対象</strong> です。再販時にクリーニングコストがかかるため、業者は嫌がります。天日干し・消臭剤で1日でも置いてから持ち込むだけで違います。</p>
+<p>梅田店より早い時間から開いているので、<strong>午前中に売りたい人</strong>にも向いています。</p>
 
-<h3>④ 複数点まとめて持ち込む</h3>
+<img src="/blog-images/komehyo-umeda/u12.webp" alt="⑤ 梅田店が混んでいたら｜梅田の近くにもコメ兵がある" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
 
-<p>1点だけより、3〜5点まとめた方が「総額」での交渉余地が出ます。「全部まとめて買うので少し色つけてください」と言いやすい状況を、こちらから作るのがポイント。</p>
-
-<h3>⑤ キャンペーン期間を狙う</h3>
-
-<p>コメ兵は定期的に買取強化キャンペーンを行っています。過去にはこんな企画が実施されました。</p>
-
-<div style="background:#FFF3E0;border:2px solid #FF6F00;border-radius:8px;padding:18px 22px;margin:20px 0;">
-<div style="font-size:13px;color:#FF6F00;font-weight:bold;margin-bottom:8px;">📌 過去に実施されたキャンペーン例</div>
-<p style="margin:0;"><strong>GOLDEN WEEK 買取祭</strong>（2026年4月18日〜5月6日）<br>全ブランド対象の買取強化期間。期間中に来店した分が対象になる形式でした。</p>
-<p style="margin:8px 0 0 0;font-size:0.8em;color:#999;">※キャンペーン内容・期間は時期により変更されます。最新情報はコメ兵公式サイト・LINEで必ずご確認ください。</p>
-</div>
-
-<p>2026年4月には他にも、<strong>「春の買取金額MAX10%UP」</strong>（LINE友だち限定／カルティエ・ティファニー・ルイ・ヴィトン等が対象）や、<strong>「買取予算10億円キャンペーン」</strong>といった大型企画も実施されていました。</p>
-
-<p>このように、コメ兵は<strong>3か月に1回くらいのペースで何かしらのキャンペーン</strong>を打っています。LINE友だち登録だけで増額対象になることが多いので、来店前に<strong>必ず公式サイト・LINEで最新キャンペーンを確認</strong>しましょう。たとえば「あと2,000円あと押しがあれば10万円台に乗る」というケースで、キャンペーン適用が決め手になることもあります。</p>
-
-<h3>⑥ 他店査定額を提示する</h3>
-
-<p><strong>これが最大の武器</strong>です。「他店では○万円って言われたんですが」と具体的な数字を出すと、鑑定士が上長に確認して引き上げる口実ができます。事前に1〜2社で査定だけ取っておくのが王道です。</p>
-
-<h3>⑦ 「使わない」と思った時点ですぐ持ち込む</h3>
-
-<p>ブランド品の価値は<strong>時間とともに下がる</strong>のが基本です。特にアパレルは発売から2年を超えると急激に価値が落ちます。「いつか売ろう」は、ほぼ全員が損する選択肢です。</p>
-
-<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
-<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
-<div>付属品・清掃・他店査定提示の3つだけでも、査定額は10〜30%変わる。</div>
-</div>
-
-<div style="border:1px solid #E0E0E0;border-radius:12px;margin:40px 0;box-shadow:0 4px 16px rgba(0,0,0,0.08);overflow:hidden;background:#fff;">
-<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 24px;display:flex;justify-content:space-between;align-items:center;">
-<span style="font-weight:bold;font-size:0.95em;">🏪 西日本最大級・3階が買取専用フロア</span>
+<!-- ===== 中間CTA（コメ兵 来店予約・H2-3の直後） ===== -->
+<div style="border:3px solid #8E2B4A;border-radius:10px;overflow:hidden;margin:30px 0;box-shadow:0 2px 8px rgba(142,43,74,0.16);">
+<div style="background:linear-gradient(135deg,#8E2B4A,#B33A5E);color:#fff;padding:14px 20px;display:flex;justify-content:space-between;align-items:center;">
+<span style="font-weight:bold;font-size:0.95em;">🏪 梅田店に行く日を決めたら、先に来店予約</span>
 <span style="font-size:0.75em;background:rgba(255,255,255,0.2);padding:3px 10px;border-radius:12px;">PR</span>
 </div>
-<div style="padding:24px 28px 0 28px;text-align:center;">
-<h3 style="font-size:1.7em;margin:0;color:#1E3A5F;border:none;padding:0;">KOMEHYO 梅田店</h3>
-<p style="margin:8px 0 0 0;color:#666;font-size:0.95em;">阪急梅田駅徒歩2分／全国共通の業界基準価格で査定</p>
-</div>
-<div style="padding:20px 28px;">
-<div style="text-align:center;margin:18px 0 0 0;">
-<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 来店予約 1分で完了 ／</span>
-</div>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 梅田店の来店予約をする</a>
-<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">komehyo.jp</a></p>
-<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" alt="">
-</div>
-<div style="padding:0 28px 24px 28px;">
-<p style="margin-top:0;"><strong>こんな人におすすめ</strong></p>
-<ul>
-<li>大阪・関西で店頭買取を考えている方</li>
-<li>大手で安心して売りたい方</li>
-<li>その場で現金化したい方</li>
-</ul>
-<p><strong>✅ メリット</strong></p>
-<ul>
-<li>3階の買取専用フロアで人目を気にせず査定を受けられる</li>
-<li>鑑定士680名以上のデータベースで業界基準の価格</li>
-<li>品物を預けて外出可能・梅田で買い物しながら結果待ちOK</li>
-<li>その場で現金または振込で支払い（強引な引き留めなし）</li>
-</ul>
-<p><strong>⚠️ デメリット・注意点</strong></p>
-<ul>
-<li>初期提示額は保守的なので、他店査定額を持参しての交渉が有効</li>
-<li>第1・第3水曜日は定休日</li>
-</ul>
-</div>
-</div>
-
-<h2>知らないと損する｜買取不可・大幅減額になる5つのケース</h2>
-
-<p>「持って行ったのに買取できなかった」を防ぐため、事前に知っておくべきケースを5つ紹介します。</p>
-
-<h3>① シャネルのシリアルシール欠損</h3>
-
-<p>シャネルのバッグ本体に貼られているシリアルナンバーシール。これが剥がれていると、規定により買取できないことがあります。剥がさず保管するのが鉄則です。</p>
-
-<h3>② 改造品・リカラー品</h3>
-
-<p>ブランド公認でない修理、色を塗り替えたリカラーバッグなどは、二次流通市場で真贋判定が困難になるため、敬遠されます。</p>
-
-<h3>③ 並行輸入品の特定衣料</h3>
-
-<p>日本の正規代理店タグがない衣料品は、ブランドによって取り扱いが制限される場合があります。タグの有無は事前に確認を。</p>
-
-<h3>④ 著しい劣化（ベタつき・カビ・破れ）</h3>
-
-<p>メンテナンスコストが販売想定価格を上回ると、買取不可となります。特にベタつき（加水分解）は、修理が困難なため敬遠される代表例です。</p>
-
-<h3>⑤ 顔写真なしの身分証</h3>
-
-<p>古物営業法に基づき、本人確認書類の提示は必須です。顔写真なしの保険証だと、契約書への拇印を求められるケースがあります。<strong>運転免許証・マイナンバーカード</strong>を持参するのが最もスムーズです。</p>
-
-<div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:6px;padding:18px 22px;margin:28px 0;">
-<div style="font-size:13px;color:#C8923A;font-weight:bold;margin-bottom:6px;">💡 結論</div>
-<div>シリアルシール・付属品・身分証の3つは、行く前に必ずチェック。</div>
-</div>
-
-<h2>来店から支払いまでの3ステップ｜持ち物リスト付き</h2>
-
-<p>初めての方が安心して臨めるよう、当日の流れを整理します。</p>
-
-<h3>STEP 1：受付・商品預かり（3F買取カウンター）</h3>
-
-<p>3階の買取カウンターで受付。身分証を提示し、品物を預けます。外出する場合は<strong>「お預かり証」</strong>が発行されるので、それを持って梅田で買い物・カフェで時間を潰せます。</p>
-
-<h3>STEP 2：査定（プライバシー配慮ブース）</h3>
-
-<p>専門鑑定士による査定。比重計・成分分析装置などの機械も使われ、貴金属の素材価値は科学的に算出されます。混雑時は予約優先になるので、<strong>事前に来店予約</strong>を入れておくと待ち時間が大幅に減ります。</p>
-
-<h3>STEP 3：商談・支払い</h3>
-
-<p>提示金額を確認し、納得すればその場で<strong>現金または振込</strong>で支払い。納得いかない場合のキャンセルも可能で、強引な引き留めはありません。これは大手の安心感のひとつです。</p>
-
-<h3>当日の持ち物チェックリスト</h3>
-
-<ul>
-<li>✅ 売りたい品物（できれば付属品・箱・ギャランティー込み）</li>
-<li>✅ 顔写真付き身分証（運転免許証・マイナンバーカード推奨）</li>
-<li>✅ 他店査定額のメモ（あれば交渉力UP）</li>
-<li>✅ 振込希望の場合：銀行口座情報</li>
-</ul>
-
-<h2>梅田が遠い人へ｜大阪のコメ兵 他17店舗マップと宅配という選択肢</h2>
-
-<p>梅田店以外にも、大阪府内には<strong>合計18店舗</strong>のコメ兵買取拠点があります。エリア別にまとめました。</p>
-
-<h3>フラッグシップ店（販売・買取どちらも可）</h3>
-
-<ul>
-<li>KOMEHYO 心斎橋店</li>
-<li>KOMEHYO OSAKA SHINSAIBASHI</li>
-<li>KOMEHYO あべの店</li>
-</ul>
-
-<h3>買取センター（買取専用カウンター）</h3>
-
-<ul>
-<li>ekimoなんば／なんばスカイオ（なんばエリア）</li>
-<li>大阪駅前第4ビル／南森町／クリスタ長堀／北浜PLAZA（キタ・中心部）</li>
-<li>京橋京阪モール／守口／千里中央／茨木／みのおキューズモール／枚方／高槻阪急</li>
-</ul>
-
-<p>「店舗まで行くのが大変」「家から出たくない」という方は、宅配買取という選択肢もあります。同じコメ兵が運営しているので、査定基準は店頭とほぼ同じです。</p>
-
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/komehyo-evaluation/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 コメ兵宅配買取の評判は？買取営業8年が業界人の視点で本音レビュー →</a>
-</div>
-
-<h2>まとめ｜コメ兵 梅田店を最大限活用する戦略</h2>
-
-<p>最後にこの記事の内容を整理します。</p>
-
-<h3>梅田店の使いこなし方 5箇条</h3>
-
-<ol>
-<li><strong>3F買取専用フロア</strong>でプライバシー確保</li>
-<li>付属品・清掃・消臭で<strong>10〜30%増額</strong>を狙う</li>
-<li><strong>他店査定額</strong>を持参して交渉する</li>
-<li>キャンペーン期間（春・GW）を狙う</li>
-<li>身分証は<strong>顔写真付き</strong>を必ず持参</li>
-</ol>
-
-<p>コメ兵 梅田店は、業界の中でも<strong>「相場の基準」</strong>として扱われる存在です。提示額に一喜一憂するのではなく、「業界基準で見るといくらの品か」を知る一次情報として活用するのが、この店舗の最大の使い方です。</p>
-
-<p>「使わないブランド品が眠っている」「現金化したい」と思った日が、行動するベストタイミング。時間とともに価値が下がる前に、まずは一度足を運んでみることをおすすめします。</p>
-
-<p>タンスの奥で眠っていたバッグや、何年も袖を通していない着物が、想像以上の金額で家計の味方に変わる——私は現役時代、そんな瞬間に立ち会うたびにご家族の表情がふっと明るくなりました。査定で得たお金で、ずっと我慢していた自分へのご褒美を買う方もいれば、お子さんの進学費用や家族旅行の足しにする方もいます。<strong>「使わない物」が「次の楽しみ」に変わる感覚</strong>を、ぜひコメ兵 梅田店で体験してみてください。</p>
-
-<div style="border:1px solid #E0E0E0;border-radius:12px;margin:40px 0;box-shadow:0 4px 16px rgba(0,0,0,0.08);overflow:hidden;background:#fff;">
-<div style="background:linear-gradient(135deg,#1E3A5F,#2A4A75);color:#fff;padding:14px 24px;display:flex;justify-content:space-between;align-items:center;">
-<span style="font-weight:bold;font-size:0.95em;">🏪 大阪で店頭買取するなら｜業界基準の価格で査定</span>
-<span style="font-size:0.75em;background:rgba(255,255,255,0.2);padding:3px 10px;border-radius:12px;">PR</span>
-</div>
-<div style="padding:24px 28px 0 28px;text-align:center;">
-<h3 style="font-size:1.7em;margin:0;color:#1E3A5F;border:none;padding:0;">KOMEHYO 梅田店</h3>
-<p style="margin:8px 0 0 0;color:#666;font-size:0.95em;">3階全体が買取専用フロア・西日本最大級</p>
-</div>
-<div style="padding:20px 28px;">
-<div style="text-align:center;margin:18px 0 0 0;">
-<span style="display:inline-block;background:#FFEB3B;color:#E74C3C;font-weight:bold;font-size:0.95em;padding:5px 22px;border-radius:3px;letter-spacing:0.03em;box-shadow:0 2px 4px rgba(0,0,0,0.08);">＼ 来店予約 1分で完了 ／</span>
-</div>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#1ABC9C,#16A085);color:#fff;text-align:center;padding:16px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.05em;margin-top:10px;box-shadow:0 4px 14px rgba(26,188,156,0.42);">▶ 梅田店の来店予約をする</a>
-<p style="text-align:center;font-size:0.82em;color:#888;margin:8px 0 0 0;">公式サイト：<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" style="color:#1565C0;text-decoration:underline;">komehyo.jp</a></p>
+<div style="padding:22px 24px;background:#fff;">
+<p style="margin:0 0 14px;color:#555;font-size:0.95em;line-height:1.8;">予約しておくと、着いてすぐに査定が始まります。</p>
+<p style="margin:0 0 14px;color:#555;font-size:0.95em;line-height:1.8;">査定・キャンセル・手数料は無料なので、金額を聞いてから売るかどうか決められます。</p>
+<p style="margin:0 0 12px;"><span style="color:#C0392B;font-weight:bold;">コメ兵 梅田店の来店予約をWEBで済ませる</span></p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" class="wine-cta-shine" style="display:block;background:linear-gradient(135deg,#8E2B4A,#B33A5E);color:#fff;text-align:center;padding:16px;border-radius:8px;font-weight:bold;text-decoration:none;font-size:1.05em;">コメ兵の来店予約をする</a>
 <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" alt="">
 </div>
 </div>
 
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 買取査定額を上げるコツ7選｜買取営業8年が教える準備術 →</a>
+<hr />
+
+<!-- ============ H2-4 ============ -->
+<h2>コメ兵 梅田店の買取の流れ｜受付から支払いまで3ステップ</h2>
+
+<p><strong>コメ兵 梅田店の買取は、受付・査定・支払いの3ステップ</strong>です。</p>
+
+<p>初めての人がつまずきやすいのは、受付で出す本人確認書類です。</p>
+
+<img src="/blog-images/komehyo-umeda/u13.webp" alt="コメ兵 梅田店の買取の流れ｜受付から支払いまで3ステップ" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<h3>① 受付｜3階で品物と本人確認書類を出す</h3>
+
+<p>3階の買取カウンターで、品物と<strong>本人確認書類</strong>を出します。</p>
+
+<p>コメ兵が公式サイトで挙げている書類は次の5つです。</p>
+
+<ul>
+<li>運転免許証</li>
+<li>マイナンバーカード</li>
+<li>敬老手帳</li>
+<li>運転経歴証明書</li>
+<li>在留カード</li>
+</ul>
+
+<p>どれも<strong>現住所と生年月日が書かれた、有効期限内の原本</strong>に限ります。</p>
+
+<p>書類の住所と今の住所が違う場合は、<strong>公共料金の領収書などの原本</strong>も必要です。</p>
+
+<p>また、<strong>20歳未満の人は売ることができません</strong>。</p>
+
+<p>金やプラチナの地金（インゴット）を売るときは、在留カードは本人確認に使えないので注意してください。</p>
+
+<img src="/blog-images/komehyo-umeda/u14.webp" alt="① 受付｜3階で品物と本人確認書類を出す" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<h3>② 査定｜鑑定士が品物を見て金額を出す</h3>
+
+<p>コメ兵の鑑定士が、品物の状態や付属品を見て金額を出します。</p>
+
+<p>箱・保証書・ギャランティカード・保存袋などの付属品は、<strong>全部いっしょに持って行ってください</strong>。</p>
+
+<p>コメ兵も公式サイトで「付属品の有無で金額が変わる品がある」と書いています。</p>
+
+<p>待ち時間は、その日の混み具合と品物の数で変わります。</p>
+
+<p>金額が出たら、<strong>どこを見てその金額になったのか</strong>を聞いておくと、他の店と比べやすくなります。</p>
+
+<img src="/blog-images/komehyo-umeda/u15.webp" alt="② 査定｜鑑定士が品物を見て金額を出す" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<h3>③ 支払い｜納得したら現金か振込で受け取る</h3>
+
+<p>金額に納得したら、<strong>現金か振込</strong>で受け取ります。</p>
+
+<p>納得できなければ、売らずに持ち帰ってかまいません。</p>
+
+<p>コメ兵 梅田店は、<strong>査定・キャンセル・手数料がすべて無料</strong>です。</p>
+
+<p>その場で決めきれないときは、いったん持ち帰り、もう1社の金額を聞いてから決めても大丈夫です。</p>
+
+<hr />
+
+<!-- ============ H2-5 ============ -->
+<h2>コメ兵 梅田店で損しない売り方｜2〜3社で比べる</h2>
+
+<p><strong>コメ兵 梅田店で損しない売り方は、梅田店の金額を基準にして2〜3社で比べること</strong>です。</p>
+
+<p>店ごとに在庫が違う以上、比べることがいちばんの対策になります。</p>
+
+<img src="/blog-images/komehyo-umeda/u16.webp" alt="コメ兵 梅田店で損しない売り方｜2〜3社で比べる" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<h3>梅田店の金額を「1社目の基準」にする</h3>
+
+<p>コメ兵 梅田店は、公式サイトで<strong>買取強化店舗</strong>の1つに挙げられています。</p>
+
+<p>梅田は買取店が多い街なので、梅田店で聞いた金額を<strong>比べるときの物差し</strong>にするのが使いやすい方法です。</p>
+
+<p>梅田店より高い店があれば、そちらで売る。</p>
+
+<p>なければ、梅田店で売る。</p>
+
+<p>どちらになっても、<strong>知らないまま安く売ることはなくなります</strong>。</p>
+
+<h3>来店前にLINE査定で目安を知っておく</h3>
+
+<p>コメ兵には、<strong>写真を送るだけで買取の目安が分かるLINE査定</strong>があります。</p>
+
+<p>梅田まで出る前に、だいたいの金額を知っておけます。</p>
+
+<p>ただし写真だけでは細かい傷までは分からないので、<strong>店で見てもらった金額とは変わることがあります</strong>。</p>
+
+<p>LINE査定の金額は、店に行くかどうかを決めるための目安として使ってください。</p>
+
+<img src="/blog-images/komehyo-umeda/u17.webp" alt="来店前にLINE査定で目安を知っておく" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<h3>宝石・金は、家に来てもらって2社目の金額を聞く</h3>
+
+<p>梅田の店を何軒も回るのが大変な人は、<strong>出張買取（家に来てもらう買取）</strong>で2社目の金額を聞けます。</p>
+
+<p>ウリエルは、遺品整理の大手が運営している出張買取です。</p>
+
+<p>宝石・金・プラチナのアクセサリーを家で査定してくれます。</p>
+
+<p>出張料・査定料は無料で、金額を聞いて断ってもお金はかかりません。</p>
+
+<p>ただし、<strong>対応しているのは関東・東海・関西などの一部の地域</strong>です。</p>
+
+<p>お住まいが対象かどうかは、申込ページで確かめてください。</p>
+
+<h3>ブランド品は、宅配で2社目の金額を聞く</h3>
+
+<p>人に会わずに比べたい人は、<strong>宅配買取</strong>で金額を聞けます。</p>
+
+<p>リクロは、ブランド品・宝石・金を宅配で買い取るサービスです。</p>
+
+<p>査定料・送料・キャンセル料は無料です。</p>
+
+<p>なお、リクロはコメ兵と同じグループの会社が運営しています。</p>
+
+<p>店頭の梅田店と宅配のリクロ、<strong>自分に合うほうを選ぶ</strong>つもりで使ってください。</p>
+
+<img src="/blog-images/komehyo-umeda/u18.webp" alt="ブランド品は、宅配で2社目の金額を聞く" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<!-- ===== H2-5末 フルCTA（ネイビー） ===== -->
+<div style="border:3px solid #1E3A5F;border-radius:10px;overflow:hidden;margin:30px 0;box-shadow:0 2px 8px rgba(30,58,95,0.16);">
+<div style="background:linear-gradient(135deg,#1E3A5F,#2C5282);color:#fff;padding:14px 20px;display:flex;justify-content:space-between;align-items:center;">
+<span style="font-weight:bold;font-size:0.95em;">⚖️ 梅田店と比べる2社目の金額を、家で聞く</span>
+<span style="font-size:0.75em;background:rgba(255,255,255,0.2);padding:3px 10px;border-radius:12px;">PR</span>
+</div>
+<div style="padding:22px 24px;background:#fff;">
+<p style="margin:0 0 14px;color:#555;font-size:0.95em;line-height:1.8;">ウリエルは、宝石・金・プラチナのアクセサリーを家で査定してくれます。</p>
+<p style="margin:0 0 14px;color:#555;font-size:0.95em;line-height:1.8;">鑑定書のない宝石や、デザインの古い指輪も査定の対象です。</p>
+<p style="margin:0 0 14px;color:#555;font-size:0.95em;line-height:1.8;">出張料・査定料は無料で、金額を聞いてから断ってもかまいません。</p>
+<p style="margin:0 0 12px;"><span style="color:#C0392B;font-weight:bold;">梅田店に行く前に、ウリエルの金額を聞いておく</span></p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1VU2+8C40Q+5O4W+2BDBU9" rel="sponsored nofollow" target="_blank" class="green-cta-shine" style="display:block;background:linear-gradient(135deg,#1B6B50,#2E9E77);color:#fff;text-align:center;padding:16px;border-radius:8px;font-weight:bold;text-decoration:none;font-size:1.05em;">ウリエルの無料出張査定を申し込む</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1VU2+8C40Q+5O4W+2BDBU9" alt="">
+<p style="margin:18px 0 8px;font-size:0.9em;color:#555;text-align:center;">ブランドバッグ・財布を、人に会わずに比べたい人は宅配で。</p>
+<p style="margin:0 0 8px;font-size:0.86em;color:#555;text-align:center;">リクロは査定料・送料・キャンセル料が無料です。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+3ORPGA+55FU+5YZ77" rel="sponsored nofollow" target="_blank" style="display:block;background:#fff;border:2px solid #1B6B50;color:#1B6B50;text-align:center;padding:13px;border-radius:8px;font-weight:bold;text-decoration:none;font-size:0.98em;">リクロの無料宅配査定を申し込む</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+3ORPGA+55FU+5YZ77" alt="">
+</div>
 </div>
 
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/sell-unwanted-items/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 不用品を売るならどこ？買取営業8年が教える買い叩かれない5つの方法 →</a>
+<hr />
+
+<!-- ============ H2-6 ============ -->
+<h2>コメ兵 梅田店の買取でよくある質問</h2>
+
+<p><strong>コメ兵 梅田店の買取</strong>について、よく聞かれることを3つまとめました。</p>
+
+<img src="/blog-images/komehyo-umeda/u19.webp" alt="コメ兵 梅田店の買取でよくある質問" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<h3>コメ兵 梅田店で査定だけして帰ってもいいですか</h3>
+
+<p>大丈夫です。</p>
+
+<p>コメ兵 梅田店は、<strong>査定・キャンセル・手数料が無料</strong>です。</p>
+
+<p>金額を聞いて売らずに帰っても、お金はかかりません。</p>
+
+<p>査定だけで帰ることへの不安は、<a href="/kaitoriten-satei-dake/">買取店は査定だけでもいい？5つの不安に店員が本音で答える</a>で詳しく答えています。</p>
+
+<h3>他の店より高く買ってもらえますか</h3>
+
+<p>約束はしてもらえません。</p>
+
+<p>コメ兵は公式サイトで「他店の価格は参考にするが、約束はできない。ただし最大限の努力はする」と答えています。</p>
+
+<p>高く売れるかどうかは、<strong>2つの金額を並べて自分で選ぶ</strong>しかありません。</p>
+
+<h3>ダイヤモンドに鑑定書がなくても売れますか</h3>
+
+<p>売れます。</p>
+
+<p>コメ兵は公式サイトで、<strong>ダイヤモンドは鑑定書がなくても買取できる</strong>と書いています。</p>
+
+<p>鑑定書や保証書が見つかった場合は、本体といっしょに持って行ってください。</p>
+
+<hr />
+
+<!-- ============ H2-7 ============ -->
+<h2>まとめ｜コメ兵 梅田店のレビューは良い。金額は比べて決める</h2>
+
+<p><strong>コメ兵 梅田店のレビューは良い声が多く、金額は比べてから決めればいい</strong>、というのがこの記事の答えです。</p>
+
+<img src="/blog-images/komehyo-umeda/u20.webp" alt="まとめ｜コメ兵 梅田店のレビューは良い。金額は比べて決める" width="1200" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:10px;margin:22px 0;">
+
+<h3>3行まとめ</h3>
+
+<p>コメ兵 梅田店は、Googleで929件・平均4.8と、接客や店の評判は高い店です。</p>
+
+<p>金額は店の在庫と世間の需要で決まるので、品物によって高くも安くもなります。</p>
+
+<p>梅田店の金額を基準にして、もう1社と比べてから売るのが確実です。</p>
+
+<h3>最初の一歩｜梅田店ともう1社の金額をそろえる</h3>
+
+<p>レビューが良い店でも、あなたの品物にいちばん高い金額を出すとは限りません。</p>
+
+<p>反対に、「大手は安い」と決めつけて梅田店を外すのも、もったいない選び方です。</p>
+
+<p>梅田店ともう1社、2つの金額をそろえてから決めてください。</p>
+
+<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
+  <p style="margin:0 0 8px;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
+  <ul style="margin:0;padding-left:1.4em;line-height:1.9;">
+  <li>✅ <strong>梅田店の在庫をネットで見てから</strong>持って行く</li>
+  <li>✅ <strong>来店予約と本人確認書類</strong>を用意して、待たずに査定を受ける</li>
+  <li>✅ <strong>梅田店の金額を基準に、もう1社と比べる</strong>。宝石・金は家で、ブランド品は宅配でも比べられる</li>
+  </ul>
 </div>
 
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/rolex-uru-doko/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 ロレックスを売るならどこ？買取8年が後悔しないコツ5選解説 →</a>
+<!-- ===== まとめ末尾CTA ===== -->
+<div style="background:#fff;border:3px solid #1B6B50;border-radius:10px;padding:22px 24px;margin:28px 0;box-shadow:0 2px 8px rgba(27,107,80,0.14);">
+  <p style="margin:0 0 10px;">梅田店で聞いた金額が高いか安いかは、もう1社の金額と並べて初めて分かります。</p>
+  <p style="margin:0 0 14px;font-size:0.95em;">宝石や金のアクセサリーなら、家にいながら2社目の金額を聞けます。</p>
+  <p style="margin:0 0 14px;font-size:0.95em;">出張料・査定料は無料で、断っても費用はかかりません。</p>
+  <p style="margin:0 0 10px;"><span style="color:#C0392B;font-weight:bold;">梅田店と比べる金額を、ウリエルで無料で聞く</span></p>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1VU2+8C40Q+5O4W+2BDBU9" rel="sponsored nofollow" target="_blank" class="green-cta-shine" style="display:block;background:linear-gradient(135deg,#1B6B50,#2E9E77);color:#fff;text-align:center;padding:16px;border-radius:8px;font-weight:bold;text-decoration:none;font-size:1.06em;">ウリエルの無料査定を申し込む</a>
 </div>
 
-<!-- 内部リンク水色カード（記事30・店舗買取・5/12追加） -->
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
-<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/tenpo-kaitori-kotsu/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 店舗買取の注意点5選｜買取8年が買い叩かれない持ち込みコツ解説 →</a>
+<p style="text-align:center;font-size:0.86em;color:#888;margin:16px 0 10px;">ブランド品を宅配で比べるなら／梅田店に行く日を決めたら</p>
+
+<div style="display:flex;gap:10px;flex-wrap:wrap;margin:0 0 30px;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B3MEW+3ORPGA+55FU+5YZ77" rel="sponsored nofollow" target="_blank" style="flex:1;min-width:150px;display:block;background:#fff;border:2px solid #1B6B50;color:#1B6B50;text-align:center;padding:13px;border-radius:8px;font-weight:bold;text-decoration:none;font-size:0.98em;">リクロで宅配査定する</a>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" rel="sponsored nofollow" target="_blank" style="flex:1;min-width:150px;display:block;background:#fff;border:2px solid #8E2B4A;color:#8E2B4A;text-align:center;padding:13px;border-radius:8px;font-weight:bold;text-decoration:none;font-size:0.98em;">コメ兵の来店予約をする</a>
+</div>
+<img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1VU2+8C40Q+5O4W+2BDBU9" alt="">
+<img class="a8-pixel" border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3MEW+3ORPGA+55FU+5YZ77" alt="">
+<img class="a8-pixel" border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B1SPX+9GJZKQ+3VEM+BX3J6" alt="">
+
+<!-- ===== 今日からやること ===== -->
+<div style="margin:35px 0;filter:drop-shadow(0 4px 12px rgba(200,146,58,0.18));">
+<div style="background:linear-gradient(135deg,#E8B658 0%,#C8923A 50%,#A77620 100%);color:#fff;display:inline-block;padding:11px 24px;border-radius:8px 8px 0 0;font-weight:bold;font-size:1.08em;letter-spacing:0.04em;text-shadow:0 1px 2px rgba(0,0,0,0.15);">✅ 今日からやること</div>
+<div style="border:3px solid #C8923A;border-radius:0 10px 10px 10px;padding:22px 28px;background:#fff;">
+<ul style="margin:0;padding-left:1.5em;line-height:2;list-style:none;">
+<li>☐ 公式サイトで<strong>梅田店の在庫</strong>を見て、同じ品が並んでいるか確かめる</li>
+<li>☐ 箱・保証書・保存袋などの<strong>付属品を全部そろえる</strong></li>
+<li>☐ <strong>運転免許証かマイナンバーカード</strong>を財布に入れる</li>
+<li>☐ 行く日の<strong>営業のお知らせを確かめて、来店予約</strong>する</li>
+<li>☐ 梅田店ともう1社、<strong>2つの金額をそろえる</strong></li>
+</ul>
+</div>
 </div>
 
-<div style="background:#F8F4E6;border-radius:8px;padding:20px;margin:36px 0;display:flex;align-items:center;gap:20px;">
-<img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;" />
-<div>
-<p style="margin:0;font-weight:bold;font-size:1.05em;">筆者　ハル</p>
-<p style="margin:4px 0 0 0;font-size:0.92em;line-height:1.6;">買取業界の営業として複数社で計8年勤務。貴金属・時計・ブランドの累計査定3万点超。大阪在住・古物商許可保有。</p>
+<!-- ===== 免責 ===== -->
+<div style="background:#F5F5F5;border:1px solid #D4A574;border-radius:6px;padding:18px 22px;margin:36px 0 28px 0;font-size:14px;color:#555;line-height:1.8;">
+<p style="margin:0 0 10px 0;font-weight:bold;color:#1E3A5F;font-size:15px;">📝 本記事のご利用にあたって</p>
+<p style="margin:0 0 10px 0;">本記事は2026年10月30日時点の情報をもとに、買取8年の経験から執筆しています。</p>
+<ul style="margin:0 0 10px 0;padding-left:1.4em;">
+<li>営業時間・予約・駐車場・本人確認書類は<strong>コメ兵公式サイトの内容</strong>です。変わることがあるので、<strong>行く前に公式サイトか電話でご確認ください</strong></li>
+<li>レビューは<strong>Googleマップ・Yahoo!マップ・エキテンの内容を要約</strong>したもので、個人の感想です</li>
+<li>「コメ兵が特別安いとは思わない」は<strong>筆者の現場での見方</strong>であり、すべての品に当てはまるものではありません</li>
+<li>買取トラブルが発生した際は、消費者ホットライン（<strong>188</strong>）にご相談ください</li>
+</ul>
+<p style="margin:0;">最終的なご判断はご自身でお願いいたします。</p>
 </div>
+
+<!-- ===== プロフィール ===== -->
+<div style="background:#F8F4E6;border:3px solid #D4A574;border-radius:10px;padding:20px;margin:32px 0;display:flex;flex-wrap:wrap;align-items:center;gap:18px;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<img src="https://re-money-lab.com/wp-content/uploads/2026/04/54e223b26cc676782cab36413ba4f95e.jpg" alt="筆者ハル" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;">
+<div style="flex:1;min-width:200px;">
+<p style="margin:0 0 8px 0;font-weight:bold;font-size:1.1em;">筆者　ハル</p>
+<ul style="margin:0;padding-left:18px;font-size:0.92em;line-height:1.8;">
+<li>買取業界の営業として複数社で計8年勤務（ブランド品・<strong>貴金属</strong>・着物等）</li>
+<li><strong>累計査定3万点超</strong></li>
+<li>廃品回収業界での実務経験もあり</li>
+<li><strong>古物商許可保有</strong></li>
+</ul>
+</div>
+</div>
+
+<!-- ===== 内部リンク ===== -->
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
+<p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
+<p style="margin:0;"><a href="https://re-money-lab.com/tenpo-kaitori-kotsu/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">店舗買取の注意点5選｜買取8年が買い叩かれない持ち込みコツ解説</a></p>
+</div>
+
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
+<p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
+<p style="margin:0;"><a href="https://re-money-lab.com/raise-appraisal/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">買取査定額を上げるコツ7選｜買取営業8年が教える準備術</a></p>
+</div>
+
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
+<p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
+<p style="margin:0;"><a href="https://re-money-lab.com/brand-takuhai-kaitori/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ブランド品宅配買取は結局どこ？コメ兵など主要3社を比較｜買取8年</a></p>
 </div>
 
 
