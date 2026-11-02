@@ -11,38 +11,6 @@ related:
 
 <div class="article-content">
 
-<style>
-.gold-cta-shine {
-  position: relative;
-  overflow: hidden;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-}
-.gold-cta-shine::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: -80%;
-  width: 35%;
-  height: 100%;
-  background: linear-gradient(
-    100deg,
-    rgba(255,255,255,0) 0%,
-    rgba(255,255,255,0.28) 50%,
-    rgba(255,255,255,0) 100%
-  );
-  transform: skewX(-22deg);
-  animation: goldShineSweep 6s ease-out infinite;
-  pointer-events: none;
-}
-@keyframes goldShineSweep {
-  0% { left: -80%; }
-  35%, 100% { left: 160%; }
-}
-.gold-cta-shine:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(212,165,116,0.55) !important;
-}
-</style>
 
 <p>※当記事はアフィリエイト広告を含みます。</p>
 
