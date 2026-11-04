@@ -426,7 +426,7 @@ related:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>逆に、以下の対応をした業者は<strong>押し買い業者である可能性が非常に高い</strong>：</p>
+<p>逆に、以下の対応をした業者は<strong>押し買い業者である可能性がとても高い</strong>：</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -670,7 +670,7 @@ related:
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>と<strong>堂々と言ってください</strong>。これを嫌がる業者は、<strong>押し買い業者である可能性が非常に高い</strong>と判断できます。</p>
+<p>と<strong>堂々と言ってください</strong>。これを嫌がる業者は、<strong>押し買い業者である可能性がとても高い</strong>と判断できます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

@@ -369,7 +369,7 @@ related:
 
 <img src="/blog-images/kegawa/k5-h3b.webp" alt="理由② 女性査定士を指名できる" width="1200" height="839" loading="lazy" decoding="async" style="width:100%;height:auto;display:block;margin:26px auto;border-radius:10px;" />
 
-<p>自宅に男性の査定士を呼ぶのは、やっぱり不安ですよね。</p>
+<p>自宅に男性の査定士を呼ぶのは、やっぱり不安ではないでしょうか。</p>
 
 <p>福ちゃんは女性査定士を指名できるので、その不安がありません。</p>
 
