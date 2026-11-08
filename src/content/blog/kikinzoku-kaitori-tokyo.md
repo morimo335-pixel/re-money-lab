@@ -9,6 +9,7 @@ related:
   - ng-actions-5
   - takuhai-kaitori-trouble
   - patek-philippe-uru-doko
+noindex: true
 ---
 
 <div class="article-content">

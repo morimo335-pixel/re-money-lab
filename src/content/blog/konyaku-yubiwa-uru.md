@@ -364,6 +364,13 @@ H2-5：婚約破棄の指輪はどこで売る？3社の使い分け
 <h3>① ブランドオフ宅配買取｜カルティエ・ティファニーに強い</h3>
 <p>アジア圏に自社の販売網を持っていて、円安のときは海外の買い手が付くぶん査定額が伸びます。<strong>キャンセルしたときの返送料も無料</strong>なので、まず金額だけ知りたい方にも向いています。</p>
 
+<p>ブランドオフの口コミと、申し込む前に知っておきたい注意点はこちらです。</p>
+
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<a href="/brandoff-evaluation/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 ブランドオフの買取評判は？口コミと現役査定員が見た注意点3つ →</a>
+</div>
+
 <p>デメリットを先に言うと、<strong>宅配なので手元に戻るまで数日かかります。</strong>その日のうちに現金化したい方には向きません。ただ、その分だけ落ち着いて考える時間ができる、という見方もできます。</p>
 
 <!-- A8カード フル：ブランドオフ -->
@@ -379,6 +386,13 @@ H2-5：婚約破棄の指輪はどこで売る？3社の使い分け
 
 <h3>② コメ兵 店頭買取｜ダイヤの評価を細かく見てほしいとき</h3>
 <p>東証に上場している老舗で、年間140万件の成約データをもとに査定します。<strong>大粒の天然ダイヤを正当に評価してほしい</strong>、<strong>査定の根拠を説明してほしい</strong>という方に向いています。</p>
+
+<p>コメ兵で値段が付きやすい品・付きにくい品は、こちらにまとめています。</p>
+
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<a href="/komehyo-evaluation/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 コメ兵の買取は安い？現役査定員が教える安い品4つ・高い品3つ →</a>
+</div>
 
 <p>こちらのデメリットは<strong>店舗に行く必要があること。</strong>近くに店舗がない方には手間です。ただ、その場で説明を聞きながら決められるので、納得して手放したい方にはこちらの方が合います。</p>
 

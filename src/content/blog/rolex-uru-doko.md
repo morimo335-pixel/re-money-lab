@@ -5,7 +5,7 @@ pubDate: '2026-05-11'
 updatedDate: '2026-07-23'
 heroImage: '../../assets/blog/rolex-uru-doko.jpg'
 related:
-  - rolex-uri-doki
+  - laquda-evaluation
   - katami-tokei-uru-doko
   - koukyu-tokei-nisemono-mikiwakekata
   - konyaku-yubiwa-uru
@@ -218,7 +218,7 @@ H2-2：売る前に確認したい4つのこと
 <!-- ============================================================
 H2-3：相場を見るときの注意点
 ============================================================ -->
-<h2>相場を見るときの注意点</h2>
+<h2>相場と売り時の見方｜「季節×為替」で見極める</h2>
 
 <div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:15px 20px;margin:20px 0;border-radius:4px;">
 <p style="margin:0 0 8px 0;"><strong style="color:#C8923A;">💡 解決策（結論）</strong></p>
@@ -226,6 +226,7 @@ H2-3：相場を見るときの注意点
 <li>✅ 型番・状態・付属品・確認日が書かれていない金額は、参考程度に留める</li>
 <li>✅ 他人の買取実績を、自分の1本にそのまま当てはめない</li>
 <li>✅ 最終的な相場は、実物を見てもらった複数社の数字で確かめる</li>
+<li>✅ 売り時は「需要期（3・6・12月）×円安」が重なる局面が狙い目</li>
 </ul>
 </div>
 
@@ -260,6 +261,45 @@ H2-3：相場を見るときの注意点
 <p>各社が載せている買取実績は、その1本についての実際の金額です。ただし、その1本がどんな状態で、何が揃っていたかまでは分からないことが多い。同じ型番でも、ご自身の時計が同じ金額になるとは限りません。</p>
 
 <p>結局のところ、いちばん確かな相場は、<strong>ご自身の時計を実際に見てもらって出てきた複数社の数字</strong>です。ネットの数字は「だいたいこのくらいの世界か」を掴むまでにして、そこから先は実物を見てもらった方が早いです。</p>
+
+<h3 id="uridoki">売り時は「季節×為替」の掛け算で見る</h3>
+
+<p>「いつ売るのが得か」を決めるのは、昔は季節需要でしたが、いまは<strong>為替（円安・円高）の影響がとても大きい</strong>。だから売り時は<strong>「季節 × 為替」の掛け算</strong>で見るのが正解です。</p>
+
+<p>ちなみにロレックスは<strong>2026年1月にも正規店で定価改定（値上げ）</strong>が行われました。定価が上がると新品が買いにくくなり、中古の割安感が強まるため、<strong>相場全体が底上げ</strong>されやすくなります。そこに歴史的な円安も重なっている2026年は、売り手にとって追い風の局面と言えます。</p>
+
+<!-- 視覚要素①：売り時の見極め表 -->
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="border-collapse:collapse;width:100%;font-size:0.88em;">
+<thead>
+<tr style="background:#3E2723;color:#fff;">
+<th style="padding:10px;border:1px solid #ccc;text-align:left;">見るポイント</th>
+<th style="padding:10px;border:1px solid #ccc;text-align:left;">高く売りやすい</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:10px;border:1px solid #ccc;"><strong>季節（需要期）</strong></td>
+<td style="padding:10px;border:1px solid #ccc;">3月（新生活・異動）／6月・12月（ボーナス）に買取が強まりやすい</td>
+</tr>
+<tr style="background:#EFE9E6;">
+<td style="padding:10px;border:1px solid #ccc;"><strong>為替</strong></td>
+<td style="padding:10px;border:1px solid #ccc;"><strong>円安</strong>のとき。海外輸出需要で買取店も強気（円高は下落）</td>
+</tr>
+<tr>
+<td style="padding:10px;border:1px solid #ccc;"><strong>モデル別</strong></td>
+<td style="padding:10px;border:1px solid #ccc;">モデルによってピークが違う（例：サブマリーナは供給が増える前の<strong>夏前頃</strong>が狙い目とされる）。投機で高騰中のモデルは過熱の今が売り時</td>
+</tr>
+<tr style="background:#EFE9E6;">
+<td style="padding:10px;border:1px solid #ccc;"><strong>定価改定の直後</strong></td>
+<td style="padding:10px;border:1px solid #ccc;">2026年1月の値上げ後は、中古の割安感で相場が底上げされやすい</td>
+</tr>
+</tbody>
+</table>
+<p style="margin:6px 0 0 0;font-size:0.82em;color:#888;">※相場は状況で変動します。正確な現在地は無料査定でご確認ください。</p>
+</div>
+
+<p>ポイントは、<strong>「3月だから」だけで判断しない</strong>こと。需要期でも円高に振れていれば相場は落ちますし、逆に閑散期の夏でも大幅な円安なら高く売れます。とはいえ、為替を読み切るのはプロでも難しい。だから現実的なのは、<strong>「まず今の現在地を知って、急がず納得して売る」</strong>こと。LINEや写真の査定は"上限値"にすぎないので、<strong>2〜3社で実際の評価額を比べる</strong>のが、売り時を逃さない一番確実な方法です。</p>
 
 <hr />
 
@@ -531,7 +571,7 @@ H2-7：まとめ
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
 <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-<p style="margin:0;"><a href="https://re-money-lab.com/rolex-uri-doki/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">ロレックスの売り時はいつ？高く売るタイミングと査定前のNG行動</a></p>
+<p style="margin:0;"><a href="#uridoki" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">この記事内：ロレックスの売り時は「季節×為替」で見極める ↑</a></p>
 <p style="margin:10px 0 0;"><a href="https://re-money-lab.com/koukyu-tokei-nisemono-mikiwakekata/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">本物か分からない…高級時計を自分で見分ける前に読む安全な売り方</a></p>
 </div>
 

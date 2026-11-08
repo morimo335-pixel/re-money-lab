@@ -5,7 +5,6 @@ pubDate: '2026-06-04'
 heroImage: '../../assets/blog/shucchou-kaitori-yobu-mae.jpg'
 related:
   - fukuchan-shucchou-kaitori
-  - ng-actions-5
   - raise-appraisal
   - takuhai-kaitori-trouble
   - jikka-seiri-shucchou-kaitori
@@ -69,7 +68,7 @@ related:
 <p style="margin:0 0 10px 0;font-weight:bold;color:#1E3A5F;font-size:0.98em;">▶ あわせて読みたい（呼ぶ前に知っておきたい）</p>
 <ul style="margin:0;padding-left:1.3em;line-height:2;">
 <li><a href="/raise-appraisal/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">買取査定額を上げるコツ7選｜買取営業8年が教える準備術</a></li>
-<li><a href="/ng-actions-5/" style="color:#1E3A5F;font-weight:600;text-decoration:none;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></li>
+<li><a href="#oshigai" style="color:#1E3A5F;font-weight:600;text-decoration:none;">この記事内：押し買いに遭いやすい人の5つの特徴と自衛チェックリスト ↓</a></li>
 </ul>
 </div>
 
@@ -281,6 +280,36 @@ related:
 <p>撃退法はシンプルです。<strong>① 頼んでいない飛び込み訪問はドアを開けない</strong>——インターホンやチェーン越しに「お断りします」でOK（頼んでいない訪問勧誘自体が法律違反です）。<strong>② 「見るだけ」「金がないか確認だけ」も拒否</strong>——「ここにはありません」と一貫して、物を見せない・触らせない。<strong>③ 居座られたら</strong>——「退去してください。帰らないなら不退去罪で警察を呼びます」と告げ、迷わず<strong>110番</strong>。</p>
 
 <p style="font-size:0.86em;color:#555;background:#E1F5FE;border-left:3px solid #0277BD;padding:8px 12px;">💬 不安が残ったら、消費者ホットライン<strong>「188（いやや）」</strong>へ。最寄りの消費生活センターにつながり、クーリングオフのやり方や対処を無料で相談できます。緊急でない防犯相談は警察の<strong>「#9110」</strong>も使えます。</p>
+
+<h3 id="oshigai">押し買いに遭いやすい人の5つの特徴</h3>
+
+<p>押し買いの被害は、断り方を知らない方に集中します。<br>次の5つに1つでも当てはまったら、要注意です。</p>
+
+<ol>
+<li><strong>「今すぐ決めて」と急かされると断れない</strong><br>業者が急かすのは、考える時間を与えると断られるからです。「家族と相談します」で十分です。</li>
+<li><strong>査定額の内訳を聞かずに承諾してしまう</strong><br>「なぜこの金額なのか」を聞かれると、根拠のない業者は答えられません。</li>
+<li><strong>古物商許可証を確認しない</strong><br>正規の業者は、許可番号を必ず示せます。見せられない業者とは取引しないでください。</li>
+<li><strong>クーリングオフ（8日間）を知らない</strong><br>訪問買取は、書面を受け取ってから8日間は契約を取り消せます。その間は品物の引き渡しも拒めます。</li>
+<li><strong>契約書を読まずにサインしてしまう</strong><br>読む時間をもらうのは、売る側の当然の権利です。5〜10分もらって、落ち着いて目を通してください。</li>
+</ol>
+
+<h3>玄関に貼れる「押し買い」自衛チェックリスト</h3>
+
+<div style="background:#FFF8E1;border-left:4px solid #C8923A;padding:18px 22px;margin:24px 0;border-radius:4px;">
+<p style="margin:0 0 8px 0;"><strong style="color:#C8923A;">📋 取引の前に、全部チェック</strong></p>
+<ul style="margin:0;padding-left:1.4em;line-height:1.9;list-style:none;">
+<li>☐ アポなしの訪問は、玄関で断る</li>
+<li>☐ 古物商許可証を確認する（見せない業者とは契約しない）</li>
+<li>☐ 契約書を読む時間を5〜10分もらう</li>
+<li>☐ 査定額の内訳を聞く</li>
+<li>☐ 他社2〜3社と比べる</li>
+<li>☐ 契約書にクーリングオフ（8日間）が書かれているか確認する</li>
+<li>☐ できれば家族や友人に同席してもらう</li>
+<li>☐ 頼んでいない貴金属は、査定員に見せない</li>
+<li>☐ 査定のあと、その場で品物を渡さない</li>
+<li>☐ 困ったら「188（いやや）」に電話する</li>
+</ul>
+</div>
 
 <!-- ===== ▶ あわせて読みたい（H2-5末・店舗買取/不用品へ・A8とは離す） ===== -->
 <div style="background:#E3F2FD;border:3px solid #1E3A5F;border-radius:8px;padding:16px 20px;margin:24px 0;">

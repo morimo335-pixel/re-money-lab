@@ -9,6 +9,7 @@ related:
   - brandoff-evaluation
   - ng-actions-5
   - louis-vuitton-kaitori-tokyo
+noindex: true
 ---
 
 <div class="article-content">

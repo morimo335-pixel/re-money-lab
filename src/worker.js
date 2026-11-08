@@ -35,6 +35,13 @@ const PATH_REDIRECTS = {
   // カテゴリーアーカイブ → 記事一覧へ
   '/category/basics/': '/blog/',
   '/category/uncategorized/': '/blog/',
+  // 2026-11 記事統合（記事ファイルは残す・転送で統合先へ）
+  '/rolex-uri-doki/': '/rolex-uru-doko/',
+  '/rolex-uri-doki': '/rolex-uru-doko/',
+  '/ihinseiri-mitsumori-hikaku/': '/ihinseiri-trouble/',
+  '/ihinseiri-mitsumori-hikaku': '/ihinseiri-trouble/',
+  '/ng-actions-5/': '/shucchou-kaitori-yobu-mae/',
+  '/ng-actions-5': '/shucchou-kaitori-yobu-mae/',
 };
 
 // 完全廃止パス（410 Gone：Googleに「永久に消えた」と通知）

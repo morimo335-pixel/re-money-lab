@@ -9,6 +9,7 @@ related:
   - jikka-seiri-kyodai-momeru
   - jikka-jimai-kanto-deguchi
   - oya-shukatsu-yarukoto
+noindex: true
 ---
 
 <div class="article-content">
