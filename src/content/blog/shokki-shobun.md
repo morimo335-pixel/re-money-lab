@@ -5,7 +5,7 @@ pubDate: '2026-05-06'
 heroImage: '../../assets/blog/shokki-shobun.jpg'
 related:
   - fukuchan-shucchou-kaitori
-  - ng-actions-5
+  - shucchou-kaitori-yobu-mae
   - furui-record-shobun
   - sell-unwanted-items
   - raise-appraisal
@@ -358,7 +358,7 @@ related:
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a>
+<a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a>
 </div>
 
 <!-- ===== H2-8：業界人コラム（1記事1焦点ルール・後半圧縮）===== -->

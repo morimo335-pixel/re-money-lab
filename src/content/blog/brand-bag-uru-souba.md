@@ -7,7 +7,7 @@ related:
   - sell-unwanted-items
   - komehyo-evaluation
   - brandoff-evaluation
-  - ng-actions-5
+  - shucchou-kaitori-yobu-mae
   - louis-vuitton-kaitori-tokyo
 noindex: true
 ---
@@ -504,7 +504,7 @@ noindex: true
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="https://re-money-lab.com/ng-actions-5/">【完全保存版】押し買いを防ぐ絶対NG行動5選｜買取営業8年が教える自衛術</a>
+<a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai">【完全保存版】押し買いを防ぐ絶対NG行動5選｜買取営業8年が教える自衛術</a>
 </div>
 
 <h3>⚠️ クーリングオフ制度を覚えておく</h3>
@@ -556,7 +556,7 @@ noindex: true
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:14px 0;border-radius:4px;">▶ <a href="https://re-money-lab.com/sell-unwanted-items/">手放す前に知っておきたい！自宅の不用品を高く売る5つの方法</a></div>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:14px 0;border-radius:4px;">▶ <a href="https://re-money-lab.com/brandoff-evaluation/">【完全レビュー】ブランドオフ買取の評判は？</a></div>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:14px 0;border-radius:4px;">▶ <a href="https://re-money-lab.com/komehyo-evaluation/">【完全レビュー】コメ兵買取の評判は？</a></div>
-<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:14px 0;border-radius:4px;">▶ <a href="https://re-money-lab.com/ng-actions-5/">【完全保存版】押し買いを防ぐ絶対NG行動5選</a></div>
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:14px 0;border-radius:4px;">▶ <a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai">【完全保存版】押し買いを防ぐ絶対NG行動5選</a></div>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:14px 0;border-radius:4px;">▶ <a href="https://re-money-lab.com/mercari-fuku-urenai/">メルカリで服が売れない理由と業者買取への切り替え判断基準</a></div>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:14px 0;border-radius:4px;">▶ <a href="https://re-money-lab.com/brand-fuku-takaku-uru-kotsu/">ブランド服を高く売るコツ｜業者・フリマ・リサイクル別の最適解</a></div>
 

@@ -9,7 +9,7 @@ related:
   - ihinseiri-kyoto-souba
   - ihinseiri-gyousha-hikaku
   - jikka-kottou-uru
-  - ng-actions-5
+  - shucchou-kaitori-yobu-mae
 ---
 
 <div class="article-content">
@@ -281,7 +281,7 @@ related:
 <li><strong>現地見積もり＋書面を出すか</strong>：即決を迫る・書面を出さない業者は避ける。不安なら消費者ホットライン<strong>188</strong>、神戸市消費生活センター（078-371-1221）へ。</li>
 </ul>
 
-<p>「強引に契約させられそう」「お宝だけ抜かれそう」と感じる場面の自衛は、<a href="/ng-actions-5/" style="color:#15607A;font-weight:600;">押し買いに遭いやすい人の特徴と自衛術</a>も参考にしてください。なお見積もりだけのつもりが自宅でその場契約を迫られた場合は、<strong>書面を受け取った日から8日以内ならクーリングオフ</strong>できる可能性があります（業者の「特約サイン」は無効）。<strong>当日の流れ・女性1人での安全対策・上手な断り方</strong>は、<a href="/shucchou-kaitori-yobu-mae/" style="color:#15607A;font-weight:600;">出張買取を呼ぶ前にやること</a>に詳しくまとめています。</p>
+<p>「強引に契約させられそう」「お宝だけ抜かれそう」と感じる場面の自衛は、<a href="/shucchou-kaitori-yobu-mae/#oshigai" style="color:#15607A;font-weight:600;">押し買いに遭いやすい人の特徴と自衛術</a>も参考にしてください。なお見積もりだけのつもりが自宅でその場契約を迫られた場合は、<strong>書面を受け取った日から8日以内ならクーリングオフ</strong>できる可能性があります（業者の「特約サイン」は無効）。<strong>当日の流れ・女性1人での安全対策・上手な断り方</strong>は、<a href="/shucchou-kaitori-yobu-mae/" style="color:#15607A;font-weight:600;">出張買取を呼ぶ前にやること</a>に詳しくまとめています。</p>
 
 <!-- ===== ▶ あわせて読みたい（H2-4末・トラブル/骨董へ・A8とは離す） ===== -->
 <div style="background:#E3F2FD;border:3px solid #1E3A5F;border-radius:8px;padding:16px 20px;margin:24px 0;">

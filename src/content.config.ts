@@ -18,6 +18,8 @@ const blog = defineCollection({
 			// true にすると検索エンジンのインデックスから外す（URL・内部リンクは生きたまま）
 			// 用途＝表示が伸びない低品質記事をサイト評価から切り離す。戻す時はこの行を消すだけ
 			noindex: z.boolean().optional(),
+			// 統合済みの記事に統合先slugを書く。一覧・RSSから外す（URLは worker.js で統合先へ301転送・記事ファイルは残す）
+			mergedInto: z.string().optional(),
 		}),
 });
 

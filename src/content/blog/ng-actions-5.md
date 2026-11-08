@@ -9,6 +9,7 @@ related:
   - raise-appraisal
   - ihinseiri-trouble
   - laquda-evaluation
+mergedInto: shucchou-kaitori-yobu-mae
 ---
 
 <div class="article-content">

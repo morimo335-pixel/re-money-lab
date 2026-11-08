@@ -9,7 +9,7 @@ related:
   - mercari-fuku-urenai
   - komehyo-evaluation
   - brandoff-evaluation
-  - ng-actions-5
+  - shucchou-kaitori-yobu-mae
 ---
 
 <div class="article-content">
@@ -244,7 +244,7 @@ related:
 <p>業界8年の経験から断言しますが、<strong>透明性の高い業者は「なぜこの金額なのか」を必ず説明できます</strong>。逆に説明を渋る業者は、何かしら買い叩こうとしているサインです。</p>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<p><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a>
+<p><a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a>
 </div>
 <hr>
 <h2>まとめ：ブランド服は「売り方」で価値が変わる</h2>

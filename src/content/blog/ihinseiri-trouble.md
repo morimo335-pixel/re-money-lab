@@ -115,7 +115,7 @@ related:
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a>
+<a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a>
 </div>
 
 <h2>なぜ遺品整理はトラブルが多発するのか｜業界の構造的な問題</h2>
@@ -315,7 +315,7 @@ related:
 <h2>遺品整理の費用相場と見積書の内訳｜「2倍差」を見抜く</h2>
 <div style="background:#FFF8E1;border-left:5px solid #C8923A;border-radius:0 8px 8px 0;padding:16px 22px;margin:24px 0;color:#3E2723;line-height:1.85;">
 <strong style="color:#C8923A;font-size:1.05em;">💡 結論</strong><br>
-費用は「部屋の広さ×物量」で決まります。1Rで3〜8万円、3LDKで20〜50万円が目安。これを大きく外れる見積もりは即警戒してください。
+費用は「部屋の広さ×物量」で決まります。目安は1Kで2.5万円〜、3LDKで14万円〜で、物が多いほど上がります。下の表より極端に安い見積もりは、あとから追加請求される可能性があるので警戒してください。
 </div>
 
 <p>悪質業者を避けるためには、相場を知ることが何より大切です。間取り別の費用相場をまとめました。</p>
@@ -531,7 +531,7 @@ related:
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></p>
 </div>
 
 <!-- ===== 内部リンクカード ===== -->

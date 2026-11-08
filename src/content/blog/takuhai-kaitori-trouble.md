@@ -4,7 +4,7 @@ description: '宅配買取は危険？買取8年が業界の裏側から「安�
 pubDate: '2026-04-29'
 heroImage: '../../assets/blog/takuhai-kaitori-trouble.jpg'
 related:
-  - ng-actions-5
+  - shucchou-kaitori-yobu-mae
   - raise-appraisal
   - kimono-kaitori-koukai
   - brandoff-evaluation
@@ -133,7 +133,7 @@ related:
 <p>特定商取引法で<strong>不招請勧誘</strong>は禁止されていますが、業者は巧妙な言い訳で侵入を試みます。</p>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<p><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a>
+<p><a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a>
 </div>
 <hr />
 <h2>元営業が教える「絶対回避5ステップ」</h2>
@@ -304,7 +304,7 @@ related:
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></p>
 </div>
 
 

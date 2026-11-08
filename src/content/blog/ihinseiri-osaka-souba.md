@@ -9,7 +9,7 @@ related:
   - jikka-seiri-shucchou-kaitori
   - souzoku-jikka-uru-mae-ni
   - jikka-kottou-uru
-  - ng-actions-5
+  - shucchou-kaitori-yobu-mae
 ---
 
 <div class="article-content">
@@ -201,7 +201,7 @@ related:
 <li><strong>「無料回収」「一括買取だから許可不要」は危険信号</strong>：価値のないゴミまで「買い取る」と称して無許可で運ぶのは法律違反。回収後の高額請求や不法投棄に直結します。</li>
 </ul>
 
-<p>「強引に契約させられそう」「家に上がられて怖い」と感じる場面は、遺品整理にもつきものです。訪問してくる業者への向き合い方は、<a href="/ng-actions-5/" style="color:#1F3A5F;font-weight:600;">押し買いに遭いやすい人の特徴と自衛術</a>も参考にしてください。</p>
+<p>「強引に契約させられそう」「家に上がられて怖い」と感じる場面は、遺品整理にもつきものです。訪問してくる業者への向き合い方は、<a href="/shucchou-kaitori-yobu-mae/#oshigai" style="color:#1F3A5F;font-weight:600;">押し買いに遭いやすい人の特徴と自衛術</a>も参考にしてください。</p>
 
 <!-- ===== ▶ あわせて読みたい（H2-3末・トラブル/相続へ・A8とは離す） ===== -->
 <div style="background:#E3F2FD;border:3px solid #1E3A5F;border-radius:8px;padding:16px 20px;margin:24px 0;">

@@ -9,7 +9,7 @@ related:
   - raise-appraisal
   - furui-record-shobun
   - omocha-kaitori-souba
-  - ng-actions-5
+  - shucchou-kaitori-yobu-mae
 ---
 
 <div class="article-content">
@@ -443,7 +443,7 @@ H2-6：買取トラブル回避5項目
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a></p>
+<p style="margin:0;"><a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術 →</a></p>
 </div>
 
 <hr />

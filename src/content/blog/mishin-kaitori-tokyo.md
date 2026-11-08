@@ -8,7 +8,7 @@ related:
   - ihinseiri-trouble
   - sell-unwanted-items
   - piano-kaitori-tokyo
-  - ng-actions-5
+  - shucchou-kaitori-yobu-mae
 ---
 
 <div class="article-content">
@@ -254,7 +254,7 @@ H2-4：出張買取は怖い？不安解消
 <div style="background:#E3F2FD;border:1px solid #1E3A5F;border-radius:8px;padding:18px 22px;margin:24px 0;">
 <p style="margin:0 0 8px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい：買取トラブルを避けたい方へ</p>
 <ul style="margin:0;padding-left:1.5em;">
-<li><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:underline;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></li>
+<li><a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai" style="color:#1E3A5F;text-decoration:underline;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></li>
 <li><a href="https://re-money-lab.com/takuhai-kaitori-trouble/" style="color:#1E3A5F;text-decoration:underline;">宅配買取は危険？買取8年が暴くトラブル5選と回避術</a></li>
 </ul>
 </div>

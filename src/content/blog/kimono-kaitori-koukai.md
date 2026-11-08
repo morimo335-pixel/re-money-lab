@@ -5,7 +5,7 @@ pubDate: '2026-04-27'
 noindex: true  # 2026-07-30 SC実測で表示ゼロ圏→インデックス除外（戻す時はこの行を消す）
 heroImage: '../../assets/blog/kimono-kaitori-koukai.jpg'
 related:
-  - ng-actions-5
+  - shucchou-kaitori-yobu-mae
   - raise-appraisal
   - sell-unwanted-items
   - takuhai-kaitori-trouble
@@ -71,7 +71,7 @@ related:
 <p>なお、押し買いに遭いやすい人の特徴については、別記事で詳しく解説しています。事前に手口を知っておくだけで、遭遇率は大きく下がります。</p>
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;padding:14px 20px;margin:22px 0;border-radius:4px;">
 ▶ <strong>あわせて読みたい</strong><br>
-<a href="/ng-actions-5/">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a>
+<a href="/shucchou-kaitori-yobu-mae/#oshigai">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a>
 </div>
 <h3>パターン②：着物の査定が口実、本命は貴金属だった</h3>
 <p>次に多いのが、いわゆる「抱き合わせ査定」です。</p>
@@ -302,7 +302,7 @@ related:
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a></p>
 </div>
 
 <!-- ===== 内部リンクカード ===== -->

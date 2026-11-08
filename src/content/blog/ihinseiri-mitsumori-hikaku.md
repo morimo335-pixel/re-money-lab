@@ -9,6 +9,7 @@ related:
   - shucchou-kaitori-yobu-mae
   - jikka-kottou-uru
   - ng-actions-5
+mergedInto: ihinseiri-trouble
 ---
 
 <div class="article-content">

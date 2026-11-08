@@ -6,7 +6,7 @@ heroImage: '../../assets/blog/kitte-sheet-kaitori.jpg'
 related:
   - kin-kaitori-chuiten
   - ihinseiri-trouble
-  - ng-actions-5
+  - shucchou-kaitori-yobu-mae
   - furui-record-shobun
   - tetsubin-mikiwakekata
 ---
@@ -321,7 +321,7 @@ related:
 <!-- 内部リンクカード C -->
 <div style="background:#E3F2FD;border-left:4px solid #00695C;padding:15px 20px;margin:25px 0;border-radius:4px;">
   <p style="margin:0 0 6px 0;font-weight:bold;color:#1E3A5F;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a>（出張買取を依頼する前に必読）</p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai" style="color:#1E3A5F;font-weight:bold;text-decoration:none;">押し買いに遭いやすい人の5つの特徴｜買取営業8年の自衛術</a>（出張買取を依頼する前に必読）</p>
 </div>
 
 <!-- A8カード③：遺品整理110番（H2-7末尾）-->

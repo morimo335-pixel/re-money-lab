@@ -9,6 +9,7 @@ related:
   - patek-philippe-uru-doko
   - konyaku-yubiwa-uru
   - kin-kaitori-chuiten
+mergedInto: rolex-uru-doko
 ---
 
 <div class="article-content">

@@ -4,7 +4,7 @@ description: '店舗買取で買い叩かれない5つのコツを買取8年が�
 pubDate: '2026-05-12'
 heroImage: '../../assets/blog/tenpo-kaitori-kotsu.jpg'
 related:
-  - ng-actions-5
+  - shucchou-kaitori-yobu-mae
   - komehyo-umeda-kaitori
   - kin-kaitori-chuiten
   - takuhai-kaitori-trouble
@@ -95,7 +95,7 @@ H2-1：3つの買取方法の違い
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:20px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<p style="margin:0;"><a href="https://re-money-lab.com/ng-actions-5/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 訪問買取で押し買いされた時のNG行動5選｜買取8年の本音解説 →</a></p>
+<p style="margin:0;"><a href="https://re-money-lab.com/shucchou-kaitori-yobu-mae/#oshigai" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 訪問買取で押し買いされた時のNG行動5選｜買取8年の本音解説 →</a></p>
 </div>
 
 <hr />

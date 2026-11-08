@@ -9,7 +9,7 @@ related:
   - ihinseiri-gyousha-hikaku
   - jikka-kottou-uru
   - jikka-seiri-shucchou-kaitori
-  - ng-actions-5
+  - shucchou-kaitori-yobu-mae
 ---
 
 <div class="article-content">
@@ -282,7 +282,7 @@ related:
 <li><strong>現地見積もり＋書面を出すか</strong>：即決を迫る・書面を出さない業者は避ける。不安なら消費者ホットライン<strong>188</strong>へ。</li>
 </ul>
 
-<p>「強引に契約させられそう」「お宝だけ抜かれそう」と感じる場面の自衛は、<a href="/ng-actions-5/" style="color:#6A4C9C;font-weight:600;">押し買いに遭いやすい人の特徴と自衛術</a>も参考にしてください。なお自宅に呼んでその場で契約した場合は、<strong>書面を受け取った日から8日以内ならクーリングオフ</strong>が可能です（業者の「特約サイン」は無効）。</p>
+<p>「強引に契約させられそう」「お宝だけ抜かれそう」と感じる場面の自衛は、<a href="/shucchou-kaitori-yobu-mae/#oshigai" style="color:#6A4C9C;font-weight:600;">押し買いに遭いやすい人の特徴と自衛術</a>も参考にしてください。なお自宅に呼んでその場で契約した場合は、<strong>書面を受け取った日から8日以内ならクーリングオフ</strong>が可能です（業者の「特約サイン」は無効）。</p>
 
 <!-- ===== ▶ あわせて読みたい（H2-4末・トラブル/相続へ・A8とは離す） ===== -->
 <div style="background:#E3F2FD;border:3px solid #1E3A5F;border-radius:8px;padding:16px 20px;margin:24px 0;">
