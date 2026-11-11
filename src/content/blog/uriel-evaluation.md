@@ -2,6 +2,7 @@
 title: 'ウリエルの買取評判は？口コミと現役査定員が見た注意点3つ'
 description: 'ウリエルの買取評判は、口コミの数が少なく、説明の丁寧さと金額で声が分かれます。出張料・査定料・キャンセル料は無料で、その場で現金払い。運営会社、注意点3つ、出張買取の流れ、福ちゃん・コメ兵との使い分けまで現役査定員が解説します。'
 pubDate: '2026-11-12'
+heroImage: '../../assets/blog/uriel-evaluation.jpg'
 related:
   - fukuchan-shucchou-kaitori
   - shucchou-kaitori-yobu-mae
