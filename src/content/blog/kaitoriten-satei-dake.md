@@ -408,6 +408,13 @@ related:
 
 <p>出張料・査定料・キャンセル料が無料の業者を選べば、あなたが払うお金はありません。</p>
 
+<p>申し込む前に、ウリエルの評判と注意点はこちらにまとめています。</p>
+
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<a href="/uriel-evaluation/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 ウリエルの買取評判は？口コミと現役査定員が見た注意点3つ →</a>
+</div>
+
 <p>家に人を入れるのが不安な方は、当日の流れと断り方を先に読んでおくと落ち着いて呼べます。</p>
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">

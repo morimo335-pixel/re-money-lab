@@ -501,6 +501,13 @@ related:
 
 <p>自宅まで来てもらえるので、指輪を持ち歩かずに済みます。</p>
 
+<p>申し込む前に、ウリエルの評判と注意点はこちらにまとめています。</p>
+
+<div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+<div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
+<a href="/uriel-evaluation/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 ウリエルの買取評判は？口コミと現役査定員が見た注意点3つ →</a>
+</div>
+
 <p>他の貴金属も一緒に見てもらえます。</p>
 
 <p>義母の指輪を持って外を歩くのは、気持ちの面でも落ち着かないものです。</p>
