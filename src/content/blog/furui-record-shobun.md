@@ -255,7 +255,7 @@ H2-6：高く売れる古いレコードの特徴【元業界人視点】
 <span style="font-size:0.72em;background:rgba(255,255,255,0.2);padding:3px 10px;border-radius:12px;">PR</span>
 </div>
 <div style="padding:18px 22px;">
-<p style="margin:0 0 14px 0;color:#444;font-size:0.95em;line-height:1.7;">レコード・LP・プレーヤー周辺機器に特化した宅配買取専門の<strong>BeeRecords</strong>。音楽専門スタッフが帯・マトリクス・盤質まで踏み込んで査定します。</p>
+<p style="margin:0 0 14px 0;color:#444;font-size:0.95em;line-height:1.7;">レコード・LP・プレーヤー周辺機器に特化した宅配買取専門の<strong>BeeRecords</strong>。音楽専門スタッフが帯・マトリクス・盤質まで踏み込んで査定します。2026年11月1日からは、査定額に納得できずキャンセルした場合の返送料も無料になりました。送る送料・査定料・返送料まで、利用者の負担は0円です（査定結果が届く前に返却を頼んだ場合などは対象外）。</p>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B3JAH+EDZ5UI+2QOI+2HBG6A" rel="sponsored nofollow" target="_blank" class="gold-cta-shine" style="display:block;background:linear-gradient(135deg,#D4A574,#C8923A);color:#fff;text-align:center;padding:14px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.02em;box-shadow:0 4px 10px rgba(200,146,58,0.32);">▶ BeeRecordsの宅配買取に申し込む</a>
 <img class="a8-pixel" border="0" src="https://www18.a8.net/0.gif?a8mat=4B3JAH+EDZ5UI+2QOI+2HBG6A" alt="">
 </div>
