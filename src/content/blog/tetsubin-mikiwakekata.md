@@ -315,7 +315,7 @@ related:
 <!-- ===== 内部リンクカード ===== -->
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:20px 24px;margin:25px 0;">
   <p style="margin:0 0 8px;color:#1E3A5F;font-weight:bold;font-size:1.05em;">▶ あわせて読みたい</p>
-  <p style="margin:0;"><a href="https://re-money-lab.com/fukuchan-shucchou-kaitori/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">福ちゃん出張買取の評判｜元業界人8年が3つのお得ポイント解説</a></p>
+  <p style="margin:0;"><a href="https://re-money-lab.com/fukuchan-shucchou-kaitori/" style="color:#1E3A5F;font-weight:bold;text-decoration:none;border-bottom:1px solid #1E3A5F;">福ちゃんの買取評判は？口コミと現役査定員が見た注意点3つ</a></p>
 </div>
 
 <!-- 内部リンク水色カード（記事25・古銭処分・5/9追加） -->

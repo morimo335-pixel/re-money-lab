@@ -263,7 +263,7 @@ related:
 
 <div style="background:#E3F2FD;border-left:5px solid #1E3A5F;border-radius:6px;padding:18px 22px;margin:28px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
 <div style="font-size:12px;color:#1E3A5F;font-weight:bold;letter-spacing:0.05em;margin-bottom:8px;">▶ あわせて読みたい</div>
-<a href="https://re-money-lab.com/fukuchan-shucchou-kaitori/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 福ちゃん出張買取の評判｜元業界人8年が3つのお得ポイント解説 →</a>
+<a href="https://re-money-lab.com/fukuchan-shucchou-kaitori/" style="color:#1E3A5F;text-decoration:none;font-weight:bold;font-size:17px;line-height:1.5;display:block;">📖 福ちゃんの買取評判は？口コミと現役査定員が見た注意点3つ →</a>
 </div>
 
 <!-- ===== H2-5：寄付という選択肢 ===== -->
